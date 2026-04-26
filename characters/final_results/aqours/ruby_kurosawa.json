@@ -1,0 +1,97 @@
+{
+  "ruby_kurosawa": {
+    "color": "#ff6fbe",
+    "name": {
+      "en": "Ruby Kurosawa",
+      "ja": "黒澤ルビィ",
+      "id": "Ruby Kurosawa"
+    },
+    "desc": {
+      "en": "Ruby is Aqours' resident shy little sister — the girl who bit her own tongue during her self-intro and couldn't stop apologizing. She's had a dream of becoming a school idol since forever, but quietly buried it when Dia stopped being interested, because keeping harmony with her sister mattered more than chasing what she wanted. Deep down there's a devoted fangirl, a fiercely loyal sibling, and a whole lot of 'Ganbaruby!' determination waiting to grow.",
+      "ja": "ルビィはAqoursのおびえがちな末っ子ポジション——自己紹介で舌を噛んで、謝り続けてしまうあの子。スクールアイドルへの夢はずっと持ち続けてたけど、ダイアがその情熱を失ったとき、妹は自分の気持ちをそっと胸の中に封印した。姉との調和を守ることが、自分の「なりたい」より大事だったから。でも、その奥には献身的なアイドルオタクと、誰にも引けを取らない姉への愛と、「がんばルビィ！」の合言葉に込められた成長する力が、ちゃんと眠っている。",
+      "id": "Ruby itu adik kecil Aqours yang selalu gugup — anak yang gigit lidah sendiri waktu perkenalan dan terus-terusan minta maaf. Mimpi jadi school idol udah dia pendam lama banget, tapi diam-diam dikubur sendiri pas Dia kehilangan minat, karena menjaga keharmonisan sama kakaknya terasa lebih penting dari mengejar keinginan sendiri. Di balik semua itu ada penggemar idol yang devoted, rasa sayang ke kakak yang nggak main-main, dan tekad 'Ganbaruby!' yang lagi nunggu giliran buat mekar."
+    },
+    "mbti": {
+      "type": "ISFJ",
+      "reason": {
+        "en": "ISFJ — fan vote was decisive at 129 vs 38 ESFJ, and the text backs it up hard. The Si-Fe stack is locked in multiple ways: she suppressed her own idol dream to maintain harmony with Dia (Fe-aux choosing group peace over Fi-authentic-want — an ISFJ tell, not an ISFP one), she mirrors Hanamaru's third-person speech pattern through close-bond absorption (Fe-aux picking up bonded people's tics, same as Riko absorbing Yoshiko's 'Lili'), and her anchor is long-held shared-tradition with Dia since childhood (Si-aux preserving concrete shared history). The I is not even close — Wikipedia calls her 'shy, timid younger sister,' her self-intro is wall-to-wall anxiety, she has literal androphobia, and at series start she's only comfortable around two specific people. ESFJs initiate with others as default; Ruby actively withdraws from strangers as default. The ESFJ minority vote would require Fe-dom active initiation that simply isn't there at baseline. She grows enormously — by S2 she's co-leading the Leah collaboration and eventually being named Next Sparkling — but that's arc growth, not a type flip. Seventh ISFJ in the dataset and the most childlike one: where Riko has performance trauma and Sayaka has figure-skater discipline, Ruby has anxiety-soaked devotion and a dream she had to reclaim from herself.",
+        "ja": "タイプはISFJ——ファン投票は129対38のESFJで決定的だし、テキスト分析もそれを強く支持している。Si-Feのスタックは複数の角度から確定できる。ダイアとの調和のために自分のアイドルの夢を封印したこと（Fe補助機能が「集団の平和」を「自分の本音」より優先する——ISFJの特徴であってISFPのそれじゃない）、花丸の三人称の話し方を長い付き合いの中で自然に吸収していること（Fe補助機能が近しい人のクセを取り込む——梨子がよしこの「リリ」を吸収したのと同じパターン）、幼い頃からダイアと共有してきた具体的な記憶がアンカーになっていること（Si補助機能による「共有された歴史」の保持）。IとEの判断はそれ以上に明確で、Wikipediaでも「内気で臆病な妹」と表現され、自己紹介は不安の塊、本物の男性恐怖症まで持っていて、シリーズ開始時点では特定の二人にしか心を開けない。ESFJは他者への能動的な関わりをデフォルトのエネルギー方向にするが、ルビィは他者から距離を置くことがデフォルト。S2での成長——リアとの楽曲制作、最終的なNext Sparkling宣言——は本物だけど、それはタイプが変わったのじゃなくて弧を描いた成長。データセットで7人目のISFJであり、その中でも最も「子どもらしい」ISFJ——梨子に演奏のトラウマがあり、沙也加にフィギュアスケーターの規律があるとすれば、ルビィには不安に浸された献身と、自分の中から取り戻さなければならなかった夢がある。",
+        "id": "ISFJ — voting-nya jelas banget, 129 lawan 38 ESFJ, dan analisis teksnya juga ngedukung kuat. Stack Si-Fe-nya terkunci dari banyak arah: dia ngubur mimpi idol sendiri demi jaga harmoni sama Dia (Fe auxiliary milih ketenangan kelompok di atas keinginan asli diri sendiri — ini ciri khas ISFJ, bukan ISFP), dia menyerap kebiasaan ngomong orang ketiga punya Hanamaru lewat kedekatan panjang (Fe auxiliary nyerap tic orang-orang yang dekat dengannya — sama kayak Riko yang nyerap 'Lili'-nya Yoshiko), dan jangkarnya adalah tradisi bersama Dia yang udah terpatri sejak kecil (Si auxiliary menyimpan sejarah konkret yang dibagi bersama). Buat E vs I, nggak perlu banyak debat — Wikipedia nyebutnya 'adik perempuan yang pemalu dan penakut', perkenalan dirinya isinya kecemasan dari awal sampai akhir, dia punya androphobia beneran, dan di awal seri dia cuma nyaman sama dua orang spesifik. ESFJ itu secara default aktif ngajak ngobrol orang; Ruby secara default menghindar dari orang asing. Argumen ESFJ minta bukti Fe-dom yang aktif berinisiatif, dan itu memang nggak ada di baseline Ruby. Dia berkembang pesat — di S2 dia ikut mimpin kolaborasi bareng Leah dan akhirnya diumumin sebagai Next Sparkling — tapi itu pertumbuhan arc, bukan ganti tipe. ISFJ ketujuh di dataset dan yang paling 'kekanak-kanakan': kalau Riko punya trauma performa dan Sayaka punya disiplin ala atlet, Ruby punya devotion yang diwarnai kecemasan dan mimpi yang harus dia rebut kembali dari dirinya sendiri."
+      },
+      "traits": {
+        "E": {
+          "score": -6,
+          "reason": {
+            "en": "A strong introvert through and through. Her self-intro is basically a panic attack in real-time — biting her tongue from over-effort, babbling 'I don't know what's going on anymore,' confessing she's never spoken to a man outside her dad. She has literal androphobia, goes into panic when touched by anyone she isn't used to, and at series start is only comfortable around Dia and Hanamaru. She grows into more of a leader by S2, but the baseline energy is firmly withdrawn — same range as Hanamaru and Shiki, among the most introverted in the whole dataset.",
+            "ja": "完全な内向型。自己紹介はほぼリアルタイムのパニック——力を入れすぎて舌を噛む、「もうどうすればいいのかわかりません」とまくし立てる、お父さん以外の男性と話したことがないと告白する。本物の男性恐怖症があって、慣れていない人に触られると恐慌状態になり、シリーズ開始時点では花丸とダイアの二人にしか心を開けない。S2では成長してリーダー的な振る舞いも見せるけど、ベースラインのエネルギーは明確に引きこもり方向——花丸やシキと同じ範囲で、データセット全体でも最も内向的な部類に入る。",
+            "id": "Introvert yang beneran dalam. Perkenalan dirinya itu kayak serangan panik yang terjadi langsung — gigit lidah sendiri dari terlalu berusaha, nyerocos 'aku udah nggak ngerti lagi apa yang terjadi', mengaku belum pernah ngobrol sama laki-laki selain ayahnya. Dia punya androphobia beneran, langsung panik kalau disentuh orang yang belum dikenalnya, dan di awal seri cuma nyaman bareng Dia dan Hanamaru. Dia memang berkembang jadi lebih bisa tampil ke depan di S2, tapi energi baselinenya jelas menarik diri — setara sama Hanamaru dan Shiki, termasuk yang paling introvert di seluruh dataset."
+          }
+        },
+        "J": {
+          "score": 4,
+          "reason": {
+            "en": "Solid J under the anxiety. 'Ganbaruby!' is a perseverance mantra she actually lives by — she kept her idol passion quietly alive for years even while hiding it from Dia, and once she commits she follows through. Devoted-sister loyalty across years, methodical support roles in Aqours, all point to J. Tempered by panic-overwhelm moments (the 'Pigii!' reflex, childlike spontaneity in safe spaces) — she doesn't plan so much as persist.",
+            "ja": "不安の下に確固たるJが眠っている。「がんばルビィ！」は口だけじゃなくて、本当に体現している言葉——ダイアに隠しながらも、アイドルへの情熱を何年間も静かに抱き続けた。一度コミットしたら最後まで貫く。何年にもわたる姉への忠誠心、Aqoursでの着実なサポート役、すべてがJを指している。パニック・オーバーロード（「ぴぎっ！」反射、安全な場所での子どもっぽい自由さ）で揺らぐこともあるけど、彼女のJは「計画する」というより「諦めない」という形で現れる。",
+            "id": "J yang solid di balik semua kecemasannya. 'Ganbaruby!' bukan cuma tagline — dia beneran hidup sesuai itu. Bertahun-tahun memendam passion idol sendiri sambil tetap menjaganya tetap hidup, dan begitu dia berkomitmen, dia tuntas sampai akhir. Loyalitas ke Dia yang konsisten selama bertahun-tahun, peran support yang metodis di Aqours, semuanya nunjukin J. Tapi diimbangi sama momen overwhelm (reflek 'Pigii!', spontanitas kekanak-kanakan di tempat yang aman) — J-nya lebih berbentuk 'nggak mau nyerah' daripada 'suka bikin rencana'."
+          }
+        },
+        "T": {
+          "score": -4,
+          "reason": {
+            "en": "Strongly F, all the way. She hid her idol love from Dia not because it was strategically smart, but because Fe-harmony with her sister mattered more than Fi-authentic-want. In S2 Ep 8 she immediately switches to tough-mode the second someone criticizes Dia — pure emotional-protectiveness reflex. Her empathy for Leah's sibling dynamic (seeing her own Dia-issue mirrored and reaching across to help) is all feeling-function, no logic required. The slight buffer from max F is the Si-anchored perseverance discipline that gives her a structured surface.",
+            "ja": "強くF寄り、一貫して。ダイアからアイドルの夢を隠していたのは、戦略的に賢かったからじゃない——姉との「Fe的な調和」が、自分の本音（Fi的な欲求）より大事だったから。S2第8話では誰かがダイアを批判した瞬間に即座に闘争モードに切り替わる——純粋な感情的保護反射。リアの姉弟関係への共感（自分のダイアとの問題が鏡のように見えて、手を差し伸べる）も、全て感情機能が動いていて、論理は関係ない。最大のFに届かないのは、Si補助機能に裏打ちされた粘り強い規律が、構造的な表面を作っているから。",
+            "id": "F yang kuat, konsisten banget. Dia nyembunyiin cinta idol dari Dia bukan karena itu keputusan yang logis — tapi karena Fe-harmoni sama kakaknya terasa lebih penting dari keinginan asli dirinya sendiri (Fi). Di S2 Ep 8, dia langsung ganti mode jadi galak begitu ada yang ngritik Dia — itu refleks proteksi emosional murni. Empatinya ke dinamika saudara Leah (ngeliat masalah Dia-nya sendiri dicerminkan di sana, lalu nyamperin buat bantu) itu sepenuhnya fungsi perasaan, nggak butuh logika. Nggak nyampe F maksimum karena disiplin Si-yang-tertancap ngasih dia permukaan yang lebih terstruktur."
+          }
+        },
+        "C": {
+          "score": -7,
+          "reason": {
+            "en": "The lowest C in the dataset, tied with Kosuzu. Her self-intro is basically a masterclass in performed insecurity — stuttering, tongue-biting, 'I don't know what's going on anymore,' explicit disclosure of androphobia to a room full of strangers. She follows Dia as a decision-anchor because she can't make her own calls; she suppressed her own idol dream rather than assert it. That said, she's not rock-bottom for every dimension — she has genuine domain-confidence in idol fandom knowledge and the Kurosawa family prestige gives her a bounded floor of security.",
+            "ja": "データセット最低のCスコア（コスズと並んで-7）。自己紹介は不安の教科書——舌を噛み、「もうどうすればいいのかわかりません」と言い、見知らぬ人でいっぱいの部屋に男性恐怖症を告白する。自分で決断できないからダイアを判断のアンカーにし続け、自分のアイドルの夢を主張するより封印する道を選んだ。ただし全次元で最底辺というわけじゃない——アイドルオタクとしての知識には本物の自信があるし、黒澤家の名家としてのプレステージが、限定的ながら安心感の土台を与えている。",
+            "id": "C terendah di dataset, seri bareng Kosuzu di angka -7. Perkenalan dirinya itu hampir kayak masterclass ketidakpercayaan diri — gagap, gigit lidah, 'aku nggak ngerti lagi apa yang terjadi', dan langsung ngaku punya androphobia di depan ruangan penuh orang asing. Dia terus-terusan pakai Dia sebagai jangkar pengambilan keputusan karena dia nggak bisa mutuskan sendiri; dia kubur mimpi idolnya sendiri daripada ngomong dia mau apa. Tapi bukan berarti dia nggak punya titik aman sama sekali — ada kepercayaan diri asli di bidang pengetahuan idol fandom, dan prestise keluarga Kurosawa ngasih dia lantai rasa aman yang terbatas tapi nyata."
+          }
+        },
+        "M": {
+          "score": 2,
+          "reason": {
+            "en": "Low-moderate — the M score is about wanting, not working, and Ruby's want is genuinely personal. She secretly kept her idol dream alive for years while Dia lost interest; it was hers, not just a reaction to a friend dragging her along. But the ambition scale is small: be an idol with friends, support her sister, make something with Leah. The S2 Leah arc shows real initiative emerging, but 'empire-building' is nowhere in her vocabulary. Slightly higher than a pure catalyst-follower like Ayumu because her original want was self-originated.",
+            "ja": "低め〜中程度——MスコアはWORKじゃなくWANTの話で、ルビィのWANTは本物だし自分発信だ。ダイアが興味を失っている間も、アイドルの夢を何年も密かに生き続かせていた——友達に引っ張られたわけじゃない。でも野心のスケールは小さい: 友達と一緒にアイドルになること、姉をサポートすること、リアと何かを作ること。S2のリアとのアークでは本物の自発性が芽生えるが、「帝国を築く」なんて発想は彼女の辞書にはない。原点の夢が自分発信だった分、純粋な触媒追従型の歩夢よりわずかに高い。",
+            "id": "Rendah-sedang — skor M itu soal MAU, bukan soal kerja keras, dan keinginan Ruby itu asli milik sendiri. Dia diam-diam menjaga mimpi idolnya tetap hidup selama bertahun-tahun sementara Dia kehilangan minat — itu bukan gara-gara ditarik teman. Tapi skala ambisinya kecil: jadi idol bareng teman-teman, support kakak, bikin sesuatu bareng Leah. Arc Leah di S2 nunjukin inisiatif yang mulai muncul, tapi 'membangun kerajaan' bukan bagian dari kosakata dia. Sedikit lebih tinggi dari tipe pengikut-katalis murni kayak Ayumu karena keinginan asalnya memang lahir dari dirinya sendiri."
+          }
+        },
+        "O": {
+          "score": 1,
+          "reason": {
+            "en": "Slight positive, but it's earned resilience, not native cheerfulness. She has genuine passion for idols that keeps her moving despite the anxiety, and she bounces back from panic-moments through the people around her — Dia, Hanamaru, eventually Leah. But her default mode is fearful, she self-suppressed for years, and inferior-Ne what-if anxiety is a real presence. The arc trajectory is upward, not the starting point. Same earned-resilience cluster as Hanamaru and Riko.",
+            "ja": "わずかにプラス——ただし天然の明るさじゃなくて、積み重ねた回復力。アイドルへの本物の情熱が不安の中でも前進し続けるエンジンで、パニックからの回復は周りの人たち（ダイア、花丸、やがてリア）によって支えられている。でも、デフォルトは「怯えている」状態で、何年も自分を抑圧して、劣等Ne的な「もしも」不安も常にある。弧の軌跡は上向きだけど、出発点がそこというわけじゃない。花丸や梨子と同じ「積み重ねた回復力」クラスター。",
+            "id": "Sedikit positif, tapi ini ketahanan yang ditempa, bukan keceriaan bawaan. Ada passion asli soal idol yang bikin dia terus bergerak meski penuh kecemasan, dan dia bangkit dari momen panik lewat orang-orang di sekitarnya — Dia, Hanamaru, dan akhirnya Leah. Tapi mode default-nya itu takut, dia menekan diri sendiri bertahun-tahun, dan kecemasan 'bagaimana kalau...' ala Ne inferior itu nyata banget ada. Lintasan arc-nya naik, bukan titik mulainya. Masuk kluster 'ketahanan yang ditempa' bareng Hanamaru dan Riko."
+          }
+        },
+        "A": {
+          "score": 6,
+          "reason": {
+            "en": "High empathy, specific and deep. She defended Dia reflexively for years, hid her own idol love to protect her sister's feelings, built a genuine childhood-bond with Hanamaru that runs both ways, and accurately read Leah's Sarah-dynamic from the inside — she bridged it into Awaken the Power because she'd lived that sibling-pressure herself. Tempered by the bounded range of her warmth: she panics around strangers, so the caring doesn't broadcast widely. But within her circle it's fierce and consistent.",
+            "ja": "共感力が高い——特定の人への深い共感。ダイアを反射的に何年も守り続け、姉の感情を守るために自分のアイドルへの愛を隠し、花丸との幼馴染の絆は双方向で本物で、リアのサラとの関係を内側から正確に読み取った——自分も同じ姉妹プレッシャーを生きてきたから、それを「Awaken the Power」まで橋渡しできた。弱点は温かみの範囲が限定的なこと: 見知らぬ人の前ではパニックになるので、Fe的な暖かさが広くは届かない。でも自分の輪の中では激しくて一貫している。",
+            "id": "Empati tinggi, tapi spesifik dan dalam. Dia bela Dia secara refleks bertahun-tahun, nyembunyiin cinta idolnya sendiri buat ngelindungin perasaan kakaknya, punya ikatan masa kecil sama Hanamaru yang tulus dari dua arah, dan bisa baca dinamika Leah-Sarah dari dalam — dia menjembataninya sampai jadi Awaken the Power karena dia sendiri pernah hidup dalam tekanan saudara yang sama. Diimbangi sama jangkauan empatinya yang terbatas: dia panik di sekitar orang asing, jadi kehangatan itu nggak menyebar luas. Tapi di dalam lingkarannya, itu kuat dan konsisten."
+          }
+        },
+        "U": {
+          "score": 0,
+          "reason": {
+            "en": "Neutral. She has genuine surface quirks — the 'Pigii!' squeaking, the tongue-biting-from-over-effort, androphobia in a Japanese idol setting, can't swim despite living by the sea, the Tabasco-takoyaki incident — but most of these read as an anxiety-cluster rather than genuine eccentricity. The core personality is the shy-little-sister-with-hidden-strength archetype, executed warmly and well, but it's an archetype. Surface particularity, conventional interior.",
+            "ja": "ニュートラル。表面的なクセは本物——「ぴぎっ！」という鳴き声、力みすぎての舌噛み、日本のアイドルシーンでの男性恐怖症、海辺に住んでいるのに泳げない、タバスコのたこ焼き事件——でもこれらのほとんどは本物の独自性というよりは不安クラスターとして読める。核となる人格は「隠れた強さを持つ恥ずかしがり屋の妹」アーキタイプで、温かく上手く描かれているけど、それはアーキタイプ。表面の個性、内側は王道。",
+            "id": "Netral. Ada keunikan permukaan yang asli — suara 'Pigii!', gigit lidah karena terlalu berusaha, androphobia di setting idol Jepang, nggak bisa renang padahal tinggal di tepi laut, insiden takoyaki Tabasco — tapi kebanyakan ini lebih terbaca sebagai kluster kecemasan daripada eksentrisitas sejati. Kepribadian intinya adalah arketipe 'adik pemalu dengan kekuatan tersembunyi', dieksekusi dengan hangat dan baik, tapi itu tetap arketipe. Permukaan yang punya keunikan, interior yang konvensional."
+          }
+        },
+        "N": {
+          "score": -5,
+          "reason": {
+            "en": "Strongly S — Si-aux runs the show. Her idol passion is anchored in a concrete shared history with Dia going back to childhood, not an abstract vision of what idols could be. She learns by following and imitating rather than conceptual reflection (deferred to Dia for direction, picked up Hanamaru's third-person speech through proximity). The Leah bond formed through a concrete shared experience — both have older sisters — not abstract affinity. And inferior Ne is visible everywhere: the 'Pigii!' overwhelm response, androphobia as unfamiliar-people anxiety, panic-when-touched. Zero abstract-visionary content.",
+            "ja": "強くS寄り——Si補助機能が主役。アイドルへの情熱は、アイドルというものが将来どうなり得るかの抽象的なビジョンじゃなく、幼い頃からダイアと共有してきた具体的な歴史に根ざしている。学び方も概念的な反省じゃなく追従と模倣（ダイアに方向性を委ねる、花丸の近くにいることで三人称を吸収する）。リアとの絆は——二人ともお姉ちゃんがいるという——具体的な共通経験を通じて形成された。抽象的な親近感じゃない。劣等Ne はどこにでも見える: 「ぴぎっ！」の圧倒反応、見知らぬ人への不安としての男性恐怖症、触られたときのパニック。抽象的・ビジョナリーな内容はゼロ。",
+            "id": "S yang kuat — Si auxiliary yang pegang kendali. Passion idolnya berakar di sejarah konkret yang dibagi bareng Dia sejak kecil, bukan visi abstrak tentang apa yang bisa jadi idol. Cara belajarnya lewat ikut dan meniru, bukan refleksi konseptual (nurutin arahan Dia, nyerap gaya bicara orang ketiga Hanamaru lewat kedekatan). Ikatan sama Leah terbentuk lewat pengalaman konkret yang sama — dua-duanya punya kakak perempuan — bukan affinitas abstrak. Dan Ne inferior keliatan di mana-mana: respons kewalahan 'Pigii!', androphobia sebagai kecemasan terhadap orang asing, panik kalau disentuh. Nol konten abstrak-visioner."
+          }
+        }
+      }
+    }
+  }
+}

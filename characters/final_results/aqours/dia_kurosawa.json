@@ -1,0 +1,97 @@
+{
+  "dia_kurosawa": {
+    "color": "#db0839",
+    "name": {
+      "en": "Dia Kurosawa",
+      "ja": "黒澤ダイヤ",
+      "id": "Dia Kurosawa"
+    },
+    "desc": {
+      "en": "Dia is Uranohoshi's student council president — refined, formal, and absolutely ruthless about standards. She speaks in polished keigo, calls everyone \"-san,\" and will buzzer-correct you mid-sentence with her signature \"Buu buu desu wa!\" if you get an idol fact wrong. Behind the wall of strictness is a diehard μ's fan who literally named Aqours after the group she once belonged to — and underneath even that is someone who just really wanted to sing with her friends and couldn't handle when that fell apart.",
+      "ja": "浦の星の生徒会長にして、礼儀と完璧主義の化身。丁寧な敬語、全員に「〜さん」づけ、アイドル知識にミスがあれば間髪入れず「ブッブーですわ！」でジャッジ。そんな厳格な外見の奥にいるのは、筋金入りのμ'sオタクであり、以前自分たちが作ったグループの名前を後輩に渡した女の子——そして何より、友達と一緒に歌いたかっただけなのに、それが崩れてしまったことを引きずってきた人。",
+      "id": "Dia itu ketua OSIS Uranohoshi — rapi, formal, dan nggak kasih ampun soal standar. Ngomongnya keigo full, semua dipanggil \"-san\", dan kalau kamu salah sebut fakta soal idol, dia langsung \"Buu buu desu wa!\" tanpa nunggu kamu selesai ngomong. Di balik tembok ketatnya ada seorang fans fanatik μ's yang secara harfiah mewariskan nama \"Aqours\" dari grup lamanya ke Chika — dan di balik itu semua, ya cuma anak yang pengen nyanyi bareng teman-temannya dan nggak tahu harus gimana waktu itu hancur."
+    },
+    "mbti": {
+      "type": "ESTJ",
+      "reason": {
+        "en": "ESTJ, and it's not close — 179 votes vs 10 ISTJ, ~95% majority. The real diagnostic question is E vs I, because the Te-Si stack is locked. Te-dom shows everywhere: she corrects for accuracy reflexively (the buzzer catchphrase isn't a role thing, she does it off-duty too), enforces rules systematically, and her default mode is outward execution — scold, command, mediate, confront. Si-aux is equally airtight: she rejected Chika's club because her own past disbandment anchored her present caution, she's a walking idol-trivia catalog who won her own quiz while judging it, and she preserved Aqours' name from the first iteration as tradition-passing. The 10 ISTJ votes have a real basis — she does have the awkward-underneath-loser quality that Reddit notes, and her formal exterior can look like ISTJ role-driven assertiveness. But the tell is her default register: Dia's baseline is loud-assertive-broadcast, not quiet-duty. She corrects people before she has any formal authority to do so. Ren (ISTJ) executes her role with reserved restraint — Dia's \"brash and melodramatic\" outbursts are externalized emotional expression, which ISTJ Te-aux doesn't do openly like this. Fi-tert seals it: the Ruby-protectiveness, the \"Don't call me Dia-san\" arc, the hidden-warmth-to-bonded-people pattern — all textbook ESTJ tsundere, cold competent exterior with specific deep care underneath. Inferior Ne shows as catastrophic what-if projections from Si-trauma-catalog (she expected Chika's club to fail exactly as hers did) and the goofy awkward-off-duty moments when the Te-structure drops. ESTJ ~85% confidence.",
+        "ja": "タイプはESTJ、しかも圧倒的な支持で決まり——投票数は179（ESTJ）対10（ISTJ）、約95%。本当に議論になるのはEかIかだけで、Te-Siスタックはほぼ確定。Te主機能はあちこちに出ている。「ブッブーですわ！」は正式な役割がなくても使う——役職ではなく、反射的な正確さへの修正衝動。ルールの体系的な執行、そして彼女のデフォルトモードは外向きの実行力（叱る、命令する、仲裁する、直対する）。Si補助機能も同じくらい確実で、かつての解散経験が現在の判断を縛っていて、自分が問題を作ったクイズで審査員として優勝するレベルのアイドル知識、そして「Aqours」という名前を前の世代から後の世代に受け渡す伝統継承。ISTJ票10票の根拠はある——Redditが指摘する「こっそりと不器用でちょっとダサい」側面や、表向きの堅い振る舞いがISTJの役割遂行に見えることも。でも決め手は彼女のデフォルトのトーン。Diaの基本は「大声で断言する」、静かな義務遂行じゃない。正式な権限がなくても人を訂正する。レン（ISTJ）が控えめに職責をこなすのに対し、Diaの「激しくてドラマチックな」感情表出は外向きの発散型——ISTJのTe補助機能はこれほど開けっぴろげには出ない。第三機能Fiが決定打。Ruby溺愛、「Diaさんって呼ばないで」回、絆を持った相手にだけ向けられる隠れた温かさ——全部ESTJ型ツンデレの教科書通り。劣等機能Neは、Si的なトラウマ記憶から最悪のシナリオを構築する傾向（千歌のクラブが自分と同じ結果になると予測した）と、Te構造が解けたときのオフモードのぎこちなさに現れている。ESTJ確度約85%。",
+        "id": "ESTJ, dan nggak tipis-tipis — 179 suara vs 10 ISTJ, sekitar 95% mayoritas. Pertanyaan diagnostik sebenarnya cuma soal E vs I, karena stack Te-Si-nya udah terkunci. Te-dom keliatan di mana-mana: dia refleks koreksi orang buat akurasi (\"Buu buu desu wa!\" bukan cuma pas lagi jabat ketua OSIS, dia lakuin ini di luar peran formalnya juga), nge-enforce aturan secara sistematis, dan mode defaultnya adalah eksekusi keluar — negur, perintah, mediasi, konfrontasi. Si-aux sama kuatnya: dia tolak klub Chika karena trauma dari pengalaman grup lamanya yang bubar langsung jadi referensi, dia adalah ensiklopedia trivia idol berjalan yang bahkan menang kuis buatannya sendiri sambil jadi juri, dan dia yang melestarikan nama Aqours dari iterasi pertama ke Chika sebagai bentuk penerusan tradisi. 10 suara ISTJ ada dasarnya — ada aspek \"canggung di bawah permukaan\" yang Reddit catat, dan eksterior formalnya bisa keliatan kayak ketegasan berbasis peran ISTJ. Tapi pembedanya ada di register defaultnya: baseline Dia itu keras-asertif-broadcast, bukan diam-diam bertugas. Dia koreksi orang bahkan sebelum punya otoritas formal untuk melakukannya. Ren (ISTJ) jalanin tugasnya dengan tenang dan terkendali — ledakan \"brash dan dramatis\" Dia adalah ekspresi emosional yang dieksternalisasi, yang ISTJ dengan Te-aux nggak lakuin seperbuka ini. Fi tersier yang menyegel semuanya: protektifnya ke Ruby, arc \"Don't call me Dia-san\", pola kehangatan-tersembunyi-ke-orang-yang-dekat — ini semua buku teks ESTJ tsundere, eksterior dingin-kompeten dengan kepedulian mendalam di bawahnya untuk orang-orang tertentu. Ne inferior muncul sebagai proyeksi worst-case dari katalog trauma Si (dia expect klub Chika bakal gagal persis kayak grupnya dulu) dan momen-momen canggung-lucu pas lagi off-duty waktu struktur Te-nya turun. Confidence ESTJ sekitar 85%."
+      },
+      "traits": {
+        "E": {
+          "score": 4,
+          "reason": {
+            "en": "Extroverted with real qualifications. Her default mode is outward — she scolds, corrects, and asserts publicly, and \"Buu buu desu wa!\" is an unprompted outward correction that happens even without a formal role. But her extroversion is role-anchored, not pure social radiation — she had the hardest time connecting with the rest of Aqours early on, and the \"extraordinarily awkward... kind of a loser\" off-duty pattern shows that being-on costs her when she's not in-character. Less extroverted than a +8 or +9, but clearly extroverted by default.",
+            "ja": "外向型ではあるけど、修飾つき。デフォルトが「外に出す」モード——公の場で叱り、訂正し、断言する。「ブッブーですわ！」も正式な役職とは無関係に反射的に出る。ただし彼女の外向性は役割に紐づいていて、純粋な社交的な放射とは違う——当初Aqoursの他のメンバーと打ち解けるのが最も大変だったし、オフのときの「驚くほどぎこちない、客観的に言うとちょっとダサい」パターンは、キャラモードを外れると結構消耗することを示している。+8や+9ほど外向きじゃないけど、デフォルトは明らかに外向き。",
+            "id": "Ekstrovert, tapi dengan catatan. Mode default-nya adalah keluar — negur, koreksi, dan tegasin hal di depan umum, dan \"Buu buu desu wa!\" tuh muncul tanpa diminta bahkan tanpa peran formal. Tapi ekstroversinya ini terikat ke peran, bukan pancaran sosial murni — dia yang paling susah nyambung sama anggota Aqours lain di awal, dan pola \"extraordinarily awkward... semacam loser\" pas off-duty nunjukkin kalau \"mode on\" itu nguras tenaga waktu dia lagi nggak dalam karakter. Nggak se-ekstrovert +8 atau +9, tapi defaultnya jelas ekstrovert."
+          }
+        },
+        "J": {
+          "score": 7,
+          "reason": {
+            "en": "Very high J. Strict, hardworking, perfectionist — she dislikes sloppiness in all its forms, obsesses over kanji readings, and has been student council president through years of sustained responsibility. The Kurosawa family formal etiquette is baked into her bones. Not a max because she integrates genuine warmth across seasons and inferior Ne's goofy off-duty moments show the J-structure isn't hermetically sealed — but those are exceptions, not the rule.",
+            "ja": "非常に高いJ。厳格で、努力家で、完璧主義——漢字の読み方まで気になってしまうし、何年もの間生徒会長を務め上げている。黒澤家の礼儀作法は骨身に染みている。最大値じゃないのは、シーズンを通じて本物の温かさを統合していくし、劣等機能NeのオフモードのぎこちなさがJ構造が完全密閉じゃないことを示しているから——でもあくまで例外であって、基本じゃない。",
+            "id": "J-nya sangat tinggi. Ketat, pekerja keras, perfeksionis — dia benci segala bentuk kecerobohan, obsesi sama cara baca kanji, dan udah jadi ketua OSIS selama bertahun-tahun dengan tanggung jawab yang nggak pernah kendur. Etiket keluarga Kurosawa udah meresap sampai ke tulang. Nggak maksimum karena dia nyatuin kehangatan yang tulus seiring berjalannya musim dan momen-momen canggung lucu Ne inferior di luar peran nunjukkin kalau struktur J-nya nggak tertutup rapat-rapat — tapi itu pengecualian, bukan aturan."
+          }
+        },
+        "T": {
+          "score": 3,
+          "reason": {
+            "en": "Solid T. Te-dom utility-logic is her baseline — she corrects for accuracy reflexively, advises second years to think carefully before a part-time job (pragmatic filtering, not emotional encouragement), and executes decisions with cold competence. Tempered by real Fi-tert moments: her Ruby-protectiveness is motivated by care, not calculation, and she \"becomes insecure at which side to pick\" when Kanan and Mari fight — Te-executive decisiveness collapses in emotionally loaded contexts. Solidly T, not maxed.",
+            "ja": "しっかりT。Te主機能の効用論理が基本姿勢——反射的に正確さを修正し、二年生にはアルバイト前によく考えるよう伝え（感情的な励ましじゃなく現実的な判断）、冷静な有能さで決断を実行する。ただしFi第三機能の本物の瞬間で薄まっている。Rubyへの保護欲は打算じゃなくて愛情から来ているし、KananとMariが喧嘩するとき「どちらの味方をすべきか不安になる」——感情的に負荷のかかる状況ではTe的な実行力が崩れる。T側に確実に寄っているけど最大値じゃない。",
+            "id": "T-nya solid. Te-dom berbasis logika utilitas jadi baseline-nya — refleks koreksi untuk akurasi, kasih saran ke anak kelas dua buat dipikir matang sebelum kerja paruh waktu (bukan dorongan emosional, ini filter pragmatis), dan eksekusi keputusan dengan dingin dan kompeten. Dimoderasi oleh momen Fi tersier yang nyata: protektifnya ke Ruby itu dari kepedulian, bukan kalkulasi, dan dia \"jadi nggak yakin mau pilih sibling mana\" waktu Kanan dan Mari berantem — ketegasan eksekutif Te-nya runtuh di konteks yang penuh muatan emosional. T-nya solid, nggak sampai maksimum."
+          }
+        },
+        "C": {
+          "score": 1,
+          "reason": {
+            "en": "Slight positive with real qualifications. External-authority confidence is high — she commands, scolds, and corrects without hesitation, and the prestigious Kurosawa family backing adds structural assurance. But the \"extraordinarily awkward... objectively speaking kind of a loser\" off-duty reality is real, she scratches her beauty mark when lying (anxiety tell), flashbacks show a timid Ruby-like younger self, and she \"becomes insecure at which side to pick\" during third-year conflicts. Role-driven compensatory confidence sitting over an insecure core — net slight positive through earned in-role competence.",
+            "ja": "わずかなプラス、ただし修飾つき。外向きの権威的な自信は高い——躊躇なく命令し、叱り、訂正する。黒澤家のブランドも後ろ盾になっている。でもオフのときの「驚くほどぎこちない、客観的に見てちょっとダサい」という実態は本物だし、嘘をつくときに泣きぼくろを触る癖（不安のサイン）もある。フラッシュバックではRubyに似た内気な幼少期の自分が見え、先輩三人の揉め事では「どちらの味方をすべきか不安になる」。役割によって補償された自信が、本物の不安のある核を覆っている構造。役職の中で獲得した能力を通じてわずかにプラスという評価。",
+            "id": "Positif tipis, dengan catatan nyata. Kepercayaan diri berbasis otoritas eksternal tinggi — dia perintah, tegur, dan koreksi tanpa ragu, dan nama keluarga Kurosawa kasih dukungan struktural. Tapi realita \"extraordinarily awkward... objektifnya ya semacam loser\" di luar peran itu nyata, dia garuk tanda lahirnya kalau lagi bohong (tanda kecemasan), flashback nunjukkin diri kecilnya yang penakut mirip Ruby, dan dia \"jadi nggak yakin mau milih sibling mana\" pas konflik sesama kelas tiga. Kepercayaan diri kompensatoris berbasis peran yang nutup-nutupin inti yang cukup insecure — net positif tipis melalui kompetensi yang diraih dalam peran."
+          }
+        },
+        "M": {
+          "score": 6,
+          "reason": {
+            "en": "High. She declared \"I absolutely cannot allow anything other than winning\" and framed it around Kurosawa family honor — two losses don't suit a daughter of that house. She pushes herself and everyone else relentlessly, held student council presidency through years of sustained effort, and has been a diehard fan of μ's as a sustained devotion. Not max because her ambition is duty-driven rather than self-originated competitive passion — she wants to win for the family name and for Aqours, not to build her own empire.",
+            "ja": "高い。「勝ち以外は認めない」と宣言して、それを黒澤家の名誉として位置づけた——二連敗はこの家の娘に似合わない。自分にも周りにも容赦なくプレッシャーをかけ、長年にわたって生徒会長を務め上げ、μ'sへの献身も持続的なものだった。最大値じゃないのは、彼女の野心は自分発の競争的な情熱というより義務から来ているから——家名とAqoursのために勝ちたいのであって、自分の帝国を作りたいわけじゃない。",
+            "id": "Tinggi. Dia deklarasi \"nggak akan kasih ampun kalau nggak menang\" dan framing-nya soal kehormatan keluarga Kurosawa — dua kekalahan nggak cocok buat putri keluarga itu. Dia terus-terusan push dirinya sendiri dan semua orang, pegang jabatan ketua OSIS selama bertahun-tahun, dan fans fanatik μ's dengan devotion yang bertahan lama. Nggak sampai maksimum karena ambisinya ini driven by kewajiban, bukan passion kompetitif yang lahir dari diri sendiri — dia mau menang untuk nama keluarga dan untuk Aqours, bukan untuk bangun kerajaannya sendiri."
+          }
+        },
+        "O": {
+          "score": -1,
+          "reason": {
+            "en": "Slight pessimist. She rejected Chika's club specifically because she expected demoralization — per the text, \"afraid they would be demoralized in the same fashion she was in the past.\" Past trauma projecting forward as caution is a pessimism baseline. \"Two defeats do not suit a daughter of the Kurosawa family\" frames her worldview around preventing failure, not expecting success. She grows through the arc into a more supportive mode, but the baseline is fear-anchored — inferior Ne generating negative what-if spirals from Si's trauma catalog.",
+            "ja": "わずかに悲観寄り。千歌のクラブを断ったのは、まさに失望することを予期していたから——テキストにも「かつて自分が経験したのと同じように落ち込むことを恐れた」とある。過去のトラウマが現在への警戒として投影される構造は悲観主義のベースライン。「黒澤家の娘に二連敗は似合わない」というフレーミングも、成功を期待するより失敗を防ぐことを中心に据えた世界観を示している。物語を通じてより支援的な姿勢に成長するけど、基本は恐れに根づいている——Siのトラウマカタログから、劣等機能Neが最悪のシナリオを想像してしまうパターン。",
+            "id": "Sedikit pesimis. Dia tolak klub Chika spesifik karena mengharapkan keputusasaan terjadi — dari teks aslinya, \"takut mereka bakal drop semangat dengan cara yang sama kayak yang pernah dia alami dulu.\" Trauma masa lalu yang diproyeksikan ke depan sebagai kehati-hatian itu adalah baseline pesimisme. \"Dua kekalahan nggak cocok buat putri keluarga Kurosawa\" framing dunianya soal mencegah kegagalan, bukan mengharapkan kesuksesan. Dia berkembang sepanjang arc jadi lebih suportif, tapi baseline-nya tetap berbasis ketakutan — Ne inferior yang generate spiral what-if negatif dari katalog trauma Si."
+          }
+        },
+        "A": {
+          "score": 3,
+          "reason": {
+            "en": "Moderate positive. Tsundere-caring-underneath is her signature — genuinely kind deep down, extremely protective of Ruby, wants \"nothing less than total success for Aqours\" out of real care. Behind-the-scenes enabling moments seal it: she secretly wrote \"Aqours\" in the sand as a gift of the name, turned on the power generator during the blackout. Tempered by strict harsh delivery, initial difficulty connecting with the second years, and imposing her own trauma on Ruby. Warm underneath, cold on the surface — Te-Fi tsundere.",
+            "ja": "中程度のプラス。「ツンデレ型の根底にある優しさ」が彼女のシグネチャー——心の奥では本当に優しく、Rubyのことは極めて強く守り、「Aqoursに最高の結果以外は認めない」という気持ちも本物の愛情から来ている。こっそり「Aqours」と砂浜に書いてグループへの名前を贈ったり、停電時に発電機をこっそり動かしたりした場面がそれを物語る。厳しい表現方法、最初は二年生と打ち解けられなかったこと、Rubyへのトラウマ投影で薄まってはいる。でも根底は温かく、表面は冷たい——Te-Fiのツンデレ構造。",
+            "id": "Moderat positif. Pola tsundere-peduli-di-dalam itu ciri khasnya — di dalam hati beneran baik, sangat protektif ke Ruby, dan mau \"nggak ada yang kurang dari sukses total buat Aqours\" itu dari kepedulian yang tulus. Momen enabling di balik layar yang nyata: dia diam-diam nulis \"Aqours\" di pasir sebagai hadiah nama, dan nyalain generator listrik pas mati lampu. Dimoderasi oleh cara penyampaian yang ketat dan keras, kesulitan awal nyambung ke anak kelas dua, dan memproyeksikan traumanya sendiri ke Ruby. Hangat di dalam, dingin di permukaan — tsundere Te-Fi."
+          }
+        },
+        "U": {
+          "score": 1,
+          "reason": {
+            "en": "Mild positive. The external specifics are genuinely unusual: Kurosawa family breadth (fishing management, real estate, entertainment, human resources, restaurants), hime-cut with beauty mark plus formal desu-wa speech combo, the buzzer-catchphrase as unprompted correction mode, beauty-mark-scratching-when-lying tell, and the diehard-μ's-fan-hiding-under-strict-president gap. But the core personality is classic tsundere-class-president archetype executed well. External specifics push it to a mild positive; the interior is conventional.",
+            "ja": "わずかにプラス。外面的な特異性は本物で珍しい——黒澤家の多角的事業展開（漁業経営・不動産・エンターテインメント・人材・飲食店）、泣きぼくろ×姫カット×「ですわ」口調の組み合わせ、役職なしでも出てくるブザーキャッチフレーズ、嘘をつくと泣きぼくろを触る癖、厳格な生徒会長の中に隠れたμ'sオタクというギャップ。ただ核の人格は古典的なツンデレ委員長アーキタイプをうまく実装したもの。外面的な特異性でわずかにプラスへ、内側はコンベンショナル。",
+            "id": "Positif tipis. Spesifik luarnya memang genuinely tidak biasa: keluasan usaha keluarga Kurosawa (manajemen perikanan, properti, hiburan, SDM, restoran), kombinasi hime-cut dengan tanda lahir plus gaya bicara desu-wa formal, catchphrase buzzer sebagai mode koreksi yang muncul tanpa diminta, kebiasaan garuk tanda lahir kalau lagi bohong, dan gap fans fanatik μ's yang bersembunyi di balik ketua OSIS yang ketat. Tapi kepribadian intinya adalah arketipe tsundere-ketua-kelas yang dieksekusi dengan baik. Spesifik eksternal yang dorong ke positif tipis; interiornya konvensional."
+          }
+        },
+        "N": {
+          "score": -5,
+          "reason": {
+            "en": "Strongly S. Si-aux throughout — past experience is her present-decision anchor (trauma from the first Aqours disbandment drove her caution about Chika's club), she's meticulous about details and etiquette, she carries a concrete idol-knowledge catalog deep enough to win her own quiz as judge, and she preserved tradition by passing Aqours' name forward. No abstract visionary future-projection content anywhere. Tertiary Ne shows only as awkward goofy off-duty moments and catastrophic what-if projections from Si-trauma — not forward-looking intuition, but inferior-Ne panic.",
+            "ja": "強くS寄り。全編通してSi補助機能が軸——過去経験が現在の判断の基準点（最初のAqours解散のトラウマが千歌のクラブへの警戒に直結）、細部とエチケットへの徹底したこだわり、自分が作ったクイズで審査員として優勝するレベルのアイドル知識、そして「Aqours」という名前を伝統として次に渡す行為。抽象的で未来志向のビジョン的内容はどこにもない。第三機能Neはオフのときのぎこちない変なモーメントと、Siトラウマからの最悪シナリオ想像にしか出てこない——前向きな直観じゃなく、劣等機能Neのパニックパターン。",
+            "id": "S-nya kuat. Si-aux sepanjang waktu — pengalaman masa lalu jadi jangkar keputusan masa kini (trauma dari bubarnya Aqours pertama yang dorong kehati-hatiannya soal klub Chika), detail dan etiket dijaga ketat, katalog pengetahuan idol yang cukup konkret sampai bisa menang di kuis buatannya sendiri sambil jadi juri, dan tradisi dilestarikan dengan cara meneruskan nama Aqours. Nggak ada konten proyeksi visioner abstrak yang futuristik di mana pun. Ne tersier cuma muncul sebagai momen canggung-lucu saat off-duty dan proyeksi worst-case dari trauma Si — bukan intuisi yang ngarah ke depan, tapi panik Ne inferior."
+          }
+        }
+      }
+    }
+  }
+}

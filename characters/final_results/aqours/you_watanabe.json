@@ -1,0 +1,97 @@
+{
+  "you_watanabe": {
+    "color": "#66c0ff",
+    "name": {
+      "en": "You Watanabe",
+      "ja": "渡辺曜",
+      "id": "You Watanabe"
+    },
+    "desc": {
+      "en": "You is an energetic, tomboyish childhood friend who follows Chika into the school idol world with zero hesitation — mainly because she's always wanted to do something special with her. She's a national-grade diver, a daily runner, a costume coordinator obsessed with uniforms to the point of jumping off second-floor buildings to grab one. Her catchphrase is 'Yousoro!', delivered with a sailor salute, and it fits: she charges ahead at full speed. Big emotions live inside her, but she doesn't always know how to get them out.",
+      "ja": "曜は、ほぼ迷いなしに千歌のスクールアイドル活動についていった元気なトムボーイ系幼なじみ——もとから「千歌と一緒に何か特別なことがしたかった」からこそ。全国レベルのダイバーで、毎日欠かさずトレーニングして、2階から飛び降りてでも制服を手に入れようとするほどの衣装コーディネーターでもある。「ヨーソロ！」と敬礼するキャッチフレーズが示す通り、全速前進が彼女のデフォルト。大きな感情をちゃんと持ってるんだけど、それをどう言葉にするかが、なかなか難しい。",
+      "id": "You itu teman masa kecil yang tomboy dan penuh energi — dia ngikut Chika masuk dunia school idol nyaris tanpa ragu, ya karena dari dulu dia emang udah mau melakukan sesuatu yang spesial bareng Chika. Dia penyelam tingkat nasional, rajin latihan fisik setiap hari, dan koordinator kostum yang obsesinya sama seragam sampai rela lompat dari lantai dua buat dapetin satu. Catchphrase-nya \"Yousoro!\" dikirim pakai salut ala pelaut, dan itu emang pas: dia nerjang ke depan full speed. Di dalam sana ada banyak emosi besar, tapi ngeluarinnya itu yang kadang susah."
+    },
+    "mbti": {
+      "type": "ESFP",
+      "reason": {
+        "en": "ESFP — and the fan vote is almost no contest (153 vs 12 ESFJ, ~93/7). The real diagnostic question was Se-dom vs Fe-dom, and Se wins clean. You is a physical prodigy: national-grade diving, daily muscle training and running, weather forecasting, high-diving and reverse-somersault as signature moves — Fe-doms don't build identity around kinetic craft mastery like this. 'Take action without thinking things over first' is Se impulsivity named outright in her profile. The uniform obsession is sensory-aesthetic Se engagement, not Si tradition. Jumping off buildings on impulse for a uniform isn't a deliberate-Fe-harmony move; it's unmediated Se action. The Fi-over-Fe call is equally decisive: in her focus episode, she explicitly says she wanted to do something special with Chika — not just to make Chika happy. That's Fi authentic personal want, not Fe people-pleasing. Her bottled-up jealousy arc (couldn't express it to Chika directly, Mari had to pull it out) is classic Fi protecting vulnerable feelings — Fe-doms broadcast to restore harmony, they don't quietly withdraw. Reddit nails the pattern: 'a lot of big emotions, but doesn't always know how to express them' — that's the Fi-aux articulation gap, not Fe-dom at all. She's the loyal-tomboy-childhood-friend ESFP, structurally closest to Ai Miyashita — both have native cheerful baselines and clean Se-Fi without persona construction. The key difference is that You's Fi gets stuck specifically when her bond with Chika feels threatened, whereas Ai's Fi flows with less friction.",
+        "ja": "ESFP、しかもかなり明確な多数決（ESFP 153票 vs ESFJ 12票、約93/7）。診断の核心はSe優位かFe優位かの問いで、Seが圧勝。曜は身体的なプロディジー——全国レベルのダイビング、毎日の筋トレとランニング、天気予報、バック宙を軸にした高飛び込み——Fe優位は関係的・社会的ドメインで自己を構築するのが基本で、こういう運動的な技巧の熟達に自分のアイデンティティの軸を置くことはない。「考える前に動いてしまう」というのは、そのままSeの衝動性の話。制服への執着もSiの伝統的な意味づけではなく、Se的な感覚美への没頭。衝動的に建物から飛び降りて制服をつかもうとする行動は、Feの調和的・意図的な動きではなく、まさに媒介なしのSe的行動。Fi対Feの判断も同様に明確で、フォーカスエピソードで彼女自身が「ずっと千歌と何か特別なことがしたかった」と言っている——千歌を喜ばせたいためではなく、自分がそうしたかったから、という話。それはFiによる個人的な欲求であって、Feの他者への奉仕ではない。嫉妬を千歌に直接言い出せず、マリが引き出すまで抱え込んでいたのも典型的なFiのパターン——Feは調和を回復するために感情を表に出すが、Fiは傷つきやすい感情を守るために内にしまう。Redditの言葉が的確で、「感情は大きいのに、表現の仕方がわからない」——Fi補助機能の表現のギャップであって、Fe優位の話ではない。彼女は「忠実なトムボーイ系幼なじみESFP」で、構造的には宮下愛に最も近い——どちらも作られたペルソナなしに、SeとFiがナチュラルに機能している。違いは、曜のFiは千歌との絆が脅かされる場面でとりわけ詰まってしまうこと。愛のFiはより摩擦なく流れる。",
+        "id": "ESFP — dan voting fan-nya hampir nggak ada yang bisa debat (153 ESFP vs 12 ESFJ, sekitar 93/7). Pertanyaan diagnostik yang sebenernya adalah Se-dom vs Fe-dom, dan Se menang jelas. You itu prodigy fisik: selam tingkat nasional, latihan otot dan lari tiap hari, prakiraan cuaca, high diving plus reverse somersault sebagai signature move — Fe-dom nggak bangun identitasnya di atas penguasaan kinetic craft kayak gini. \"Bertindak sebelum berpikir\" adalah ciri khas Se impulsif yang disebut langsung di profilnya. Obsesi seragam itu engagement Se ke sensasi estetis, bukan Si yang nilainya dari tradisi. Lompat dari gedung demi seragam bukan manuver Fe yang terencana; itu aksi Se tanpa mediasi. Keputusan Fi-over-Fe juga sama jelasnya: di focus episode-nya, dia tegas bilang dia mau melakukan sesuatu yang spesial bareng Chika — bukan sekadar buat bikin Chika senang. Itu Fi, keinginan yang otentik dari dirinya sendiri, bukan Fe yang pleasing orang lain. Arc cemburu yang dia simpan sendiri (nggak bisa ngomong langsung ke Chika, harus ditarik keluar sama Mari) itu Fi klasik yang proteksi perasaan rentannya — Fe-dom biasanya langsung broadcast perasaannya buat restorasi harmoni, bukan mundur diam-diam. Reddit nangkep polanya: \"emosi besar tapi nggak selalu tahu cara ngungkapinnya\" — itu Fi-aux articulation gap, bukan Fe-dom sama sekali. Dia itu ESFP versi teman masa kecil yang loyal dan tomboy, paling dekat secara struktur sama Ai Miyashita — keduanya punya baseline ceria yang native dan stack Se-Fi yang bersih tanpa lapisan persona. Bedanya, Fi You macet spesifik waktu ikatannya sama Chika terasa terancam, sedangkan Fi Ai mengalir dengan lebih sedikit gesekan."
+      },
+      "traits": {
+        "E": {
+          "score": 6,
+          "reason": {
+            "en": "Strong extrovert by default — 'energetic, tomboyish and positive,' one of Aqours' most charismatic members, broadcasts 'Yousoro!' as a universal greeting, has been glued to Chika's side since childhood. But she bottles negatives instead of broadcasting them: during the jealousy arc she withdrew and went quiet, even telling herself she'd be a burden if she stayed close. That Fi-under-stress withdrawal keeps her off the +9 pure-radiation tier.",
+            "ja": "基本的には強い外向き——「元気でさっぱりしてて前向き」で、Aqoursの中でも有数のカリスマ性を持ち、「ヨーソロ！」を挨拶替わりにばらまき、幼い頃からずっと千歌のそばにいる。ただし、ネガティブな感情は外に出さず内にためる——嫉妬のアークでは引きこもり、「自分がそばにいたら千歌のためにならない」とまで思い込んだ。このストレス下でのFi的な引きこもりが、+9の純粋放射タイプには届かない理由。",
+            "id": "Ekstrover kuat secara default — \"energik, tomboyish, dan positif\", salah satu member Aqours paling karismatik, sebar \"Yousoro!\" sebagai sapaan universal, dan sudah nempel di sisi Chika sejak kecil. Tapi hal negatif dia simpan sendiri, nggak disiarkan keluar: pas arc cemburu dia mundur dan jadi pendiam, sampai bilang ke diri sendiri bahwa dia cuma bakal jadi beban kalau tetap dekat. Pola Fi-menarik-diri-saat-stres ini yang bikin dia nggak masuk tier +9 pancaran murni."
+          }
+        },
+        "J": {
+          "score": -2,
+          "reason": {
+            "en": "Slight P. The default is action-before-deliberation — 'take action without thinking things over first' is practically her trait description, and jumping from buildings for uniforms or signing up for idol club on Chika's whim are pure Se spontaneity. Tempered by real discipline pockets: daily muscle training and running, a sustained national-grade diving career, and a structured role as the group's costume coordinator. Net slight P because the Se impulsivity overrides the discipline-domain structure as a baseline.",
+            "ja": "わずかにP寄り。基本は考える前に行動するタイプ——「考える前に動いてしまう」はほぼ彼女の性格説明そのもので、制服のために建物から飛び降りたり、千歌の思いつきでアイドル部に即参加したりはSe的な即興性そのもの。ただし実際の規律的な一面もあって、毎日の筋トレとランニング、全国レベルの長期にわたるダイビングキャリア、グループの衣装コーディネーターとしての構造的な役割がある。とはいえSe的な衝動性がデフォルトとして規律ドメインの構造を上回るので、全体ではわずかにP。",
+            "id": "Sedikit P. Default-nya adalah aksi sebelum pertimbangan — \"bertindak sebelum berpikir dulu\" itu hampir kayak deskripsi sifatnya sendiri, dan lompat dari gedung demi seragam atau daftar ke klub idol karena keinginan Chika itu spontanitas Se murni. Diimbangi sama kantong-kantong disiplin nyata: latihan otot dan lari tiap hari, karier selam tingkat nasional yang terjaga, dan peran terstruktur sebagai koordinator kostum grup. Net-nya sedikit P karena impulsivitas Se-nya menutupi struktur di domain disiplin sebagai baseline."
+          }
+        },
+        "T": {
+          "score": -3,
+          "reason": {
+            "en": "Moderate F. The jealousy arc is entirely feeling-driven — she couldn't surface those emotions until Mari pulled them out, and that's Fi protecting what's vulnerable. Dropping a national-grade diving career for the school idol path with Chika was a value-driven relational sacrifice. Reddit puts it well: 'a lot of big emotions, but doesn't always know how to express them' — that's the Fi-aux articulation gap. She's not at max F because her pragmatic-athletic side (discipline, costume execution, goal focus) gives her a T-adjacent surface that softens the affect.",
+            "ja": "中程度のF。嫉妬のアーク全体が感情ドリブン——マリに引き出されるまでその気持ちを表に出せなかったのは、傷つきやすい感情を守るFiそのもの。全国レベルのダイビングキャリアを手放してスクールアイドル活動に乗り込んだのも、価値観ベースの人間関係的な犠牲。Redditが的確に言っている通り、「大きな感情があるのに、いつも表現できるわけじゃない」——Fi補助機能の表現ギャップ。最大Fじゃないのは、実用的・運動的な側面（規律、衣装制作の実行、目標への集中）がT的な表面を持っているため、情動的な印象がやや和らいでいるから。",
+            "id": "F moderat. Arc cemburu sepenuhnya digerakkan oleh perasaan — dia nggak bisa keluarkan itu sampai Mari yang narik keluar, dan itu Fi yang proteksi hal yang rentan. Ninggalin karier selam tingkat nasional demi jalan school idol bareng Chika itu pengorbanan relasional berbasis nilai. Reddit bilang dengan pas: \"emosi gede tapi nggak selalu tahu cara ngungkapinnya\" — itu Fi-aux articulation gap. Dia nggak di max F karena sisi pragmatis-atletisnya (disiplin, eksekusi kostum, fokus ke tujuan) ngasih permukaan yang agak T, sedikit melunakin impresi F-nya."
+          }
+        },
+        "C": {
+          "score": 1,
+          "reason": {
+            "en": "Slight positive. In physical domains she's rock solid — national-grade diver, athletic prodigy, comfortable in her body, reverse somersault as her confident signature. Charismatic on the surface. But the emotional territory is where she softens: she couldn't express her jealousy without help, pulled back thinking she'd be a burden, and her self-intro ends with 'Ugh, is this really okay? It doesn't feel like an idol's self-introduction at all.' Physical confidence is real; emotional confidence has cracks.",
+            "ja": "わずかにプラス。身体的な領域では揺るぎない自信——全国レベルのダイバー、運動の天才、自分の身体に慣れ親しんでいて、バック宙がその象徴。表面的なカリスマ性もある。ただ感情的な領域では柔らかくなる——助けなしに嫉妬を表現できなかった、「傷になるかも」と思って引いた、自己紹介の締めが「うぅ、これで大丈夫？アイドルの自己紹介っぽくないけど……」。身体的な自信は本物。感情的な自信には亀裂がある。",
+            "id": "Sedikit positif. Di domain fisik dia solid banget — selam tingkat nasional, prodigy atletik, nyaman sama tubuhnya, reverse somersault sebagai signature yang pede. Permukaannya karismatik. Tapi di wilayah emosional dia melunak: nggak bisa ungkapin cemburunya sendiri tanpa bantuan, mundur karena mikir bakal jadi beban, dan self-intro-nya berakhir dengan \"Uhh, ini beneran oke? Kayaknya nggak kayak self-intro idol deh.\" Kepercayaan diri fisiknya nyata; kepercayaan diri emosionalnya ada retak-retaknya."
+          }
+        },
+        "M": {
+          "score": 3,
+          "reason": {
+            "en": "Moderate. She put a national-grade diving career on hold to follow Chika — that's a big personal-ambition deferral, but she swapped it into another ambition domain rather than just going passive. Her multi-year ferry-captain goal (following her father) is a genuine sustained personal want. She maintains excellence in everything she picks up. That said, her idol ambition is relationally-driven rather than competitive-dominance-fueled, and her core wants are mid-scale, not empire-sized — puts her around Kanan's range.",
+            "ja": "中程度。全国レベルのダイビングキャリアを一時中断して千歌についていった——これは大きな個人的な野心の棚上げだが、受動的な甘受ではなく別の野心ドメインへの移行。複数年にわたるフェリー船長という目標（父親を追うもの）は本物の持続的な個人的な望み。手をつけるものには全て高いレベルを維持する。とはいえアイドル活動への野心は競争的な優位欲求ではなく関係性ドリブンで、核となる望みも中規模——範囲としてはかなん（+3）と近い。",
+            "id": "Moderat. Dia tunda karier selam tingkat nasional buat ngikutin Chika — itu penundaan ambisi pribadi yang gede, tapi dia pindah ke domain ambisi lain daripada sekadar pasif nerima. Tujuan jadi kapten feri yang dia jaga bertahun-tahun (ngikutin bapaknya) itu keinginan pribadi yang genuine dan terjaga. Dia jaga level excellence di semua yang dia tekuni. Tapi ambisi idol-nya didorong relasi, bukan dorongan dominansi kompetitif, dan keinginan inti-nya skala menengah, bukan kelas empire — rentangnya dekat sama Kanan (+3)."
+          }
+        },
+        "O": {
+          "score": 6,
+          "reason": {
+            "en": "Strong positive. 'Energetic and positive' is her baseline, not a performance. She's described as 'very chill and a lot of fun,' bounces back from the jealousy arc through Mari and Riko's help, and keeps a supportive presence throughout the whole series. This is native optimism, not hard-won resilience — she wasn't forged by failure the way Chika was. It dips slightly because the Fi bottling-under-stress can temporarily crack that positive shell, as the jealousy arc self-effacement shows.",
+            "ja": "強い方向にプラス。「元気で前向き」は彼女のベースラインであって、演じているわけじゃない。「すごく落ち着いていて一緒にいると楽しい」と評され、マリとりこの助けで嫉妬のアークから立ち直り、シリーズ通じてサポーティブな存在感を保つ。生まれつきの楽観主義であり、千歌のように失敗を経て磨かれたものではない。ストレス下でFiが抱え込むと一時的にその前向きな殻が割れることがある（嫉妬アークの自己卑下に現れている）ため、わずかに最高値を下回る。",
+            "id": "Positif kuat. \"Energik dan positif\" itu baseline-nya, bukan pertunjukan. Dia digambarkan \"sangat chill dan seru,\" bangkit dari arc cemburu dengan bantuan Mari dan Riko, dan terus jaga kehadiran yang supportive sepanjang seri. Ini optimisme yang native, bukan ketangguhan yang ditempa kegagalan — dia nggak ditempa lewat gagal kayak Chika. Sedikit turun karena Fi yang disimpan saat stres bisa sementara retak kulit positif itu, kayak yang keliatan di self-effacement arc cemburu."
+          }
+        },
+        "A": {
+          "score": 5,
+          "reason": {
+            "en": "High empathy — but it's the deep-specific-loyalty kind, not broadcast warmth. She shelved a national-grade diving career for Chika's sake, which Reddit calls 'incredible friendship.' She eventually forms a genuine bond with Riko despite initial jealousy, and her costume-making for the group is craft-as-care. Tempered by the fact that she's Fi-bounded: when hurt she self-isolates rather than seeks resolution, which temporarily disrupts the relational flow she otherwise excels at.",
+            "ja": "共感性が高い——ただしその形は、特定の誰かへの深い忠誠であって、広く放射するタイプの温かさではない。全国レベルのダイビングキャリアを千歌のために棚上げしたことをRedditは「すごい友情」と評している。当初の嫉妬を乗り越えて最終的にりことも本物の絆を結ぶ。グループのための衣装作りもケアとしての職人仕事。一方で、傷つくと解決を求めるのではなく内にこもるFi的なパターンがあり、それが普段は得意な関係の流れを一時的に乱す。",
+            "id": "Empati tinggi — tapi bentuknya loyalitas mendalam ke orang tertentu, bukan kehangatan yang dipancarkan ke mana-mana. Dia tunda karier selam tingkat nasional demi Chika, yang Reddit sebut sebagai \"persahabatan yang luar biasa.\" Akhirnya dia juga bangun ikatan nyata sama Riko meski awalnya cemburu. Kostum yang dia buat untuk grup itu craft sebagai bentuk kepedulian. Diimbangi karena dia Fi-bounded: kalau terluka dia cenderung menyendiri daripada cari resolusi, yang sesekali menganggu aliran relasional yang biasanya dia jago."
+          }
+        },
+        "U": {
+          "score": 1,
+          "reason": {
+            "en": "Mild positive. The external specifics stack up: 'Yousoro!' sailor salute, a powerful smell-sense for uniforms, national-grade diver plus weather forecaster as an odd combination, reverse somersault as a signature move, a cousin (Tsuki) who was basically You 2.0 with identical obsessions, and in GnY she reinvents as a flying mailman. But the internal personality — loyal childhood-friend tomboy with big-heart Fi — is a pretty archetypal archetype, just executed very warmly. External quirks lift the score, conventional core keeps it modest.",
+            "ja": "わずかにプラス。外見的な特徴は積み重なる——「ヨーソロ！」敬礼、制服への強力な嗅覚、全国ダイバー兼天気予報者という珍しい組み合わせ、バック宙のシグネチャームーブ、そっくりな執着を持つ従妹（月）、GnYでの空飛ぶ郵便屋への転身。ただし内面の人格——大きな心のFiを持つ忠実なトムボーイ系幼なじみ——はかなりアーキタイプ的で、ただとても温かく実行されているだけ。外部の癖がスコアを持ち上げ、慣例的な内面がそれを抑制する。",
+            "id": "Sedikit positif. Detail eksternal-nya numpuk: salut \"Yousoro!\", hidung kuat buat ndeteksi seragam, kombinasi aneh antara selam tingkat nasional dan ahli cuaca, reverse somersault sebagai signature move, sepupu (Tsuki) yang basically versi 2.0-nya dengan obsesi identik, dan di GnY dia reinvesi jadi tukang pos terbang. Tapi kepribadian internalnya — tomboy teman masa kecil yang Fi-nya hangat dan loyal — itu arketipe yang cukup pakem, cuma dieksekusi dengan hangat banget. Keanehan eksternal angkat skornya, inti yang konvensional bikin tetap modest."
+          }
+        },
+        "N": {
+          "score": -5,
+          "reason": {
+            "en": "Strongly S — pure Se throughout. Physical-present-action orientation is her factory default: kinetic mastery through body (diving, muscle training, running, reverse somersault), concrete sensory uniform obsession (aesthetic-specific attachment, powerful smell detection), weather forecasting as present-sensory reading of the environment, and 'take action without thinking things over first' as Se present-impulse. Her ferry-captain ambition is following her father's concrete life, not an abstract future vision. Costume-making is physical present craft. PDB notes she is 'very in tune with her surroundings.' Zero abstract-visionary-future-projection anywhere.",
+            "ja": "強いSマイナス——全体を通じてSe一色。現実・現在・行動の志向が工場出荷状態のデフォルト：身体を通じた運動的な熟達（ダイビング、筋トレ、ランニング、バック宙）、具体的な感覚的制服への執着（美的かつ個別的なこだわり、強力な嗅覚）、現在の環境を感覚的に読む天気予報の得意分野、「考える前に動いてしまう」というSe的な現在衝動。フェリー船長という目標は父親の具体的な人生を追うもので、抽象的な将来ビジョンではない。衣装制作も現在・物体としての職人仕事。PDBが言う通り「自分の周りのことを非常によく把握している」。抽象的・未来志向のビジョン投影はどこにもない。",
+            "id": "S kuat — Se murni sepanjang karakter. Orientasi fisik-kini-aksi itu default-nya: penguasaan kinetis lewat tubuh (selam, latihan otot, lari, reverse somersault), obsesi seragam yang sensori dan konkret (keterikatan estetis yang spesifik, daya cium yang kuat), prakiraan cuaca sebagai pembacaan indrawi lingkungan saat ini, dan \"bertindak sebelum berpikir\" sebagai impulsi Se yang hadir. Ambisi jadi kapten feri itu ngikutin kehidupan konkret bapaknya, bukan visi masa depan yang abstrak. Buat kostum itu craft fisik yang hadir. PDB catat dia \"sangat peka dengan lingkungan sekitarnya.\" Nggak ada sama sekali proyeksi visioner-abstrak-masa-depan di mana pun."
+          }
+        }
+      }
+    }
+  }
+}
