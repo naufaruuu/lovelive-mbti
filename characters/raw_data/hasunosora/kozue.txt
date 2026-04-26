@@ -1,0 +1,313 @@
+
+name        : Kozue Otomune
+kanji       : 乙宗 梢
+color       : #68be8d
+mbti        : ESFJ (16), ENFJ (9)
+
+(idol.st)
+
+desc 1:
+A member of Hasunosora Girls’ High School’s 102nd Class. Kozue excels at academics and sports, and is quite handsome. She is a talented girl who was born into a musical family and has taken various music lessons from a young age. As the School Idol Club president, Kozue achieved her goal of winning Love Live!. Although she didn’t like herself very much, after meeting many people, she was finally able to accept herself.
+
+desc 2:
+A third-year at Hasunosora Girls’ High. Kozue excels at academics, sports, and is known for her handsomeness. She is a talented girl who was born into a musical family and has taken various music lessons from a young age. As the School Idol Club president, she aims to win Love Live! with everyone. She was bad with technology, but lately…?
+
+desc 3:
+Hasunosora 2nd year. She is an honor student who is well respected at Hasunosora due to her excellence in academics and sports and her handsomeness, but she is not boastful about them. She was born into a musical family and has taken various music lessons from a young age. She spares no effort in anything she does. She is bad with technology but claims she is on her way to becoming good at them.
+
+background:
+Kozue was born into a musical family and has taken various music lessons from a young age. She developed a love for school idols after a performance she saw as a child, making it her dream to become one. Her family was initially against this, seeing it as less of a "true art" than the more traditional forms of music they all practice. But she was eventually able to convince them to accept her choice.
+
+Her goal is to win Love Live!, and because of her perfectionism, an incident happened during her first year that caused Megumi Fujishima's hiatus and soured her friendship with Tsuzuri Yugiri.
+
+Kozue's family is very rich and her family is noted as owning multiple beach villas.
+
+personality:
+A handsome honor student who is good at both academics and sports, Kozue is graceful and elegant. Even though she is respected and admired by everyone at Hasunosora, she is never boastful nor complacent. She spares no effort in anything she does. She is bad with technology, but she insists that she's on the way to making it her strong point.
+
+Kozue tends to be a perfectionist, but only when it comes to herself: she has extremely high standards for herself and tends to blame herself when things go wrong. However, she is reasonable enough to listen to others when necessary. Kozue told Kaho Hinoshita that she used to be much worse about this, and that she used to set such impossibly high standards for herself when it came to music that she had little time for anything else.
+
+Kozue is very formal and proper in behavior. She speaks and addresses everyone around her formally, and only drops honorifics for Tsuzuri Yugiri, Megumi Fujishima, and (later), Kaho Hinoshita. Tsuzuri notes that Kozue and Megumi used to have frequent arguments and shouting matches, indicating that Kozue has a temper beneath her polished exterior.
+
+Her favorite phrase is "Stand like a peony, sit like a peony, walk like a lily", and it is used to describe the demeanor of a beautiful woman. The slender stems of the peony represent their slim body when standing, the way the peony blooms on sideways branches gives them the appearance of someone sitting on them, and lilies sway elegantly in the wind like a woman walking.
+
+(wiki japan)
+
+「スリーズブーケ」のメンバー。102期で大賀美沙知が引退してから、104期で卒業するまではスクールアイドルクラブの部長であった。
+音楽一家の生まれで、幼い頃より多数の楽器に触れて来た。将来は音楽家となることを待望されていたが、憧れのスクールアイドルになるために、家族を説得してラブライブ！優勝経験のある蓮ノ空女学院へとやってきた。完璧に見えて、絵画や機械の扱いが苦手な一面があるが、本人は自覚がない。
+「ラブライブ！」優勝が唯一の夢だったこともあって、優勝後は燃え尽きてしまい、曲が作れなくなるスランプに陥るが、「最高のライブを上回るライブを何度も築く」と言う新たな夢を見つけ、曲を完成させる。卒業後は、夢を叶えるために音楽大学の声楽学科に進学。
+
+(anibase.net)
+
+Kozue speaks in a highly formal, old-fashioned, refined feminine manner.
+
+Her speech has a distinctive stiffness that makes even ordinary conversation sound elegant.
+
+She addresses older students with “name + senior.”
+
+With people her age or younger, her form of address changes according to closeness.
+
+At first she uses “family name + honorific.”
+
+As relationships deepen, she shifts to “given name + honorific,” and only with especially treasured people does she drop honorifics entirely.
+
+She uses only given-name-only forms for a very small circle.
+
+That circle includes Tsuzuri, Megumi, Kaho, and Sumina Katashiro from flowers.
+
+Kozue is extremely serious and disciplined.
+
+She believes that careful training and steady preparation are the proper way to approach a live performance.
+
+Even when hurt, sad, or cornered, she rarely cries and almost never gives up.
+
+At the same time, she is surprisingly self-punishing and carries regret for a long time.
+
+If she makes a mistake, she tends to keep the object connected to that failure as a reminder or “penance.”
+
+Because of this habit, Megumi once jokingly called her a “penance fool.”
+
+She is emotionally reserved and often hesitates to push herself into changing relationships.
+
+This makes mentoring, speaking up, and handling emotionally complex situations harder for her than they look.
+
+Her low self-esteem is one of her most important character traits.
+
+From the start of the story, she repeatedly insists that she has no real talent.
+
+She has spoken about being unable to list musical skill as a “special talent” despite her upbringing.
+
+She also downplays her ballet experience and compares herself unfavorably to Kaho's natural brightness and confidence.
+
+Kozue admires Tsuzuri's dance talent but also feels jealousy toward it.
+
+During her first year, she even assumed that Megumi, with her charm and gifts, would probably become the future club president instead.
+
+She thinks cute fan service does not suit her.
+
+Unlike Kaho or Megumi, she remains shy about acting cute even after three years.
+
+When imitating Megumi's cheerful greeting style, she does it in a tiny voice.
+
+For some reason, however, she performs the muscular pose from Mix shake!! with complete confidence.
+
+Although she can be absentminded in a charming way, she is not oblivious to malice.
+
+She notices unkind jokes or gossip about herself and tends to remember them.
+
+She is academically excellent and physically capable.
+
+In her best subjects, she can compete for top rank in class.
+
+She enjoys running and is especially good at long-distance races.
+
+She is even faster than Sayaka Murano in that area.
+
+For sports she was not naturally good at, such as ball games, she quietly practiced in private so she could at least meet expectations.
+
+That detail says a lot about her pride and work ethic.
+
+Her hobby of stargazing is serious enough that she brings her own telescope onto school grounds at night.
+
+She enjoys both observing the stars and simply spending quiet time under the sky.
+
+She also likes personality quizzes.
+
+In one live stream series, she hosted sessions where she invited members and asked them several test questions.
+
+Her favorite mascot character is the white guinea-pig-like car from a famous stop-motion franchise.
+
+She owns plush toys of it and even makes handmade wool-felt creations.
+
+She likes cats, and other members often represent her with a cat icon.
+
+Besides tea and tofu, she also enjoys Japanese sweets and likes matcha tea lattes.
+
+As club president, she was the one who opened each Fes Live greeting through the 104th class year by addressing the fans with the group’s standard affectionate title.
+
+Megumi once commented in a comic that it sounds especially funny when Kozue says it.
+
+Kozue is one of the most versatile members in the entire franchise.
+
+She handles an astonishing number of creative and technical roles herself.
+
+Raised in a musical household, she learned many instruments from childhood.
+
+These include guitar, piano, flute, and saxophone.
+
+She can also compose music.
+
+Cerise Bouquet's Suisaisekai was written by Kozue for the 103rd class year new student welcome event.
+
+When composing, she uses acoustic guitar and keyboard and can also perform while singing.
+
+She later taught composition to Megumi and taught keyboard or piano to Kaho and Ginko.
+
+Her lyric writing was originally done in collaboration with Kaho.
+
+Until December of the 103rd class year, Kozue usually gathered Kaho's ideas and shaped them into finished lyrics.
+
+From January onward, Kaho began taking direct responsibility for lyrics, which gave the pair a clearer division of labor.
+
+With Ginko, Kozue initially used the earlier method again, but by summer she trusted Ginko enough to leave lyric writing to her.
+
+Interestingly, Kozue only began composing seriously after joining the club.
+
+Before that, she had written only one casual song in middle school.
+
+Even so, her very first true composition was praised as being at an exceptional level from the start.
+
+That natural polish reinforces how extraordinary her ear is.
+
+Because Hasu no Sora traditionally centers its activities around units, she also creates choreography.
+
+On top of that, she designs and makes costumes.
+
+For much of the 103rd class year, costume work was shared between Kozue and Sayaka until Megumi returned.
+
+Kozue once worried about what her parents would say if they knew she got needle injuries from sewing.
+
+Put simply, she combines the roles that in other groups would be spread across several specialists.
+
+She can handle composition, choreography, lyric support, costume design, and live performance direction.
+
+Although she does not brag, her singing voice is often treated as one of her signature strengths.
+
+Within the club, people say, simply, that “when it comes to singing, it is Kozue.”
+
+Kozue does not dislike training.
+
+In fact, she embraces it with almost frightening sincerity.
+
+She often includes strength training in the club's practice menus and even bragged to Kaho on first meeting her that she trains seriously.
+
+Once Kaho became her unit partner, Kozue assigned her strength training as well.
+
+If Kaho skipped practice, Kozue could hand down a full-course strength-training punishment.
+
+At one point, she explicitly stated that strength training is one of her hobbies.
+
+When asked for a recommended protein supplement in a live stream, she named a chocolate-flavored product.
+
+That small detail has become one of her funniest pieces of trivia.
+
+Kozue comes from a wealthy musical family.
+
+She grew up surrounded by music and was expected from childhood to become a professional musician.
+
+She was exposed to many instruments very young.
+
+Family birthdays were celebrated with improvised birthday performances.
+
+Her family did not initially approve of her desire to become a school idol.
+
+She convinced them and won their support before entering Hasu no Sora.
+
+Her family includes, as far as known, musician parents and grandparents.
+
+She refers to her mother with an especially formal and respectful expression.
+
+By March of the 103rd class year, her mother had become a fan of Kaho and even watched Kaho's broadcasts.
+
+The family employs many household staff, including people who handle cooking.
+
+Their main home is a vast estate in Ishikawa Prefecture, somewhat distant from the school.
+
+Kaho jokingly compared it to a garden on the scale of a famous historical landmark.
+
+The family also owns a seaside villa used for composition.
+
+That villa later became the site of the club's summer training camp.
+
+The visual model for the family mansion was based on a famous old Western-style garden residence in Tokyo.
+
+The model for the villa area was based on a coast in Hakusan, Ishikawa.
+
+Kozue is famously bad with machines.
+
+She insists she is merely “in the middle of becoming good at them.”
+
+Tsuzuri says the real problem is that Kozue refuses to admit the truth.
+
+Her inability with technology is one of her most enduring comic traits.
+
+When trying to help Kaho set up the club's app account, Kozue struggled badly despite having taken detailed notes the year before.
+
+In the end, she had to ask the tech-savvy Tsuzuri to do it.
+
+This trait became a running joke during the live-stream series.
+
+In her first solo chat broadcast, she began with a proud little comment that she could stream by herself.
+
+The talk portion went fine.
+
+The real problem came at the end, when she somehow could not figure out how to end the stream properly and finally cut it off awkwardly.
+
+Kaho later kindly taught her how to do it.
+
+Even after that, she still sometimes failed when trying to close broadcasts.
+
+In one especially funny incident, she received an email claiming she had won a brand-new smartphone and excitedly celebrated it.
+
+Viewers warned her it sounded like a scam, but in the setting of this world it apparently turned out to be genuine.
+
+With the new phone, she managed a smoother ending in the next stream.
+
+Later she said she had been trying to become friends with her “machine” by taking it on walks, sleeping beside it, and even bringing it into the bath.
+
+That confession was immediately followed by technical trouble and a forced shutdown.
+
+Afterward, she apparently started using cooling patches on the phone as a countermeasure.
+
+As a result, whenever Kozue announces she is about to press the end button, both viewers and members tense up.
+
+Her awkwardness with devices is so well known that novels also tease her whenever she uses a smartphone.
+
+She is also bad with technology-related loanwords and can sound completely lost when discussing game terminology.
+
+Oddly enough, she is unexpectedly good at a rhythm game cabinet tied to the franchise, perhaps because of her musical background.
+
+Unlike with machines, she is not afraid of ghosts.
+
+In a haunted house, she was calm enough to admire the mechanisms and even accidentally suggested another trip through to a girl who had insisted she was not scared.
+
+Her character icon, an antique gramophone, likely reflects both her musical upbringing and her discomfort with modern devices.
+
+Naturally, she can still operate the gramophone sitting in the club room.
+
+(reddit opinion)
+
+A: 
+Time for the most caring senpai, Kozue!
+
+Despite getting into Hasunosora with unknown expectations, the length of the episodes gave a lot more room for character development, and Otomune Kozue greatly benefited from that for me, as not only she became my favourite of Hasunosora, she also became one of my top 5 from the whole series in general. She’s such a caring character with a great voice, and her refined and elegant personality was a cherry on top.
+
+From her first appearance saying ara, her calling Kaho energetic-and-cute new student, and quickly lifting her up which gave a lot of yuri vibes, she made such a strong impression in a few minutes, and her bonding with Kaho over tea as the first step of her plan to lure Kaho to the club, how she quickly understood that Kaho wanted to withdraw, turned her into the club manager, impressing Kaho bybeing able to play a lot of instruments and playing Suisai Sekai and later on “inviting” her to practice (the fact that Kaho knew that even if she said no Kozue will get her to do it anyway was hilarious and accurate), she meticulously planned it and knew that something was about to happen, and in the end she found a way for Kaho to stay and join the club, she’s such a great senior.
+
+Her growth over the 3 years in Hasu is impressive, from a serious and strict leader that strived to win Love Live and clashed with her classmates on how they didn’t have her same perspective (Sachi must have done a lot to bring those 3 together), becoming a kind and supportive mentor during her second year and learning to trust others, specially Kaho, during the end of the second year and third year made her journey a really special experience, striving for your dreams but also learning to allow others to have fun instead of tyrannically pursue a perfectionist’s dream, overcoming burnout and stagnation with newfound resolve from their juniors.
+
+With her relationships, starting with Sachi, she really does respect her, to the point that it gets close to love, just like her fellow classmates, as Megumi said herself, the song they made for her was practically a love letter, and while Sachi herself questions if her guidance was good enough or not, the three of them respected what she did for them, as she brought together 3 really different personalities that while completely diverse, could work together given the proper circumstances. She of course loves spoiling Kaho, as Megumi teases Kozue about, even though at the beginning she seemed quite strict, to the point she went to fetch Kaho to go to the club practice and once even dragged her to it, but of course she’s really protective as well, as the time Megumi intimidated Kaho and she got in front told Megumi to not intimidate her junior. She also admires Tsuzuri, as she understands really well her impactful presence on the stage and often relies on her with some doubts she has. With Megumi it seems that she loves to tease her, with Sayaka they both work pretty well as both are the more calm and rational of the group in comparison to the other chaotic 4, which I was glad to see both paired together when Rurino suggested the unit medley, and with Rurino (and later on the 104th members) she is a really reliable mentor.
+
+She’s also the rich girl of this generation (so far every LL group has one rich member), which in that regard, she’s like Ren as they both grew sheltered and knew little about tech, although unlike Ren that adapted well, Kozue struggles with tech. The arc when they went training on summer, it was really fun to see how each member reacted to her family vacation home (Tsuzuri going for the bed is so relatable, Sayaka being paralysed in the kitchen was surprising).
+
+Her perfectionism is in my case relatable, wanting to give it your all and not being satisfied until you surpassed your own expectations is hard and often leads to burnout, and in her case, her overworking personality led to at least get badly sick once per year, having Sayaka and others cover her role. I felt that to a personal level, as I don’t clear rhythm game songs unless I can do full combo, and that has shunt a lot my growth, so seeing her let loose and start enjoying more and let Kaho lead sometimes really heartwarming.
+
+Her Dream of winning Love Live was her main motivation that moved her throughout the years, seeing the 6 of them move on towards the same goal on the 103th year was wholesome, but seeing them lose and reconcile with that fact was terrible, and while Kozue played the cool headed rational mentor that cheered up almost everyone one seemed calm, Kaho getting in the club room and finding Kozue crying was heartbreaking, she was so close to her dream yet so far from her reach… seeing Kaho promise Kozue that they’ll win next year was really sweet at least. But damn that episode hit so hard.
+
+During the 104th year she spent a lot more time with both Tsuzuri and Megumi, and seems to have taken a bit more of a passive role since Kaho had to be the mentor now, and has just been there to aid Kaho and guide Ginko when in need. Having found the path they wanted to take for their future, and later on winning Love Live cherishing their time together was awesome, I particularly loved the message they wrote on their ribbons which represented their journey really well (今この瞬間を大切に, Let’s make this moment count/ Cherish this moment). The fact that she achieved her dream and found herself blocked and being unable to compose was sad yet understandable, and seeing Kaho lead her to a journey to understand the issue and needing to find a new dream really was a nice finishing touch for her journey, as well as reminiscing about how they met, same thing with the album Kaho made for her and the video that was made for them from the first years. Kozue had a wonderful journey and I was glad to watch it.
+
+In this case the 102nd members have solo songs, and Be Proud is a wonderful song, but my favourites will still be the Cerise Bouquet songs I mentioned on Kaho’s weekly discussion.
+
+I also want to show my gratitude towards Ui-chan here, she did a wonderful job with Kozue and her powerful voice really resonate when I listen to their songs, and I’m so glad she was able to fulfil her dream of getting a role in LL even if it was so shortlived, having to face her graduate hurts so much yet I’m so happy she was able to be with us, sometimes the journey is about the chance, and I’m full glad she had her opportunity and that I decided to dive into Hasunosora and discover such great songs and wonderful characters, I wish her the best in her future endeavours and will be patiently waiting for the Hasu movie.
+
+Also sorry if my comments for Hasu are so long, but they have a lot more length and content that get my attention so it’s hard to resume so many hours of the series in a short length
+
+B: Absolute GOAT of a character writing.
+
+Kozue, along with her fellow 102nd, went through a lot, especially in their first year. It was really sad to see that she blames herself for their loss in the finals in the 103rd term despite already performed at their best. However, this lets Kaho become determined to help Kozue achieve her dream to win Love Live and they finally did it Kozue's final year.
+
+Her last songs titled 'be proud' reflect Kozue's story. All the hardships and emotions she went through, she managed to overcome it and achieve her dream. Becoming a school idol and a Love Live champion. She has no more regret and be proud about it.
+
+Also, 1st year Kozue was grumpy as hell, which is why she bickers a lot with Megumi.
+
+C: One of the reasons I love hasu 1 hour to 2 hour episodes is because we get character development kozur and tsuzuri were my favorite hasu girls(with my favorites who haven't graduated yet being ceras and kosuzu) and had she not gotten that development she would've been a carbon and paste El

@@ -1,0 +1,422 @@
+
+name        : Kaho Hinoshita
+kanji       : 日野下 花帆
+color       : #f8b500
+mbti        : ENFP(27), ESFP(4)
+
+(idol.st)
+
+desc 1:
+A third-year at Hasunosora Girls’ High and one of the two presidents of the School Idol Club. Kaho has a dazzling smile and a cheerful personality. She always dives head-first into anything that looks fun. Kaho's goal as a school idol is to “blossom”, and to create a stage where a bunch of people can also blossom. Her family runs a flower farm in Nagano, and she has twin younger sisters who are in elementary school.
+
+desc 2:
+A second year at Hasunosora Girls’ High. Kaho has a dazzling smile and a cheerful personality. She always dives head-first into anything that looks fun. Her goal as a school idol is to “blossom” and one day perform live in front of one million people. Her family runs a flower farm in Nagano, and she has twin younger sisters who are in elementary school.
+
+desc 3:
+An energetic Hasunosora 1st year who never stops smiling. She entered the academy with high expectations and the goal of "blossoming". She puts all her energy into things she enjoys, and sometimes goes in unexpected directions. Her family runs a flower farm in Nagano, and has younger twin sisters.
+
+background:
+Her family runs a flower farm in Nagano, and she has twin sisters who are years younger than her, named Futaba and Minori. Kaho was frequently ill as a child, leading her to have a more restrictive childhood. Although her health stabilized in grade school, Kaho's parents continued to be extremely overprotective of her, which frustrated Kaho to no end as they stopped her from hanging out with friends and doing fun activities, taking her to and from school each day with a strict curfew attached. Her admission to Hasunosora is the result of her negotiating with her parents for a long time to attain her freedom. Her mother also attended Hasunosora.
+
+She had no prior musical expertise before entering the academy, instead qualifying through her entrance exam alone.
+
+personality:
+An energetic girl who has a smile on her face no matter what. She entered the academy with high expectations and the goal of “blossoming”, as her parents heavily restricted her freedom beforehand. Blossoming, according to her, is how others looked while freely enjoying their daily lives. She thought this way of living was beautiful, comparing it to flowers you can't look away from. She thinks that by attaining freedom, she can blossom too.
+
+Kaho's greatest fear is being left alone, likely stemming from her lonely childhood. This loneliness combines with her eager attitude, making her a tad too friendly towards strangers (such as Sayaka), and she noted as a talkative person. Fortunately, this cheerful personality also allows her to make friends quite easily. She approached Sayaka Murano on the train just because of their shared uniform, despite never meeting her before, instantly sparking a conversation. Sayaka was uncomfortable at first, forced to listen to her eager ramblings, but the two were still able to become friends rather quickly.
+
+She initially hated the academy upon realizing it's strict rules, including an exact curfew, discipline, and needing written permission to leave school grounds. This culminated in a plan to escape, but after the coaxing of Kozue Otomune, she realized school idols could help her enjoy it in her own way. She ended up wanting to make Hasunosora more fun for the students, despite not wanting to take part in the club originally. She is a kind-hearted, friendly, cheerful, passionate, welcoming, and supportive person who strives to make everything fun for everyone. She puts all her energy into what she enjoys, although can become somewhat impulsive and charge ahead in the wrong direction.
+
+(wiki japan)
+「花咲きたい」という目標を胸に、花卉農家を営む長野県の実家から、母の母校である蓮ノ空女学院へと入学してきた。幼少期は頻繁に入院するほど病弱だったため、完治後も心配性の両親から様々な活動制限を受けていた。自由を夢見て蓮ノ空に入学したが、実家暮らし以上に厳しい校則に絶望。一時は転校まで考えるも、梢やスクールアイドルクラブとの出会いで考え直し、学院での生活を決意する。
+102期生の卒業後、「みんなを花咲かせる」と言う夢を叶えるために「ラブライブ！」に出場しないことを独断で決め、スクールアイドルクラブを退部しようとするが、他の部員も同じ夢に進もうとしていることがわかり、クラブに留まる。その際、さやかからクラブの部長に推薦され、さやかと共に部長となる。
+卒業後は、イベント設営に関する勉強をするために大学に進学した。
+
+(anibase.net)
+
+Kaho is an endlessly cheerful and energetic girl who throws herself fully into anything that seems fun.
+
+She charges straight ahead, sometimes in very unexpected directions.
+
+She usually refers to herself casually, but when trying to sound dramatic or cool, she may use her own name instead.
+
+She addresses people her age and younger with their names plus an affectionate suffix, and addresses upperclassmen politely as "senpai."
+
+She is talkative and fearless in front of others.
+
+Even when suddenly asked to film a self-introduction video right after joining the club, she can improvise a charming and polished performance.
+
+Her natural style makes her especially suited to streaming and live interaction.
+
+Within the story, she regularly does chatting streams and thrives in front of an audience.
+
+She has no hesitation about acting cute.
+
+Because of that, she often drags the more embarrassed Kozue Otomune, Ginko Momose, and Sayaka Murano into playful requests.
+
+Her bright smile makes other characters compare her to the sun.
+
+At the same time, Tsuzuri Yugiri compares her brilliance to lightning, emphasizing how sudden and intense her energy can be.
+
+Kaho has very high self-confidence in things she enjoys or excels at.
+
+That trait is even something Kozue envies because Kozue tends to undervalue herself.
+
+She is upbeat, but also a bit of a show-off and occasionally a little rude.
+
+When she is plotting something, she likes to laugh in an obviously theatrical way.
+
+She loves live performances, but originally tried to cut corners on practice.
+
+Unfortunately for her, she ended up under Kozue, a senior who treats training with absolute seriousness.
+
+Because of that, Kaho secretly called Kozue an "ogre."
+
+This nickname eventually became known, leading to several comic exchanges with the other members.
+
+She used to come up with excuses to skip morning practice.
+
+After an important experience in January of her first year, she stopped slacking on practice and special training.
+
+By the summer training camp in her third year, her stamina had improved dramatically.
+
+Aside from Ceras, she had reached roughly the same level as the rest of the group and even had slightly defined abs.
+
+Kaho’s compliments tend to be exaggerated.
+
+When someone feels embarrassed or loses confidence, she encourages them with a wholehearted "It’ll be fine," even if her reasoning seems invisible to everyone else.
+
+Her thought process can be very extreme.
+
+For example, after falling in love with live performance, she once proposed holding concerts every day for a full week.
+
+When she realizes she has performed worse than others due to lack of training, she can swing hard in the opposite direction.
+
+At one point, she even wanted to push the next live event all the way to December of her third year.
+
+Sayaka once described her as being like a fluorescent light.
+
+When switched on, she shines brightly and rushes ahead without looking sideways.
+
+But if that switch suddenly turns off, she sinks into regret and self-loathing deeply enough to worry everyone around her.
+
+That intense emotional rise and fall is one of her defining traits.
+
+When inspired, Kaho is one of the story’s strongest idea generators.
+
+She repeatedly comes up with the plans that break through impossible situations.
+
+Her favorite color is golden yellow.
+
+Her symbolic animal is the rabbit, and she often represents herself with rabbit imagery.
+
+She loves small animals and has also said she would like to keep hamsters or ferrets.
+
+She likes sweets and western-style dishes such as Hanton rice and omelets.
+
+Although she is known for having no food dislikes, she has specifically mentioned one exception: black coffee.
+
+She enjoys physical education and music at school.
+
+Academics are one of her weak points.
+
+Test periods are always a struggle, especially mathematics.
+
+Still, according to Sayaka, passing Hasu no Sora through general academic testing requires real ability.
+
+That suggests Kaho can produce results if she actually manages to study enough.
+
+She likes reading, so language-related subjects are easier for her.
+
+Her summer homework in first year was still unfinished on August 31, but she barely completed it in time and even appeared partway through that day’s stream.
+
+Reading and Media Interests
+Kaho is a genuine book lover.
+
+Unlike some characters who favor pure literary fiction, she reads a lot of popular literature.
+
+Her profile was later updated to note a special fondness for children’s literature.
+
+Her favorite genre is fantasy.
+
+She is also a broad reader.
+
+Unless a book is especially difficult, she is willing to try almost anything.
+
+In one solo stream, she mentioned many famous novels by title.
+
+Because she reads so widely, she also knows a fair number of proverbs and idiomatic expressions.
+
+She once developed a fantasy role-playing game themed idea called Hasu no Sora Fantasy.
+
+Later, in a story involving a self-made film by Kosuzu Kachimachi, Kaho was entrusted with scriptwriting because of her reading experience and completed the script together with Hime Anyoji.
+
+She watches movies as well.
+
+Examples she has mentioned include Percy Jackson and the Olympians and Inkheart.
+
+She is extremely bad with horror.
+
+Ghost stories and scary tales are completely not for her.
+
+Although fans often focus on her weak academics and love of fantasy, Kaho can also make very rational decisions in an instant.
+
+During a summer training camp in the 104th generation, when someone suddenly fell ill in front of the group, she immediately took charge.
+
+While several upperclassmen froze for a moment, Kaho assigned tasks clearly and decisively to her peers and juniors.
+
+Her calm, practical leadership prevented the situation from getting worse and impressed Hime.
+
+In streaming, one of her trademark gestures is clapping while drawing circles with her hands.
+
+This "rotating clap" became well known enough to be turned into a stamp.
+
+Even her everyday movements are energetic.
+
+Kozue and Ginko can reportedly recognize Kaho’s knock on a door just by hearing it.
+
+Early Life and Dream
+Until middle school, Kaho’s life was heavily restricted.
+
+As a child, she was so frail that she was frequently hospitalized.
+
+She often ran fevers and had to spend much of her time resting quietly.
+
+Her exact illness has not been named, though it is often thought to have resembled childhood asthma.
+
+By the time she reached middle school, she had recovered.
+
+Even so, her parents remained deeply worried.
+
+They enforced a strict curfew and made her come straight home after school.
+
+She had little freedom in school life or play and never really formed close friendships.
+
+This history shaped her longing for freedom and for a brighter life.
+
+Later, after joining Hasu no Sora and the club, she finally gained many friends, seniors, and juniors.
+
+Her physical condition also improved steadily.
+
+At first, her stamina was far behind members like Rurino Osawa and Ginko, but by her third year she had caught up thanks to practice and strength training.
+
+Within the story, she only suffers one major cold, in February of the 104th generation.
+
+Her earlier frailty no longer defines her, but it remains important to understanding her past.
+
+Hasu no Sora is a boarding school in Ishikawa Prefecture, far from her home in Nagano.
+
+Her parents only allowed her to apply because Kaho’s mother was an alumna of the same school.
+
+Kaho imagined the school in absurdly glamorous terms before arriving.
+
+Because she avoided learning anything concrete in advance, she pictured an urban high school life full of shopping, sweets, and stylish outings.
+
+Instead, she found a school in the mountains, with few nearby shops and a very strict dormitory lifestyle.
+
+The gap between dream and reality crushed her almost instantly.
+
+On her second day, convinced high school life there was impossible, she attempted to run away from campus.
+
+That impulsive escape led to her fateful encounter with Kozue Otomune.
+
+Though she tried to soften the story later by calling it "just a little walk," almost the full truth came out in streams.
+
+From that turning point, she chose to remain at Hasu no Sora and entered the world of school idols.
+
+Strictly speaking, the first person to invite Kaho into school idol activities was not Kozue, but Sayaka.
+
+That detail remains an important footnote in her beginning.
+
+Meaning of "Bloom"
+Kaho’s personal motto, "I want to bloom," means that she wants to become someone who shines and catches people’s eyes, like a flower by the roadside.
+
+It was born from her envy of local friends who seemed to shine by doing what they loved.
+
+The phrase was inspired by a wild blooming ranunculus shown to her by her younger twin sisters, Minori and Futaba.
+
+Ranunculus flowers are usually cultivated in controlled environments, so seeing one bloom on its own moved her deeply.
+
+That moment taught her that flowers can bloom beautifully in different conditions.
+
+It became a symbol for her own desire to thrive through her own strength.
+
+She often uses flower-related metaphors in her speech.
+
+She talks about still being a bud or about wilting when she feels weak.
+
+Later, that dream evolves.
+
+Instead of only wanting herself to bloom, she starts dreaming of helping everyone else bloom as well.
+
+Kaho repeatedly serves as the person who directly or indirectly resolves the problems facing both individual members and the School Idol Club as a whole.
+
+Her influence on the club’s survival and success is enormous.
+
+She met Kozue at the perfect moment and helped revive Cerise Bouquet, a unit that had effectively collapsed the year before.
+
+She also quietly supported the formation of DOLLCHESTRA in the 103rd generation and supported Sayaka’s return to figure skating.
+
+Although she accidentally exposed the sealed past that had caused the breakdown between Kozue and Tsuzuri, she also worked tirelessly to repair their relationship while preparing for the school festival.
+
+She even proposed a live performance featuring all four club members rather than the usual unit format.
+
+She helped Rurino join despite Rurino’s difficulty with long group activities.
+
+That support also indirectly contributed to Megumi’s return and the formation of Mira-Cra Park!
+
+Before the 103rd generation regional qualifying round, the club was cornered by severe restrictions and seemed nearly out of options.
+
+Kaho came up with what was almost the only viable strategy, with Sayaka’s tethering support acting as the trigger for the idea.
+
+She proposed the creation of the Link Like medley Link to the FUTURE as a way for all three units to challenge the regional qualifiers together.
+
+The success of that effort, and the ability of the 103rd generation Mira-Cra Park! to remain active, indirectly became one of the reasons Hime later enrolled.
+
+When Ginko considered leaving, Kaho found source materials proving that Ginko’s dream of re-experiencing the old performing arts club could still be fulfilled in a new form.
+
+She successfully persuaded Ginko to stay.
+
+The story strongly suggests that if Kaho had never been admitted to Hasu no Sora, never met Kozue, or had transferred out immediately after enrollment, the School Idol Club might have fully collapsed by December of the 103rd generation.
+
+Even if the other five members had somehow continued, the revival of Cerise Bouquet and the eventual route to the 104th generation finals would likely have been impossible.
+
+Her actions save the club again and again.
+
+In turn, those same actions eventually become the support that saves Kaho herself.
+
+o profoundly.
+
+She promised Kozue that, as her partner, she would face morning practice and hard training seriously and aim for victory together.
+
+In Cerise Bouquet, songwriting up through December of the 103rd generation was mostly handled by Kozue after hearing Kaho’s ideas.
+
+Then Kaho boldly took full responsibility for writing lyrics for a live event in January, struggled through it, and completed the work with help from Sachi.
+
+After that, she became genuinely involved in lyric writing.
+
+Composition had originally been left entirely to Kozue.
+
+Later in the 103rd generation, Kozue began teaching her keyboard.
+
+By April of the 104th generation, Kaho had learned to accompany herself with simple keyboard playing.
+
+By winter of the 104th generation, she was able to compose as well.
+
+Even in April of her third year, though, she still modestly judged herself behind Sayaka and Rurino in technical skill.
+
+Rivalry, Resolve, and Leadership
+
+As the 104th generation Love Live! finals approached, Kaho discovered that her childhood friend Ceras Yanagida Lilienfeld appeared in the team photos of Mizukawa Girls' High School, a finalist from Nagano.
+
+Kaho then visited Mizukawa with Ginko for both friendly exchange and rival scouting.
+
+There, she witnessed the overwhelming performance of the undefeated school idol Izumi Katsuragi and the passionate support built around her by Ceras and the rest of the Mizukawa students.
+
+The experience shook Kaho’s heart.
+
+After returning, her feelings about the finals changed, and Kozue assigned her a challenge.
+
+While working through that challenge and experiencing friction with Ginko, Kaho ultimately rediscovered her own dream and entered the finals in top form.
+
+The final round unexpectedly ended in a playoff against Mizukawa.
+
+At the same time, Mizukawa faced a school closure decision and the threat of losing its club activities, while Ceras’s dream at its attached middle school was revealed to be difficult to realize.
+
+Working together with her clubmates, Kaho helped guide both problems toward solutions.
+
+She then met Mizukawa in one last decisive showdown.
+
+After Love Live!, she supported Kozue in creating a new Cerise Bouquet song for the graduation festival.
+
+During the making of a commemorative album for the graduating 102nd generation members, her usual smile began to show moments of shadow.
+
+After a Cerise Bouquet photo session and after hearing the seniors’ gift song, she finally recognized her true feelings.
+
+She could not bear the thought of parting from Kozue, Tsuzuri, and Megumi Fujishima, and became deeply worn down.
+
+Seeing how serious the situation was, Sayaka and Rurino reached out to Ginko and the others.
+
+An additional scene was added to a gift film made by the younger members.
+
+That message encouraged Kaho during the screening.
+
+After making one major promise with the seniors, everyone worked together on yet another new song for the graduation festival.
+
+After sending off the graduates, Kaho rose to become one of the oldest students in the club.
+
+From the 105th generation onward, she served as club co-leader alongside Sayaka Murano.
+
+A New Direction
+
+In the 105th generation, the club adopted a new policy under Kaho’s influence.
+
+Rather than entering the Love Live! tournament, they would pursue the goal of creating a stage where even people who had not yet bloomed could bloom.
+
+At first, Kaho believed this dream would only get in the way of members who still wanted to compete.
+
+So she considered leaving the club and acting alone.
+
+Instead, everyone supported her.
+
+That acceptance convinced her to stay and move forward with them.
+
+The club then immediately faced the crisis of attracting no new members.
+
+That changed when Ceras and Izumi, who had come to Hasu no Sora because they believed in the dream, joined the club.
+
+As club leader, Kaho approved the formation of their new unit, Edel Note.
+
+Together with Sayaka and Rurino, she also vowed to keep honing themselves as the Hasu no Triad.
+
+In December, Kaho decided to hold Starring Bloom, and in March of the following year she organized Love Live! Hasu no Sora Jogakuin School Idol Club: Bloom Garden Party.
+
+Though she and the others struggled and fell into doubt at times, support from many people in Kanazawa, allied groups, and even the returning senior trio helped make the event a great success.
+
+After deciding to go to university, Kaho set a new dream for life after graduation.
+
+She wanted to keep launching events that would let others bloom, while becoming a "ranunculus tree" that keeps blooming herself as well.
+
+On the day of departure, she spoke of the feelings of all the graduates before her as if they were seeds.
+
+She told those who remained that what to do with those seeds was entirely up to them.
+
+Her final message was simple and heartfelt: "Even if we are apart, we are together."
+
+That is how Kaho’s three years at Hasu no Sora came to a close.
+
+(reddit opinion)
+
+A: First things first, Hasunosora is a really long journey, considering one chapter is as long as a movie, so it’s a bit hard to recall all the details for each character discussion, but I’ll try my best to elaborate as well as possible. Initially, I was interested in the members of DOLLCHESTRA, but honestly all members are awesome and in the end I just like them all, guess that having a lot more screen time does give you more chances to like the other members.
+
+Hinoshita Kaho might be the most energetic one out of the genki MCs we had so far (which is to say a lot as the first two set the bar quite high), and while initially I wasn’t too blown by Kaho, the first episode already reeled me in, she literally tried to escape her school in the first few days which was hilarious, she really would do anything to blossom. The fact that she got scared by an otter which led her to meet Kozue was certainly unique first encounter, which they recall to in the last days together. Their dynamic is one of the best in the series, both of them really care about each other, even if it started with a cunning plan of Kozue making Kaho the manager of the club so she could join by herself later on after Suisai Sekai, in which Kaho finally found a way to blossom in Hasunosora.
+
+She’s really extroverted and easy to talk, and as they say, she’s really like a light bulb that can go on and off suddenly, she was so energetic in the first day talking to Sayaka like they were friends for years and the next day totally depressed, yet despite this she always manages to overcome her struggles, and even get ideas in a whim, like how she got the box idea for Rurino, the sudden idea of wanting to write a song for the group which led her to stress so much Sachi came to her aid, the plan of linking the phone data for the Link to the Future performance to overcome the school restriction during the 103rd years Love Live or how she gathered support from all around to allow Edelnote to participate in the playoff, she’s truly an unstoppable force when she is fired up, and the main pulling force of Hasunosora, she can get incredible ideas out of nowhere and the others just follow along, just like how she decided to go on a day trip with the unit to get photos for the album for Kozue and everyone followed along, which they the 103rd and 104th members all respected of her and showed in the video footage the 104th members made for the 102nd seniors, that was a really nice detail.
+
+As for the relationships she really is close to everyone , which is expected for her personality, she truly loves Kozue, which is not surprise considering she was the one that showed Kaho the wonderful world of school idols, and the one that spoiled her helped her on her journey on Hasunosora, to the point she dared to run away from school in their last days to stroll around places they have memories of to cheer Kozue, and really respects Tsuzuri and Megumi, the latter which, when combined with Kaho, can have really funny moments, when Megumi felt bad with herself when she realised that Kaho of all people had to teach her, that was hilarious, but they both combine pretty well with how both love to do cute stuff, the KahoMegu gelato combination was honestly awesome. As for her fellow 103rd friends, I love how after a year they understand each other so well they have a really good synchrony with each other having a perfect teamwork as shown in the episode when the 103 and 104 competed against (KahoRuri ojou-sama laugh will forever be my favourite moment of the 104th year, that was sublime), which is surprising considering Sayaka started by ignoring Kaho and Rurino started as a water flea avoiding everyone except Megumi. As for the 104th members, Ginko is the more levelheaded of them all by trying to keep distance with Kaho while being a bit more strict on her, she cares about Kosuzu a d Hime as well despite them not interacting too frequently, respects Sachi a lot and really cares about Secchan as well as they know each other since the hospital, she didn’t let their rivalry sour their friendship.
+
+Of course, I have a lot more to talk about (like when she was crying after losing the first Love Live and found out about Kozue as well and the promise they made), but honestly I would rather keep it short as this already is a big wall of text.
+
+Overall Kaho easily became my 3rd favourite along with Sayaka just with how she is, you can never get bored when she’s on screen, she’s so full of energy and shenanigans and I love her for it.
+
+As there are no individual Hasunosora songs, my favourite Cerise Bouquet songs (I can’t pick a favourite, they’re all so good) are Holiday Holiday, Senpen Banka and Ouka Ranman.
+
+Looking forward to see what the 105th year has to bring for her.
+
+B: I love Kaho! I think she’s the funniest of the genki orange protagonists - naive as a result of a sheltered upbringing and too much time spent in books, but hardworking and idealistic. I also love some representation for book nerds who are airheads. Just because you read a lot doesn’t make you sensible!
+
+Her on-and-off personality, of either being entirely optimistic or entirely depressed, is both a good source of comedy but also drama. Kaho’s character growth is so fun to watch. I literally shouted “Kaho, no!” at the screen when she became too focused on being a responsible goal-oriented idol (out of fear of losing Love Live again and how sad it made everyone [Kozue] last time) and betrayed her core by saying it “wasn’t about having fun”. I love that it was Ginko who was like “this isn’t like you! I don’t like you this way!” (paraphrasing)
+
+She gives 100% and has little sense of her limits, whether it’s trying to do live shows every single day for weeks or changing the rules of Love Live itself so her childhood friend can participate, when she commits, she forgets all doubt and assumes to universe will make it happen if she does something as big as she can, and she’s regularly proven right!
+
+Which isn’t to say she doesn’t have doubts. She loves making others bloom, but at the start needed time and convincing that she could bloom herself as an idol. She often has more faith in her ability to help others than in her ability to bloom herself. When she’s blooming herself it’s usually because she’s forgotten to compare herself to her pretty talented clubmates like Kozue and Sayaka because she’s having too much fun. And when she follows her sense of fun and adventure is usually when she’s on the right course.
+
+Hasunosora has quickly become my favorite branch of Love Live and Kaho might be my favorite orange-haired center. As a consequence of the length of the story, she’s certainly the most complex and developed. I can’t wait to see where her story goes up to (and after?) her graduation!
+
+C: Kaho is my best Hasu girl. She’s just such an adorable ball of sunshine and just wants so much to make everyone happy. I fell in love with her during the first season of Hasunosora’s story. She deserves all the best things in the world.
+
+Also adore her relationship with Kozue. That scene where Kaho stumbles across Kozue after losing love live had me in tears. It was beautiful. I love how Kaho grew enough for Kozue to be able to lean on her too.
+
+D: Before starting out the story in the youtube, I only saw her character lives where she acts like a spoiled kid by Kozue looking for her attention. And she's damn cute at that. But starting out the story, she's still cutesy, but also energetic. Since the official en story stopped at when Megu joined, I don't have an idea how she act as senpai now.
+
+I have to say, those short story preview on live made me want to watch their youtube story. I believe there's a fan translation of it, just haven't touched it yet

@@ -1,0 +1,529 @@
+{
+  "_meta": {
+    "dimensions": {
+      "E": "Extroversion (positive = extroverted, negative = introverted)",
+      "J": "Judging (positive = planned/structured, negative = spontaneous/flexible)",
+      "T": "Thinking (positive = logical/rational, negative = emotional/feeling)",
+      "C": "Confidence (positive = self-assured, negative = insecure)",
+      "M": "Ambition (positive = driven/competitive, negative = content/laid-back)",
+      "O": "Optimism (positive = optimistic/resilient, negative = pessimistic/anxious)",
+      "A": "Agreeableness/Empathy (positive = empathetic/caring, negative = competitive/cold)",
+      "U": "Uniqueness (positive = unconventional/eccentric, negative = conventional/conforming)",
+      "N": "Intuition (positive = intuitive/abstract/future-focused, negative = sensing/concrete/present-focused)"
+    },
+    "scale": "-10 to +10",
+    "source": "Hasunosora Girls' High School Idol Club characters, derived from raw JSON with fan vote data considered as evidence",
+    "note_on_fan_votes": "Fan MBTI votes provided as input signal but not treated as authoritative. Used as weighted evidence alongside textual analysis. Majority vote followed when supported by independent analysis; flagged when close.",
+    "note_on_traits_format": "Each trait includes both score (-10 to +10) and reason (textual justification from analysis)."
+  },
+  "characters": {
+    "ginko_momose": {
+      "name": "Ginko Momose",
+      "kanji": "百生吟子",
+      "color": "#a2d7dd",
+      "mbti": "ISTJ",
+      "fan_votes": { "ISTJ": 14, "INFJ": 7 },
+      "traits": {
+        "E": {
+          "score": -3,
+          "reason": "'Has never had friends close to her own age before, got along better with older folks,' reserved, not used to interacting with peers. But Reddit-confirmed 'probably the most capable of being a leader out of the 104th girls' and perceptive about senior dynamics — she's engaged enough to lead when necessary, not withdrawn. Notable introversion tempered slightly."
+        },
+        "J": {
+          "score": 7,
+          "reason": "'Serious, diligent, prepares carefully,' writes everything in notebooks, masterful at structured craft, disciplined training habits. Reddit confirms: 'likes to be prepared for situations she needs to face, but that comes at the cost of being completely unreliable for situations that require improvisation' — explicit J-dependence. Strong J."
+        },
+        "T": {
+          "score": 2,
+          "reason": "Slight T lean. Diligent and systematic (T) but tsundere-emotional and values-driven (F). Tertiary Fi from ISTJ produces exactly this mix. Reddit adds: 'doesn't hold back against Kaho' with sharp precise burns like 'I'm more relieved that Kaho-senpai is responsible enough to support Sayaka-senpai' — Te-sharp delivery when her Fi-values surface. Net mild T."
+        },
+        "C": {
+          "score": -3,
+          "reason": "'Afraid of failure, needs time to prepare,' 'habit of putting herself down (\"someone like me...\"), which makes it hard for her to take the first step into something new,' trouble taking compliments. Real insecurity despite competence."
+        },
+        "M": {
+          "score": 5,
+          "reason": "'Dependable, competitive,' physical training before joining, surpassed Kaho in stamina, wants to win Love Live, ambitious about creating new traditions. Moderately high ambition expressed through excellence."
+        },
+        "O": {
+          "score": 0,
+          "reason": "Anxious baseline ('afraid of failure,' panics about betraying tradition) but resilient when pushed. Balances out to neutral."
+        },
+        "A": {
+          "score": 5,
+          "reason": "Caring underneath reserve, costume-maker for the group (service through craft), becomes genuinely happy when others show curiosity about her niche interests. Warm but cautious. Not max because she's more inwardly-focused than actively empathetic."
+        },
+        "U": {
+          "score": 3,
+          "reason": "Her interests are unconventional for a high schooler (Kaga embroidery, kimono daily wear, Showa songs, traditional crafts, mystery novels recommended by elderly men) but in a traditionalist rather than eccentric way. Unique profile, conventional within tradition."
+        },
+        "N": {
+          "score": -5,
+          "reason": "Strongly grounded in concrete tradition, historical specifics, craft details. Her big growth moment reaches toward Ni but her baseline is firmly Si."
+        }
+      },
+      "mbti_reasoning": "ISTJ with majority fan vote (2:1 over INFJ) and this aligns with textual analysis, though closer call than it first appears. Baseline is Si-dominant: masters inherited craft (Kaga embroidery), preserves advice in notebooks for review, loves Showa-era songs, historical buildings, temples, shrines, got along with elderly folks as child, vulnerable to 'this is tradition too' argument. Tradition is her core value anchor. INFJ case exists — her climactic arc insight ('tradition survives by changing to fit the present,' cutting apart old costumes to reinvent them) has genuine Ni flavor of seeing past concrete form to underlying essence. But this reads as character growth FOR an ISTJ reaching past dominant Si toward tertiary Fi and inferior Ne, not evidence she was INFJ all along. Her default/stress/habits are all Si: panics about betraying tradition, data-preservation routines, backward-looking interests. Rich inner life is nostalgic not visionary. Tsundere emotional pattern and 'someone like me...' self-deprecation fit ISTJ tertiary Fi — deep private feelings that leak awkwardly under stress (Kanazawa dialect slips when emotions run high). Not Fe-harmony performer; Fi internal values occasionally overflowing."
+    },
+    "tsuzuri_yugiri": {
+      "name": "Tsuzuri Yugiri",
+      "kanji": "夕霧綴理",
+      "color": "#ba2636",
+      "mbti": "INTP",
+      "fan_votes": { "INTP": 25, "INFP": 14 },
+      "traits": {
+        "E": {
+          "score": -4,
+          "reason": "Introverted baseline ('absent-minded, always in a daze,' flat subdued tone, low-key delivery), but she's 'not unsociable,' talks readily with strangers, clingy and affectionate with close people. Notable introvert but not severe."
+        },
+        "J": {
+          "score": -6,
+          "reason": "Strongly P. Forgets to wake up, forgets to eat, drifts off mid-task at part-time jobs, shifts topics constantly, actions 'sudden and unpredictable,' needs Sayaka to manage her schedule. Very high spontaneity. Only reason not -8 is she 'always finishes her summer homework' — has some underlying follow-through when it matters."
+        },
+        "T": {
+          "score": 4,
+          "reason": "Real Ti present (math for certainty, logical questioning of injustice, information processing, internal dance logic) but wrapped in emotional sensitivity and care. Reddit bumps this up: community reads her as 'Cool Girls In STEM' archetype, confirming Ti-primary cognitive architecture. The 'calm while Sayaka panicked at Kosuzu drowning' moment is classic INTP detachment in emergencies — she processes abstractly rather than emotionally. Moderately T — her cognition is logical, her motivations are warm."
+        },
+        "C": {
+          "score": 2,
+          "reason": "Quietly self-assured. Never seems anxious about her weirdness or performance, comfortable with her own peculiarities, approaches strangers without fear. Not high confidence but calm and settled."
+        },
+        "M": {
+          "score": 1,
+          "reason": "Low but not zero. Joined idol club 'on a whim,' was scouted without seeking it, but performs brilliantly when engaged and was competitive enough to reach nationals. Drive is situational rather than sustained."
+        },
+        "O": {
+          "score": 4,
+          "reason": "Calm, whimsical, seems to enjoy life's small pleasures (chocolate cake, fishing, snacks with Hime). Resilient baseline with positive affect, though quietly expressed. Not high-energy optimism but genuine contentment."
+        },
+        "A": {
+          "score": 6,
+          "reason": "'Extremely kind and sensitive,' excels at listening and supporting, enjoys seeing people smile when their worries lift, wants to become a teacher for this reason. High empathy expressed through presence rather than attunement."
+        },
+        "U": {
+          "score": 9,
+          "reason": "Near-max. Peculiar speech, personal metaphor-language, two-syllable nicknames, draws penguin-rooster mascots, keeps a chicken doll named Peking Duck, disentanglement puzzles for half a day, stretches words playfully, gender-neutral speech, drifts into philosophy at work. Genuinely one of the most eccentric characters I've analyzed across both casts."
+        },
+        "N": {
+          "score": 5,
+          "reason": "Strong Ne visible in her topic-shifting, metaphor-generation, creative artistic output, and philosophical drift. But tempered by her concrete-specific attachments (chicken doll, chocolate cake, specific fish memories) and her actual work being hands-on. Clearly N but not maximal."
+        }
+      },
+      "mbti_reasoning": "INTP with majority fan vote (25 vs 14 INFP) and I think this is the right call — avoiding the trap from the previous session where I confused Fi-dominant emotional expression (Rina) with Ti-dominant logical oddness. Key Ti diagnostic: excels at math BECAUSE she likes answers 'fixed and certain,' which is explicit Ti-pleasure in logical closure rather than INFP tolerance of logical subjects. Also good at information processing (calculated data transmission by hand instantly) and questions injustice 'very logically' when it matters. Ne auxiliary highly visible: constant topic shifts, strange metaphors creating her own personal language, philosophical drift mid-task, unpredictable actions, creative artistic output expressing 'the spirit of Kanazawa.' Classic Ti-Ne profile where internal logic is strong but doesn't translate (dance advice incomprehensible to anyone but Sayaka). Inferior Fe explains the social inappropriateness, difficulty reading people's feelings, dependence on Sayaka for life management — she cares about people but doesn't naturally track social-emotional currents. Fan opinion A makes this case well; fan opinion C (INFP) confuses kindness with Fi-dominance, but INFPs typically have BETTER emotional attunement than Tsuzuri, not worse."
+    },
+    "kozue_otomune": {
+      "name": "Kozue Otomune",
+      "kanji": "乙宗梢",
+      "color": "#68be8d",
+      "mbti": "ESFJ",
+      "fan_votes": { "ESFJ": 16, "ENFJ": 9 },
+      "traits": {
+        "E": {
+          "score": 2,
+          "reason": "Formal and reserved. Reddit clarifies '1st year Kozue was grumpy as hell' and she grew warmer over time through Fe-service duty rather than natural sociability. Actively leadership-oriented (club president, teaches keyboard/composition, hosts streams) but her warmth is performed Fe, not radiated. Less extroverted than Ai or Setsuna because her leadership is duty-driven."
+        },
+        "J": {
+          "score": 9,
+          "reason": "Extremely high, possibly max-J for Hasunosora. Perfectionist, rigorous training regimens, disciplined practice, formal hierarchical speech system, assigns strength training as punishment, careful preparation is her religion. Reddit reinforces: 'meticulously planned' the multi-step Kaho recruitment (tea bonding → manager role → gradual introduction), executes multi-year singular-dream pursuit. Near-max structural J."
+        },
+        "T": {
+          "score": -3,
+          "reason": "Feeling-oriented but with discipline. 'When it comes to singing, it is Kozue' — her talent is emotional expression. Creates music, performs, is guided by interpersonal bonds (dropping honorifics only for treasured people). Moderately F."
+        },
+        "C": {
+          "score": -3,
+          "reason": "'Low self-esteem is one of her most important character traits.' Insists she has 'no real talent' despite elite ability, downplays her skills, compares self unfavorably to Kaho's brightness, didn't even expect to be club president (assumed Megumi would). Reddit confirms low self-esteem persistence throughout all three years. Real insecurity underneath the polished exterior."
+        },
+        "M": {
+          "score": 9,
+          "reason": "Near-max. Reddit confirms: 'her Dream of winning Love Live was her main motivation that moved her throughout the years' — singular obsessive goal sustained for 3 years. The post-achievement creative paralysis (couldn't compose after winning) shows how totalizing her ambition was. 'Be Proud' as graduation song reflects how completely the dream organized her life."
+        },
+        "O": {
+          "score": 0,
+          "reason": "Truly mixed. Burned out after Love Live victory (slump, couldn't write songs), post-win creative paralysis, 'at least gets badly sick once per year' from overworking per Reddit, first-year was 'grumpy as hell.' But 'rarely cries, almost never gives up' shows real resilience, eventually found new dream. Net neutral — real resilience balanced by the weight of her perfectionism."
+        },
+        "A": {
+          "score": 5,
+          "reason": "Genuinely caring within her formal framework. Taught multiple members their crafts (keyboard, composition), emotionally reserved but loyal, honorific-drops only for 'especially treasured people.' Protective (got in front of Kaho when Megumi was intimidating her). Not actively warm like Ai but deeply invested in specific people. Tempered by temper (shouting matches with Megumi) and self-focused perfectionism."
+        },
+        "U": {
+          "score": -2,
+          "reason": "Handsome ojou-sama honor student from a classical musical family with multiple beach villas — she's an elegant, traditional archetype. Her quirks (tech illiteracy, stargazing, wool felting, protein supplements, white guinea-pig-car plushies) are charming fan-service quirks rather than deep eccentricity. Reddit explicitly compares her to Ren from other Love Live content — both are sheltered-refined rich-girl archetypes. Core archetype is conventional."
+        },
+        "N": {
+          "score": -4,
+          "reason": "Strongly grounded in concrete Si. Musical family heritage, classical instruments from childhood, 'stand like a peony' (memorized classical sayings), memorizes procedures when handling tech, keeps physical objects as failure-mementos. Reddit adds telling evidence: after winning her singular concrete goal, she couldn't generate a new dream without external structure — her inferior-Ne doesn't self-initiate. That post-win paralysis is diagnostic evidence of weak Ne."
+        }
+      },
+      "mbti_reasoning": "ESFJ with majority fan vote (16 vs 9 ENFJ) and textual analysis supports it, though the split is real and ENFJ is defensible. Key differentiator: her leadership is perfectionist and self-punishing (carries regret for years, keeps failure-objects as 'penance') rather than visionary. Compare to Setsuna (ENFJ) whose mission was transforming how people relate to their passions — Kozue wants to execute the form of school idol perfectly, not reinvent it. Her 'new dream' after winning Love Live ('build lives that surpass even the greatest live, again and again') is iterative excellence within established form, not transformation of form. Creative versatility (composition, choreography, lyrics, costume) is bounded — she excels within established artistic roles through mastered training rather than inventing new expressions. Tech illiteracy is a telling Si-specific pattern: takes detailed notes and still fails because she memorizes procedures rather than understanding systems; tries to 'become friends with her machine by taking it on walks, sleeping beside it, bringing it into the bath' = Si treating devices as relational entities without Ne systems-abstraction. Speech patterns are extremely Si-Fe: rigorously formal, hierarchically coded, shifts through specific defined stages based on relationship closeness — ENFJ would be less codified. Her 'penance fool' self-punishment pattern is Fe-Si guilt (attached to specific past failures as concrete objects) rather than Ni-Fe future-oriented self-development. She's to Setsuna what Shioriko is to Lanzhu — same rough Fe social function expressed through a more traditional/established framework."
+    },
+    "megumi_fujishima": {
+      "name": "Megumi Fujishima",
+      "kanji": "藤島慈",
+      "color": "#c8c2c6",
+      "mbti": "ENFJ",
+      "fan_votes": { "ENFJ": 16, "ESFJ": 6 },
+      "traits": {
+        "E": {
+          "score": 5,
+          "reason": "Moderately extroverted. 'Bright, talkative, naturally good at pulling people in,' 'talking skills are one of her strengths,' kept a live show running through conversation alone, runs her own streaming channel. But she's more private/cocky in non-fan settings and had a long hiatus as solo-streamer during trauma period. Net solidly extroverted but not max."
+        },
+        "J": {
+          "score": -3,
+          "reason": "P-leaning. Reddit reinforces extreme academic P: 'refused to study for 3 years and decided to dedicate that time to streaming and editing while failing all exams.' 'Never does things she is not interested in,' terrible academic habits, didn't finish summer homework until September, 'makes plans full of holes,' bad with money. Her discipline only activates for things she cares about (school idol practice right before exams). Moderately P."
+        },
+        "T": {
+          "score": -5,
+          "reason": "Strong F. Her motivations are entirely emotional and relational — trauma, bond with Rurino, ambition to move people, strong sense of justice, snaps at unfairness, reads people well. Reddit adds the mother-sacrifice response (made a blast of a performance to repay mother's sacrificed dream) — pure Fi value-response. Cocky/sharp doesn't mean T; it means Fe with edges."
+        },
+        "C": {
+          "score": 5,
+          "reason": "Net confident, with cracks. 'Aware of her own cuteness' and openly works it, 'proudly calls Miracle Park! the strongest unit,' cocky in private. Reddit: 'spares no effort in admitting she's cute,' bold overseas graduation decision. But 'fear and insecurity deep in her heart,' trauma from the fall, hid the truth from Rurino. External confidence is real; underlying fear exists but doesn't dominate."
+        },
+        "M": {
+          "score": 7,
+          "reason": "High but with revised framing. Reddit reframes her core as 'freedom' rather than pure ambition: 'if there was one word to describe Megumi, it would be Freedom.' 'Make the world fall under my spell' global dream, refused the laid-out path, leaves alone for California, 'swore Miracle Park! would rise again' after defeat. Still high ambition but the engine is more Fi-autonomy than pure Ni-vision — she wants freedom to be extraordinary, not systematic world-change."
+        },
+        "O": {
+          "score": 5,
+          "reason": "Resilient. Survived the trauma, came back, rebuilt the unit, went international. Reddit frames her as 'probably the funniest character in Hasunosora' — her comic resilience is more prominent than her trauma in fan experience. 'Can start shouting when unfair things happen' and 'can spiral into depression' still exist but are less central. Net moderately positive."
+        },
+        "A": {
+          "score": 6,
+          "reason": "Genuinely caring under the playful/cocky surface. 'Very caring and dependable when others truly need help,' strong sense of justice when friends get hurt, advises Hime insightfully, reconciles conflicts generously. Reddit confirms: she felt bad about her mother's sacrifice and made her performance a repayment. Tempered by her bratty/teasing side and the early-era selfishness. Net moderately high."
+        },
+        "U": {
+          "score": 5,
+          "reason": "Notably unique combo. Former child actor, self-aware cute-performer with signature greeting ('Hello Megu'), fashion-obsessed, editing/directing/illustration skills, runs own channel, German Shepherd affinity, goes to California alone to pursue global dream. Not eccentric like Tsuzuri but genuinely distinctive profile."
+        },
+        "N": {
+          "score": 3,
+          "reason": "Moderately N, reduced on re-read. Still visible in the 'black history' self-view (distinct-from-past-self framing), the expansive scale of her dream, her ability to reframe situations abstractly. But Reddit emphasizes her impulsive Ne-scheming (pigeon trap for Hime with acrylic figure, invading Hime's room) and her following Rurino's path rather than purely self-initiated Ni-vision. Net moderate N."
+        }
+      },
+      "mbti_reasoning": "ENFJ holds with strong majority fan vote (16 vs 6 ESFJ, ~3:1) but Reddit data made me genuinely reconsider whether ENFP might fit better. My current call is ENFJ but this is the closest call in Hasunosora. The ENFP case from Reddit: 'freedom' as core framing (Fi-individuation), impulsive schemes (pigeon trap = Ne), follows Rurino's California example rather than purely original visionary, 'refused to study for 3 years' is classic ENFP Fi-dominant-interest-only, mother-sacrifice response is Fi value-articulation. I still land on ENFJ because: (1) 'Make the whole world fall under my spell' is scale-unlimited in a way more consistent with Ni-Fe transformation than Fi-Ne individuation; (2) 'Add more things you love' reframe for Hime has an Ni-pattern-dissolution quality (not just 'your values are all valid' but 'the conflict between them is the wrong frame'); (3) Her self-transformation between arcs is more radical than typical Fi-values-update — the complete re-performing of speech/persona suggests Ni-vision of who she becomes; (4) The 16:6 fan vote reflects community reading of full story arcs I don't have access to. However, I want to explicitly flag: if more story content came in showing her Ne-impulsiveness as more dominant than Ni-vision, I'd flip this to ENFP. Very different ENFJ from Setsuna (missionary), Yu (pastor), and Izumi (broken knight): Megumi is the ambitious visionary with strong Fi-individuation secondary flavor. All legitimate Fe-Ni expressions but Megumi sits closest to the ENFJ/ENFP border."
+    },
+    "izumi_katsuragi": {
+      "name": "Izumi Katsuragi",
+      "kanji": "桂城泉",
+      "color": "#1ebecd",
+      "mbti": "ENFJ",
+      "fan_votes": { "ENFJ": 8, "ENTJ": 1 },
+      "traits": {
+        "E": {
+          "score": 5,
+          "reason": "Moderately extroverted, bumped on Reddit evidence. Ninja-fast zoom-in entrance, casually confident talking to strangers, 'bursts of laughter' at Sayaka's antics, friendly bickering dynamic with Ceras, actively engages with new people. Also charismatic enough to get an audience response-callback at lives, enjoys group/team sports and festivals. More actively social than I originally had, though still private about her emotional core."
+        },
+        "J": {
+          "score": 6,
+          "reason": "Structured and goal-directed, bumped on Reddit evidence. 20 performances in 9 months = execution discipline. 'Undefeated through every contest.' Reddit emphasizes management capabilities during the 105th-year gaming arc, and the direct 'so we just need to win' framing when told about complex plans. Decisively structured when working toward a goal, though flexible about methods."
+        },
+        "T": {
+          "score": 0,
+          "reason": "Truly mixed, bumped toward neutral on Reddit evidence. Fe-dominant motivation (lives through others' dreams, Fe-pedagogy tough love) but notable Te-like surface: 'so we just need to win' radical directness, management competence, self-aware 'selfish purpose of getting stronger rivals' framing (Fi-comfort with self-interest, Te-acceptance that one's goals can drive relationship choices). She reads as half-T half-F in behavior even though her function stack is Fe-dominant."
+        },
+        "C": {
+          "score": 6,
+          "reason": "Strong self-assurance, bumped on Reddit evidence. 'Self confidence is on another level' per Reddit, radical directness ('so we just need to win'), fearless in silly bits, loud delighted laughter, approaches strangers casually. But the hollow inner core remains — she's secure in her competence but empty in her self. Net strongly positive from the external, tempered by the inner void."
+        },
+        "M": {
+          "score": 7,
+          "reason": "High but weird. On behalf of Ceras, she's relentlessly ambitious — transferred schools, won 20 competitions, trains constantly, will do anything to win. But she has zero personal ambition. Her drive is borrowed. Scoring high because the behavior is unambiguous ambition, but flagging that it's proxy-ambition rather than self-directed."
+        },
+        "O": {
+          "score": 1,
+          "reason": "Slightly positive, bumped on Reddit evidence. On the surface she's composed and functional, capable of delighted laughter and playful teasing — 'bursting of laughter' at Sayaka's shenanigans per Reddit, genuine enjoyment of Hasunosora weirdness, friendly bickering with Ceras. But the underlying worldview is bleak: colorless world, 'hollow ghost,' treats herself as a devil, 'doomed to only remain useful in her suffering.' She functions through service but doesn't expect good things for herself. Net slightly positive — she's more integrated than pure-hollowness reading suggested."
+        },
+        "A": {
+          "score": 4,
+          "reason": "Genuinely helpful in a deep way (lives entirely to serve others' dreams) but the empathy is structurally weird — she 'never really felt a connection towards the other person' per one PDB read, and pushes people away when she thinks they'd be harmed by closeness with her. Reddit adds nuance: her harsh advice is sometimes 'for a more selfish purpose of getting stronger rivals' — self-aware mixed motive. Her helpfulness is near-absolute but her intimacy capacity is damaged and she knows it. Net moderately positive but less than seemingly-warm characters."
+        },
+        "U": {
+          "score": 6,
+          "reason": "Distinctive profile. Affected theatrical speech patterns with old-fashioned phrasing, self-identifies as 'devil' and 'knight' in her own mythology, transferred specifically to help someone win a tournament, multi-domain prodigy status (fencing + acting + programming + dance + songwriting), elaborate 'contract' framework for her relationships, deep gyudon devotion. Unconventional combination of traits."
+        },
+        "N": {
+          "score": 5,
+          "reason": "Strong Ni, bumped on Reddit evidence. Pattern recognition is elite: she sees flaws in performances at a glance, knows weaknesses through careful investigation, and critically — Reddit confirms she 'knew that Hime knew everyone's weaknesses but was purposely hiding the fact.' That meta-level pattern reading (knowing what someone else knows AND is hiding) is elite Ni awareness of interpersonal dynamics. The Ni is externally-directed and hollow when turned inward, but it's strong when applied outward."
+        }
+      },
+      "mbti_reasoning": "ENFJ with decisive fan vote (8 vs 1 ENTJ, small sample but strongly skewed) and textual analysis supports it. Critical analytical insight: Izumi is a 'broken' ENFJ — one whose Ni auxiliary is structurally damaged by past trauma. Normally an ENFJ has their own Ni vision, but Izumi's is empty. She has the capacity for Ni (pattern recognition, predictive advice, understanding where performances are lacking) but can't direct it at her own life — she has to hook her Ni into someone else's dream to use it. Still an ENFJ, just carrying a wound. ENTJ ruled out because ENTJ's Te-Ni imposes external structure toward a PERSONAL vision — Lanzhu (ENTJ) created the Association because SHE wanted idols to improve her way; Izumi wins 20 competitions because CERAS wants them won. Engine is completely different: external-directed Fe borrowing others' Ni vs. internal-directed Te executing own Ni. 'Blunt criticism' for ENTJ is better read as ENFJ tough love — she insults deliberately to push people forward, calculated Fe pedagogy for their growth (Lanzhu insults accidentally while trying to help, low Fi). ENTP ruled out (one PDB fan also walked this back) — her versatility isn't Ne exploration but Fe-instrumental learning; she explicitly says she has no personal attachment to most things, learns skills to serve others' dreams. An ENTP would explore for joy of exploration itself. The PDB enneagram discussion (Social 7 vs Social 4) is picking up on the trauma-wound correctly as enneagram-level fixation, not MBTI type. Compared to other ENFJs: Setsuna is the missionary (change how people relate to passions), Yu is the pastor (support bonded people), Megumi is the visionary (enchant the world), Izumi is the broken knight (borrow others' dreams to function). All legitimate Fe-Ni expressions with very different surface presentations."
+    },
+    "sayaka_murano": {
+      "name": "Sayaka Murano",
+      "kanji": "村野さやか",
+      "color": "#5383c3",
+      "mbti": "ISFJ",
+      "fan_votes": { "ISFJ": 25, "INFJ": 4 },
+      "traits": {
+        "E": {
+          "score": -3,
+          "reason": "Introverted with growth. 'Shy in front of strangers,' 'struggles with public chatter, calling out to passersby, self-introductions,' keeps to herself at first. Reddit confirms she initially actively rejected Kaho saying 'she didn't need friends at school,' was 'shy, stiff, awkward' before growing warmer. Opinion C: 'Saya went from a stern and serious to now a much warmer person.' Gradually improved through practice but introvert baseline is foundational, not just passive."
+        },
+        "J": {
+          "score": 9,
+          "reason": "Near-max, bumped on Reddit evidence. 'Strict daily rhythm, handles self-control as if second nature,' schedule-manages entire unit/trip/events, balances figure skating and idol work through pure discipline, 'frighteningly effective' as substitute president, gets called cyborg and 50-hour-day person. Reddit: 'the clock as her symbol really fits her,' 'the most versatile girl of the group,' babysits Tsuzuri (bentos, wake-ups). On par with Kozue for highest J in the cast."
+        },
+        "T": {
+          "score": -2,
+          "reason": "Moderate F. Methodical and disciplined (T-adjacent) with sharp accidental barbs ('Jackknife Murano'), but her motivations are entirely relational. Reddit reframing: 'to meet everyone's expectations' and 'to face everything firmly and earnestly' are her raison d'être articulations — both are Fe-duty frames, not T-analytical. The straight-man/realist role serves group harmony, not individual analytical truth. Net moderate F."
+        },
+        "C": {
+          "score": 0,
+          "reason": "Mixed. 'When things go smoothly under her control, she can become very confident.' But 'when that structure collapses through failure, she falls hard into despair,' feels inferior to Tsuzuri's talent, envies her, worries her stiffness drives others away. External competence creates conditional confidence; inner structure is fragile."
+        },
+        "M": {
+          "score": 8,
+          "reason": "Very high. 10 years of figure skating discipline, won regional skating competition, 'works extremely hard at everything she does,' handles enormous workload, 'wants to answer the expectations of people cheering for her.' Reddit: 'she has a really strong willpower that even Kozue finds praiseworthy and keeps moving forward no matter the results of her efforts.' Driven through excellence rather than competition. Near-max."
+        },
+        "O": {
+          "score": 3,
+          "reason": "Bumped slightly on Reddit evidence. 'Genuine hard worker who doesn't give up when times are tough,' 'used to defeat' and keeps striving. Reddit: 'keeps moving forward no matter the results of her efforts' is stronger resilience framing than I had. Growth from stern-stiff-awkward to warm-goofy over three years shows genuine forward-motion optimism. Net moderately positive."
+        },
+        "A": {
+          "score": 7,
+          "reason": "High empathy expressed through concrete service. 'Cannot bring herself to neglect other people,' 'unintentionally gives help where it isn't wanted,' cooks for all 10 members, wakes Tsuzuri, mentors Kosuzu intensively, promises to remain worth chasing. Tempered slightly by accidental harshness and the fact that her care can be overwhelming. Net high."
+        },
+        "U": {
+          "score": -3,
+          "reason": "Conventional profile. Figure skater (traditional discipline), cook, honor student, polite formal speech, reliable co-president type. Her quirks (red panda love, vegetable friends merchandise, Demon Number Two nickname) are charming but fan-service flavor, not deep eccentricity. Reddit confirms she's archetypally 'the perfect girl' and 'the voice of reason' — conventionally idealized hardworking archetype."
+        },
+        "N": {
+          "score": -4,
+          "reason": "Strongly grounded in concrete Si. Methodical skating practice, inherited-from-sister tradition, step-by-step literary analysis, practical cooking, schedule management, learns by repeating and improving. Her breakthrough insights come from Si-pattern-matching to personal history, not Ni abstract vision."
+        }
+      },
+      "mbti_reasoning": "ISFJ with decisive fan vote (~6:1 over INFJ) and textual analysis strongly supports it. Key Si-Fe diagnostics throughout: cooks specifically for others because she 'enjoys thinking about the person who will eat it' (concrete service to specific people, doesn't enjoy cooking for herself alone), inherited figure skating from older sister and originally 'emulated her exactly,' formal hierarchical address to everyone, schedule-management at near-inhuman level. Her slump response is especially diagnostic: when told 'you're not expressive enough,' her solution was 'no matter how perfectly she practices' — pure Si (apply the method harder when something's wrong). She only breaks out when pushed into novel sensory experience at Omicho Market, activating tertiary-inferior functions externally rather than proactively reframing. An INFJ in a slump would overthink and abstract. Literature preference is telling: 'enjoys tracing how an author arrives at an idea and solving a text through thought' is Si-Ti process-enjoyment, not Ni meaning-extraction. Likes math for clear solutions (Ti-Si axis). INFJ case exists in her Kosuzu insight (recognizing the copy-the-admired-one pattern) but comes from Si-Fe pattern-matching to personal history (she lived it with her sister), not Ni abstract vision. Her 'intentionally cruel' words to Tsuzuri read as Fe wielding deep concrete knowledge of this specific person, not Ni insight. Sayaka is a notably healthy, high-functioning ISFJ — different from Ayumu (insecurity-core) or Kanata (sleepy-caretaker): she's the disciplined-athlete ISFJ, channeling Si-Fe through elite-level execution. Hasunosora's Si-heavy cast (Sayaka ISFJ, Kozue ESFJ, Ginko ISTJ so far) reflects the narrative emphasis on tradition, mastery, and concrete inheritance."
+    },
+    "kosuzu_kachimachi": {
+      "name": "Kosuzu Kachimachi",
+      "kanji": "徒町小鈴",
+      "color": "#fad764",
+      "mbti": "INFP",
+      "fan_votes": { "INFP": 15, "ENFP": 7 },
+      "traits": {
+        "E": {
+          "score": -2,
+          "reason": "Effortful extroversion masking anxious introversion. 'Speaks clearly and loudly' but 'as if she is trying very hard not to lose her nerve,' freezes up when nervous, internal monologue dominates her characterization, needs solitude for her challenges (trained alone before Love Live finals). Mild introvert pushing outward."
+        },
+        "J": {
+          "score": -3,
+          "reason": "P-leaning. 'Sincere but disorganized and often falls behind on assignments,' academic struggles, 'mischievous' pranks (forging forms, sneaking food), 'nearly keeps pushing on anyway' when she misunderstands something, tends to improvise. Her Kachimachi Challenge is a disciplined project but spontaneously generated challenges. Moderate P."
+        },
+        "T": {
+          "score": -5,
+          "reason": "Strong F, bumped on Reddit evidence. Her entire character is feeling-driven: self-worth crisis, admiration dynamics, value-articulation ('challenging yourself is never wrong'), caring deeply about specific people (Sayaka, Yukika, Tsuzuri), can't bear seeing people cry. Reddit adds: 'her devotion for her friends,' 'her initiative for doing something she wants to' (explicit Fi-autonomy value), idealizing Sayaka as perfect, believing Megu's jokes wholeheartedly. Solid Fi."
+        },
+        "C": {
+          "score": -8,
+          "reason": "Near-max insecurity, lowered further on Reddit evidence. 'Extremely low self-esteem, putting herself down and stating things like \"It'd be better if I wasn't around,\"' believes she has 'never done a single amazing thing,' called herself 'a shameless good for nothing.' Opinion B highlights a diagnostic detail: 'it's tragic that her self esteem is so low she refers to herself by last name instead of first name' — she hasn't claimed her given name, which is about as foundational an identity-insecurity signal as exists. Nearly max insecure."
+        },
+        "M": {
+          "score": 7,
+          "reason": "High. Relentless challenge-pursuit, Kachimachi Challenge project, 'keeps trying no matter how often she has to,' pushes herself 'to the point of exhaustion or physical danger,' trains until she succeeds. Driven by inadequacy rather than competition, but drive is unmistakable. Her ambition IS her defining trait."
+        },
+        "O": {
+          "score": 3,
+          "reason": "Positive, bumped on Reddit evidence. Reddit frames her resilience as the defining trait: 'her willpower is just unmatched, her resilience of standing up every time no matter how hard the fall is just impressive.' The specific Kosuzu paradox: 'she is so used to failure that she isn't afraid of it... never expects anything from her, but despite all that she always keeps trying' — Fi values (I'll try my best) operate independently of Ne predictions (I'll probably fail). Her cognitive pessimism coexists with remarkable behavioral optimism. Net positive."
+        },
+        "A": {
+          "score": 7,
+          "reason": "High empathy. 'Good at identifying people's strengths' (developed through envy but deployed generously), 'good at complimenting people and making them feel more confident,' makes a film for Yukika to encourage her dream, steps in to stop Sayaka/Tsuzuri conflict, unable to bear Tsuzuri crying. Warm toward others while harsh toward herself."
+        },
+        "U": {
+          "score": 3,
+          "reason": "Mildly unconventional. Dinosaur obsession (wants to become 2-4 meters tall), 'Chesuto!' shout from grandfather, claw-roar pose, fishing family identity in an idol school, stationery collection, impulsive film projects. Charmingly eccentric but not extreme. Net moderate positive."
+        },
+        "N": {
+          "score": 3,
+          "reason": "Moderately N. Strong internal narrative and self-mythology (fundamental Ne auxiliary use), generates endless creative challenges, film-project creativity. But she's also grounded in concrete family roots (Tsuruga fishing), specific physical challenges (lake crossing), fish identification, tactile badge collection. Net moderate N."
+        }
+      },
+      "mbti_reasoning": "INFP with clear fan vote majority (~2:1 over ENFP) and textual analysis supports it — Reddit data adds further validation. The Fi-Ne rumination structure is diagnostic: her internal narrative evaluates her fundamental self against a value (being 'someone who accomplishes amazing things') rather than her performance against expectations. The Reddit-articulated paradox is especially telling: 'she is so used to failure that she isn't afraid of it, never expects anything from her, but despite all that she always keeps trying' — Fi values (I'll try my best because that's who I want to be) operate INDEPENDENTLY of Ne predictions (I'll probably fail). These two functions can contradict each other without disabling her. An Si-Fe character like Ayumu would need her effort to pay off through concrete relational validation; Kosuzu's effort is self-justifying through Fi-authenticity. The last-name-self-reference detail (Opinion B: 'it's tragic that her self esteem is so low she refers to herself by last name instead of first name') is a very Fi-specific insecurity — she hasn't claimed her given name, which is identity-level struggle, not role-performance struggle. Compare to Ayumu (ISFJ) whose insecurity is relational and concrete ('not good enough for Yu'): Kosuzu's insecurity is about her fundamental identity ('I have never been amazing'). ENFP ruled out because Ne-dom would generate challenges for their own sake (exploration is the joy); Kosuzu's challenges are instrumental — each is a potential path to Fi-self-worth. Auxiliary Ne serving dominant Fi, not dominant Ne. Not actually extroverted: 'speaks clearly and loudly' but 'as if trying very hard not to lose her nerve,' freezes when nervous — anxious introvert pushing through. ISFP ruled out by the head-bound self-narrative structure: ISFPs with Se auxiliary are present-grounded and aesthetic, but Kosuzu is constantly thinking about her own identity, history, and hypothetical future self — that's Ne not Se. Her 'good at identifying strengths of others' skill came specifically from 'envying others,' which means her Fi has spent extensive time in value-comparison — classic INFP mechanism. Her film project for Yukika is pure Fi-Ne: use creative work to communicate an internal truth ('challenging yourself is never wrong') to a specific person. Her misunderstanding Sayaka's self-expression lesson as 'relying on others is forbidden' is also Fi — interpreting abstract advice through personal value-framework with distortions."
+    },
+    "rurino_osawa": {
+      "name": "Rurino Osawa",
+      "kanji": "大沢瑠璃乃",
+      "color": "#e7609e",
+      "mbti": "ISFP",
+      "fan_votes": { "ESFP": 22, "ISFP": 11 },
+      "dissents_from_fan_majority": true,
+      "traits": {
+        "E": {
+          "score": -3,
+          "reason": "Strongly introverted beneath extroverted affect. Reddit validates this emphatically: Opinion C uses Rurino as a textbook explanation of introversion ('other humans can be fun, but they suck your battery dry like a next-gen game on a 5yo phone. Going alone into nature recharges it'). Her 'social battery' is described by Opinion A as a defining trait — she's the canonical introvert character of the cast. Battery depletion is explicit text — cannot sustain social interaction indefinitely, 'loves solitary activities,' hides in cardboard box to recharge. The party-girl presentation is effortful performance."
+        },
+        "J": {
+          "score": -4,
+          "reason": "P-leaning. Spontaneous, curious, throws herself into new hobbies, goes where her interest leads, improvises her approach repeatedly across arcs, her 'Handywoman Ruri' project is about responsive flexibility. Academics are 'above weak students' but not structured, no remedial classes but she's not a grinder. Moderate P."
+        },
+        "T": {
+          "score": -5,
+          "reason": "Strong F. Entirely feeling-driven: cares about everyone's emotional state, depletion from empathy, Fi value-articulation throughout ('we should also reach people who don't have energy to get excited'), doesn't enjoy direct competition because she dislikes hurting/excluding. Relational and values-based cognition."
+        },
+        "C": {
+          "score": -1,
+          "reason": "Slightly negative. Surface confidence (bright, energetic, 'can find enjoyment in anything'), but the depletion pattern includes self-mutter like 'Ruri is a plankton,' hides her weakness from people, fears burden. Reddit adds: 'constantly having to face her doubts of whether her friends are having fun with her or getting bored' + early fear of Megumi at arrival. She's not insecure about her abilities; she's chronically anxious about being too much for others."
+        },
+        "M": {
+          "score": 5,
+          "reason": "Moderate ambition that grows. Initially frames Love Live as 'enjoyable because Megumi makes it look fun,' but evolves into genuine ambition through the arcs — wants to compete, wants to be trusted, decides on solo artist career. Her ambition is late-blooming but real by graduation. Solo artist decision is a significant self-directed ambition statement."
+        },
+        "O": {
+          "score": 4,
+          "reason": "Resilient overall. Bounces back from repeated depletions, survives multiple major interpersonal conflicts (with Megumi, with Hime, with Kaho-Sayaka), keeps finding new approaches. The depletion is real but she always comes back. Net moderately positive."
+        },
+        "A": {
+          "score": 9,
+          "reason": "Near-max empathy, Reddit-validated. 'The kindest and most considerate member of the cast,' Reddit confirms: 'so selfless that she prioritises others having fun over herself.' 'Constantly watches how other people are feeling,' develops depletion specifically from over-caring, 'Handywoman Ruri' project exists because she can't bear knowing someone needs help and not acting. The ceiling character for compassion in Hasunosora."
+        },
+        "U": {
+          "score": 3,
+          "reason": "Notably unconventional combination. Battery-depletion concept (community-iconic trait), cardboard box refuge, California returnee, loves difficult old Japanese sayings despite bad English, names her guitar 'Sazanami-chan,' Chow Chow goods collector. Opinion A: 'she is a nature loving girl, which I have definitely would not expected at first glance, and her hobbies of batting and fishing was nice to see, you don't often see those two combined together.' The surface/core gap is one of her defining features."
+        },
+        "N": {
+          "score": 1,
+          "reason": "Slightly N-leaning. Her auxiliary is Se (grounded in physical, present, sensory experience) but she has significant reflective/analytical capacity — multiple rounds of arc-transforming self-reflection, theorizes about language-exchange-as-passion, articulates philosophical principles. Not a textbook ISFP (who typically have weaker abstract-reasoning surface) but not strongly N either. Slight positive."
+        }
+      },
+      "mbti_reasoning": "ISFP — DISSENTING FROM MAJORITY FAN VOTE, STRONGLY VALIDATED BY REDDIT DATA. PDB fans voted ESFP 22 vs ISFP 11 (2:1) but Reddit community consumption of full story content reads her unambiguously as introverted. Opinion C is particularly powerful: uses Rurino as a TEXTBOOK example of introversion ('Her explanation what being introvert means was the first and most correct I have ever heard. That will stick for life. Other humans can be fun, but they suck your battery dry like a next-gen game on a 5yo phone. Going alone into nature recharges it. My best friend is an extrovert, he immediately understood it explained this way, too, and for him it works the other way around'). Opinion A names 'social battery' as a defining trait. This is not an ESFP's cost structure — ESFPs like Ai Miyashita draw energy FROM people, not spend energy on them. The PDB majority was responding to her party-girl surface (loud, friendly, approachable); Reddit shows that those consuming full story uniformly read the underlying introversion. Rurino's entire motivational architecture is Fi-driven: protects lively spaces in childhood BECAUSE she values them, favorite saying is a Fi-authenticity principle about personal initiative, 103rd-term arc is about not being Megumi's shadow and finding HER OWN dream (Fi individuation), 104th-term arc proposes gentler unit events for people without energy to get excited (Fi universal-compassion), 105th-term arc is about being trusted to help even when it costs her (Fi moral commitment), 'Handywoman Ruri' project is Fi-driven individual helping, climactic insight is 'strong self and weak self are both irreplaceable' (pure Fi value-articulation about authentic selfhood). She's ISFP with high Se auxiliary expression (physical outdoor activities, fishing, basketball, FPS games) wrapped in deeply Fi-driven individuation arc. This is now the most Reddit-validated MBTI call I've made in the cast."
+    },
+    "kaho_hinoshita": {
+      "name": "Kaho Hinoshita",
+      "kanji": "日野下花帆",
+      "color": "#f8b500",
+      "mbti": "ENFP",
+      "fan_votes": { "ENFP": 27, "ESFP": 4 },
+      "traits": {
+        "E": {
+          "score": 8,
+          "reason": "Strongly extroverted. 'Talkative and fearless in front of others,' improvises polished performances, thrives in streaming/live interaction, 'too friendly toward strangers,' makes friends easily, approached Sayaka on the train just because of shared uniform. 'Eager rambling' is an energy-generating mode, not effortful. This is a real extrovert — compare to Rurino's effortful version. High E."
+        },
+        "J": {
+          "score": -5,
+          "reason": "Strongly P-leaning. Tried to cut corners on practice, skipped morning practice with excuses, summer homework unfinished on August 31, academics are a weak point, impulsive plans ('concerts every day for a week'), 'charges ahead in the wrong direction.' Reddit reinforces: 'gives 100% and has little sense of her limits,' 'when she commits, she forgets all doubt and assumes the universe will make it happen if she does something as big as she can, and she's regularly proven right!' Whim-driver at a remarkable level. Moderate-to-strong P."
+        },
+        "T": {
+          "score": -5,
+          "reason": "Strong F. Entirely feeling-driven: makes friends from loneliness, her dream is about emotional states ('blooming' = thriving/joy), encourages with 'It'll be fine' even when reasoning is invisible, fears being left alone, emotional swings between elation and self-loathing. Reddit diagnostic: when she tried to be 'responsible goal-oriented' and said it 'wasn't about having fun,' fans shouted 'Kaho, no!' — her T-like behavior is seen as BETRAYING her authentic core. Relational and values-based cognition throughout."
+        },
+        "C": {
+          "score": 3,
+          "reason": "Net positive with fragility and a specific nuance. 'Very high self-confidence in things she enjoys or excels at' (Kozue envies this), fearless in public, dramatic-mode theatrical laugh. But Reddit adds: 'she often has more faith in her ability to help others than in her ability to bloom herself' — her confidence is outward-directed (she believes in what she can do for others) but inward-hesitant (needed convincing she could bloom as an idol herself). The fluorescent-light on/off pattern means confidence fails hard when it fails. Net moderate positive."
+        },
+        "M": {
+          "score": 6,
+          "reason": "Moderately high but specifically NOT competitive-ambitious. Her motto is 'I want to bloom,' pursuing it relentlessly. 'Puts all her energy into what she enjoys,' organized major events (Starring Bloom, Bloom Garden Party), became club co-president. But Reddit clarifies her drive: her ambition 'isn't about winning Love Live' — when she tried to be Lanzhu-ambitious she betrayed her core. Her ambition is relational-playful (help everyone bloom, have fun with people) rather than competitive. Genuine drive but different shape than Megumi/Izumi."
+        },
+        "O": {
+          "score": 7,
+          "reason": "Strong resilience. 'Endlessly cheerful and energetic,' 'smile on her face no matter what,' defining trait is the bright optimism. The depression episodes exist but always resolve — she bounces back. Her baseline and her recovery mode both dominate her despair mode. Net strongly positive."
+        },
+        "A": {
+          "score": 8,
+          "reason": "High empathy. Saves the club repeatedly by caring about specific members (Ginko's dream, Kozue-Tsuzuri repair, Megumi's return via Rurino, Sayaka's return to figure skating), extreme supportiveness, 'help everyone bloom' is her evolved dream, welcoming to strangers, encourages with wholehearted reassurance. Her entire character arc is interwoven with saving others. Not 9 only because her passion can occasionally be intrusive/selfish."
+        },
+        "U": {
+          "score": 2,
+          "reason": "Mildly unconventional. Flower-family background, illness history, escape attempt on day 2, fantasy-RPG concepts, blooming-metaphor worldview. But fundamentally she's a warm sunny-girl archetype in core personality. Charming individual details, conventional archetype."
+        },
+        "N": {
+          "score": 6,
+          "reason": "Strong Ne. Metaphor-generation ('blooming'), breakthrough idea synthesis, fantasy literature affinity, conceptual planning extremes, scripts/events/concepts. Reddit adds operational specifics: phone-data trick for Link to the Future medley, nationwide school idol campaign to get Ceras into playoff — her Ne operates at genuinely creative-problem-solving scale, not just metaphorical. Strong Ne through both language and action."
+        }
+      },
+      "mbti_reasoning": "ENFP with decisive fan vote (27 vs 4 ESFP, nearly 7:1) and textual analysis strongly supports it. Key Ne-Fi diagnostics: (1) 'One of the story's strongest idea generators' — 'repeatedly comes up with the plans that break through impossible situations.' The Link to the FUTURE medley is explicitly called 'almost the only viable strategy.' ESFPs excel at in-the-moment response but don't typically generate abstract structural solutions. (2) The 'blooming' metaphor is her actual cognitive framework — she articulates a Fi-values principle through Ne-metaphorical language, evolves it ('I want to bloom' → 'help everyone bloom'), and uses it to generate action. Fi articulates value, Ne generates framework. (3) Unlimited extremes in planning ('concerts every day for a week,' pushing a live to December of third year) — Ne ideas unconstrained by practicality filter. ESFPs are MORE grounded in situational reality, not less. Kaho's extremes are abstract/conceptual. (4) Fantasy literature affinity — developed 'Hasu no Sora Fantasy' RPG concept, named novels in solo streams, scripts. Fantasy genre requires Ne comfort with speculative worlds. (5) 'Fluorescent light' pattern (sudden on/off, shine-rush-ahead then sink into self-loathing) is classic Fi-Ne emotional swing. Her instant rational leadership in training-camp crisis surprised Hime because it was NOT her dominant mode — that's tertiary Te waking up under pressure, which is ENFP under stress. Compared to Kasumi (Nijigasaki ENFP): same type, different health profile. Kasumi's ENFP is schemey-selfish surface with hidden warmth; Kaho's is warm-passionate surface with hidden fragility. Both legitimate Fi-Ne-Te-Si stacks. Real extrovert comparison: her E=+8 vs Rurino's -2 crystallizes the distinction — Kaho's talking is energy-generating ('eager rambling' as mode), Rurino's is effortful."
+    },
+    "hime_anyoji": {
+      "name": "Hime Anyoji",
+      "kanji": "安養寺姫芽",
+      "color": "#9d8de2",
+      "mbti": "ENFP",
+      "fan_votes": { "ENTP": 9, "ENFJ": 4 },
+      "dissents_from_fan_majority": true,
+      "traits": {
+        "E": {
+          "score": 4,
+          "reason": "Moderate extroversion, revised on Reddit evidence. Reddit emphasizes 'laid back and calm most of the time' as her baseline, with fired-up mode being intermittent bursts ('truly unstoppable once lit up'). Streamer background, 'most comfortable with livestreams among 104th class members,' loud/passionate in hype mode, teases classmates casually. But baseline reads more mellow than consistently social — similar fluorescent-light on/off quality as Kaho. Net moderate E."
+        },
+        "J": {
+          "score": -2,
+          "reason": "P-leaning, lowered on Reddit evidence. She has domain structure (maintains average grades deliberately, daily training discipline) but her orientation is impulsively Fi-driven: Reddit shows her falling for an obviously-telegraphed pigeon trap because she was obsessively collecting Megumi acrylic stands, sacrificing sleep for gaming, leaving wall-of-text stream comments obsessively. The training discipline is a learned Fi-commitment, not native J. Net moderate P."
+        },
+        "T": {
+          "score": -3,
+          "reason": "Stronger F than I initially had. Reddit adds clarifying Fi evidence: pink aesthetic self-authorship ('SO pink, like not even just by birth like her hair but by choice. Her nails. Her hoodie. The strawberry milk for extra pink flavor'), goddess-worship of Megumi ('prayed to Megumi as if she was an actual goddess'), models her own growth on Rurino-Megumi's example. All Fi-value-driven cognition. Surface T (competitive, tactical, gaming-system thinking) is dressed-up Fi-commitment."
+        },
+        "C": {
+          "score": 2,
+          "reason": "Positive but fragile in new contexts. Confident in her gaming skill (tournament favorite), carries authority in her domain, not self-deprecating about her ability. But Reddit shows real fragility: 'utterly shocked' when RuriMegu visited her room (so nervous she could barely offer tea), depressed after 10-game losing streak, 'bad day' compounded by Megumi calling her bad, 'feared being seen as dead weight,' 'felt even her own frustration might be too presumptuous.' Confidence in mastered contexts, insecurity in new interpersonal situations."
+        },
+        "M": {
+          "score": 5,
+          "reason": "Moderate-high, revised on Reddit evidence. Reddit reframes her as 'laid back most of the time' with bursts of focus when 'lit up.' Won a student tournament, chose her school based on her passion, trains obsessively when engaged, wants to 'spread her favorite game' as her life's mission. But ambition is domain-specific bursts rather than consistent drive. Net moderate."
+        },
+        "O": {
+          "score": 5,
+          "reason": "Resilient. Found new purpose after student team disbanded, recovered from slump through self-reflection, processed relational trauma into growth, fundamentally enthusiastic affect ('UOOOOOH!' hype mode). The wounds are real but integrated. Net positive."
+        },
+        "A": {
+          "score": 6,
+          "reason": "Genuinely caring. Her core values include 'not hurting anyone with opinions' (overcorrection from past harm), goes fishing/embroidery with members, writes screenplays, supports her idols with long devoted comments, promises Megumi to support Rurino. Empathy is real but refracted through competitive intensity. Net moderately high."
+        },
+        "U": {
+          "score": 5,
+          "reason": "Genuinely distinctive, bumped on Reddit evidence. Esports-recruit high schooler, 'Tsumayouji' streamer identity, 'UOOOOOH!' hype shout, speed-eating from game queues, decorated-nails-cut-short-for-gameplay, Nanachi/Faputa anime favorites. Reddit adds: intentional PINK-everything aesthetic (nails, hoodie, strawberry milk 'for extra pink flavor'), acrylic-stand-trap victim, 'prayed to Megumi as goddess,' fish-pastry-from-tail eater. The full picture is more distinctively eccentric than bio alone suggests."
+        },
+        "N": {
+          "score": 4,
+          "reason": "Moderately N. Ne visible in her possibility-exploration during slump (tries every hobby), her ability to find abstract connections ('games and idols both give me X'), her articulation of unifying values. Tempered by her grounded competitive-practical orientation. Net moderate N."
+        }
+      },
+      "mbti_reasoning": "ENFP — DISSENTING FROM MAJORITY FAN VOTE, VALIDATED BY REDDIT DATA. PDB fans voted ENTP 9 vs ENFJ 4 (2:1), ENFP wasn't on ballot, but Reddit data strongly supports Fi-Ne cognition. Key Reddit-confirmed diagnostics: (1) Pink aesthetic self-authorship — Opinion B notes she's 'SO pink by choice' (nails, hoodie, strawberry milk for pink flavor) — intentional Fi-values expression through aesthetic identity, not ENTP's more detached relationship to personal style. (2) Devotional goddess-worship of Megumi ('prayed to Megumi as if she was an actual goddess,' 'consider them goddesses out of her league even in same unit') — Fi places irreplaceable value on specific people, incompatible with ENTP skeptical-playful orientation. (3) Acrylic stand obsession causing her to fall for an obvious pigeon trap — impulsive Ne-enthusiasm driven by Fi-attachment, not Ti-reasoning. (4) Modeling her own growth on Rurino-Megumi's confrontation example ('do what Megumi and Rurino did and confront each other with their dreams') — Fi learning from role models rather than independent Ne-Ti reframing. (5) Perceptive-but-silent pattern: she knows everyone's weaknesses but chooses not to speak because Fi-care for their feelings overrides Ne-observation. (6) Practice philosophy 'put in the time' plus embracing repetition — ENTPs burn out on repetition, Hime embraces it as Fi-commitment. (7) Her breakthrough insight 'what I truly love is enjoying something together with someone else' is Fi value-articulation through introspection, not Ne pattern-observation. ENTP voters are likely responding to the gamer+competitive+tactical stereotype, but her cognition runs on Fi-Ne. Similar fluorescent-light on/off pattern to Kaho — both are ENFPs with specific-interest bursts between calm baselines. Hasunosora has two ENFPs (Kaho and Hime) expressed very differently: Kaho is sunshine-metaphor-generator ENFP; Hime is intense-fan-competitor ENFP. Both have Fi-Ne-Te-Si stacks manifesting through different domains."
+    },
+    "ceras_yanagida_lilienfeld": {
+      "name": "Ceras Yanagida Lilienfeld",
+      "kanji": "セラス柳田リリエンフェルト",
+      "color": "#f56455",
+      "mbti": "INFJ",
+      "fan_votes": { "INFJ": 12, "ENFP": 1 },
+      "traits": {
+        "E": {
+          "score": 0,
+          "reason": "Truly borderline. Reddit confirms: 'came off as sort of an unemotional kuudere-type from her first appearance, but she quickly started to show off her personality more and she is an absolute weirdo goofball.' The kuudere-default / weirdo-goofball-with-trusted-people pattern is classic INFJ formal-distance-before-warm-eccentricity. Text is explicit she's 'lonely, clingy, and somewhat shy' underneath, has trouble deepening friendships, was companions with stuffed animals during hospital stays, needs time to lower her guard. The mask is effortful. Net neutral — the extroverted performance and introverted core cancel out."
+        },
+        "J": {
+          "score": 4,
+          "reason": "Moderate J, bumped on Reddit evidence. Long-term patient planning (visited ~300 schools, multi-year Mizukawa preservation plan), executes multi-step strategies, strict training regimen for Izumi with specific quality standards (Reddit-confirmed). Procrastinates heavily on summer homework and is 'too busy thinking about school idols to study,' but J when it matters for her mission. Net moderate J through mission-execution."
+        },
+        "T": {
+          "score": -4,
+          "reason": "Strong F. Entirely feeling-driven and values-oriented: her whole life is dedicated to a dream that's emotional in nature, serves others out of personal conviction, Fi-like hidden-dream pattern, Fe-like attunement when she senses Izumi needs gentleness. Relational and symbolic cognition throughout."
+        },
+        "C": {
+          "score": 3,
+          "reason": "Moderate positive, bumped on Reddit evidence. 'Very high confidence in her looks' (doll-like praise since young), introduces herself as 'mysterious beauty' without embarrassment, casually summons courage to knock on the clubroom door. Reddit emphasizes her strong will and confident execution of multi-year plans despite frail body. TV camera trauma is a specific residual insecurity but doesn't dominate. Net mild-to-moderate positive."
+        },
+        "M": {
+          "score": 9,
+          "reason": "Near-max. Her entire life is organized around a single sustained ambition: to stand on the Love Live stage as a school idol. Reddit-confirmed scale: 300 schools scouted, strict training regimen, multi-year multi-layered campaign maintained through school closure and dream impossibility. Willing to 'give everything' (and demand everything in return), pursued proxy victory through Izumi when direct path closed. This is Kozue-tier totalizing ambition."
+        },
+        "O": {
+          "score": 4,
+          "reason": "Moderately resilient. Survived childhood illness, persevered through school closure, didn't give up when her dream became impossible, maintained hope across years. But has real wounds (TV camera trauma, loneliness, dream-crushing moments she survived) and occasionally suppresses her own wishes to avoid disappointment. Net positive through persistence."
+        },
+        "A": {
+          "score": 7,
+          "reason": "High empathy. Her entire character is about serving others' dreams (inherited Mizukawa motto, evolves to 'school idol who fulfills someone else's dream'), attentive when someone is wounded, protective of Izumi's comfort with horror themes rather than teasing, suppresses her own wishes to avoid burdening others. Tempered by her clinginess and occasional attention-seeking manipulation."
+        },
+        "U": {
+          "score": 5,
+          "reason": "Notably distinctive. Half-German, violin prodigy history, hospital-companion backstory, 'Hospi-pals' nickname system, theatrical voices and absurd lies as habit, knight/princess self-mythology with Izumi, made-up creatures in stories (wyverns attacking schools), 14-syllabic-beats name tanka gimmick, corn aficionado, sea otter lover, sharks/zombies horror enthusiast, drew exaggerated chins, coins event names spontaneously. 'Absolute weirdo goofball' per Reddit confirms."
+        },
+        "N": {
+          "score": 7,
+          "reason": "Strong Ni, bumped on Reddit evidence. Thinks in archetypes (knight/princess, angel imagery), symbolic/mythic framing for real events, long-term abstract visions, metaphorical self-understanding. Reddit adds explicit Ni evidence: she predicted Kaho's emotional trajectory ('Ceras being aware she would come back more fired up than ever') — that's Ni-pattern-reading of a specific person's psychological arc, not just general perceptiveness. Solidly Ni-dominant."
+        }
+      },
+      "mbti_reasoning": "INFJ with decisive fan vote (12 vs 1 ENFP) and textual analysis strongly supports it — first INFJ across both Love Live casts I've analyzed. The single ENFP voter is likely responding to her expressive theatrical surface, but the text is unusually explicit that 'her bright and joking persona is partly deliberate' — developed during hospital stays because she wanted attention. It's a constructed mask, not native cognition. What's underneath is a genuinely Ni-dominant: (1) Indirect-approach pattern — wanted to stand on Love Live stage as Mizukawa school idol, but when Mizukawa closed before she entered high school, she didn't pivot but arranged for Izumi to win on Mizukawa's behalf, preserving the essential meaning through proxy. Classic Ni displacement — surface form changes while underlying meaning is pursued. (2) Symbolic/archetypal thinking — knight/princess framing with Izumi, Vampire-Knight-Izumi + Princess-Ceras stamp rally, self-casting as 'angel,' Hasu no Sora Fantasy setup. She structures meaning through archetypes and mythology. (3) Hidden-dream pattern — Izumi calls her 'twisted or contrary because she hides her own dream while dedicating herself to helping others.' This is a critical Ni-Fe tell: INFJs commonly pursue their deepest wishes indirectly because direct expression feels exposing or because they've integrated their wish with others' service. Her dream was always to appear in Love Live herself — she routed it through serving Izumi. (4) Patience in pursuit — visited ~300 schools, multi-year recruitment campaign, maintained fandom archives before enrolling. Ni long-game thinking, not Ne opportunism. (5) Tertiary-Ti/inferior-Se expression produces the theatrical playful surface especially when consciously cultivated. ENFPs would have genuine native expressiveness AND constant new-idea generation; Ceras has ONE sustained vision across years expressed through varying performances. Compared to the three ENFJs in Hasunosora (Megumi, Izumi) and the two in Nijigasaki (Setsuna, Yu): ENFJs' Fe is extroverted and people-reading; Ceras's Fe is auxiliary to her Ni-vision, so her focus is on pursuing her vision through relationships rather than directly orchestrating relationships. She's the first true Ni-dominant in both casts."
+    }
+  }
+}

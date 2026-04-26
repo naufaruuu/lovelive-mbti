@@ -1,0 +1,640 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="referrer" content="no-referrer">
+    
+    <title>Nijigasaki Gakuen 8D Personality Profiler</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+        tailwind.config = {
+            darkMode: 'class',
+        }
+    </script>
+    <script crossorigin src="https://unpkg.com/react@18/umd/react.production.min.js"></script>
+    <script crossorigin src="https://unpkg.com/react-dom@18/umd/react-dom.production.min.js"></script>
+    <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js"></script>
+    <style>
+        .no-scrollbar::-webkit-scrollbar { display: none; }
+        .no-scrollbar { -ms-overflow-style: none; scrollbar-width: none; }
+        @keyframes pulse-soft { 0%, 100% { opacity: 1; } 50% { opacity: 0.7; } }
+        .animate-pulse-soft { animation: pulse-soft 3s infinite ease-in-out; }
+    </style>
+</head>
+<body class="bg-slate-100 dark:bg-slate-900 transition-colors duration-300">
+    <div id="root"></div>
+
+    <script src="data/locales.js"></script>
+    <script src="data/characters.js"></script>
+    <script src="data/questions.js"></script>
+    <script type="text/babel">
+const { React, T, CHARACTERS, QUESTIONS, OPTION_VALUES } = window;
+const { useState, useMemo, useEffect } = React;
+
+const Icon = ({ name, size = 24, className = '', fill = 'none' }) => {
+    const svgProps = {
+        xmlns: "http://www.w3.org/2000/svg", viewBox: "0 0 24 24", fill: fill, stroke: "currentColor",
+        strokeWidth: "2", strokeLinecap: "round", strokeLinejoin: "round", className: className, style: { width: size, height: size }
+    };
+    switch (name) {
+        case 'star': return <svg {...svgProps}><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2" /></svg>;
+        case 'rainbow': return <svg {...svgProps} fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round"><path d="M2 17a10 10 0 0 1 20 0" /><path d="M5 17a7 7 0 0 1 14 0" /><path d="M8 17a4 4 0 0 1 8 0" /></svg>;
+        case 'arrow-right': return <svg {...svgProps}><line x1="5" y1="12" x2="19" y2="12" /><polyline points="12 5 19 12 12 19" /></svg>;
+        case 'chevron-left': return <svg {...svgProps}><polyline points="15 18 9 12 15 6" /></svg>;
+        case 'users': return <svg {...svgProps}><path d="M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2" /><circle cx="9" cy="7" r="4" /><path d="M22 21v-2a4 4 0 0 0-3-3.87" /><path d="M16 3.13a4 4 0 0 1 0 7.75" /></svg>;
+        case 'rotate-ccw': return <svg {...svgProps}><polyline points="1 4 1 10 7 10" /><path d="M3.51 15a9 9 0 1 0 2.13-9.36L1 10" /></svg>;
+        case 'trophy': return <svg {...svgProps}><path d="M6 9H4.5a2.5 2.5 0 0 1 0-5H6" /><path d="M18 9h1.5a2.5 2.5 0 0 0 0-5H18" /><path d="M4 22h16" /><path d="M10 14.66V17c0 1.1-.9 2-2 2H6" /><path d="M14 14.66V17c0 1.1.9 2 2 2h2" /><path d="M18 2H6v7a6 6 0 0 0 12 0V2Z" /></svg>;
+        case 'medal': return <svg {...svgProps}><path d="M7.21 15 2.66 7.14a2 2 0 0 1 .13-2.2L4.4 2.8A2 2 0 0 1 6 2h12a2 2 0 0 1 1.6.8l1.6 2.14a2 2 0 0 1 .14 2.2L16.79 15" /><path d="M11 12 5.12 2.2" /><path d="m13 12 5.88-9.8" /><path d="M8 7h8" /><circle cx="12" cy="17" r="5" /><polyline points="12 18 10.5 16.5 12 15" /></svg>;
+        case 'info': return <svg {...svgProps}><circle cx="12" cy="12" r="10" /><line x1="12" y1="16" x2="12" y2="12" /><line x1="12" y1="8" x2="12.01" y2="8" /></svg>;
+        case 'x': return <svg {...svgProps}><line x1="18" y1="6" x2="6" y2="18" /><line x1="6" y1="6" x2="18" y2="18" /></svg>;
+        case 'globe': return <svg {...svgProps}><circle cx="12" cy="12" r="10" /><line x1="2" y1="12" x2="22" y2="12" /><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z" /></svg>;
+        case 'user': return <svg {...svgProps}><path d="M19 21v-2a4 4 0 0 0-4-4H9a4 4 0 0 0-4 4v2" /><circle cx="12" cy="7" r="4" /></svg>;
+        case 'moon': return <svg {...svgProps}><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z" /></svg>;
+        case 'sun': return <svg {...svgProps}><circle cx="12" cy="12" r="5" /><line x1="12" y1="1" x2="12" y2="3" /><line x1="12" y1="21" x2="12" y2="23" /><line x1="4.22" y1="4.22" x2="5.64" y2="5.64" /><line x1="18.36" y1="18.36" x2="19.78" y2="19.78" /><line x1="1" y1="12" x2="3" y2="12" /><line x1="21" y1="12" x2="23" y2="12" /><line x1="4.22" y1="19.78" x2="5.64" y2="18.36" /><line x1="18.36" y1="5.64" x2="19.78" y2="4.22" /></svg>;
+        default: return null;
+    }
+};
+
+const Avatar = ({ char, lang, isLarge = false }) => {
+  const hasImage = char.image && char.image.trim() !== '';
+  return (
+    <div className="relative w-full h-full flex flex-col items-center justify-center text-center overflow-hidden bg-slate-50 dark:bg-slate-900">
+      {/* Vibrant Base Color */}
+      <div className={`absolute inset-0 ${char.color} opacity-60 dark:opacity-80 z-0 transition-colors duration-300`}></div>
+      {/* Glossy Overlay */}
+      <div className="absolute inset-0 bg-gradient-to-tr from-white/60 via-white/0 to-white/20 dark:from-black/60 dark:via-black/0 dark:to-black/20 z-0"></div>
+      <div className="absolute bottom-0 left-0 w-full h-1/3 bg-gradient-to-t from-black/20 dark:from-black/50 to-transparent z-0"></div>
+      
+      {hasImage && (
+        <img 
+          src={char.image} 
+          alt={char.name[lang]} 
+          className="absolute inset-0 w-full h-full object-cover z-10 drop-shadow-[0_10px_10px_rgba(0,0,0,0.3)]" 
+          onError={(e) => { e.target.style.display = 'none'; }}
+        />
+      )}
+      {!hasImage && (
+        <div className="z-10 flex flex-col items-center justify-center w-full h-full">
+          <span className={isLarge ? "text-xs font-bold text-white drop-shadow-md" : "text-[8px] leading-tight font-bold text-white drop-shadow-md"}>
+            {char.name[lang]}
+          </span>
+        </div>
+      )}
+    </div>
+  );
+};
+
+const RadarChart = ({ userTraits, charTraits, charColorClass, size = 280, lang, isDark }) => {
+  const center = size / 2;
+  const radius = (size / 2) * 0.65; 
+  const dims = ['E', 'J', 'T', 'C', 'M', 'O', 'A', 'U', 'N']; 
+  const labels = T[lang].dims;
+  
+  const getPoint = (value, index, total) => {
+    const scaledValue = ((value + 10) / 20) * radius;
+    const angle = (Math.PI * 2 * index) / total - Math.PI / 2;
+    return {
+      x: center + scaledValue * Math.cos(angle),
+      y: center + scaledValue * Math.sin(angle)
+    };
+  };
+
+  const getPointsString = (traitsObj) => {
+    return dims.map((dim, i) => {
+      const p = getPoint(traitsObj[dim], i, dims.length);
+      return `${p.x},${p.y}`;
+    }).join(' ');
+  };
+
+  const bgPolygons = [1, 0.75, 0.5, 0.25].map(scale => {
+    const pts = dims.map((_, i) => {
+      const angle = (Math.PI * 2 * i) / dims.length - Math.PI / 2;
+      const r = radius * scale;
+      return `${center + r * Math.cos(angle)},${center + r * Math.sin(angle)}`;
+    }).join(' ');
+    return <polygon key={scale} points={pts} fill="none" stroke={isDark ? "#334155" : "#e2e8f0"} strokeWidth="1" />;
+  });
+
+  return (
+    <div className="relative flex justify-center items-center my-4 transition-all duration-300">
+      <svg width={size} height={size} className="overflow-visible">
+        {bgPolygons}
+        {dims.map((_, i) => {
+          const p = getPoint(10, i, dims.length); 
+          return <line key={`axis-${i}`} x1={center} y1={center} x2={p.x} y2={p.y} stroke={isDark ? "#1e293b" : "#f1f5f9"} strokeWidth="1.5" />;
+        })}
+        <polygon points={getPointsString(userTraits)} fill={isDark ? "rgba(148, 163, 184, 0.15)" : "rgba(148, 163, 184, 0.25)"} stroke={isDark ? "#475569" : "#64748b"} strokeWidth="2" strokeDasharray="4 4" />
+        <polygon points={getPointsString(charTraits)} fill="currentColor" className={`opacity-50 transition-colors duration-500 ease-in-out ${charColorClass}`} stroke="currentColor" strokeWidth="2.5" />
+        {dims.map((dim, i) => {
+          const angle = (Math.PI * 2 * i) / dims.length - Math.PI / 2;
+          const labelRadius = radius + (size * 0.12); 
+          const x = center + labelRadius * Math.cos(angle);
+          const y = center + labelRadius * Math.sin(angle);
+          return (
+            <text key={`label-${i}`} x={x} y={y} textAnchor="middle" dominantBaseline="middle" className={`font-bold ${isDark ? 'fill-slate-400' : 'fill-slate-500'} ${size < 240 ? 'text-[10px]' : 'text-xs'}`}>
+              {labels[i]}
+            </text>
+          );
+        })}
+      </svg>
+    </div>
+  );
+};
+
+const RankBadge = ({ rank }) => {
+  if (rank === 1) return <div className="bg-yellow-400 text-white w-8 h-8 rounded-full flex items-center justify-center font-black shadow-md"><Icon name="trophy" size={16}/></div>;
+  if (rank === 2) return <div className="bg-slate-300 dark:bg-slate-600 text-slate-700 dark:text-slate-200 w-8 h-8 rounded-full flex items-center justify-center font-black shadow-md"><Icon name="medal" size={18}/></div>;
+  if (rank === 3) return <div className="bg-amber-600 text-white w-8 h-8 rounded-full flex items-center justify-center font-black shadow-md"><Icon name="medal" size={18}/></div>;
+  return <div className="bg-slate-100 dark:bg-slate-800 text-slate-500 dark:text-slate-400 w-8 h-8 rounded-full flex items-center justify-center font-bold">{rank}</div>;
+};
+
+const ExportCards = ({ top3, userMbti, lang, userTraits }) => {
+  if (!top3 || top3.length < 3) return null;
+
+  const renderCard = (char, rank) => (
+    <div key={char.id} className="bg-white rounded-3xl p-5 shadow-sm border border-slate-100 flex flex-col relative overflow-hidden w-full">
+      <div className={`absolute top-0 left-0 w-full h-2 ${char.color}`}></div>
+      <div className="flex items-center justify-between mb-4 mt-2">
+        <div className="flex items-center gap-3">
+          <RankBadge rank={rank} />
+          <div>
+            <h4 className={`text-xl font-bold ${char.text}`}>{char.name[lang]}</h4>
+            {char.mbti && <span className={`inline-block text-sm font-black tracking-wider px-2 py-0.5 rounded-full border mt-0.5 ${char.border} ${char.bgLight} ${char.text}`}>{char.mbti}</span>}
+            <div className="mt-1">
+              <span className="text-sm font-bold text-slate-500 bg-slate-50 px-2 py-0.5 rounded-full">{T[lang].matchRate} {char.matchRate}%</span>
+            </div>
+          </div>
+        </div>
+        <div className={`w-16 h-16 rounded-full overflow-hidden border-2 ${char.border} bg-slate-50 flex flex-col items-center justify-center`}>
+           <Avatar char={char} lang={lang} />
+        </div>
+      </div>
+      <div className="flex-1 flex flex-col items-center justify-center -mt-2">
+         <RadarChart userTraits={userTraits} charTraits={char.traits} charColorClass={char.text} size={220} lang={lang} isDark={false} />
+      </div>
+    </div>
+  );
+
+  return (
+    <div style={{ position: 'absolute', left: '-9999px', top: '-9999px', opacity: 0, pointerEvents: 'none' }}>
+      {/* 16:9 Landscape - roughly 1280x720 */}
+      <div id="export-card-16-9" className="bg-slate-50 font-sans p-8 flex flex-col relative" style={{ width: '1280px', height: '720px' }}>
+        <div className="flex justify-between items-end mb-8 z-10">
+           <div>
+             <h1 className="text-4xl font-black text-slate-800">{T[lang].appTitle}</h1>
+             <p className="text-2xl text-slate-500 font-bold mt-2">{T[lang].appSubtitle}</p>
+           </div>
+           <div className="text-right">
+             <p className="text-xl text-slate-500 font-bold mb-1 uppercase tracking-widest">{T[lang].yourMbti}</p>
+             <div className="text-5xl font-black text-slate-800 tracking-widest">{userMbti}</div>
+           </div>
+        </div>
+        <div className="flex gap-6 flex-1 z-10">
+          {top3.map((c, i) => <div key={c.id} className="flex-1 flex">{renderCard(c, i+1)}</div>)}
+        </div>
+        {/* Subtle background decoration */}
+        <div className="absolute top-[-20%] left-[-10%] w-[50%] h-[50%] bg-orange-400 rounded-full blur-[120px] opacity-10"></div>
+        <div className="absolute bottom-[-20%] right-[-10%] w-[50%] h-[50%] bg-pink-500 rounded-full blur-[120px] opacity-10"></div>
+      </div>
+
+      {/* 9:16 Portrait - roughly 1080x1920 */}
+      <div id="export-card-9-16" className="bg-slate-50 font-sans p-10 flex flex-col relative" style={{ width: '1080px', height: '1920px' }}>
+        <div className="text-center mb-10 mt-10 z-10">
+           <h1 className="text-5xl font-black text-slate-800">{T[lang].appTitle}</h1>
+           <p className="text-3xl text-slate-500 font-bold mt-4">{T[lang].appSubtitle}</p>
+           <div className="mt-12 bg-white rounded-3xl p-8 shadow-sm inline-block border border-slate-100">
+             <p className="text-2xl text-slate-500 font-bold mb-2 uppercase tracking-widest">{T[lang].yourMbti}</p>
+             <div className="text-7xl font-black text-slate-800 tracking-widest">{userMbti}</div>
+           </div>
+        </div>
+        <div className="flex flex-col gap-8 flex-1 z-10">
+          {top3.map((c, i) => <div key={c.id} className="flex-1 flex">{renderCard(c, i+1)}</div>)}
+        </div>
+        {/* Subtle background decoration */}
+        <div className="absolute top-[-10%] right-[-20%] w-[60%] h-[40%] bg-orange-400 rounded-full blur-[150px] opacity-10"></div>
+        <div className="absolute bottom-[-10%] left-[-20%] w-[60%] h-[40%] bg-pink-500 rounded-full blur-[150px] opacity-10"></div>
+      </div>
+    </div>
+  );
+};
+
+function App() {
+  const [appState, setAppState] = useState('start'); 
+  const [currentQ, setCurrentQ] = useState(0);
+  const [answers, setAnswers] = useState(Array(QUESTIONS.length).fill(null));
+  const [userTraits, setUserTraits] = useState({ E: 0, J: 0, T: 0, C: 0, M: 0, O: 0, A: 0, U: 0, N: 0 });
+  const [userMbti, setUserMbti] = useState('');
+  const [matchList, setMatchList] = useState([]); 
+  const [showReadme, setShowReadme] = useState(false);
+  const [lang, setLang] = useState('en');
+  const [isDark, setIsDark] = useState(false);
+  const [isExporting, setIsExporting] = useState(false);
+
+  useEffect(() => {
+    if (isDark) document.documentElement.classList.add('dark');
+    else document.documentElement.classList.remove('dark');
+  }, [isDark]);
+
+  const quizQuestions = useMemo(() => QUESTIONS, []);
+
+  const handleStart = () => {
+    setAppState('quiz');
+    setCurrentQ(0);
+    setAnswers(Array(quizQuestions.length).fill(null));
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+  };
+
+  const handleExport = async (format) => {
+    setIsExporting(true);
+    try {
+      const elementId = format === '16:9' ? 'export-card-16-9' : 'export-card-9-16';
+      const element = document.getElementById(elementId);
+      if (!element) return;
+      
+      const canvas = await html2canvas(element, {
+        scale: 2,
+        useCORS: true,
+        backgroundColor: '#f8fafc' // slate-50
+      });
+      
+      const image = canvas.toDataURL("image/png");
+      const link = document.createElement('a');
+      link.href = image;
+      link.download = `nijigasaki-mbti-${format.replace(':', 'x')}.png`;
+      link.click();
+    } catch (err) {
+      console.error('Export failed:', err);
+      alert('Export failed. Please try again.');
+    } finally {
+      setIsExporting(false);
+    }
+  };
+
+  const handleAnswer = (optionValue) => {
+    const newAnswers = [...answers];
+    newAnswers[currentQ] = optionValue;
+    setAnswers(newAnswers);
+    if (currentQ < quizQuestions.length - 1) {
+      setTimeout(() => setCurrentQ(currentQ + 1), 150); 
+    } else {
+      calculateResult(newAnswers);
+    }
+  };
+
+  const handlePrev = () => {
+    if (currentQ > 0) setCurrentQ(currentQ - 1);
+  };
+
+  const calculateResult = (finalAnswers) => {
+    let rawScores = { E: 0, J: 0, T: 0, C: 0, M: 0, O: 0, A: 0, U: 0, N: 0 };
+    const dims = ['E', 'J', 'T', 'C', 'M', 'O', 'A', 'U', 'N'];
+    quizQuestions.forEach((q, index) => {
+      const val = finalAnswers[index];
+      if (val !== null) {
+        rawScores[q.dim] += val * q.sign;
+      }
+    });
+    const mbti =
+      (rawScores.E > 0 ? 'E' : 'I') +
+      (rawScores.N > 0 ? 'N' : 'S') +
+      (rawScores.T > 0 ? 'T' : 'F') +
+      (rawScores.J > 0 ? 'J' : 'P');
+    setUserMbti(mbti);
+
+    const maxVal = Math.max(...Object.values(rawScores).map(Math.abs), 1);
+    const boost = maxVal < 4 ? 1.6 : (maxVal < 6 ? 1.3 : 1.0);
+    const boostedScores = {};
+    Object.keys(rawScores).forEach(k => boostedScores[k] = rawScores[k] * boost);
+    setUserTraits(boostedScores);
+
+    let userDominant = dims[0];
+    let userMax = -Infinity;
+    dims.forEach(d => { if (Math.abs(boostedScores[d]) > userMax) { userMax = Math.abs(boostedScores[d]); userDominant = d; } });
+    const isUserDominantPositive = boostedScores[userDominant] > 0;
+
+    let rawCharScores = CHARACTERS.map(char => {
+      let dot = 0, uNorm = 0, cNorm = 0, sumSquares = 0;
+      dims.forEach(d => {
+        const uVal = boostedScores[d];
+        const cVal = char.traits[d];
+        dot += uVal * cVal;
+        uNorm += uVal * uVal;
+        cNorm += cVal * cVal;
+        sumSquares += Math.pow(uVal - cVal, 2);
+      });
+      uNorm = Math.sqrt(uNorm);
+      cNorm = Math.sqrt(cNorm);
+      const dist = Math.sqrt(sumSquares);
+      const rawCosine = (uNorm === 0 || cNorm === 0) ? 0 : (dot / (uNorm * cNorm));
+      const cosineSim = Math.max(0, rawCosine); 
+      const euclideanSim = Math.exp(-(dist * dist) / 400); 
+
+      let synergyBonus = 0;
+      const charDominantVal = char.traits[userDominant];
+      if (isUserDominantPositive && charDominantVal > 0) synergyBonus = (charDominantVal / 10) * 5; 
+      else if (!isUserDominantPositive && charDominantVal < 0) synergyBonus = (Math.abs(charDominantVal) / 10) * 5; 
+
+      let finalRate = (cosineSim * 80) + (euclideanSim * 20) + synergyBonus;
+      return { ...char, distance: dist, rawRate: finalRate };
+    });
+
+    let maxRaw = Math.max(...rawCharScores.map(s => s.rawRate));
+    let targetTopScore = 75 + (Math.random() * 8) + (Math.abs(boostedScores[userDominant]) % 3);
+    let inflation = Math.max(0, targetTopScore - maxRaw);
+
+    let scores = rawCharScores.map(char => {
+      let displayRate = char.rawRate + inflation;
+      displayRate += (Math.random() - 0.5) * 0.4;
+      return { ...char, matchRate: Math.min(99.9, Math.max(15.0, displayRate)).toFixed(1) };
+    });
+
+    scores.sort((a, b) => b.matchRate - a.matchRate);
+    setMatchList(scores);
+    setAppState('result');
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+  };
+
+  const toggleLang = () => {
+    if (lang === 'en') setLang('id');
+    else if (lang === 'id') setLang('ja');
+    else setLang('en');
+  };
+
+  const ReadmeModal = () => {
+    if (!showReadme) return null;
+    return (
+      <div className="fixed inset-0 z-50 flex items-center justify-center p-4 bg-slate-900/40 dark:bg-black/60 backdrop-blur-sm">
+        <div className="bg-white dark:bg-slate-800 w-full max-w-md rounded-3xl shadow-2xl overflow-hidden relative animate-in fade-in zoom-in duration-200">
+          <button onClick={() => setShowReadme(false)} className="absolute top-4 right-4 p-2 text-slate-400 dark:text-slate-500 hover:bg-slate-100 dark:hover:bg-slate-700 rounded-full transition-colors">
+            <Icon name="x" size={20} />
+          </button>
+          <div className="p-8">
+            <div className="flex items-center gap-3 mb-6 border-b border-slate-100 dark:border-slate-700 pb-4">
+              <div className="bg-orange-100 dark:bg-orange-900/50 p-2 rounded-xl text-orange-500"><Icon name="info" size={24} /></div>
+              <h2 className="text-xl font-bold text-slate-800 dark:text-slate-100">{T[lang].readmeTitle}</h2>
+            </div>
+            <div className="space-y-4 text-sm text-slate-600 dark:text-slate-300 leading-relaxed">
+              <p><strong className="text-slate-800 dark:text-slate-100">{T[lang].readmeCredits}</strong><br/>{T[lang].readmeCreditsText}<a href="https://jcver.github.io/Gakumas-idolmaster-MBTI-test/" target="_blank" rel="noopener noreferrer" className="text-orange-500 underline break-all">jcver.github.io/Gakumas-idolmaster-MBTI-test</a>{T[lang].readmeCreditsSuffix}</p>
+              <p><strong className="text-slate-800 dark:text-slate-100">{T[lang].readmeDisclaimer}</strong><br/>{T[lang].readmeDisclaimerText}</p>
+              <p><strong className="text-slate-800 dark:text-slate-100">{T[lang].readmePrivacy}</strong><br/>{T[lang].readmePrivacyText}</p>
+              <p><strong className="text-slate-800 dark:text-slate-100">{T[lang].readmeCopyright}</strong><br/>{T[lang].readmeCopyrightText}</p>
+            </div>
+            <button onClick={() => setShowReadme(false)} className="w-full mt-8 py-3 bg-slate-100 dark:bg-slate-700 hover:bg-slate-200 dark:hover:bg-slate-600 text-slate-700 dark:text-slate-200 font-bold rounded-xl transition-colors">
+              {T[lang].readmeBtn}
+            </button>
+          </div>
+        </div>
+      </div>
+    );
+  };
+
+  const TopLeftControls = () => (
+    <div className="w-full flex flex-row justify-start gap-2 shrink-0 z-10">
+      <button onClick={() => setShowReadme(true)} className="bg-white/80 dark:bg-slate-800/80 backdrop-blur-md border border-slate-200 dark:border-slate-700 text-slate-600 dark:text-slate-300 w-10 h-10 md:w-auto md:h-auto md:px-4 md:py-2 rounded-full text-sm font-bold shadow-sm hover:shadow hover:bg-white dark:hover:bg-slate-700 hover:text-orange-500 transition-all flex items-center justify-center gap-2">
+        <Icon name="info" size={16} /> <span className="hidden md:inline">Readme</span>
+      </button>
+      <button onClick={toggleLang} className="bg-white/80 dark:bg-slate-800/80 backdrop-blur-md border border-slate-200 dark:border-slate-700 text-slate-600 dark:text-slate-300 w-10 h-10 md:w-auto md:h-auto md:px-4 md:py-2 rounded-full text-sm font-bold shadow-sm hover:shadow hover:bg-white dark:hover:bg-slate-700 hover:text-orange-500 transition-all flex items-center justify-center gap-2 uppercase">
+        <span className="text-lg leading-none">{lang === 'en' ? '🇬🇧' : lang === 'id' ? '🇮🇩' : '🇯🇵'}</span> <span className="hidden md:inline">{lang}</span>
+      </button>
+      <button onClick={() => setIsDark(!isDark)} className="bg-white/80 dark:bg-slate-800/80 backdrop-blur-md border border-slate-200 dark:border-slate-700 text-slate-600 dark:text-slate-300 w-10 h-10 md:w-auto md:h-auto md:px-4 md:py-2 rounded-full text-sm font-bold shadow-sm hover:shadow hover:bg-white dark:hover:bg-slate-700 hover:text-orange-500 transition-all flex items-center justify-center gap-2">
+        <Icon name={isDark ? "sun" : "moon"} size={16} />
+      </button>
+    </div>
+  );
+
+  const FooterPill = () => (
+    <div className="mt-auto pt-8 pb-4 w-full flex justify-center z-10 shrink-0">
+      <div className="bg-white/80 dark:bg-slate-800/80 backdrop-blur-md border border-slate-200 dark:border-slate-700 text-slate-600 dark:text-slate-300 px-4 py-2 rounded-full text-xs md:text-sm font-medium shadow-sm hover:shadow transition-all flex items-center justify-center whitespace-nowrap">
+        Made with <i className="text-red-500 mx-1 animate-pulse" aria-label="love">&#10084;</i> from <a href="https://github.com/naufaruuu" target="_blank" rel="noopener noreferrer" className="font-bold text-orange-500 hover:text-orange-600 transition-colors ml-1">NaufalAlfa</a>
+      </div>
+    </div>
+  );
+
+  const MAIN_LOGO_URL = 'https://free.picui.cn/free/2026/04/12/69db8a429dcf2.png'; 
+
+  if (appState === 'start') {
+    return (
+      <div className="min-h-screen bg-gradient-to-br from-slate-100 to-slate-200 dark:from-slate-900 dark:to-slate-800 flex flex-col items-center justify-center p-4 text-slate-800 dark:text-slate-100 font-sans transition-colors duration-300">
+        <TopLeftControls />
+        <ReadmeModal />
+        <div className="w-full mb-auto"></div>
+        <div className="max-w-lg w-full bg-white dark:bg-slate-800 rounded-[2.5rem] shadow-2xl p-10 text-center relative overflow-hidden border border-white/50 dark:border-slate-700 backdrop-blur-sm">
+          <div className="absolute -top-10 -right-10 md:-top-16 md:-right-16 w-48 h-48 md:w-64 md:h-64 opacity-20 dark:opacity-10 rotate-12 z-0 pointer-events-none">
+            <img src={MAIN_LOGO_URL} alt="Background Logo" className="w-full h-full object-contain" onError={(e) => e.target.style.display='none'} />
+          </div>
+          <div className="flex justify-center mb-8 relative z-10">
+            <div className="bg-[#F8D657] p-6 rounded-[1.5rem] shadow-xl text-white transform -rotate-6 animate-pulse-soft">
+                <Icon name="rainbow" size={56} fill="currentColor" />
+            </div>
+          </div>
+          <h1 className="text-3xl md:text-4xl font-extrabold mb-4 text-slate-800 dark:text-slate-100 tracking-tight leading-tight relative z-10">
+            {T[lang].appTitle} <br/><span className="text-transparent bg-clip-text bg-gradient-to-r from-orange-500 to-pink-500">{T[lang].appSubtitle}</span>
+          </h1>
+          <p className="text-slate-500 dark:text-slate-400 mb-10 leading-relaxed text-sm md:text-base relative z-10">{T[lang].appDesc}</p>
+          <button onClick={handleStart} className="w-full py-5 bg-slate-900 dark:bg-slate-100 hover:bg-slate-800 dark:hover:bg-white text-white dark:text-slate-900 font-bold rounded-2xl shadow-xl transition-all active:scale-95 flex items-center justify-center gap-3 text-lg group relative z-10">
+            {T[lang].startBtn} <Icon name="arrow-right" size={20} className="group-hover:translate-x-1 transition-transform" />
+          </button>
+        </div>
+        <FooterPill />
+      </div>
+    );
+  }
+
+  if (appState === 'quiz') {
+    const question = quizQuestions[currentQ];
+    const progress = ((currentQ) / quizQuestions.length) * 100;
+    return (
+      <div className="min-h-screen bg-slate-50 dark:bg-slate-900 flex flex-col items-center p-4 md:p-6 text-slate-800 dark:text-slate-100 font-sans selection:bg-orange-100 dark:selection:bg-orange-900/50 transition-colors duration-300">
+        <TopLeftControls />
+        <ReadmeModal />
+        <div className="max-w-xl w-full mt-8 md:mt-10">
+          <div className="flex justify-between items-center mb-6 px-2">
+            <button onClick={handlePrev} disabled={currentQ === 0} className={`w-11 h-11 flex items-center justify-center rounded-full transition-all duration-200 shadow border ${currentQ === 0 ? 'bg-slate-100 dark:bg-slate-800/50 text-slate-300 dark:text-slate-600 border-transparent cursor-not-allowed' : 'bg-white dark:bg-slate-700 text-slate-800 dark:text-slate-100 border-slate-200 dark:border-slate-600 hover:bg-slate-50 dark:hover:bg-slate-600 hover:shadow-md hover:text-orange-500 active:scale-95'}`}>
+              <Icon name="chevron-left" size={22} />
+            </button>
+            <div className="flex flex-col items-center">
+              <span className="text-xs font-extrabold text-slate-400 dark:text-slate-500 tracking-[0.2em] uppercase mb-1">{T[lang].profiling}</span>
+              <span className="text-base font-bold text-slate-700 dark:text-slate-300">{currentQ + 1} <span className="text-slate-400 dark:text-slate-600 mx-1">/</span> {quizQuestions.length}</span>
+            </div>
+            <div className="w-12"></div> 
+          </div>
+          <div className="h-2 bg-slate-200 dark:bg-slate-800 rounded-full w-full mb-10 overflow-hidden shadow-inner">
+            <div className="h-full bg-gradient-to-r from-orange-400 to-pink-500 transition-all duration-500 ease-out rounded-full" style={{ width: `${progress}%` }}></div>
+          </div>
+          <div className="bg-white dark:bg-slate-800 rounded-[2rem] shadow-xl p-8 md:p-10 mb-8 border border-slate-100 dark:border-slate-700 relative">
+            <div className="absolute top-8 left-6 text-slate-200 dark:text-slate-700 opacity-50"><span className="text-6xl font-serif">"</span></div>
+            <h2 className="text-xl md:text-2xl font-medium leading-relaxed h-40 md:h-32 text-slate-700 dark:text-slate-200 relative z-10 flex items-center">
+              {question.text[lang]}
+            </h2>
+          </div>
+          <div className="space-y-3 md:space-y-4">
+            {T[lang].options.map((optText, idx) => {
+              const optValue = OPTION_VALUES[idx];
+              const isSelected = answers[currentQ] === optValue;
+              return (
+                <button key={idx} onClick={() => handleAnswer(optValue)} className={`w-full py-4 md:py-5 px-6 text-center rounded-2xl font-bold transition-all duration-200 active:scale-95 text-sm md:text-base ${isSelected ? 'bg-slate-800 dark:bg-slate-200 text-white dark:text-slate-900 shadow-lg ring-2 ring-slate-800 dark:ring-slate-200 ring-offset-2 dark:ring-offset-slate-900' : 'bg-white dark:bg-slate-800/50 text-slate-600 dark:text-slate-400 border border-slate-200 dark:border-slate-700 hover:border-slate-300 dark:hover:border-slate-600 hover:bg-slate-50 dark:hover:bg-slate-800 shadow-sm'}`}>
+                  {optText}
+                </button>
+              );
+            })}
+          </div>
+        </div>
+        <FooterPill />
+      </div>
+    );
+  }
+
+  if (appState === 'result' && matchList.length > 0) {
+    const topChar = matchList[0];
+    const top3 = matchList.slice(0, 3);
+    return (
+      <div className="min-h-screen bg-slate-100 dark:bg-slate-900 flex flex-col items-center justify-center p-4 md:p-6 font-sans overflow-x-hidden relative transition-colors duration-300">
+        <TopLeftControls />
+        <ReadmeModal />
+        <div className="w-full mb-auto"></div>
+        <div className="max-w-xl w-full bg-white dark:bg-slate-800 rounded-[2.5rem] shadow-2xl overflow-hidden border border-slate-200 dark:border-slate-700">
+          <div className={`pt-12 pb-24 px-6 text-center ${topChar.bgLight} dark:bg-opacity-10 relative border-b border-white/50 dark:border-slate-700`}>
+            <p className="text-xs font-extrabold text-slate-500 dark:text-slate-400 uppercase tracking-widest mb-2 opacity-80">{T[lang].bestMatch}</p>
+            <h2 className={`text-4xl md:text-5xl font-black tracking-tight ${topChar.text} mb-2`}>{topChar.name[lang]}</h2>
+          </div>
+          <div className="px-8 -mt-20 relative z-10 flex justify-center">
+            <div className={`w-36 h-36 md:w-44 md:h-44 rounded-[2rem] shadow-2xl flex items-center justify-center bg-white dark:bg-slate-800 border-4 ${topChar.border} overflow-hidden`}>
+               <Avatar char={topChar} lang={lang} isLarge={true} />
+            </div>
+          </div>
+          <div className="p-6 md:p-10 pt-6 text-center">
+            <div className="bg-slate-50 dark:bg-slate-900/50 p-5 rounded-2xl mb-6 border border-slate-100 dark:border-slate-700 shadow-sm text-left">
+              <p className="text-slate-600 dark:text-slate-300 leading-relaxed text-sm md:text-base font-medium">{topChar.desc[lang]}</p>
+            </div>
+            {userMbti && (
+              <div className="flex items-center justify-center gap-3 mb-8">
+                <div className="flex flex-col items-center gap-1">
+                  <span className="text-xs font-bold text-slate-400 dark:text-slate-500 uppercase tracking-widest">{T[lang].yourMbti}</span>
+                  <span className="text-2xl font-black tracking-widest text-slate-800 dark:text-slate-100 bg-slate-100 dark:bg-slate-700 px-5 py-2 rounded-xl border border-slate-200 dark:border-slate-600">{userMbti}</span>
+                </div>
+                <div className="text-slate-300 dark:text-slate-600 text-2xl font-thin">↔</div>
+                <div className="flex flex-col items-center gap-1">
+                  <span className="text-xs font-bold text-slate-400 dark:text-slate-500 uppercase tracking-widest">{T[lang].mbtiMatch}</span>
+                  <span className={`text-2xl font-black tracking-widest px-5 py-2 rounded-xl border ${topChar.border} ${topChar.bgLight} ${topChar.text}`}>{topChar.mbti}</span>
+                </div>
+              </div>
+            )}
+            <div className="mb-8">
+              <h3 className="text-xl font-black text-slate-800 dark:text-slate-100 mb-6 flex items-center justify-center gap-2"><Icon name="users" className="text-orange-400" size={24}/> {T[lang].top3Title}</h3>
+              <div className="space-y-8">
+                {top3.map((char, index) => (
+                  <div key={char.id} className="bg-white dark:bg-slate-800 border border-slate-100 dark:border-slate-700 rounded-3xl p-5 shadow-sm relative overflow-hidden">
+                    <div className={`absolute top-0 left-0 w-full h-1.5 ${char.color}`}></div>
+                    <div className="flex items-center justify-between mb-4 mt-2">
+                      <div className="flex items-center gap-3">
+                        <RankBadge rank={index + 1} />
+                        <div className="text-left">
+                          <h4 className={`text-lg font-bold ${char.text}`}>{char.name[lang]}</h4>
+                          {char.mbti && <span className={`inline-block text-xs font-black tracking-wider px-2 py-0.5 rounded-full border mt-0.5 ${char.border} ${char.bgLight} ${char.text}`}>{char.mbti}</span>}
+                          <div className="mt-0.5">
+                            <span className="text-xs font-bold text-slate-500 dark:text-slate-400 bg-slate-100 dark:bg-slate-900/50 px-2 py-0.5 rounded-full">{T[lang].matchRate} {char.matchRate}%</span>
+                          </div>
+                        </div>
+                      </div>
+                      <div className={`w-14 h-14 rounded-full overflow-hidden border-2 ${char.border} flex flex-col items-center justify-center bg-slate-50 dark:bg-slate-900/50 text-[8px] text-slate-400 dark:text-slate-500 text-center leading-tight`}>
+                         <Avatar char={char} lang={lang} />
+                      </div>
+                    </div>
+                    <div className="flex justify-center gap-4 text-[10px] text-slate-400 dark:text-slate-500 mb-[-10px]">
+                      <div className="flex items-center gap-1"><span className="w-2.5 h-2.5 border border-slate-400 dark:border-slate-600 border-dashed bg-slate-200 dark:bg-slate-700 opacity-50"></span> {T[lang].you}</div>
+                      <div className="flex items-center gap-1"><span className={`w-2.5 h-2.5 border ${char.border} ${char.color} opacity-50`}></span> {char.name[lang]}</div>
+                    </div>
+                    <RadarChart userTraits={userTraits} charTraits={char.traits} charColorClass={char.text} size={250} lang={lang} isDark={isDark} />
+                  </div>
+                ))}
+              </div>
+            </div>
+            <div className="space-y-3">
+              <button onClick={() => { setAppState('allProfiles'); window.scrollTo(0,0); }} className="w-full py-4 bg-orange-100 dark:bg-orange-900/30 hover:bg-orange-200 dark:hover:bg-orange-900/50 text-orange-600 dark:text-orange-400 font-bold rounded-2xl transition-colors active:scale-95 flex items-center justify-center gap-2">
+                {T[lang].viewAllBtn} <Icon name="arrow-right" size={18} />
+              </button>
+              <div className="hidden grid-cols-2 gap-2">
+                <button onClick={() => handleExport('16:9')} disabled={isExporting} className="w-full py-3 bg-violet-100 dark:bg-violet-900/30 hover:bg-violet-200 dark:hover:bg-violet-900/50 text-violet-600 dark:text-violet-400 font-bold rounded-2xl transition-colors active:scale-95 flex items-center justify-center gap-2 text-sm disabled:opacity-50">
+                  <Icon name="star" size={15} /> {isExporting ? '...' : 'Export 16:9'}
+                </button>
+                <button onClick={() => handleExport('9:16')} disabled={isExporting} className="w-full py-3 bg-violet-100 dark:bg-violet-900/30 hover:bg-violet-200 dark:hover:bg-violet-900/50 text-violet-600 dark:text-violet-400 font-bold rounded-2xl transition-colors active:scale-95 flex items-center justify-center gap-2 text-sm disabled:opacity-50">
+                  <Icon name="star" size={15} /> {isExporting ? '...' : 'Export 9:16'}
+                </button>
+              </div>
+              <button onClick={handleStart} className="w-full py-4 bg-slate-900 dark:bg-slate-100 hover:bg-slate-800 dark:hover:bg-white text-white dark:text-slate-900 font-bold rounded-2xl shadow-xl transition-all active:scale-95 flex items-center justify-center gap-2">
+                <Icon name="rotate-ccw" size={18} /> {T[lang].restartBtn}
+              </button>
+            </div>
+            <ExportCards top3={top3} userMbti={userMbti} lang={lang} userTraits={userTraits} />
+          </div>
+        </div>
+        <FooterPill />
+      </div>
+    );
+  }
+
+  if (appState === 'allProfiles') {
+    return (
+      <div className="min-h-screen bg-slate-100 dark:bg-slate-900 flex flex-col items-center p-4 md:p-6 font-sans transition-colors duration-300">
+        <TopLeftControls />
+        <ReadmeModal />
+        <div className="max-w-2xl w-full mt-4">
+          <div className="flex items-center mb-6">
+            <button onClick={() => { setAppState('result'); window.scrollTo(0,0); }} className="w-11 h-11 flex items-center justify-center rounded-full transition-all duration-200 shadow border bg-white dark:bg-slate-700 text-slate-800 dark:text-slate-100 border-slate-200 dark:border-slate-600 hover:bg-slate-50 dark:hover:bg-slate-600 hover:shadow-md hover:text-orange-500 active:scale-95 mr-4 shrink-0">
+              <Icon name="chevron-left" size={22} />
+            </button>
+            <div>
+              <h2 className="text-2xl font-black text-slate-800 dark:text-slate-100">{T[lang].allProfilesTitle}</h2>
+              <p className="text-sm text-slate-500 dark:text-slate-400 font-medium">{T[lang].allProfilesSub}</p>
+            </div>
+          </div>
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+            {matchList.map((char, index) => (
+              <div key={char.id} className="bg-white dark:bg-slate-800 rounded-[2rem] p-5 shadow-sm border border-slate-200 dark:border-slate-700 flex flex-col relative overflow-hidden">
+                <div className={`absolute top-0 left-0 w-full h-1.5 ${char.color}`}></div>
+                <div className="flex items-center justify-between mb-2 mt-1">
+                  <div className="flex items-center gap-3">
+                    <span className="text-slate-300 dark:text-slate-600 font-black text-xl w-6 text-center">#{index + 1}</span>
+                    <div>
+                      <h4 className={`text-lg font-bold ${char.text}`}>{char.name[lang]}</h4>
+                      {char.mbti && <span className={`inline-block text-xs font-black tracking-wider px-2 py-0.5 rounded-full border mt-0.5 ${char.border} ${char.bgLight} ${char.text}`}>{char.mbti}</span>}
+                      <div className="mt-0.5">
+                        <span className="text-xs font-bold text-slate-500 dark:text-slate-400">{T[lang].matchRate} {char.matchRate}%</span>
+                      </div>
+                    </div>
+                  </div>
+                  <div className={`w-12 h-12 rounded-full overflow-hidden border-2 ${char.border} flex flex-col items-center justify-center bg-slate-50 dark:bg-slate-900/50 text-[8px] text-slate-400 dark:text-slate-500 text-center leading-tight`}>
+                     <Avatar char={char} lang={lang} />
+                  </div>
+                </div>
+                {char.desc && char.desc[lang] && (
+                  <div className="bg-slate-50 dark:bg-slate-900/50 rounded-xl p-3 mt-2 mb-1 border border-slate-100 dark:border-slate-800">
+                    <p className="text-xs text-slate-500 dark:text-slate-400 leading-relaxed">{char.desc[lang]}</p>
+                  </div>
+                )}
+                <div className="flex-1 flex flex-col items-center justify-center -mt-2">
+                   <RadarChart userTraits={userTraits} charTraits={char.traits} charColorClass={char.text} size={220} lang={lang} isDark={isDark} />
+                </div>
+              </div>
+            ))}
+          </div>
+          <div className="mt-8 text-center">
+             <button onClick={() => { setAppState('result'); window.scrollTo(0,0); }} className="py-4 px-8 bg-slate-900 dark:bg-slate-100 hover:bg-slate-800 dark:hover:bg-white text-white dark:text-slate-900 font-bold rounded-2xl shadow-xl transition-all active:scale-95 inline-flex items-center justify-center gap-2">
+                <Icon name="chevron-left" size={18} /> {T[lang].backBtn}
+              </button>
+          </div>
+        </div>
+        <FooterPill />
+      </div>
+    );
+  }
+  return null;
+}
+
+const root = ReactDOM.createRoot(document.getElementById('root'));
+root.render(<App />);
+    </script>
+</body>
+</html>

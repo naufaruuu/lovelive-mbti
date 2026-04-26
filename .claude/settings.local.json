@@ -1,0 +1,19 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(/c/Users/naufa/AppData/Local/Microsoft/WinGet/Packages/jqlang.jq_Microsoft.Winget.Source_8wekyb3d8bbwe/jq.exe .characters.setsuna_yuki C:/Users/naufa/Documents/nijigasaki-mbti/lovelive-mbti/characters/raw_results/nijigasaki.json)",
+      "Bash(/c/Users/naufa/AppData/Local/Microsoft/WinGet/Packages/jqlang.jq_Microsoft.Winget.Source_8wekyb3d8bbwe/jq.exe .characters.shioriko_mifune /c/Users/naufa/Documents/nijigasaki-mbti/lovelive-mbti/characters/raw_results/nijigasaki.json)",
+      "Bash(/c/Users/naufa/AppData/Local/Microsoft/WinGet/Packages/jqlang.jq_Microsoft.Winget.Source_8wekyb3d8bbwe/jq.exe .characters.shioriko_mifune raw_results/nijigasaki.json)",
+      "Bash(/c/Users/naufa/AppData/Local/Microsoft/WinGet/Packages/jqlang.jq_Microsoft.Winget.Source_8wekyb3d8bbwe/jq.exe empty *)",
+      "Bash(/c/Users/naufa/AppData/Local/Microsoft/WinGet/Packages/jqlang.jq_Microsoft.Winget.Source_8wekyb3d8bbwe/jq.exe .characters.ayumu_uehara raw_results/nijigasaki.json)",
+      "Bash(/c/Users/naufa/AppData/Local/Microsoft/WinGet/Packages/jqlang.jq_Microsoft.Winget.Source_8wekyb3d8bbwe/jq.exe .characters.ai_miyashita raw_results/nijigasaki.json)",
+      "Bash(/c/Users/naufa/AppData/Local/Microsoft/WinGet/Packages/jqlang.jq_Microsoft.Winget.Source_8wekyb3d8bbwe/jq.exe '.ayumu_uehara | {type: .mbti.type, color: .color, traits: \\(.mbti.traits | keys\\), scores: \\(.mbti.traits | map_values\\(.score\\)\\)}' final_results/nijigasaki/ayumu_uehara.json)",
+      "Bash(/c/Users/naufa/AppData/Local/Microsoft/WinGet/Packages/jqlang.jq_Microsoft.Winget.Source_8wekyb3d8bbwe/jq.exe '.ai_miyashita | {type: .mbti.type, color, traits_scores: \\(.mbti.traits | map_values\\(.score\\)\\)}' final_results/nijigasaki/ai_miyashita.json)",
+      "Bash(/c/Users/naufa/AppData/Local/Microsoft/WinGet/Packages/jqlang.jq_Microsoft.Winget.Source_8wekyb3d8bbwe/jq.exe '.emma_verde.mbti.traits | keys' final_results/nijigasaki/emma_verde.json)",
+      "Bash(/c/Users/naufa/AppData/Local/Microsoft/WinGet/Packages/jqlang.jq_Microsoft.Winget.Source_8wekyb3d8bbwe/jq.exe '.emma_verde.mbti.traits | to_entries[] | \"\\\\\\(.key\\): \\\\\\(.value.score\\)\"' final_results/nijigasaki/emma_verde.json)",
+      "Bash(/c/Users/naufa/AppData/Local/Microsoft/WinGet/Packages/jqlang.jq_Microsoft.Winget.Source_8wekyb3d8bbwe/jq.exe '.characters.emma_verde.traits | to_entries[] | \"\\\\\\(.key\\): \\\\\\(.value.score\\)\"' raw_results/nijigasaki.json)",
+      "Bash(/c/Users/naufa/AppData/Local/Microsoft/WinGet/Packages/jqlang.jq_Microsoft.Winget.Source_8wekyb3d8bbwe/jq.exe .emma_verde.mbti.type final_results/nijigasaki/emma_verde.json)",
+      "Bash(/c/Users/naufa/AppData/Local/Microsoft/WinGet/Packages/jqlang.jq_Microsoft.Winget.Source_8wekyb3d8bbwe/jq.exe .emma_verde.color final_results/nijigasaki/emma_verde.json)"
+    ]
+  }
+}

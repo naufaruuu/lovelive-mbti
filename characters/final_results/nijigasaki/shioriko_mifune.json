@@ -1,0 +1,97 @@
+{
+  "shioriko_mifune": {
+    "color": "#37b484",
+    "name": {
+      "en": "Shioriko Mifune",
+      "ja": "三船栞子",
+      "id": "Shioriko Mifune"
+    },
+    "desc": {
+      "en": "Shioriko is the student council president of Nijigasaki — disciplined, deadpan, and quietly mastering traditional Japanese arts on the side. Her whole worldview was built around one rule: only do things you can actually succeed at, a doctrine born from watching her older sister's school idol group fail. Underneath the structured exterior is someone who secretly admired school idols all along, just never let herself admit it until she couldn't hold back anymore.",
+      "ja": "三船栞子は虹ヶ咲の生徒会長——規律正しくて、無表情で、傍らで茶道・華道・日本舞踊を人知れず極めてる子。「できることをやる」というシンプルな信条が彼女の世界観の核にあって、それはお姉さんのスクールアイドルグループが失敗するのを見てきた経験から生まれたもの。整然とした外見の内側には、ずっとスクールアイドルへの憧れを持ちながら、それを認めることができなかった自分がいる——それが溢れ出すその日まで。",
+      "id": "Shioriko itu ketua OSIS Nijigasaki — disiplin, deadpan, dan diam-diam lagi menguasai seni tradisional Jepang di sisi lain. Pandangan hidupnya dibangun di atas satu prinsip: cuma lakukan hal yang bisa kamu berhasil, doktrin yang lahir dari menyaksikan grup school idol kakaknya gagal. Di balik tampilannya yang terstruktur, ada seseorang yang sebenernya udah lama mengagumi school idol — dia cuma nggak pernah mau ngakuinnya, sampai akhirnya nggak bisa ditahan lagi."
+    },
+    "mbti": {
+      "type": "ISTJ",
+      "reason": {
+        "en": "ISTJ — dissenting from the fan majority. Fans voted ESTJ 60 vs ISTJ 42, and the assertiveness case is real: she challenged Setsuna, ran for presidency, hands out unsolicited advice with full conviction. But all of those are role-executions, not natural extroverted broadcasting. Her baseline is deadpan, shy, and content to \"just exist\" in the middle of chaos — an actual ESTJ would match or override Lanzhu's energy; Shioriko absorbs it. The ISTJ Si-Te-Fi-Ne stack explains both canons: cold antagonist in SIFAS and gentle supporter in the anime aren't different types, just different volume settings on the same person. Tertiary Fi (ISTJ) fits her much better than inferior Fi (ESTJ) — her feelings are consistently present-but-awkward, not blocked-and-exploding under stress. The song-writing difficulty, the genuine kindness she struggles to articulate, the slow Fi integration through her idol journey — that's all textbook tertiary Fi. Her core principle — \"students should do things they can succeed at\" — is pure Te utility logic, not Fe harmony. Shioriko is Nijigasaki's disciplined-traditionalist Si-dominant archetype, same family as Sayaka in Hasunosora, just routed through Te-efficiency instead of Fe-service.",
+        "ja": "タイプはISTJ——ファン多数派から外れての判断。ESTJ 60票 vs ISTJ 42票で、確かに主張はあって、彼女が議論で生徒会長の立場からせつ菜に挑んだり、会長選に出たり、頼まれてもいないのにアドバイスを断言したりするのは本物の証拠。でもそれは全部「役割の中での行動」であって、自然な外向性の放射じゃない。彼女のベースラインは無表情、内気、カオスの中でも「ただそこにいる」タイプ——本物のESTJならランジュのエネルギーに張り合うか、上回る。栞子は受け止める側。ISTJのSi-Te-Fi-Neスタックは両カノンを整合的に説明できる。SIFASの冷たい敵対者と、アニメの優しいサポーターは別のタイプじゃない、同じ人の音量の違い。第三機能Fiの方がESTJの劣等機能Fiより全然しっくりくる——彼女の感情表現は一貫して「ぎこちなくあるもの」であって、「抑圧されてストレス下で爆発するもの」じゃない。最初の曲が書けなかった苦労、言語化が下手な本物の優しさ、アイドルの旅を通じてのFiの徐々な統合——全部が典型的な第三機能Fi。彼女の核の信条「できることをやる」はTeのユーティリティ論理であって、Feのハーモニー維持じゃない。栞子はSiドミナントの規律的伝統主義者、蓮ノ空の佐藤里佳子と同じ型、ただFeではなくTeを通じて表現されるバージョン。",
+        "id": "ISTJ — beda pendapat dari mayoritas fans. Voting-nya ESTJ 60 vs ISTJ 42, dan argumen assertiveness-nya nggak bisa dipungkiri: dia nantangin Setsuna dalam debat, nyalon jadi ketua OSIS, kasih saran tanpa diminta dengan penuh keyakinan. Tapi semua itu eksekusi peran, bukan energi ekstrovert yang ngalir natural. Baseline-nya deadpan, pemalu, dan cukup puas \"cuma ada di situ\" di tengah kekacauan — ESTJ beneran bakal nandingin atau override energi Lanzhu; Shioriko malah nyerapnya. Stack ISTJ Si-Te-Fi-Ne bisa ngejelasin dua versi kanon sekaligus: antagonis dingin di SIFAS sama pendukung lembut di anime bukan tipe yang beda, cuma volume yang beda dari orang yang sama. Fi tersier (ISTJ) jauh lebih pas dibanding Fi inferior (ESTJ) — perasaannya secara konsisten \"ada tapi kaku\", bukan \"terblokir lalu meledak pas stres\". Kesulitan nulis lagu pertama, kebaikan yang dia sendiri susah ngungkapinnya, integrasi Fi yang pelan-pelan lewat perjalanan idol-nya — itu semua tipikal Fi tersier. Prinsip intinya — \"murid harusnya melakukan hal yang bisa mereka berhasil\" — itu logika utilitas Te murni, bukan Fe yang jaga keharmonisan. Shioriko adalah arketipe Si-dominan yang disiplin dan tradisionalis di Nijigasaki, satu keluarga tipe sama Sayaka di Hasunosora, cuma lewat jalur Te-efisiensi bukan Fe-pelayanan."
+      },
+      "traits": {
+        "E": {
+          "score": -3,
+          "reason": {
+            "en": "Reserved and formal by default. Multiple fans who argued for ESTJ still admitted she's \"a lot more on the shy side socially\" — and even then they were arguing for E. In group settings she basically \"just exists,\" passive when Lanzhu and Kaoruko push her around. She does step up assertively for duty — debate challenges, council speeches, pointing out strengths and weaknesses — but that's role-action within a framework, not natural extroverted energy. An actual ESTJ commands rooms by existing; Shioriko commands situations by holding a position within them.",
+            "ja": "デフォルトは控えめで形式的。ESTJを推してたファンですら「社交的にはかなり内向きな方」と認めてた——それでもEを推してた。グループ場面では基本的に「ただそこにいる」だけで、ランジュやかをるこに押されても受け流す側。役割のための行動はする——議論で挑む、生徒会でのスピーチ、強み弱みの分析アドバイスとか——でもそれは枠組みの中での役割行動であって、自然な外向性のエネルギーじゃない。本物のESTJはそこにいるだけで場を支配する。栞子は「自分のポジションを持つことで状況を動かす」タイプ。",
+            "id": "Default-nya tertutup dan formal. Fans yang argue buat ESTJ aja masih ngakuin dia \"jauh lebih pemalu secara sosial\" — dan itu dari orang-orang yang lagi memperjuangkan E-nya. Di setting kelompok dia basically \"cuma ada di sana\", pasif waktu Lanzhu sama Kaoruko nyuruh-nyuruh. Dia emang tampil asertif kalau tugasnya nuntut — debat, pidato di dewan, kasih analisis kekuatan-kelemahan orang — tapi itu tindakan berbasis peran, bukan energi ekstrovert yang natural. ESTJ beneran nguasain ruangan dengan keberadaannya; Shioriko nguasain situasi dengan pegang posisinya."
+          }
+        },
+        "J": {
+          "score": 7,
+          "reason": {
+            "en": "Very high. Student council president energy: methodical, organized, reliable. She achieved instructor-level certification in traditional dance, tea ceremony, and flower arranging simultaneously — each of those takes years of J-discipline. Her whole philosophy, \"students should do things they can succeed at,\" is itself a planning doctrine. She does her homework, she shows up prepared, and she works hard in the background without fanfare.",
+            "ja": "かなり高い。生徒会長らしい几帳面さ——体系的、整理好き、頼りになる。日本舞踊・茶道・華道を同時にインストラクターレベルまで取得してるんだけど、それぞれが何年もかけて鍛える種目。「できることをやる」という信条そのものが計画的思考。宿題は必ずやるし、準備して臨むし、派手さはなくてもコツコツ地道にやり続ける。",
+            "id": "Sangat tinggi. Energi ketua OSIS: metodis, terorganisir, bisa diandalkan. Dia berhasil dapat sertifikasi level instruktur di tari tradisional Jepang, upacara minum teh, dan merangkai bunga — sekaligus. Masing-masing butuh tahun-tahun disiplin J. Filosofi hidupnya sendiri, \"murid harusnya lakukan hal yang bisa mereka berhasil\", udah suatu doktrin perencanaan. PR dikerjain, datang udah siap, kerja keras di balik layar tanpa perlu sorotan."
+          }
+        },
+        "T": {
+          "score": 4,
+          "reason": {
+            "en": "Solidly T. She evaluates activities by \"educational merit,\" her signature talent is analytically identifying people's strengths and weaknesses — not emotional attunement. Her stated life plan is \"to live doing the things I am most effective at,\" which is about as Te as a sentence can get. She's self-aware about it too: \"I think I'm not very good at conveying my feelings.\" Not maxed because genuine kindness does soften her delivery, and her Fi does develop meaningfully over her idol arc.",
+            "ja": "しっかりT。活動を「教育的価値」で評価するし、彼女のトレードマーク的な才能は人の強み・弱みを分析的に見極めることで——共感的な感受性じゃない。「自分が最も効果的なことをして生きていく」という人生設計の言葉は、Teらしさの塊みたいな文章。自己認識もある。「気持ちを伝えるのが苦手だと思います」。最高値じゃないのは、本物の優しさが言葉遣いを和らげるし、アイドルの歩みの中でFiが意味のある成長をするから。",
+            "id": "T-nya solid. Dia evaluasi kegiatan berdasarkan \"nilai edukasinya\", bakat khasnya adalah menganalisis kekuatan dan kelemahan orang secara analitis — bukan melalui empati. Rencana hidupnya sendiri — \"hidup melakukan hal yang paling efektif buat aku\" — itu kalimat yang Te banget. Dia sendiri juga sadar: \"Kayaknya aku kurang pintar menyampaikan perasaan.\" Nggak maksimal karena kebaikan tulus memang melembutkan cara penyampaiannya, dan Fi-nya berkembang dengan berarti sepanjang perjalanan idol-nya."
+          }
+        },
+        "C": {
+          "score": -1,
+          "reason": {
+            "en": "Mixed. She projects real confidence when she's in-role — challenged Setsuna in open debate, won the presidency on merit, hands out blunt advice without second-guessing herself. But her baseline self-esteem is lower than that: she avoided school idols entirely for years because she feared failing like her sister, and her whole worldview is built around pre-empting failure. \"Wanted to give up due to the thought of not being able to be good enough.\" Confidence is role-conferred, not something she carries around internally.",
+            "ja": "複雑。役割の中では確かに自信があって——せつ菜に真っ向から議論を挑んで、実力で会長の座を勝ち取って、遠慮なくズバッとアドバイスする。でもベースの自己評価は低い。お姉さんのように失敗するのが怖くて何年もスクールアイドルの道を避けてきたし、世界観そのものが「失敗を先回りして回避する」ことで成り立ってる。「力不足かもしれないという思いで諦めたくなった」。自信は役割から来るもので、内側に最初からあるものじゃない。",
+            "id": "Campuran. Dia proyeksikan rasa percaya diri yang nyata waktu dalam peran — nantangin Setsuna dalam debat terbuka, menangkan pemilihan ketua atas dasar kemampuan, kasih saran blak-blakan tanpa ragu. Tapi self-esteem dasarnya lebih rendah dari itu: dia menghindari school idol bertahun-tahun karena takut gagal kayak kakaknya, dan seluruh pandangan hidupnya dibangun untuk mencegah kegagalan sebelum terjadi. \"Ingin menyerah karena merasa mungkin tidak cukup baik.\" Kepercayaan dirinya datang dari peran, bukan sesuatu yang dia bawa dari dalam."
+          }
+        },
+        "M": {
+          "score": 5,
+          "reason": {
+            "en": "Moderate-high. \"I will do my absolute best and definitely show you results\" — she took the student council presidency through active campaigning and reached instructor-level in multiple traditional arts while staying top academic. Real ambition. But it's bounded: she deliberately avoided the school idol path for years specifically because she might fail, which is the opposite of a high-M character chasing things regardless of odds. Achievement-driven but explicitly risk-averse, which caps her relative to an all-out competitor like Lanzhu.",
+            "ja": "中〜高め。「全力を尽くして必ず結果を出す」——積極的な選挙活動で生徒会長の座を勝ち取り、学業トップを保ちながら複数の伝統芸能をインストラクターレベルまで取得。本物の野心。ただ上限がある。失敗するかもしれないという理由だけでスクールアイドルの道を意図的に何年も避けてきたのは、勝ち目に関係なく突き進むM高めキャラとは正反対。成果志向ではあるけど、明確にリスク回避的。その分ランジュのような全力突撃型には届かない。",
+            "id": "Sedang-tinggi. \"Aku akan melakukan yang terbaik dan pasti tunjukkan hasilnya\" — dia rebut kursi ketua OSIS lewat kampanye aktif dan capai level instruktur di beberapa seni tradisional sambil tetap juara akademik. Ambisi yang nyata. Tapi ada batasnya: dia sengaja menghindari jalur school idol bertahun-tahun justru karena mungkin gagal — itu kebalikan dari karakter M tinggi yang ngejar sesuatu terlepas dari peluang. Didorong oleh pencapaian, tapi jelas risk-averse, yang ngebatasi dia dibanding tipe all-out seperti Lanzhu."
+          }
+        },
+        "O": {
+          "score": -1,
+          "reason": {
+            "en": "Slight pessimist. \"Students should do things they can succeed at\" is literally a failure-expectation doctrine — her default assumption is that people, including herself, might fail. Her fear of failure traces back to her sister's outcome, which she apparently \"deluded herself into thinking was worse than it actually was.\" She does update when shown real evidence — joins the club, grows, lets loose in the OVA — so genuine resilience is there. But the baseline worldview leans pessimistic, even if she can recover from it.",
+            "ja": "やや悲観寄り。「できることをやる」という信条は、言い換えれば「失敗する可能性を前提にした」ドクトリン——デフォルトの仮定は「人は、自分を含めて、失敗するかもしれない」。失敗への恐れはお姉さんのケースに端を発していて、どうやらそれを「実際より悪いと思い込んでた」節もある。ちゃんと新しい証拠には更新できるし——部に入って、成長して、OVAで羽を伸ばす——本物のレジリエンスはある。でもベースの世界観は悲観に傾いてる、たとえ立ち直れるとしても。",
+            "id": "Sedikit pesimis. \"Murid harusnya lakukan hal yang bisa mereka berhasil\" secara harfiah adalah doktrin yang mengasumsikan kegagalan — asumsi defaultnya adalah orang, termasuk dirinya, mungkin gagal. Ketakutannya akan kegagalan berakar dari pengalaman kakaknya, yang katanya dia \"mengkondisikan dirinya untuk percaya lebih buruk dari kenyataannya\". Dia memang bisa update pandangan kalau dikasih bukti nyata — gabung ke klub, berkembang, lepas di OVA — jadi ketahanan sejatinya ada. Tapi pandangan dunia dasarnya condong pesimis, meski bisa bangkit dari sana."
+          }
+        },
+        "A": {
+          "score": 3,
+          "reason": {
+            "en": "Genuinely caring under structural coldness. She wants everyone to succeed in their club activities, she kept Setsuna's secret when she accidentally found out, she's polite and respectful as a default. Anime canon calls her \"genuinely nice.\" But her care gets delivered through harsh pragmatism that ignores feelings in the moment — \"overly pragmatic, strict, cold and even antagonistic\" in SIFAS. She gives advice that upsets people before being proven right. Warm underneath, rigid in delivery — the Fi is there but tertiary Fi doesn't wear its heart on its sleeve.",
+            "ja": "外側の冷たさの下に本物の優しさがある。みんなが部活動で成功してほしいと思ってるし、偶然知ってしまったせつ菜の秘密を守った。デフォルトで丁寧で礼儀正しい。アニメカノンでは「根は優しい」と描かれてる。でも気遣いの表れ方が「その場の気持ちを無視した厳しい現実論」として出てくる——SIFASでは「過度に現実的で、厳格で、冷たく、対立的ですらある」。最初は人を傷つけるようなアドバイスをして、後で正しかったと証明される。内側は温かいけど、表し方が硬い——Fiはあるけど第三機能Fiは感情を外に出さない。",
+            "id": "Tulus peduli di balik kedinginan struktural. Dia mau semua orang berhasil di kegiatan klubnya, dia jaga rahasia Setsuna waktu nggak sengaja tau, default-nya sopan dan hormat. Kanon anime bilang dia \"genuinely nice\". Tapi kepeduliannya tersalurkan lewat pragmatisme keras yang mengabaikan perasaan saat itu — \"terlalu pragmatis, ketat, dingin bahkan antagonistik\" di SIFAS. Dia kasih saran yang bikin orang kesal dulu sebelum terbukti benar. Hangat di dalem, kaku dalam penyampaian — Fi-nya ada, tapi Fi tersier nggak gampang ekspos perasaannya."
+          }
+        },
+        "U": {
+          "score": -4,
+          "reason": {
+            "en": "Low. She's \"by and large just an ordinary person\" — deadpan in a cast of eccentrics, notable specifically for being the normal one in the room. Her interests in traditional Japanese arts (dance, tea ceremony, flower arranging) are elegant and refined, but they're the opposite of eccentric. Her only \"uniqueness\" is being conspicuously conventional while everyone around her is distinctly not. That's relative, not absolute.",
+            "ja": "低め。「概して、ただの普通の人」——個性派ぞろいのメンバーの中での無表情担当で、目立つのが「場の普通の人」であること。茶道・華道・日本舞踊への関心は品があって洗練されてるけど、奇抜さとは真逆。唯一の「特異性」は、周りが全員際立って個性的な中で、際立って普通であるということ。それは相対的なもので、絶対的なユニークさじゃない。",
+            "id": "Rendah. Dia \"pada dasarnya cuma orang biasa\" — deadpan di antara pemeran yang isinya orang-orang eksentrik, menonjol justru karena jadi satu-satunya yang normal di ruangan. Minatnya di seni tradisional Jepang (tari, upacara teh, merangkai bunga) elegan dan halus, tapi itu kebalikan dari eksentrik. Satu-satunya \"keunikan\"-nya adalah jadi konvensional secara mencolok di antara semua orang yang jelas-jelas bukan. Itu relatif, bukan absolut."
+          }
+        },
+        "N": {
+          "score": -5,
+          "reason": {
+            "en": "Strongly S. Concrete, present-focused, Si-grounded throughout. Her value anchors are in tradition and proven methods; she evaluates things against observed track records; she learned directly from her sister's specific past experience to shape her own life decisions. There's no abstract-visionary content anywhere in her character — even her opposition to school idols was evidence-based (\"my sister's group failed\") not a principled abstract stance. Pragmatic utilitarian evaluation, all the way down.",
+            "ja": "しっかりS。全体を通じて具体的で、現在/過去志向で、Si的。価値の軸は伝統と実証済みの方法にあって、実績で評価して、姉の具体的な過去の経験から直接学んで自分の人生設計に反映させた。抽象的・ビジョナリーな要素はどこにも見当たらない——スクールアイドルへの反対意見すら「お姉さんのグループが失敗した」という証拠ベースの話であって、抽象的な原則論じゃない。頭から足まで、実用的・功利的な評価で動く人。",
+            "id": "S yang kuat. Konkret, fokus ke masa kini dan masa lalu, berakar di Si sepanjang waktu. Jangkar nilainya ada di tradisi dan metode yang sudah terbukti; dia mengevaluasi hal-hal terhadap rekam jejak yang teramati; dia belajar langsung dari pengalaman spesifik kakaknya di masa lalu untuk membentuk keputusan hidupnya sendiri. Nggak ada konten abstrak-visioner di mana pun dalam karakternya — bahkan penolakan terhadap school idol pun berbasis bukti (\"grup kakakku gagal\") bukan sikap abstrak berprinsip. Evaluasi pragmatis-utilitarian, dari ujung kepala sampai ujung kaki."
+          }
+        }
+      }
+    }
+  }
+}

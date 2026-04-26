@@ -1,0 +1,535 @@
+name        : Sayaka Murano
+kanji       : 村野 さやか
+color       : #5383c3 
+mbti        : ISFJ (25), INFJ (4)
+
+(idol.st)
+
+desc 1:
+A third-year at Hasunosora Girls’ High and one of the two presidents of the School Idol Club. Sayaka is an athlete who has performed as a figure skater from a young age. She is very sincere and never leaves others behind. Although Sayaka is very diligent and takes care of others, she can be somewhat of an airhead at times. She is a very skilled cook and uses the dormitory kitchen often.
+
+desc 2:
+A second-year at Hasunosora Girls’ High. Sayaka is an athlete who has performed as a figure skater from a young age. She is very sincere and never leaves others behind, and although she is very diligent and takes care of others, she can be somewhat of an airhead at times. She is a very skilled cook and often takes care of Tsuzuri.
+
+desc 3:
+A Hasunosora 1st year who is clumsy, but is a genuine hard worker. She was a figure skater when she was little, and although her grades are good, she still has some worries... She is a serious person who finds it difficult to ignore others and is determined to help them with their troubles, but she can also be a bit air-headed.
+
+background:
+Sayaka is also an accomplished figure skater in addition to being a school idol. The whole reason that she came to Hasunosora was because she stopped progressing as a figure skater; after being told that she "was not expressive enough", she wanted to figure out how she could grow beyond that. She was attracted to the School Idol Club after seeing Tsuzuri Yugiri's performance and immediately accepted an invitation to join.
+
+Sayaka has an older sister named Tsukasa who was known as an exceptional skater until her injury two years prior. Sayaka is determined to continue figure skating for her sister, with her being the reason she took it up in the first place. However, her fatal flaw was that she tried to emulate her sister exactly, losing her expressiveness and uniqueness through trying to replicate someone else.
+
+personality:
+Sayaka is awkward, but also a genuine hard worker who doesn't give up when times are tough. Even though her grades are good, but she has trouble when it comes to her personal life. This is because she can be too serious, even giving simple lunchboxes her all. She also can't bring herself to neglect other people, and can unintentionally give help where it isn't wanted. Upon entering Hasunosora, she initially had no desire for friends, likely because of her lack of humor and sometimes clumsy social skills.
+
+Sayaka is very formal and always makes sure to address others formally. She is more reserved and stiff than her fellow 1st years, Kaho Hinoshita and Rurino Osawa, and often worries that her stiffness might drive others away. However, these mannerisms prove invaluable for her relationship with Tsuzuri; by listening patiently and nudging her along with questions, Sayaka can help her sort out complicated situations. This dynamic between Sayaka's grounded nature and Tsuzuri's light and airy personality allows for a successful partnership.
+
+She is unable to leave others alone when they need help, as is shown in her relationship with Tsuzuri. Sayaka wakes her in the mornings, makes her lunch, takes her to practice, and generally keeps her on track. Kozue Otomune expressed pity towards taking care of her, but Sayaka doesn't mind the added responsibility, even finding new joy in cooking after making Tsuzuri's bentos. She can talk at length about Tsuzuri's performances, and greatly respects (and envies) her inherent talent. This is expanded upon with the arrival of Kosuzu, as she is now her senpai and mentor. She feels a great deal of responsibility towards her, and will go to great lengths to help her.
+
+Sayaka is someone who works extremely hard at everything she does, putting in a lot of time and effort to be good at both figure skating and idol activities. After joining the club, Sayaka focused on training to improve her skills, being nervous to perform as an idol for the first time. This is much different from Kaho, who jumped right into performing despite being a total newbie.
+
+(wiki japan)
+姉の影響で幼い頃からフィギュアスケートを習っている。フィギュアスケートのスランプに陥り、それを解消するための新しい刺激としてスクールアイドルの活動を始める。真面目かつ誠実であり、パートナーの綴理の独特な言動に戸惑いながらも理解しようと努力している。
+梢からは次期部長に推薦されるが、自身は態度を保留。102期生卒業後に大きな夢を持つ人が相応しいと、花帆を推薦する。その際に花帆からお互いに出来ることを支え合うために、二人で部長をすることを提案され、花帆と共に部長となる。
+卒業後は、大学でスポーツ科学を専攻。同時に興味のある様々な物事に挑戦する。
+
+(anibase.net)
+
+Sayaka always speaks politely.
+
+She is earnest, awkward in a sincere way, and hardworking to the core.
+
+At the beginning of her club life, she is shy in front of strangers.
+
+She struggles with public chatter, calling out to passersby, self-introductions, and even being photographed.
+
+Through repeated experience, especially helping at Omicho Market and speaking regularly on the club's talk streams, she gradually improves.
+
+By June of her first year, she is capable of hosting a radio-style stream on her own.
+
+Later, she can handle both emceeing and event planning by herself.
+
+Even so, her embarrassment never fully disappears, and she still panics when others push her into cute or flashy fan-service moments.
+
+In the story episodes, she often becomes the sharp-tongued realist surrounded by chaos.
+
+On her very first days at school, she meets the unusually intense Kaho Hinoshita and the deeply unconventional Tsuzuri Yugiri, so her role as the exasperated straight woman forms quickly.
+
+Her repeated phrase is essentially "What is it, what is it?"
+
+She often repeats the same word twice, sometimes because the person addressing her is doing the same thing.
+
+Though usually gentle and considerate, she sometimes blurts out unexpectedly cutting remarks.
+
+Because of her sharp accidental barbs, fans jokingly nickname her Jackknife Murano.
+
+
+Several of her most memorable comments come out before she realizes how harsh they sound.
+
+She often apologizes afterward, or reacts with honest surprise when told she was rude.
+
+She is also a little more emotionally dependent than her composed exterior suggests.
+
+She likes being praised, can act like a younger sister around trusted people, and shows a softer, slightly spoiled side in private.
+
+Sayaka is an excellent cook.
+
+Because she often prepares boxed lunches and home-cooked meals, she regularly uses the dormitory kitchen.
+
+By the spring of her third year, even new classmates who have only recently met her thank her for always making the hallway smell delicious.
+
+She can handle kitchen work with remarkable ease, even when suddenly asked to help at eateries or a long-established inn.
+
+In the 104th class year's school festival food stall contest, she effectively runs crepe preparation by herself after Kaho and Rurino's planning.
+
+She has made lunches not only for Tsuzuri and Kosuzu, but apparently for all ten club members she has spent time with.
+
+Tsuzuri especially loves her simmered dishes.
+
+Tsuzuri even fantasizes about a restaurant called Saya Place, where Sayaka would serve food to everyone.
+
+She also holds beginner-friendly cooking lessons for members such as Kosuzu Kachimachi, Hime Anyoji, and Megumi Fujishima.
+
+Her love of cooking comes from making food for other people, because she enjoys thinking about the person who will eat it.
+
+By contrast, she does not find cooking for herself alone especially fun.
+
+That detail says a lot about how deeply her care for others shapes her hobbies.
+
+She is not especially attached to video games.
+
+She plays lightly with old friends or with Rurino and others, and names The Game of Life as a game she remembers fondly.
+
+For a game presentation event in May of the 105th class year, she studies gaming terminology from Ceras Yanagida Lilienfeld and learns to use it properly for her host role.
+
+Her favorite school subjects are modern literature and mathematics.
+
+She likes modern literature because she enjoys tracing how an author arrives at an idea and solving a text through thought.
+
+She is also good at writing, and can finish DOLLCHESTRA paperwork before Tsuzuri even notices it exists.
+
+She originally liked mathematics already.
+
+Thanks to Tsuzuri, she comes to like it even more.
+
+When talking about animals, she often adds the equivalent of an honorific and says things like "cat" in a very polite way.
+
+Curiously, for dogs she says something closer to "Mr. Woof."
+
+
+Because her favorite animal is the red panda, Tsuzuri and Megumi often represent her with a red panda icon.
+
+However, in one song project the motif becomes a blue bird instead, likely because a red panda was harder to fit into the theme.
+
+She also likes a line of cute goods featuring vegetables and fruits with eyelashes and eyes.
+
+This collection is known as the Vegetable Friends Series, and she actively collects the merchandise.
+
+Long before becoming a school idol, Sayaka is a figure skater.
+
+By the 103rd class year, she has already spent about ten years on the ice, starting around the age of five.
+
+She originally began because of the influence of her older sister, Tsukasa Murano.
+
+Her early performances were driven by admiration for her sister and the desire to chase after her.
+
+As a child, she fell often.
+
+Over time, she improved and built the discipline of a serious competitor.
+
+Before entering Hasu no Sora, she falls into a slump.
+
+No matter how perfectly she practices and performs, her scores stop improving.
+
+When she asks judges, peers, and rivals why, the answer she keeps hearing is the same: she lacks expressive power.
+
+That problem becomes even more painful after her sister's competitive career is interrupted by injury.
+
+In the spring of the 103rd class year, she returns to competition.
+
+From then on, she continues going to the skating rink after school whenever school idol activities allow it.
+
+She has also experienced training camps and remembers herself as the type who complained more than Kosuzu would.
+
+She has enough confidence in her arm strength from those camps to boast about her pillow-fighting ability.
+
+The skating rink associated with her in Ishikawa is the Kenmin Sports Recreation Plaza in Nishiizumi, Kanazawa.
+
+It is treated as a real-life pilgrimage site for fans, and official collaborations have been held there.
+
+A life-size Sayaka panel has been displayed inside the facility.
+
+For her seventeenth birthday on January 13, 2025, the venue even hosted a special birthday event featuring commemorative photos and an original performance by a local skating group.
+
+Sayaka's most famous practical talent is schedule management.
+
+She keeps a strict daily rhythm and handles self-control as if it were second nature.
+
+
+Thanks to her athletic stamina, she balances figure skating and school idol work with extraordinary success.
+
+She can also take on office work, planning, and support tasks at a level that impresses everyone around her.
+
+At one point, she handles nearly all of the enormous workload that had piled up for Kozue.
+
+She is also skilled at massage, including balanced pressure work and knowledgeable foot reflexology.
+
+By the 104th class year, her stamina is stated to exceed even Tsuzuri's and Megumi's.
+
+During long-distance running, she almost overtakes Kozue.
+
+Because she can process what looks like an impossible amount of work, other members start giving her half-joking labels.
+
+Kaho calls her a cyborg, Hime says she must have fifty hours in a day, and Rurino describes her as a steel chef who can sing and dance.
+
+After putting Kosuzu through an intense training regimen that seemed ordinary to her but brutal to everyone else, she is also feared as Demon Number Two, second only to Kozue.
+
+And yet, for all that near-inhuman capability, she is not emotionally invulnerable.
+
+When things go smoothly under her control, she can become very confident.
+
+When that structure collapses through failure, she falls hard into despair.
+
+Most of her failures are tied not to technical skill, but to school idol expression.
+
+She struggles when the issue is emotional truth, personal motivation, or understanding what kind of feelings should reach the audience.
+
+Those problems tend to be solved only through honest conversation with people close to her.
+
+Until then, she can brood over them for quite a while.
+
+Another weakness appears in crises.
+
+When a strange switch flips in her head, she can abandon shame and common sense entirely, leading to behavior such as her famous Hinoshita Install imitation.
+
+Even when told to try a casual nickname for Ceras, she ends up saying the nickname and then awkwardly attaching politeness to it.
+
+Story Role in the 103rd Class Year
+Sayaka's central conflict in the 103rd class year is her figure skating slump.
+
+She comes to Hasu no Sora not to make friends or join clubs, but to search for a clue that can restore the expressive power she lacks.
+
+At first, she intends to keep her distance from school life.
+
+She even treats Kaho coldly when they first meet.
+
+That begins to change after she sees Kaho in despair and, despite her own intentions, helps cheer her up by going to the club fair.
+
+After they part ways, Sayaka checks the school idol club booth and meets Tsuzuri.
+
+Instead of handing out flyers in an ordinary way, Tsuzuri suddenly shows her a dance.
+
+That performance strikes Sayaka as the answer to why she came to this school.
+
+She immediately decides to join the school idol club and ask Tsuzuri for guidance.
+
+The flyer Tsuzuri gives her at that moment becomes a treasured item that she still keeps even near the end of her second year.
+
+After joining, she repeatedly practices the basics.
+
+She also quietly supports Kaho from the sidelines, encouraging her to become a school idol too.
+
+Although Sayaka decides quickly to become a school idol, it takes her longer than Kaho to stand comfortably on stage as one.
+
+The formation of DOLLCHESTRA becomes the emotional core of her early story.
+
+Tsuzuri initially refuses event appearances as a duo with her.
+
+No matter how much Sayaka trains during April, she feels she cannot match Tsuzuri's genius-level performance.
+
+Because she cannot understand Tsuzuri's true intentions, she assumes Tsuzuri is disappointed in her lack of ability.
+
+Sayaka even tells Tsuzuri it would be fine to give up on her as a partner.
+
+In reality, Tsuzuri is the one struggling.
+
+She cannot fully accept herself as a school idol after the previous year's experiences, even while thinking highly of Sayaka's talent and ability.
+
+Sayaka confesses that she joined because she admired Tsuzuri alone.
+
+That confession leads the two of them to stand on stage together and become school idols as DOLLCHESTRA.
+
+Sayaka's breakthrough in expressive power comes in an unexpected place: Omicho Market.
+
+Tsuzuri takes her there because she wants Sayaka to give everything she has.
+
+Under the guidance of a worker named Reika, Sayaka helps with cooking, customer service, and calling out to passersby.
+
+Through the experience, she discovers a desire to repay the expectations of the market customers who are also fans of the club.
+
+That emotional shift lets her speak louder and smile more naturally.
+
+When she returns to the skating rink in Kanazawa, she finds herself skating with a lightness she had not felt in a long time.
+
+She then wins the regional figure skating competition.
+
+Kaho and Tsuzuri worry that she may now quit school idol activities, but Sayaka promises to continue balancing both.
+
+Her dance improves after that return to the ice as well.
+
+Soon after, her sister Tsukasa asks her to perform in a retirement commemorative ice show.
+
+The date of that show overlaps with a special school idol event that is deeply important to Tsuzuri because of a promise and memory involving older club members.
+
+Tsuzuri quietly decides on her own to give it up for Sayaka.
+
+When Sayaka learns this, the conflict becomes painful.
+
+Tsuzuri tells her that school idols are not something one should do because someone else makes them, and that there is no rule saying she has to keep doing it.
+
+In other words, Tsuzuri presents Sayaka with the choice to end her school idol activities.
+
+After receiving heartfelt advice from Kaho, Sayaka performs magnificently in the ice show.
+
+Then, standing on the rink, she gives a speech.
+
+She declares that thanks to everyone, especially those who supported her, she has been able to truly stand again.
+
+She says that both figure skating and school idols are fun, and that she refuses to leave one of those joys behind on the ice.
+
+She calls out to Tsuzuri, who had not even been invited as a spectator, and asks her to perform there and then.
+
+Tsuzuri appears.
+
+In that moment, she understands that the pale blue sparkle living in Sayaka does not belong only to the rink, but also to the life they have built together.
+
+The two perform.
+
+Sayaka then affirms a core truth of her character: she works hard because she wants to work hard.
+
+Later, in the episode centered on the Rindo Festival and Love Live! entry, Sayaka volunteers to act as substitute club leader when Kozue collapses from a cold.
+
+She proves frighteningly effective, smoothly handling office tasks, schedules, and practical management.
+
+But her confidence is challenged when student council president Sachi Ogami gives the first-year trio three trials before approving their live stage use request.
+
+Those tasks include flyer distribution, a promotional video, and finally a deeper question.
+
+When filming the video, Sayaka speaks from the mindset of a competitor.
+
+She talks about wanting to face the tournament as a single school idol doing her utmost.
+
+Sachi pushes back.
+
+She reminds Sayaka that many school idols do not enter Love Live!, and that school idols are not identical to athletes who must compete for first place.
+
+The final question is simple and devastating: why does Sayaka do school idol activities at all?
+
+At first, she cannot explain it properly.
+
+Eventually, she realizes the answer is not just that Tsuzuri acknowledges her or that Kaho and Rurino support her.
+
+It is that she wants to answer the expectations of the people cheering for her.
+
+At the Rindo Festival, she gives her answer not with words but with a solo song.
+
+That growth in her becomes one of the things that stirs anxiety inside Tsuzuri.
+
+In the next major episode, she encourages Tsuzuri to talk with Sachi and resolve a misunderstanding rooted in their shared past.
+
+After Tsuzuri and Sachi reconcile, Sayaka promises to remain by Tsuzuri's side.
+
+When the club reaches the Love Live! finals with six members, they are defeated.
+
+The day after returning to Kanazawa, the others are emotionally shaken in different ways, but Sayaka is already out doing running drills before figure skating practice.
+
+She is hurt by the loss, but unlike the others, she is used to defeat.
+
+Her years in skating taught her the pain of not being number one and the reality of effort that still does not reach the podium.
+
+Her belief is that what she wants others to see is the frontline version of herself that keeps striving.
+
+Kozue and Kaho praise that attitude as admirable.
+
+Still, the story quietly shows that she is not entirely fine.
+
+When Tsuzuri stands on the rooftop silently staring into the sky, Sayaka tries to stay beside her but cannot draw out her feelings, and that inability unsettles her.
+
+Story Role in the 104th Class Year
+At the start of the 104th class year, Sayaka advances to second year.
+
+She also concludes that copying Tsuzuri's dance exactly is impossible for her, so she chooses to build her own style instead.
+
+She begins attending club meetings as Kozue's accompanying support member.
+
+She also takes turns coaching dance practice with Kozue.
+
+Her encounter with Kosuzu Kachimachi happens early in the school year, when she witnesses Kosuzu fail an attempt to cross Hasuno Lake.
+
+Sayaka supports and encourages her until she succeeds, then gives her a special badge labeled for the lake-crossing challenge.
+
+That small act sets Kosuzu on the path toward her dream of decorating her school bag with challenge badges.
+
+Their relationship quickly becomes central to DOLLCHESTRA's next stage.
+
+In the episode focused on the Tsuruga School Idol Live Festa, Sayaka is assigned by Kozue to serve as the main organizer among the younger members.
+
+Because this event is also Kosuzu's homecoming live in front of her family, Kosuzu asks Sayaka for special training.
+
+At the same time, Tsuzuri asks Sayaka to write lyrics for a new DOLLCHESTRA song built around the image of adding Kosuzu to the unit.
+
+Sayaka also plans the travel schedule for their stay in Fukui before the event.
+
+Kosuzu visibly improves under Sayaka's intense training.
+
+However, when Sayaka reviews their mini live in Fukui, she realizes something painful.
+
+Kosuzu's performance has become a copy of Sayaka's form, not an expression of Kosuzu's own heart.
+
+The situation reminds Sayaka of her younger self, who once chased her sister's polished performance without being able to make it truly her own.
+
+Believing she has repeated the same mistake as a teacher, Sayaka tells Kosuzu that making her train like Sayaka was wrong.
+
+She even says that admiring and trying to become like Sayaka is itself a mistake.
+
+Kosuzu rejects that idea.
+
+She stages a solo guerrilla live, full of clumsy errors and falls, but overflowing with straightforward determination.
+
+Watching it, Sayaka recognizes a different kind of sparkle from the one she felt toward Tsuzuri.
+
+Kosuzu's desire is not to copy perfectly, but to pursue what she admires with all her heart.
+
+That realization helps Sayaka understand that the joyful days when she followed her sister's back were never meaningless or false.
+
+In response, she vows to remain someone worth chasing as long as Kosuzu continues to pursue her.
+
+At the Tsuruga live, DOLLCHESTRA debuts the newly completed song, and Kosuzu's family is delighted.
+
+The story uses this arc to deepen Sayaka's understanding of admiration, imitation, and individuality.
+
+In Kosuzu's self-produced film project later that year, Sayaka acts in a supporting role as a senior named "Sayaka," a school idol who once supported Tsuzuri but is now unable to dance because of a leg injury.
+
+Because of the screenwriter's preferences, this version of her even speaks casually rather than politely.
+
+Another major turning point comes with Tsuzuri's future plans.
+
+When Tsuzuri still has not submitted her career survey, Sayaka and the others begin helping her search for a path through job experiences.
+
+Even after that, Tsuzuri eventually resists graduation itself.
+
+During a clubroom cleaning session, she suddenly bolts from the school, unable to bear the idea of separation.
+
+Sayaka and Kosuzu chase after her.
+
+Tsuzuri confesses that she became a school idol only because she was together with the club, and wants everyone to stay at Hasu no Sora forever.
+
+Kosuzu cries and wishes time would stop.
+
+Then Sayaka delivers words so harsh they shock Tsuzuri deeply, but the cruelty is intentional.
+
+Tsuzuri is enraged at first.
+
+Later, she understands the meaning behind Sayaka's severity.
+
+That leads to the creation of the Big Voice Championship, a school event where people can shout out the feelings they have been bottling up as graduation approaches.
+
+Tsuzuri organizes it and speaks as host rather than contestant.
+
+After the younger members and others voice their sorrow and love toward the graduating third years, Sayaka steps up at the end.
+
+She releases everything she has built up over two years and shouts her own feelings into the open.
+
+This becomes part of the process of helping Tsuzuri let go of her lingering attachment.
+
+In the following episodes, Sayaka also helps support Megumi during a crisis and joins a fierce series of performance challenges with Megumi and Hime against rival school idols.
+
+At the Love Live! finals of the 104th class year, Hasu no Sora ends tied with Izumi Katsuragi and Edel Note of Mizukawa Girls' High School.
+
+Complications caused by Mizukawa's school closure and resulting participation problems are eventually resolved through efforts led by Hasu no Sora and Mizukawa together, including support for Ceras's difficult dream.
+
+The playoff is finally held.
+
+Hasu no Sora Girls' Academy School Idol Club wins the championship they had long desired.
+
+During the celebration, Sayaka mostly watches over Tsuzuri, Kosuzu, Kaho, and the others until their excitement settles.
+
+Her joy is real, but it comes with her usual steadiness.
+
+Once preparations for the final Renge Festival of the 104th class year reach a temporary stopping point, Kozue officially names Sayaka as the next club president.
+
+Sayaka does not answer immediately and leaves the matter pending.
+
+Later, while preparing graduation gifts for the graduating 102nd class year, the 103rd class students decide to make a photo album of their school life.
+
+Kaho struggles emotionally with the task.
+
+To create more memories and more photos, they hold unit-based outings.
+
+For DOLLCHESTRA, Kosuzu proposes a whirlwind trip of many places, and Sayaka somehow succeeds in fitting everything into a workable schedule.
+
+At Hasuno Lake, Kaho and Kosuzu figure out the true purpose behind an event Sayaka had secretly organized at the market, and Sayaka is forced to admit they are right.
+
+At the same time, Sayaka and Rurino realize Kaho is nearing her emotional limit and gather the 104th class members to support her.
+
+Kaho eventually breaks down from exhaustion, but a special gift prepared by the others helps her stand again.
+
+The 104th class club members make an important promise together.
+
+After the Renge Festival, Sayaka spends the last stretch of DOLLCHESTRA time with Tsuzuri and sees the graduating seniors off with a bright face.
+
+In the final episode of the year, she resolves to become club president together with Kaho.
+
+She recommends Kaho because she believes the role should belong to someone with a great dream after the 102nd class year leaves.
+
+Kaho responds by suggesting that they support each other through what each can do best and serve as co-presidents.
+
+Sayaka accepts.
+
+From that point on, she wears Tsuzuri's hair ornament and adopts her long, half-up hairstyle as her default look.
+
+Position in the 105th Class Year and Beyond
+In the 105th class year, Sayaka serves as co-president of the school idol club with Kaho.
+
+This shared leadership system is noted as a first for the main school idol club within the series.
+
+After graduating from Hasu no Sora, she goes on to university.
+
+There she majors in sports science.
+
+Even while studying, she continues to challenge herself with many things that catch her interest.
+
+That future path fits her blend of athletic discipline and growing curiosity about the world.
+
+Notable Traits and Running Gags
+Sayaka is one of the most capable members in the cast, but she is also one of the funniest when thrown off balance.
+
+Her accidental rudeness, over-seriousness, and maternal handling of Tsuzuri create many of her most beloved scenes.
+
+She can be so responsible that the others treat her as part machine.
+
+But when her emotional weak point is hit, she can become flustered, dramatic, or strangely reckless.
+
+She is sometimes asked to help the drama club.
+
+As a result, she ends up unexpectedly cast in starring roles such as the Ice Princess and entries in the Magical Girl Series, despite not being naturally suited to acting.
+
+In the 105th class year, since DOLLCHESTRA does not gain another member, the two members of Edel Note become the next likely "targets" for such theatrical trouble.
+
+That ongoing joke fits the way capable people around Hasu no Sora are constantly dragged into increasingly absurd situations.
+
+(reddit opinion)
+
+A: “I want to become someone who can meet everyone’s expectations”. Time for the “perfect” girl of Hasunosora, Sayaka!
+
+The most versatile girl of the group, Sayaka is a really capable, supportive and reliable member, practically babysitting Tsuzuri, preparing bentos and waking her up to ensure she isn’t late (the clock as her symbol really fits her in that regard), and a pillar to both DOLLCHESTRA and the 103rd trio. Her first day in Hasunosora was already funny for me, she was puzzled that Kaho was doing a monologue in front of her out of the blue without even knowing her and when Kaho tried to get close to her, she rejected her, stating that she didn’t need friends at school, which of course Kaho would reminisce about at the beginning of the 104th year and leave both Rurino and Kosuzu puzzled, saying she was edgy, and on the next day, when Kaho was depressed about the school conditions, she was astonished to see how she looked like a zombie with her energy from the previous day all gone, she offered to help her find a club she could be herself again, their friendship didn’t start with good foot, but at least it was a start of a really long lasting relationship.
+
+What’s also interesting is that while both of them enrolled in Hasunosora for many reasons (Kaho to run away from her overprotective home and change of scenery and Sayaka to change herself), Sayaka really didn’t have a reason to join the school idol club like Kaho and Rurino had during Sachi’s “tests” (Kaho’s reason was so she can blossom, and Rurino was because it was fun), so her arc to find her raison d’être beside doing it for other member’s sake during the episode 12 was an interesting journey of self reflection, not to forget about the evil laughs Sachi made in the episode. In the end, “To meet everyone’s expectations”, is a really good way to represent her.
+
+I feel like Sayaka’ journey is the most interesting out of all of them as of right now, she started the school idol club to overcome a stalemate of her figure skating, stayed because Tsuzuri recognised her as one and later on also Kaho’s and Rurino’s support, overcome her skating doubts and later on faced Tsuzuri’s worries before the Sparkly Spot performance, the DOLLCHESTRA’s journey through the Omicho market to (in Tsuzuri’s opinion) find herself, and even after losing the first Love Live, she kept herself up by practicing for skating and understanding they did their best, she has a really strong willpower that even Kozue finds praiseworthy and keeps moving forward no matter the results of her efforts. Seeing Sayaka guiding Kosuzu thorough her journey was interesting though, from drowning with Kosuzu to cheering for her to cross the lake, her “To face everything firmly and earnestly” as a really accurate representation of her when guiding her, to her honesty to admit her fault at teaching in the wrong way she wanted felt like a personal attack to me as I also made the same mistake time ago. With 104th year ending with winning Love Live and later on having to face their seniors graduate was a bittersweet moment to witness, and I wasn’t definitely not expecting her to change her hairstyle but it definitely left me amazed. Her journey was long, impressive and fulfilling, definitely the best imo of the current members.
+
+The dynamic of the DOLLCHESTRA duo was awesome, while Tsuzuri was the creative and free spirited approach, Sayaka was the more grounded and planned approach, and where Sayaka lacked Expressiveness, Tsuzuri covered it, where Tsuzuri lacked a powerful presence, Sayaka covered it. With the 104th version I don’t really have much to comment, while the performances were really good I wasn’t as impacted as I was with the duo, 104th DOLLCHESTRA felt weak for me until REM.
+
+Her relationships with the other members are varied, I love how she had to constantly keep Tsuzuri afloat by having to constantly care of her by waking her up and making her lunch, to the point that Megumi once called her “the walking bento box”, she highly respects Kozue and tries to lighten her president duties as much as possible to the point that Kozue recommended her to be the next president, and her relationship with her fellow year members is one of perfect synchronicity, they can cover each other weaknesses and move on together as shown in the competition of the 103rd members against the 104th members, and is regarded as the “perfect” senpai for them.
+
+Overall she’s the first 4 members of Hasu are my favourites, I really love how in depth Sayaka is and how supportive she is towards the others, as well as how responsible and funny she can be when teased by Kaho or Tsuzuri. And maybe because my weakness for blue haired characters.
+
+While I love Cerise Bouquet, DOLLCHESTRA is my favourite subunit of Hasu, I love how varied and hard hitting their songs are, my favourites being Kibouteki Prism, Tragic Drops, Scapegoat, REM and Mirage Voyage.
+
+I found it weird that you did t post yesterday OP, thought you were busy. Thanks for the effort even if you don’t follow the series.
+
+B: Unfortunately my least favorite member of Hasunosora. She often takes the straight-man role (which makes sense when you're surrounded on all sides by Kaho, Tsuzuri and Kosuzu) but I wish she had more going on besides being the voice of reason. Her whole arc about living up to expectations doesn't really feel that engaging to me either. I will say I do really like that she had a permanent design change to her hairstyle and her stupid little vegetable mascot merchandise is extremely endearing
+
+C: Saya went from a stern and serious to now a much warmer person. She also now joins the goofy stuff the group is doing leaving Ginko the only straight man lol.
+
+D: Shy, stiff, awkward. She's grown up now. Absolutely love her, my fav Hasu chara 💙

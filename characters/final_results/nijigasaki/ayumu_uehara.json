@@ -1,0 +1,97 @@
+{
+  "ayumu_uehara": {
+    "color": "#ed7d95",
+    "name": {
+      "en": "Ayumu Uehara",
+      "ja": "上原歩夢",
+      "id": "Ayumu Uehara"
+    },
+    "desc": {
+      "en": "Ayumu is a self-described 'ordinary girl' who became a school idol because her childhood best friend Yu asked her to — and then discovered she genuinely loves it. She's hardworking, kind, and almost painfully earnest, the kind of person who lends you one glove so you both have a warm hand. The twist is the possessiveness: her bond with Yu runs so deep that any hint of distance can tip her into full-on jealous spiral, which the show plays for laughs but is clearly rooted in real attachment.",
+      "ja": "自分を「普通の女の子」と評する歩夢は、幼なじみの侑に誘われてスクールアイドルになった——そしてそれが本当に好きになった。努力家で優しくて、ちょっとだけ不器用なくらい誠実な子。寒い雪の日に片方ずつ手袋を分け合うような、そういうタイプ。そしてもう一つの顔は、侑への独占欲。二人の絆があまりにも深いから、少しでも距離を感じたら嫉妬モードに突入してしまう——作中ではコメディ扱いだけど、その根っこにあるのは本物の愛着。",
+      "id": "Ayumu itu gadis yang ngaku-ngaku 'biasa aja' yang jadi school idol karena diajak sahabat masa kecilnya, Yu — terus malah beneran cinta sama dunia itu. Dia pekerja keras, baik hati, dan jujur sampai kadang bikin gemas, tipe yang mau minjemin satu sarung tangan biar kalian berdua sama-sama hangat. Twist-nya ya soal posesivitasnya: ikatan dia sama Yu itu dalem banget, sampai sekecil apapun jarak yang terasa bisa langsung bikin dia masuk mode cemburu — dimainin buat komedi di anime, tapi aslinya berakar dari attachment yang nyata."
+    },
+    "mbti": {
+      "type": "ISFJ",
+      "reason": {
+        "en": "ISFJ with an overwhelming fan vote (166 vs 4 ISFP) and the text basically confirms it at every turn. The clearest Si diagnostic is the curry memory scene — Ayumu corrects Yu on exactly when they washed dishes together ('No! That was in middle school!'), because Si characters are the keepers of shared relational history. Yu forgets; Ayumu doesn't. Her Fe auxiliary shows up as concrete physical care: she shares her glove, holds hands, makes snowmen — not grand declarations but small specific acts of togetherness. Her insecurity is also distinctly Si-relational rather than Fi-abstract: she's not worried about losing her sense of self, she's worried about losing Yu specifically. An INFP in the same situation would be anxious about authentic self-expression; Ayumu is anxious about the shared experience being broken. Under stress, her inferior Ne fires up — normally she's calm and grounded, but when the Yu-Setsuna situation escalates she spirals into paranoid possibility-generation, stalking and jumping to worst-case conclusions. That's textbook Si-Fe cracking under pressure. ISFP is ruled out easily: she doesn't protect her 'ordinariness' as a Fi-value, she laments it — and her whole character structure is bond-preservation, not individuation.",
+        "ja": "ファン票が圧倒的（ISFJ 166 vs ISFP 4）で、テキスト分析もあらゆる場面でISFJを支持してる。一番わかりやすいSiの特徴はカレーの記憶シーン——歩夢が侑に「あれは中学校の時だよ！」って正確な時期を訂正するやつ。Si型は共有された関係の歴史を保持する役割を担ってる。侑は忘れてるのに、歩夢は忘れない。Fe補助機能は具体的な身体的ケアとして現れてる：手袋を分け合う、手をつなぐ、一緒に雪だるまを作る——大きな宣言じゃなくて、小さくて具体的な「一緒にいること」の積み重ね。彼女の不安感もSi的・関係的で、Fi的・抽象的じゃない。自分らしさを失うことへの不安じゃなくて、侑そのものを失うことへの不安。INFPが同じ状況にいたら自己表現の真正さを心配するはずだけど、歩夢は共有体験が壊れることを心配してる。ストレス下では劣等機能のNeが発火——普段は落ち着いてて地に足がついてるけど、侑とせつ菜の関係が気になり始めると妄想的な可能性生成に陥り、尾行して最悪のケースに飛びついてしまう。これはSi-Feがプレッシャーで崩れる典型的な姿。ISFPは簡単に排除できる：彼女は自分の「普通さ」をFi的な価値として守らず、むしろ嘆いている。そしてキャラクター構造全体が絆の保持であって、個性化じゃない。",
+        "id": "ISFJ dengan voting fans yang basically nggak ada tandingannya (166 vs 4 ISFP), dan teksnya sendiri ngonfirmasi ini dari semua arah. Diagnostik Si yang paling jelas itu adegan curry — Ayumu ngoreksi Yu soal kapan persisnya mereka nyuci piring bareng ('Bukan! Itu waktu SMP!'), karena tipe Si itu penjaga sejarah relasional bersama. Yu lupa; Ayumu nggak. Fe-nya keliatan lewat perhatian fisik yang konkret: bagi sarung tangan, pegang tangan, bikin manusia salju bareng — bukan deklarasi besar, tapi tindakan kecil spesifik yang nunjukin \"kita bareng\". Rasa insecure-nya pun khas Si-relasional, bukan Fi-abstrak: dia bukan khawatir kehilangan jati dirinya, tapi khawatir kehilangan Yu secara spesifik. INFP di situasi yang sama bakal cemas soal ekspresi diri yang autentik; Ayumu cemas soal pengalaman bersama yang mau hancur. Pas stres, Ne inferiornya aktif — biasanya dia kalem dan grounded, tapi pas situasi Yu-Setsuna memanas, dia spiral ke paranoia, stalking Yu dan langsung lompat ke kesimpulan terburuk. Ini gambaran Si-Fe yang retak di bawah tekanan, buku teks banget. ISFP gampang dicoret: dia nggak melindungi \"kebiasaan\"-nya sebagai nilai Fi, malah ngeluh soal itu — dan keseluruhan struktur karakternya soal menjaga ikatan, bukan individuasi."
+      },
+      "traits": {
+        "E": {
+          "score": -4,
+          "reason": {
+            "en": "Introverted, but in a soft social-shyness way rather than extreme withdrawal. She introduces herself as 'a bit nervous since this is my first time,' calls herself ordinary, and responds to Karin and Kasumi's mischief in that classic quiet-pure-reaction mode instead of matching their energy. She needs Yu to anchor her socially. Not a shut-in like Rina — she's warm and friendly once comfortable — just genuinely internally-oriented.",
+            "ja": "内向的——でも引きこもり系じゃなくて、穏やかな社交的内気タイプ。自己紹介では「緊張してます」、自分を「普通」と言い、カリンやカスミのいたずらにはエネルギーを合わせるんじゃなくてあの「純粋に素直に受け取っちゃう」リアクションで返す。社交面では侑がいると安定する。リナのような極端な内向きじゃないし——慣れれば温かくて友好的——でも基本的に内側へ向いた指向を持ってる。",
+            "id": "Introvert, tapi lebih ke arah malu-malu sosial yang lembut, bukan yang menarik diri ekstrem. Pas kenalan dia bilang 'agak nervous soalnya baru pertama kali', nyebut dirinya biasa-biasa aja, dan balesin isengnya Karin sama Kasumi dengan reaksi polos khas-nya daripada ngimbangi energi mereka. Butuh Yu sebagai jangkar sosialnya. Bukan tipe yang menutup diri kayak Rina — dia hangat dan ramah kalau udah nyaman — cuma emang dasarnya berorientasi ke dalam."
+          }
+        },
+        "J": {
+          "score": 5,
+          "reason": {
+            "en": "Her literal character descriptor is 'hard-working type school idol' (コツコツ系) — the kotsukotsu is specifically about doing things consistently, step by step, without shortcuts. 'Move forward step by step toward that dream' isn't just a line, it's how she actually operates. Structured, diligent, puts everything into what she does. Not as extreme as Sayaka-tier rigid discipline — Ayumu's J is earnest and conscientious rather than inhuman-executor — but solidly planned-and-structured.",
+            "ja": "彼女の公式キャラクター説明が「コツコツ系スクールアイドル」——コツコツってまさに「着実に、一歩ずつ、近道なく」という意味合いがある。「夢に向かって一歩ずつ」は単なるセリフじゃなくて、実際の動き方。計画的で勤勉で、やることに全力を注ぐ。彩花みたいなガチガチの規律系ではない——歩夢のJは誠実で良心的なタイプであって、マシンのような実行者ではない——でもしっかり計画的・構造的。",
+            "id": "Deskripsi karakter resminya literally 'school idol tipe kotsukotsu' — kotsukotsu itu artinya ngerjain sesuatu secara konsisten, selangkah demi selangkah, tanpa jalan pintas. 'Maju selangkah demi selangkah menuju impian' bukan cuma dialog doang, itu emang cara dia beneran bergerak. Terstruktur, tekun, all-in di apapun yang dia kerjain. Bukan sekaku disiplin ala Sayaka — J-nya Ayumu lebih ke genuinely rajin dan teliti, bukan eksekutor tanpa rasa — tapi solidly planned-and-structured."
+          }
+        },
+        "T": {
+          "score": -4,
+          "reason": {
+            "en": "Strong F all the way. Her entire arc runs on feeling: preserving the bond with Yu, navigating jealousy and emotional insecurity, expressing pure-hearted relational warmth. Her Fe is visible in how she adapts to Yu's agenda, supports club members' choices even when it hurts, and considers everyone's perspective before acting. There's no analytical or logical cognition operating as her primary mode anywhere in her characterization.",
+            "ja": "完全にF優位。全キャラクターアークが感情で動いてる：侑との絆の保持、嫉妬と感情的不安のナビゲーション、純粋で温かい関係性の表現。Feは侑のアジェンダに合わせる形、クラブメンバーの決断を自分が傷ついてでも支持する形、行動前に全員の視点を考慮する形で見えてくる。論理・分析的な認知が主要モードとして機能している場面は、キャラクター描写のどこにも存在しない。",
+            "id": "F kuat dari ujung ke ujung. Seluruh arc-nya digerakkan oleh perasaan: menjaga ikatan sama Yu, navigasi cemburu dan insecurity emosional, kehangatannya yang tulus dan relasional. Fe-nya keliatan dari gimana dia ngikutin agenda Yu, mendukung keputusan anggota klub bahkan kalau itu nyakitin dia sendiri, dan mempertimbangkan sudut pandang semua orang sebelum bertindak. Nggak ada mode kognitif logis-analitis yang beroperasi sebagai mode utama di manapun dalam karakterisasinya."
+          }
+        },
+        "C": {
+          "score": -6,
+          "reason": {
+            "en": "Very low confidence, and it's co-defining with everything else about her. 'My singing and dancing are still lacking, my appearance is ordinary' — she says this in her own introduction. She 'doesn't believe she is very skilled' at school idol activities and her whole arc circles around confidence and its relationship to her dream. What keeps it from being the absolute floor is that she doesn't stop — she keeps pushing forward despite the insecurity, functioning through it rather than being paralyzed by it.",
+            "ja": "自信がかなり低くて、それが彼女の全体像の一部を形成してる。「歌もダンスもまだまだで、見た目も……普通」——これを自己紹介で自分から言ってしまうレベル。スクールアイドル活動について「あまりスキルがあるとは思っていない」と明言しており、全体的なアークが自信とその夢との関係を中心に回ってる。絶対最低値でないのは、彼女が止まらないから——不安を抱えながらも前に進み続け、麻痺するんじゃなくてそれを機能させながら生きてる。",
+            "id": "Rasa percaya diri sangat rendah, dan itu co-defining sama semua hal lain tentang dirinya. 'Nyanyiku dan tariku masih kurang, penampilanku… biasa aja' — ini dia bilang sendiri waktu kenalan. Dia 'nggak percaya bahwa dirinya punya skill yang bagus' di aktivitas school idol, dan seluruh arc-nya berputar soal kepercayaan diri dan hubungannya sama impian itu. Yang bikin skornya nggak mentok di bawah banget adalah dia nggak berhenti — terus maju meski insecure, berfungsi di tengah ketidakpercayaan diri daripada lumpuh karenanya."
+          }
+        },
+        "M": {
+          "score": 2,
+          "reason": {
+            "en": "Low-moderate — and the key rule here is that hard work doesn't equal ambition. Ayumu didn't choose the idol path competitively; Yu suggested it and she followed because of the bond. She doesn't articulate scale-goals or aim for #1. Her stated philosophy is 'move forward step by step' and 'make memories together.' The drive is real — she keeps going, doesn't quit — but it's framed as relational duty rather than competitive hunger. Compare her to Setsuna (M=7) or Karin and the difference is immediate.",
+            "ja": "低め〜中程度——そしてここでのポイントは、努力=野心ではないということ。歩夢は競争的な観点からアイドルの道を選んだわけじゃない。侑に誘われて、二人の絆のためについていった。スケール目標を言語化したり、1位を目指したりはしない。彼女が語るのは「一歩ずつ前に進む」と「一緒に思い出を作る」。やる気は本物——続けるし、諦めない——でもそれは競争心じゃなくて、関係性への責任感から来てる。せつ菜（M=7）やカリンと比べると、その差は一目瞭然。",
+            "id": "Rendah-sedang — dan poin kuncinya di sini adalah kerja keras bukan berarti ambisius. Ayumu nggak milih jalan idol secara kompetitif; Yu yang ngajak, dan dia ngikut karena ikatan itu. Dia nggak ngungkapin tujuan skala besar atau ngincar peringkat 1. Filosofi yang dia sebutin ya 'maju selangkah demi selangkah' dan 'buat kenangan bareng'. Dorongannya nyata — dia terus jalan, nggak nyerah — tapi itu bingkainya soal kewajiban relasional, bukan nafsu bersaing. Bandingkan sama Setsuna (M=7) atau Karin dan bedanya langsung keliatan."
+          }
+        },
+        "O": {
+          "score": 0,
+          "reason": {
+            "en": "Neutral — genuinely in the middle. On the anxious side: she worries about being left behind, gets jealous-paranoid under stress, and her insecurity runs deep. On the resilient side: she maintains hope, keeps forward momentum, and she finds quiet joy in everyday small things — cherry blossoms, seashells, the sound of waves, snow to make snowmen in. The cheerfulness and the anxiety coexist, and they basically cancel out to a resilience baseline of zero.",
+            "ja": "ニュートラル——本当に中間。不安側としては：取り残されることを心配し、ストレス下では嫉妬・妄想的になり、不安感が深い。回復力側としては：希望を維持し、前進を続け、日常の小さなものに静かな喜びを見つける——桜、貝殻、波の音、雪だるまを作れる雪。明るさと不安が共存していて、それらが基本的にプラスマイナスゼロのレジリエンスベースラインに行き着く。",
+            "id": "Netral — beneran di tengah. Sisi cemasnya: khawatir ketinggalan, jadi cemburu-paranoid pas stres, dan rasa insecure-nya lumayan dalam. Sisi resiliennya: tetap menjaga harapan, terus maju, dan nemuin kesenangan kecil yang tenang di hal-hal sehari-hari — bunga sakura, kerang laut, suara ombak, salju buat bikin manusia salju. Keceriaan dan kecemasan itu ada bersamaan, dan keduanya basically saling meniadakan jadi baseline resiliensi nol."
+          }
+        },
+        "A": {
+          "score": 6,
+          "reason": {
+            "en": "High empathy. Kind, cheerful, genuinely considerate — she splits her glove so both she and Yu each have one warm hand, she supports members' decisions even when it hurts her personally, she considers everyone's perspective and wants the group to get along. Not a max score because her warmth is notably bond-focused: it's most intense toward Yu and the club, and when that bond feels threatened, the caring-person mode can tip into the possessive streak everyone's familiar with.",
+            "ja": "共感度が高い。優しく、明るく、本当に気遣いができる——侑が寒くないように片方ずつ手袋を分け合うし、自分が傷ついてもメンバーの決断を支持するし、全員の視点を考えてグループが仲良くいられるよう気にかける。最高値でないのは、彼女の温かさが明らかに絆にフォーカスされているから：侑とクラブに向けたときが最も強く、その絆が脅かされると感じると、ケアする人モードが皆もよく知る独占欲に傾くことがある。",
+            "id": "Empatinya tinggi. Baik hati, ceria, genuinely thoughtful — dia bagi sarung tangannya biar dia dan Yu masing-masing dapat satu tangan yang hangat, dia dukung keputusan anggota bahkan kalau itu nyakitin dia sendiri, dia pertimbangin sudut pandang semua orang dan mau grup tetap akur. Bukan skor maksimum karena kehangatan dia itu jelas bond-focused: paling intens ke Yu dan klub, dan kalau ikatan itu terasa terancam, mode orang-yang-peduli bisa langsung bergeser ke sisi posesif yang udah pada tau."
+          }
+        },
+        "U": {
+          "score": -5,
+          "reason": {
+            "en": "Low. She calls herself 'ordinary' and she's not wrong — she's the standard cutesy childhood-friend archetype executed cleanly. No unusual hobbies, no eccentric behaviors, no distinctive aesthetic beyond cute-standard. Even the jealous/yandere edge that gets played for laughs is an amplification of a conventional insecure-childhood-friend trope rather than any structural personality weirdness. She knows she's conventional, and that awareness is part of what feeds her insecurity.",
+            "ja": "低め。自分を「普通」と言うし、それは間違っていない——典型的なかわいい幼なじみアーキタイプを丁寧に実行したキャラ。変わった趣味もなく、奇抜な行動もなく、かわいい標準以上の独自の美学もない。コメディとして描かれる嫉妬/ヤンデレ気味の側面でさえ、構造的な個性の奇妙さではなく、典型的な不安定な幼なじみトロープの誇張に過ぎない。自分が平凡だということは自覚していて、その認識が不安感を育てる一部になってる。",
+            "id": "Rendah. Dia nyebut dirinya 'biasa aja' dan itu nggak salah — dia itu pakem childhood-friend yang imut, dieksekusi dengan bersih. Nggak ada hobi yang aneh, nggak ada perilaku eksentrik, nggak ada estetik yang khas di luar standar cute. Bahkan sisi cemburu/yandere yang dimainkan buat komedi pun itu lebih ke amplifikasi trope insecure-childhood-friend yang konvensional, bukan keanehan struktural dalam kepribadiannya. Dia sendiri sadar dia konvensional, dan kesadaran itu jadi bagian dari yang ngasih makan rasa insecure-nya."
+          }
+        },
+        "N": {
+          "score": -5,
+          "reason": {
+            "en": "Strongly S — specifically Si. The curry scene is the cleanest example: she corrects Yu on precise chronological tagging of a shared memory ('No! That was in middle school!'). Her forward-progress framework is step-by-step and concrete. Her affection is expressed through specific physical acts — the gloves, the snowman, hand-holding, the seashell walk. She finds meaning in sensory particulars: cherry blossoms, the sound of waves, seashells sparkling rainbow. There's no abstract-visionary content anywhere in her characterization.",
+            "ja": "強くS——特にSi。カレーシーンが最もクリアな例：共有された記憶の正確な時系列タグ付けについて侑を訂正する（「違う！あれは中学校の時！」）。前進のフレームワークは一歩ずつで具体的。愛情は特定の身体的行為を通じて表現される——手袋、雪だるま、手つなぎ、貝殻拾いの散歩。感覚的な具体性に意味を見出す：桜、波の音、虹色に輝く貝殻。キャラクター描写のどこにも抽象的・ビジョン的な内容は存在しない。",
+            "id": "S kuat — spesifik Si. Adegan curry itu contoh paling bersih: dia ngoreksi Yu soal chronological tagging yang presisi dari kenangan bersama ('Bukan! Itu waktu SMP!'). Kerangka maju ke depannya itu selangkah-selangkah dan konkret. Kasih sayangnya diungkapkan lewat tindakan fisik yang spesifik — sarung tangan, manusia salju, genggam tangan, jalan-jalan ngumpulin kerang. Dia nemuin makna di hal-hal sensorik yang partikular: bunga sakura, suara ombak, kerang yang berkilau warna pelangi. Nggak ada konten abstrak-visioner di manapun dalam karakterisasinya."
+          }
+        }
+      }
+    }
+  }
+}

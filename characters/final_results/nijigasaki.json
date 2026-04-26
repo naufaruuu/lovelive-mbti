@@ -1,0 +1,112 @@
+{
+  "_meta": {
+    "dimensions": {
+      "E": "Extroversion (positive = extroverted, negative = introverted)",
+      "J": "Judging (positive = planned/structured, negative = spontaneous/flexible)",
+      "T": "Thinking (positive = logical/rational, negative = emotional/feeling)",
+      "C": "Confidence (positive = self-assured, negative = insecure)",
+      "M": "Ambition (positive = driven/competitive, negative = content/laid-back)",
+      "O": "Optimism (positive = optimistic/resilient, negative = pessimistic/anxious)",
+      "A": "Agreeableness/Empathy (positive = empathetic/caring, negative = competitive/cold)",
+      "U": "Uniqueness (positive = unconventional/eccentric, negative = conventional/conforming)",
+      "N": "Intuition (positive = intuitive/abstract/future-focused, negative = sensing/concrete/present-focused)"
+    }
+  },
+  "characters": {
+    "setsuna_yuki": {
+      "color": "#d81c2f",
+      "name": {
+        "en": "Setsuna Yuki",
+        "ja": "優木せつ菜",
+        "id": "Setsuna Yuki"
+      },
+      "desc": {
+        "en": "Setsuna is a school idol with one huge dream: filling the world with love. On stage she's pure passion, but she's secretly Nana Nakagawa, the strict student council president from a household that bans anime and manga. Get her talking about her hobbies and she explodes with energy — she's a total nerd under the cool idol surface.",
+        "ja": "せつ菜は「世界を“好き”の気持ちで溢れさせたい」という大きな夢を持つスクールアイドル。ステージ上では情熱の塊だけど、その正体はアニメやマンガが禁止の厳しい家庭で育った生徒会長・中川菜々。好きなものの話になると一気にスイッチが入る、クールなアイドルの皮を被ったガチオタクです。",
+        "id": "Setsuna itu school idol dengan satu mimpi gede: bikin dunia dipenuhi rasa \"suka\". Di panggung dia ledakan passion, tapi aslinya dia Nana Nakagawa — ketua OSIS dari keluarga ketat yang ngelarang anime sama manga di rumah. Sekali topik nyangkut ke hobinya, langsung meledak penuh energi. Di balik tampang idol kerennya, ya otaku tulen."
+      },
+      "mbti": {
+        "type": "ENFJ",
+        "reason": {
+          "en": "ENFJ, but barely — fans split nearly 50/50 between ENFJ and ESFJ, and both sides have a real point. What tips it ENFJ for me is the scale of her dream. \"Fill the world with love\" isn't a goal, it's a vision: she wants to change how people relate to their own feelings, not just refine what already exists. That's classic Ni-Fe missionary energy. Setsuna isn't a teacher, she's a converter — Yu and Ayumu didn't take notes after watching her, they got hit by lightning. Her failure mode fits too: she pushed her vision of \"passionate school idols\" so hard the original club broke. That's textbook ENFJ — vision eclipsing individuals. The ESFJ case (trial-and-error choreo, the \"10 not 5\" cautious plan, the rigid \"tag isn't running\" moment, perfectionist guilt) is real, but I read those as ENFJ tertiary Ti and inferior Se rather than dominant Si. Mission scope is the tell.",
+          "ja": "タイプはENFJ。ただし僅差で、ファン投票もENFJ派とESFJ派でほぼ五分。どちらの主張にも筋が通ってます。それでもENFJに振れる決め手は、彼女の夢の「スケール」。「世界を“好き”で溢れさせる」っていうのはただの目標じゃなくてビジョン——人が自分の感情とどう向き合うかを根本から変えたい、っていう発想。これはNi-Feの“伝道師”的な思考そのもの。せつ菜は教える人じゃなく、人を変える人。歩夢や侑は彼女のパフォーマンスを見てメモを取ったんじゃなく、雷に打たれたみたいに動き出した。失敗の仕方もENFJらしくて、自分の理想の「情熱的なスクールアイドル像」を押しつけすぎて元の部を壊してしまった——ビジョンが個々の仲間をかすませる、典型的なENFJの躓き。ESFJ説（試行錯誤の振付、5人じゃなく10人集めようとした慎重さ、「鬼ごっこは走るのと違う」みたいな融通の利かなさ、完璧主義の罪悪感）も筋は通ってるけど、これはENFJの第三機能Tiと劣等機能Seで説明できる範囲だと思います。決め手はミッションのスケール。",
+          "id": "ENFJ, tapi tipis banget sih — voting fans hampir 50/50 sama ESFJ, dan dua-duanya punya argumen yang nggak bisa dianggap remeh. Yang akhirnya bikin condong ke ENFJ buatku ya skala mimpinya. \"Bikin dunia dipenuhi rasa suka\" bukan sekadar tujuan, itu udah level visi — dia mau ngubah cara orang memandang perasaannya sendiri, bukan cuma ngerapihin yang udah ada. Pola mikir kayak gini ciri khas Ni-Fe yang \"misionaris\". Setsuna bukan tipe yang ngajarin orang, dia tipe yang ngubah orang — Yu sama Ayumu nggak nyatet teknik habis liat dia, mereka kayak disamber petir gitu aja. Pola jatuhnya juga ENFJ banget: dia maksain visi \"school idol penuh passion\"-nya sampai klub asalnya pecah. Ini kegagalan klasik ENFJ — visinya sampe ngalahin perhatian ke individu. Argumen ESFJ-nya (latihan trial-and-error, rencana \"10 bukan 5\" yang hati-hati, kaku pas adegan tag-vs-lari, rasa bersalah perfeksionis) juga masuk akal kok, tapi buatku itu lebih pas dijelasin lewat Ti tersier dan Se inferior di stack ENFJ, bukan Si dominan. Yang jadi pembeda akhirnya ya skala misinya."
+        },
+        "traits": {
+          "E": {
+            "score": 7,
+            "reason": {
+              "en": "She lights up rooms instantly. One performance and the third-floor crowd is screaming her name — Yu literally felt \"fate\" the first time he saw her. As Nana she runs student council with full presence too. Not a max +9 because her energy is mission-channeled rather than pure warmth-broadcast — when she flips into serious-president mode, even Karin and Emma get a little scared.",
+              "ja": "場の空気を一瞬で変える子。1回のステージで3階席まで観客が彼女の名前を叫び始めるレベル。侑も「運命だ」って一発で持っていかれた。生徒会長Nanaモードでも存在感は抜群。ただ最高値（+9）じゃないのは、彼女のエネルギーは“目的に向けて放射されるタイプ”で、本気モードに入るとカリンや絵美が怖がるくらいの圧があるから。",
+              "id": "Bisa ngubah suasana ruangan dalam hitungan detik. Sekali perform, penonton sampai lantai tiga teriakin namanya — Yu beneran ngerasa \"ini takdir\" pas pertama kali liat. Pas jadi Nana di OSIS pun, presence-nya tetep kuat. Nggak nyampe max +9 karena energinya ini lebih ke arah \"diarahin ke misi\" daripada hangat ngalir gitu aja — pas dia masuk mode presiden OSIS serius, Karin sama Emma aja agak ngeri."
+            }
+          },
+          "J": {
+            "score": 5,
+            "reason": {
+              "en": "Disciplined and structured. Homework done ASAP, off-days spent studying, choreography polished obsessively. She literally throws a pillow in her sleep when Kasumi messes around. But she also gets so absorbed she forgets it's snowing outside, so it's mission-J, not rigid-J.",
+              "ja": "規律的で計画的。宿題は速攻で終わらせる、休日も勉強、振付は納得いくまで何回も練り直す。寝てる間にカスミがふざけてるのを察知して枕を投げるレベル。ただ集中しすぎて雪が降ってるのにも気づかないことがあるので、ガチガチのJじゃなく“目的に向けたJ”。",
+              "id": "Disiplin dan terstruktur. PR langsung dikerjain begitu pulang, hari libur dipake belajar, koreografi terus dipoles sampai dia puas sendiri. Pas tidur aja masih sempet lempar bantal ke Kasumi yang iseng-iseng. Tapi dia juga bisa kebawa sampai nggak nyadar di luar udah turun salju, jadi ini J yang \"ngarah ke misi\", bukan J yang kaku."
+            }
+          },
+          "T": {
+            "score": -5,
+            "reason": {
+              "en": "Pure feels. Her whole purpose is literally about feelings of love, she eats Kasumi's spicy bread to spare her feelings, and her official messages are wall-to-wall \"your warm voices reached me\" energy. Even her practice refinement runs on aesthetic feel, not analysis. Almost no Ti/Te in the mix.",
+              "ja": "完全にF寄り。人生の目的そのものが「“好き”の気持ちを世界に届けたい」だし、カスミを傷つけたくなくて激辛パンを完食する。公式コメントも「皆さんの温かい声が届いた」みたいな感情表現で埋め尽くされてる。振付の改善ですら理屈じゃなく感性ベース。Ti/Teの匂いはほぼゼロ。",
+              "id": "F murni. Tujuan hidupnya literal soal \"perasaan suka\", dia ngabisin roti pedas Kasumi cuma biar temennya nggak kecewa, dan komentar resminya isinya nuansa \"suara hangat kalian sampai ke aku\" semua. Bahkan ngerapihin koreografinya pun pakai rasa, bukan analisis. Nyaris nggak ada nuansa Ti/Te-nya."
+            }
+          },
+          "C": {
+            "score": 4,
+            "reason": {
+              "en": "Confident on the surface — dives off the third floor, declares world-changing missions without flinching, runs student council with authority. But she's famously bad at cooking and doesn't know it (real blind spots), and the original club's collapse left a wound deep enough to make her quit being an idol for a while. Outwardly bold, inwardly a perfectionist who can break.",
+              "ja": "表面的にはかなり自信家。3階から飛び降りるし、世界規模の夢を堂々と宣言するし、生徒会長業も貫禄たっぷり。ただし「料理が壊滅的に下手なのに自覚がない」みたいな盲点があるし、元の部を壊した時には自分を責めて引退するくらい折れた過去もある。外向けは強気、内側は完璧主義で意外と脆い。",
+              "id": "Permukaannya pede banget — terjun dari lantai tiga, deklarasi misi seukuran dunia tanpa malu-malu, jalanin tugas ketua OSIS dengan wibawa. Tapi dia terkenal payah banget masak dan dia sendiri nggak ngerasa (blind spot beneran), dan runtuhnya klub asal ninggalin luka yang lumayan dalam — sampai dia sempet beneran berhenti jadi idol. Luarnya tegar, dalemnya perfeksionis dan gampang patah."
+            }
+          },
+          "M": {
+            "score": 7,
+            "reason": {
+              "en": "Big drive. She's already #1 and still grinding — \"I can't sit around doing nothing!\" Constantly polishing choreo and vocals, hates dropping rank, mission scope is literally global. Not max because her ambition is altruistic-mission (\"love must reach everyone\") more than \"I want to win\" — she cheers her rivals on while competing with them.",
+              "ja": "上昇志向が強い。すでにトップなのにまだ磨こうとする（「まだ満足しちゃダメ！」）、振付も歌も常に改善、順位が落ちたら本気で悔しがる。夢のスケールが世界規模なのも野心の証。最高値じゃないのは、競争のためじゃなく「“好き”を皆に届けたいから」っていう利他寄りの動機だから。ライバルを応援しながら争うタイプ。",
+              "id": "Ambisinya gede. Udah peringkat 1 tapi masih ngegas terus — \"Aku nggak bisa diem aja!\" Koreografi sama vokal terus dipoles, peringkat turun dikit aja langsung kesel, skala mimpinya literal global. Nggak nyampe max karena dorongannya lebih ke arah misi yang altruistik (\"rasa suka harus sampai ke semua orang\") daripada murni \"aku mau menang\" — sambil bersaing, dia juga sambil ngedukung rivalnya."
+            }
+          },
+          "O": {
+            "score": 5,
+            "reason": {
+              "en": "Resilient, but it's earned. The original club collapsed because of her zealotry and she blamed herself hard enough to quit being an idol — but she came back and rebuilt. Years of hiding her hobbies from strict parents, cheerful reframes about rainy days. Her optimism survived being tested, it isn't effortless.",
+              "ja": "折れない心は持ってるけど、それは“鍛えた”もの。元の部を自分のせいで壊してしまって、引退するくらい自分を責めた過去があるけど、ちゃんと戻ってきて立て直した。厳しい家で趣味を隠し続ける何年も、雨の日も「雨だからこそ見えるものがある」って前向きに切り替えるしなやかさがある。試されて勝ち取ったタイプの楽観主義。",
+              "id": "Tahan banting, tapi ini hasil tempaan. Klub asal pecah gara-gara fanatismenya, dan dia nyalahin diri sendiri parah sampai berhenti jadi idol — tapi akhirnya balik lagi dan bangun ulang dari awal. Bertahun-tahun nyembunyiin hobi dari ortu yang ketat, hari hujan pun dia bisa ngubah cara pandangnya jadi positif (\"hujan juga ada cantiknya kok\"). Optimisme yang udah teruji, bukan yang ngalir otomatis."
+            }
+          },
+          "A": {
+            "score": 5,
+            "reason": {
+              "en": "Genuinely warm. Supports her friends' dreams, eats spicy bread to spare Kasumi's feelings, throws herself into recruiting members. But she has a famous blind spot — under stress, she focused on faceless audience feelings over the close friends right next to her, and that's what broke the original club. Caring, but tunnel-vision-prone.",
+              "ja": "ベースは優しい。仲間の夢を応援するし、カスミを悲しませないために激辛パンを完食するし、新メンバー集めも全力で手伝う。ただ盲点もあって、元の部の時はストレス下で“顔の見えない観客の気持ち”を優先しすぎて、近くにいる仲間が見えなくなった。優しいけど視野が狭くなりやすい。",
+              "id": "Hatinya beneran hangat. Ngedukung mimpi temen-temennya, ngabisin roti pedas Kasumi biar perasaan dia nggak kena, all-out pas bantuin nyari anggota baru. Tapi ada blind spot yang udah jadi cerita — pas lagi stres, fokusnya ketarik ke \"perasaan penonton yang abstrak\" sampai kehilangan radar ke temen-temen yang ada di sebelahnya, dan itu yang akhirnya bikin klub asalnya pecah. Peduli sih, cuma gampang tunnel vision."
+            }
+          },
+          "U": {
+            "score": 3,
+            "reason": {
+              "en": "Distinctive on the outside. Clark Kent glasses double life, otaku-honor-student split, the \"Setsuna Scarlet Storm\" running gag, third-floor dives, sleep-pillow-sniping. But the core — passionate idol who cares hard about what she loves — is a pretty archetypal protagonist mold. The garnish is unique, the flavor is conventional.",
+              "ja": "外見的なユニークさは強い。クラーク・ケント方式の眼鏡で二重生活、超優等生×ガチオタクのギャップ、「セツナ・スカーレット・ストーム！」、3階ダイブ、寝ながらの枕スナイプ。ただ核の部分（「好きなものに全力で打ち込む情熱的なアイドル」）はわりと王道の主役キャラ。装飾は派手だけど、中身はオーソドックスな情熱型ヒロイン。",
+              "id": "Permukaannya nyentrik. Hidup ganda ala \"kacamata Clark Kent\", split antara murid teladan dan otaku akut, lelucon \"Setsuna Scarlet Storm\", terjun dari lantai tiga, sniping bantal sambil tidur. Tapi inti karakternya — idol penuh passion yang cinta banget sama hal yang dia suka — sebenernya pola tokoh utama yang udah cukup pakem. Hiasan luarnya unik, dalemannya konvensional."
+            }
+          },
+          "N": {
+            "score": 4,
+            "reason": {
+              "en": "Solid N. Visionary mission (\"fill the world with love\"), poetic-symbolic language all over her official messages (\"hearts connect and become one\"), reasons backward from idealized futures. Tempered by concrete moments (the \"10 not 5\" plan based on past failure) and Se physicality (dives, intense performance presence). Strong N, not maximal.",
+              "ja": "しっかりN。「世界を“好き”で溢れさせたい」っていう抽象的・未来志向のビジョン、公式コメントの「心が一つになる」みたいな比喩的・象徴的な言い回し、理想の未来から逆算する思考。一方で具体的・経験ベースの判断（5人じゃなく10人にしたのは過去の失敗を踏まえての話）や、Se的な身体性（ダイブ、激しいパフォーマンス）も見える。Nだけど最大値じゃない感じ。",
+              "id": "N-nya solid. Visi yang abstrak (\"dunia dipenuhi rasa suka\"), bahasa puitis-simbolis di komentar resminya (\"hati kita jadi satu\"), pola pikir yang nyusur balik dari masa depan ideal. Diimbangi sama momen konkret (rencana \"10 bukan 5\" yang lahir dari pengalaman gagal di masa lalu) dan sisi fisik Se (lompat, performa intens). N-nya kuat, tapi nggak maksimum."
+            }
+          }
+        }
+      }
+    }
+  }
+}
