@@ -335,37 +335,60 @@ function App() {
     const boostedScores = { ...rawScores };
     setUserTraits(boostedScores);
 
-    let userDominant = dims[0];
-    let userMax = -Infinity;
-    dims.forEach(d => { if (Math.abs(boostedScores[d]) > userMax) { userMax = Math.abs(boostedScores[d]); userDominant = d; } });
-    const isUserDominantPositive = boostedScores[userDominant] > 0;
+    const userRankedDims = dims
+      .map(d => ({ d, score: boostedScores[d] }))
+      .sort((a, b) => Math.abs(b.score) - Math.abs(a.score))
+      .slice(0, 3);
 
     let rawCharScores = CHARACTERS.map(char => {
       const charTraitScores = {};
       dims.forEach(d => { charTraitScores[d] = char.mbti.traits[d].score; });
-      let dot = 0, uNorm = 0, cNorm = 0, sumSquares = 0;
+      let dot = 0, uNorm = 0, cNorm = 0;
       dims.forEach(d => {
         const uVal = boostedScores[d];
         const cVal = charTraitScores[d];
         dot += uVal * cVal;
         uNorm += uVal * uVal;
         cNorm += cVal * cVal;
-        sumSquares += Math.pow(uVal - cVal, 2);
       });
       uNorm = Math.sqrt(uNorm);
       cNorm = Math.sqrt(cNorm);
-      const dist = Math.sqrt(sumSquares);
+
+      // Cosine: keep full [-1, 1] range, then remap to [0, 1] for blending.
+      // Direction-of-personality match — the dominant signal for character matching.
       const rawCosine = (uNorm === 0 || cNorm === 0) ? 0 : (dot / (uNorm * cNorm));
-      const cosineSim = Math.max(0, rawCosine); 
-      const euclideanSim = Math.exp(-(dist * dist) / 400); 
+      const cosineNorm = (rawCosine + 1) / 2;
 
-      let synergyBonus = 0;
-      const charDominantVal = charTraitScores[userDominant];
-      if (isUserDominantPositive && charDominantVal > 0) synergyBonus = (charDominantVal / 10) * 5;
-      else if (!isUserDominantPositive && charDominantVal < 0) synergyBonus = (Math.abs(charDominantVal) / 10) * 5;
+      // Scale-invariant Euclidean: rescale the user vector to the character's magnitude
+      // before computing distance. Otherwise mild-answering users always look "far" from
+      // every character (Love Live cast clusters at high |score|), and the ranking gets
+      // dominated by whoever happens to be least extreme.
+      const scale = uNorm > 0 ? cNorm / uNorm : 1;
+      let scaledSumSq = 0;
+      dims.forEach(d => {
+        const su = boostedScores[d] * scale;
+        scaledSumSq += Math.pow(su - charTraitScores[d], 2);
+      });
+      const scaledDist = Math.sqrt(scaledSumSq);
+      const euclideanSim = Math.exp(-(scaledDist * scaledDist) / 400);
 
-      let finalRate = (euclideanSim * 70) + (cosineSim * 30) + synergyBonus;
-      return { ...char, _traitScores: charTraitScores, distance: dist, rawRate: finalRate };
+      // Top-3 dominant-trait alignment: rewards characters who match the user's
+      // strongest 3 traits in direction. Smoother and more interpretable than the
+      // old single-dim synergy bonus, which could swing 0-5 pts based on which
+      // trait happened to win by 1 point.
+      let dominantBonus = 0;
+      userRankedDims.forEach(({ d, score }) => {
+        const cVal = charTraitScores[d];
+        if (score !== 0 && cVal !== 0 && Math.sign(score) === Math.sign(cVal)) {
+          dominantBonus += Math.min(Math.abs(cVal), Math.abs(score)) / 10 * 2;
+        }
+      });
+
+      // Weights: cosine leads (direction matters most), Euclidean is the tie-breaker
+      // (rewards similar intensity), dominant alignment is a small interpretable bonus,
+      // baseline keeps top matches in the satisfying 75-99% range.
+      const finalRate = (cosineNorm * 55) + (euclideanSim * 35) + dominantBonus + 5;
+      return { ...char, _traitScores: charTraitScores, distance: scaledDist, rawRate: finalRate };
     });
 
     let scores = rawCharScores.map(char => {
