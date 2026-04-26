@@ -13,7 +13,11 @@
       "Bash(/c/Users/naufa/AppData/Local/Microsoft/WinGet/Packages/jqlang.jq_Microsoft.Winget.Source_8wekyb3d8bbwe/jq.exe '.emma_verde.mbti.traits | to_entries[] | \"\\\\\\(.key\\): \\\\\\(.value.score\\)\"' final_results/nijigasaki/emma_verde.json)",
       "Bash(/c/Users/naufa/AppData/Local/Microsoft/WinGet/Packages/jqlang.jq_Microsoft.Winget.Source_8wekyb3d8bbwe/jq.exe '.characters.emma_verde.traits | to_entries[] | \"\\\\\\(.key\\): \\\\\\(.value.score\\)\"' raw_results/nijigasaki.json)",
       "Bash(/c/Users/naufa/AppData/Local/Microsoft/WinGet/Packages/jqlang.jq_Microsoft.Winget.Source_8wekyb3d8bbwe/jq.exe .emma_verde.mbti.type final_results/nijigasaki/emma_verde.json)",
-      "Bash(/c/Users/naufa/AppData/Local/Microsoft/WinGet/Packages/jqlang.jq_Microsoft.Winget.Source_8wekyb3d8bbwe/jq.exe .emma_verde.color final_results/nijigasaki/emma_verde.json)"
+      "Bash(/c/Users/naufa/AppData/Local/Microsoft/WinGet/Packages/jqlang.jq_Microsoft.Winget.Source_8wekyb3d8bbwe/jq.exe .emma_verde.color final_results/nijigasaki/emma_verde.json)",
+      "Bash(/c/Users/naufa/AppData/Local/Microsoft/WinGet/Packages/jqlang.jq_Microsoft.Winget.Source_8wekyb3d8bbwe/jq.exe .characters.kanata_konoe /c/Users/naufa/Documents/nijigasaki-mbti/lovelive-mbti/raw_results/nijigasaki.json)",
+      "Bash(/c/Users/naufa/AppData/Local/Microsoft/WinGet/Packages/jqlang.jq_Microsoft.Winget.Source_8wekyb3d8bbwe/jq.exe .characters.kanata_konoe /c/Users/naufa/Documents/nijigasaki-mbti/lovelive-mbti/characters/raw_results/nijigasaki.json)",
+      "Bash(/c/Users/naufa/AppData/Local/Microsoft/WinGet/Packages/jqlang.jq_Microsoft.Winget.Source_8wekyb3d8bbwe/jq.exe '.kanata_konoe | {type: .mbti.type, color, traits: .mbti.traits | map_values\\(.score\\)}' /c/Users/naufa/Documents/nijigasaki-mbti/lovelive-mbti/characters/final_results/nijigasaki/kanata_konoe.json)",
+      "Bash(/c/Users/naufa/AppData/Local/Microsoft/WinGet/Packages/jqlang.jq_Microsoft.Winget.Source_8wekyb3d8bbwe/jq.exe '.karin_asaka | {type: .mbti.type, color, traits_count: \\(.mbti.traits | length\\), trait_scores: \\(.mbti.traits | map_values\\(.score\\)\\)}' final_results/nijigasaki/karin_asaka.json)"
     ]
   }
 }
