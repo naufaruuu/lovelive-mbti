@@ -236,6 +236,8 @@ function App() {
   const [isExporting, setIsExporting] = useState(false);
   const [selectedGroups, setSelectedGroups] = useState({ nijigasaki: true, hasunosora: true });
   const [showGroups, setShowGroups] = useState(false);
+  const [detailsChar, setDetailsChar] = useState(null);
+  const [showSkipConfirm, setShowSkipConfirm] = useState(false);
 
   useEffect(() => {
     if (isDark) document.documentElement.classList.add('dark');
@@ -302,6 +304,13 @@ function App() {
 
   const handlePrev = () => {
     if (currentQ > 0) setCurrentQ(currentQ - 1);
+  };
+
+  const handleSkip = () => {
+    setShowSkipConfirm(false);
+    const randomAnswers = quizQuestions.map(() => OPTION_VALUES[Math.floor(Math.random() * OPTION_VALUES.length)]);
+    setAnswers(randomAnswers);
+    calculateResult(randomAnswers);
   };
 
   const calculateResult = (finalAnswers) => {
@@ -441,6 +450,101 @@ function App() {
     );
   };
 
+  const SkipConfirmModal = () => {
+    if (!showSkipConfirm) return null;
+    return (
+      <div className="fixed inset-0 z-50 flex items-center justify-center p-4 bg-slate-900/50 dark:bg-black/60 backdrop-blur-sm">
+        <div className="bg-white dark:bg-slate-800 w-full max-w-sm rounded-3xl shadow-2xl overflow-hidden">
+          <div className="p-8">
+            <div className="flex justify-center mb-5">
+              <div className="bg-amber-100 dark:bg-amber-900/40 p-4 rounded-2xl text-amber-500">
+                <Icon name="rotate-ccw" size={32} />
+              </div>
+            </div>
+            <h2 className="text-xl font-black text-slate-800 dark:text-slate-100 text-center mb-3">{T[lang].skipConfirmTitle}</h2>
+            <p className="text-sm text-slate-500 dark:text-slate-400 text-center leading-relaxed mb-8">{T[lang].skipConfirmDesc}</p>
+            <div className="flex flex-col gap-3">
+              <button onClick={handleSkip} className="w-full py-3.5 bg-slate-900 dark:bg-slate-100 hover:bg-slate-800 dark:hover:bg-white text-white dark:text-slate-900 font-bold rounded-2xl transition-all active:scale-95">
+                {T[lang].skipConfirmYes}
+              </button>
+              <button onClick={() => setShowSkipConfirm(false)} className="w-full py-3.5 bg-slate-100 dark:bg-slate-700 hover:bg-slate-200 dark:hover:bg-slate-600 text-slate-700 dark:text-slate-200 font-bold rounded-2xl transition-all active:scale-95">
+                {T[lang].skipConfirmNo}
+              </button>
+            </div>
+          </div>
+        </div>
+      </div>
+    );
+  };
+
+  const DetailsModal = () => {
+    if (!detailsChar) return null;
+    const char = detailsChar;
+    const dims = ['E', 'J', 'T', 'C', 'M', 'O', 'A', 'U', 'N'];
+    const dimLabels = T[lang].dims;
+    return (
+      <div className="fixed inset-0 z-50 flex items-center justify-center p-4 bg-slate-900/60 dark:bg-black/70 backdrop-blur-sm" onClick={() => setDetailsChar(null)}>
+        <div className="bg-white dark:bg-slate-800 w-full max-w-lg rounded-3xl shadow-2xl overflow-hidden relative max-h-[90vh] flex flex-col" onClick={e => e.stopPropagation()}>
+          <div className={`${char.bgLight} px-6 pt-6 pb-4 border-b border-slate-100 dark:border-slate-700 shrink-0`}>
+            <div className="flex items-center justify-between gap-3">
+              <div className={`w-14 h-14 rounded-2xl overflow-hidden border-2 ${char.border} shrink-0`}>
+                <Avatar char={char} lang={lang} />
+              </div>
+              <div className="flex-1 flex items-center gap-2 flex-wrap">
+                <h2 className={`text-2xl font-black ${char.text}`}>{char.name[lang]}</h2>
+                {char.mbti && <span className={`inline-block text-sm font-black tracking-wider px-3 py-1 rounded-full border ${char.border} ${char.bgLight} ${char.text}`}>{char.mbti.type}</span>}
+              </div>
+              <button onClick={() => setDetailsChar(null)} className="p-2 text-slate-400 hover:bg-slate-100 dark:hover:bg-slate-700 rounded-full transition-colors shrink-0">
+                <Icon name="x" size={20} />
+              </button>
+            </div>
+          </div>
+          <div className="overflow-y-auto flex-1 p-6 space-y-6">
+            {char.mbti && char.mbti.reason && (
+              <div>
+                <h3 className="text-xs font-black text-slate-400 dark:text-slate-500 uppercase tracking-widest mb-3">{T[lang].detailsMbtiTitle}</h3>
+                <div className={`${char.bgLight} rounded-2xl p-4 border ${char.border} border-opacity-40`}>
+                  <p className="text-sm text-slate-700 dark:text-slate-300 leading-relaxed">{char.mbti.reason[lang]}</p>
+                </div>
+              </div>
+            )}
+            {char.mbti && char.mbti.traits && (
+              <div>
+                <h3 className="text-xs font-black text-slate-400 dark:text-slate-500 uppercase tracking-widest mb-3">{T[lang].detailsTraitsTitle}</h3>
+                <div className="space-y-3">
+                  {dims.map((dim, i) => {
+                    const trait = char.mbti.traits[dim];
+                    if (!trait) return null;
+                    const score = trait.score;
+                    const label = dimLabels[i];
+                    const pct = ((score + 10) / 20) * 100;
+                    return (
+                      <div key={dim} className="bg-slate-50 dark:bg-slate-900/50 rounded-2xl p-4 border border-slate-100 dark:border-slate-800">
+                        <div className="flex items-center justify-between mb-2">
+                          <span className={`text-sm font-black ${char.text}`}>{label}</span>
+                          <span className={`text-xs font-black px-2 py-0.5 rounded-full ${char.bgLight} ${char.text} border ${char.border}`}>{score > 0 ? '+' : ''}{score}</span>
+                        </div>
+                        <div className="h-1.5 bg-slate-200 dark:bg-slate-700 rounded-full mb-3 overflow-hidden">
+                          <div className={`h-full ${char.color} rounded-full`} style={{ width: `${pct}%` }}></div>
+                        </div>
+                        {trait.reason && <p className="text-sm text-slate-600 dark:text-slate-400 leading-relaxed">{trait.reason[lang]}</p>}
+                      </div>
+                    );
+                  })}
+                </div>
+              </div>
+            )}
+          </div>
+          <div className="p-4 border-t border-slate-100 dark:border-slate-700 shrink-0">
+            <button onClick={() => setDetailsChar(null)} className="w-full py-3 bg-slate-100 dark:bg-slate-700 hover:bg-slate-200 dark:hover:bg-slate-600 text-slate-700 dark:text-slate-200 font-bold rounded-xl transition-colors">
+              {T[lang].detailsClose}
+            </button>
+          </div>
+        </div>
+      </div>
+    );
+  };
+
   const TopLeftControls = () => (
     <div className="w-full flex flex-row justify-start gap-2 shrink-0 z-10">
       <button onClick={() => setShowReadme(true)} className="bg-white/80 dark:bg-slate-800/80 backdrop-blur-md border border-slate-200 dark:border-slate-700 text-slate-600 dark:text-slate-300 w-10 h-10 md:w-auto md:h-auto md:px-4 md:py-2 rounded-full text-sm font-bold shadow-sm hover:shadow hover:bg-white dark:hover:bg-slate-700 hover:text-orange-500 transition-all flex items-center justify-center gap-2">
@@ -474,6 +578,7 @@ function App() {
         <TopLeftControls />
         <ReadmeModal />
         <GroupModal />
+        <SkipConfirmModal />
         <div className="w-full mb-auto"></div>
         <div className="max-w-lg w-full bg-white dark:bg-slate-800 rounded-[2.5rem] shadow-2xl p-10 text-center relative overflow-hidden border border-white/50 dark:border-slate-700 backdrop-blur-sm">
           <div className="absolute -top-10 -right-10 md:-top-16 md:-right-16 w-48 h-48 md:w-64 md:h-64 opacity-20 dark:opacity-10 rotate-12 z-0 pointer-events-none">
@@ -491,6 +596,9 @@ function App() {
           <button onClick={handleStart} className="w-full py-5 bg-slate-900 dark:bg-slate-100 hover:bg-slate-800 dark:hover:bg-white text-white dark:text-slate-900 font-bold rounded-2xl shadow-xl transition-all active:scale-95 flex items-center justify-center gap-3 text-lg group relative z-10">
             {T[lang].startBtn} <Icon name="arrow-right" size={20} className="group-hover:translate-x-1 transition-transform" />
           </button>
+          <button onClick={() => setShowSkipConfirm(true)} className="w-full mt-3 py-3.5 bg-slate-100 dark:bg-slate-700 hover:bg-slate-200 dark:hover:bg-slate-600 text-slate-500 dark:text-slate-400 font-bold rounded-2xl transition-all active:scale-95 flex items-center justify-center gap-2 text-sm relative z-10">
+            <Icon name="rotate-ccw" size={16} /> {T[lang].skipBtn}
+          </button>
         </div>
         <FooterPill />
       </div>
@@ -505,6 +613,7 @@ function App() {
         <TopLeftControls />
         <ReadmeModal />
         <GroupModal />
+        <SkipConfirmModal />
         <div className="max-w-xl w-full mt-8 md:mt-10">
           <div className="flex justify-between items-center mb-6 px-2">
             <button onClick={handlePrev} disabled={currentQ === 0} className={`w-11 h-11 flex items-center justify-center rounded-full transition-all duration-200 shadow border ${currentQ === 0 ? 'bg-slate-100 dark:bg-slate-800/50 text-slate-300 dark:text-slate-600 border-transparent cursor-not-allowed' : 'bg-white dark:bg-slate-700 text-slate-800 dark:text-slate-100 border-slate-200 dark:border-slate-600 hover:bg-slate-50 dark:hover:bg-slate-600 hover:shadow-md hover:text-orange-500 active:scale-95'}`}>
@@ -514,7 +623,9 @@ function App() {
               <span className="text-xs font-extrabold text-slate-400 dark:text-slate-500 tracking-[0.2em] uppercase mb-1">{T[lang].profiling}</span>
               <span className="text-base font-bold text-slate-700 dark:text-slate-300">{currentQ + 1} <span className="text-slate-400 dark:text-slate-600 mx-1">/</span> {quizQuestions.length}</span>
             </div>
-            <div className="w-12"></div> 
+            <button onClick={() => setShowSkipConfirm(true)} className="text-xs font-bold text-slate-400 dark:text-slate-500 hover:text-orange-500 dark:hover:text-orange-400 transition-colors px-3 py-1.5 rounded-full hover:bg-slate-100 dark:hover:bg-slate-800">
+              {T[lang].skipBtn}
+            </button>
           </div>
           <div className="h-2 bg-slate-200 dark:bg-slate-800 rounded-full w-full mb-10 overflow-hidden shadow-inner">
             <div className="h-full bg-gradient-to-r from-orange-400 to-pink-500 transition-all duration-500 ease-out rounded-full" style={{ width: `${progress}%` }}></div>
@@ -550,6 +661,7 @@ function App() {
         <TopLeftControls />
         <ReadmeModal />
         <GroupModal />
+        <DetailsModal />
         <div className="w-full mb-auto"></div>
         <div className="max-w-xl w-full bg-white dark:bg-slate-800 rounded-[2.5rem] shadow-2xl overflow-hidden border border-slate-200 dark:border-slate-700">
           <div className={`pt-12 pb-24 px-6 text-center ${topChar.bgLight} dark:bg-opacity-10 relative border-b border-white/50 dark:border-slate-700`}>
@@ -604,6 +716,9 @@ function App() {
                       <div className="flex items-center gap-1"><span className={`w-2.5 h-2.5 border ${char.border} ${char.color} opacity-50`}></span> {char.name[lang]}</div>
                     </div>
                     <RadarChart userTraits={userTraits} charTraits={char._traitScores} charColorClass={char.text} size={250} lang={lang} isDark={isDark} />
+                    <button onClick={() => setDetailsChar(char)} className={`w-full py-2.5 mt-1 rounded-xl text-sm font-bold border transition-all active:scale-95 ${char.bgLight} ${char.text} ${char.border} hover:opacity-80`}>
+                      {T[lang].detailsBtn}
+                    </button>
                   </div>
                 ))}
               </div>
@@ -638,6 +753,7 @@ function App() {
         <TopLeftControls />
         <ReadmeModal />
         <GroupModal />
+        <DetailsModal />
         <div className="max-w-2xl w-full mt-4">
           <div className="flex items-center mb-6">
             <button onClick={() => { setAppState('result'); window.scrollTo(0,0); }} className="w-11 h-11 flex items-center justify-center rounded-full transition-all duration-200 shadow border bg-white dark:bg-slate-700 text-slate-800 dark:text-slate-100 border-slate-200 dark:border-slate-600 hover:bg-slate-50 dark:hover:bg-slate-600 hover:shadow-md hover:text-orange-500 active:scale-95 mr-4 shrink-0">
@@ -674,6 +790,9 @@ function App() {
                 )}
                 <div className="flex-1 flex flex-col items-center justify-center -mt-2">
                    <RadarChart userTraits={userTraits} charTraits={char._traitScores} charColorClass={char.text} size={220} lang={lang} isDark={isDark} />
+                   <button onClick={() => setDetailsChar(char)} className={`w-full py-2.5 mt-1 rounded-xl text-sm font-bold border transition-all active:scale-95 ${char.bgLight} ${char.text} ${char.border} hover:opacity-80`}>
+                     {T[lang].detailsBtn}
+                   </button>
                 </div>
               </div>
             ))}

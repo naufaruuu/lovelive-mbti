@@ -32,7 +32,16 @@ window.T = {
     options: ['Strongly Agree', 'Agree', 'Neutral', 'Disagree', 'Strongly Disagree'],
     dims: ['Extrovert', 'Judging', 'Logic', 'Confidence', 'Ambition', 'Composure', 'Empathy', 'Unique', 'Intuition'],
     yourMbti: 'Your MBTI Type',
-    mbtiMatch: 'MBTI'
+    mbtiMatch: 'MBTI',
+    detailsBtn: 'Details',
+    detailsMbtiTitle: 'MBTI Analysis',
+    detailsTraitsTitle: 'Trait Scores & Analysis',
+    detailsClose: 'Close',
+    skipBtn: 'Skip',
+    skipConfirmTitle: 'Skip the Quiz?',
+    skipConfirmDesc: 'All answers will be randomly assigned. Your result will be based on chance — are you sure?',
+    skipConfirmYes: 'Yes, randomize!',
+    skipConfirmNo: 'Cancel'
   },
   id: {
     appTitle: 'Love Live!',
@@ -68,7 +77,16 @@ window.T = {
     options: ['Sangat Setuju', 'Setuju', 'Biasa Aja', 'Nggak Setuju', 'Sangat Nggak Setuju'],
     dims: ['Ekstrovert', 'Terencana', 'Logis', 'Percaya Diri', 'Ambisi', 'Santai', 'Empati', 'Unik', 'Intuisi'],
     yourMbti: 'Tipe MBTI Kamu',
-    mbtiMatch: 'MBTI'
+    mbtiMatch: 'MBTI',
+    detailsBtn: 'Detail',
+    detailsMbtiTitle: 'Analisis MBTI',
+    detailsTraitsTitle: 'Skor & Analisis Trait',
+    detailsClose: 'Tutup',
+    skipBtn: 'Lewati',
+    skipConfirmTitle: 'Lewati Kuis?',
+    skipConfirmDesc: 'Semua jawaban akan diisi secara acak. Hasilmu bakal berdasarkan keberuntungan — yakin?',
+    skipConfirmYes: 'Ya, acak aja!',
+    skipConfirmNo: 'Batal'
   },
   ja: {
     appTitle: 'Love Live!',
@@ -104,6 +122,15 @@ window.T = {
     options: ['強く同意', '同意', 'どちらでもない', '反対', '強く反対'],
     dims: ['外向性', '計画性', '合理性', '自信', '向上心', 'おおらか', '共感力', '独自性', '直感'],
     yourMbti: 'あなたのMBTIタイプ',
-    mbtiMatch: 'MBTI'
+    mbtiMatch: 'MBTI',
+    detailsBtn: '詳細',
+    detailsMbtiTitle: 'MBTI分析',
+    detailsTraitsTitle: 'トレイトスコア＆分析',
+    detailsClose: '閉じる',
+    skipBtn: 'スキップ',
+    skipConfirmTitle: '診断をスキップ？',
+    skipConfirmDesc: '全ての回答がランダムに設定されます。結果は運次第になりますが、よろしいですか？',
+    skipConfirmYes: 'はい、ランダムで！',
+    skipConfirmNo: 'キャンセル'
   }
 };
