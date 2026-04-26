@@ -1,0 +1,97 @@
+{
+  "shizuku_osaka": {
+    "color": "#01b7ed",
+    "name": {
+      "en": "Shizuku Osaka",
+      "ja": "桜坂しずく",
+      "id": "Shizuku Osaka"
+    },
+    "desc": {
+      "en": "Shizuku Osaka is Nijigasaki's quintessential honor student — poised, polite, and considered a yamato nadeshiko by everyone around her. She's passionate about acting and Drama Club, though she initially joined the school idol club only because she thought it would help her theater career. What nobody noticed until it was spelled out in her focus episode is that behind all that composure was someone who actively hid who she really was — her love of old films, classical novels, and theater deep cuts — out of fear that being \"different\" would get her dismissed. The shadow-self stage play where she confronted and embraced her own mask is probably Nijigasaki's most emotionally precise character moment.",
+      "ja": "桜坂しずくは虹ヶ咲の絵に描いたような優等生——気品があって、礼儀正しくて、周りからは「大和撫子」として見られている子。演劇部での活動に情熱を注いでいて、スクールアイドル部に入ったのも最初は演技の幅を広げるためだった。彼女のエピソードが来るまで誰も気づかなかったことがある——あの落ち着いた外見の裏側に、自分の素顔を必死に隠してきた子がいたこと。古い映画や古典小説、演劇への深い愛情を「変わった子」と思われるのが怖くて封じ込めていた。影の自分と向き合い、抱きしめる舞台劇のシーンは、虹ヶ咲で最も感情的な精度を持ったキャラクターの瞬間だと思う。",
+      "id": "Shizuku Osaka adalah murid teladan Nijigasaki yang paling pakem — anggun, sopan, dan dianggap yamato nadeshiko oleh semua orang di sekitarnya. Dia sangat passionate soal akting dan Drama Club, meski awalnya gabung ke school idol club hanya karena merasa itu berguna buat karier teatrnya. Yang nggak ada yang sadar sampai episode fokusnya tiba adalah — di balik semua ketenangan itu ada seseorang yang sengaja menyembunyikan jati dirinya sendiri. Kecintaannya pada film lama, novel klasik, dan dunia teater disimpan rapat-rapat karena takut dianggap aneh dan dijauhi. Pertunjukan teater tentang shadow-self-nya, di mana dia akhirnya menghadapi dan merangkul topengnya sendiri, mungkin adalah momen karakter paling tepat secara emosional di seluruh Nijigasaki."
+    },
+    "mbti": {
+      "type": "ISFJ",
+      "reason": {
+        "en": "ISFJ — dissenting from the overwhelming fan majority (INFJ 123 vs ISFJ 6, roughly 20:1), but this is the closest call in the dataset and honestly deserves an honest 55/45 confidence rating, not higher. The ISFJ case is built on a few sharp cognitive tells: her September 2017 official comment is the single strongest diagnostic — she explicitly admires Setsuna and Rina for \"concretizing the areas for improvement\" and resolves to do the same through disciplined training. That's Si-Te feedback: observe a concrete method that works → adopt it via practice. An INFJ setback response is usually Ni-reframing («what does this pattern mean?»), not «do what they did, more methodically.» Her October 2019 comment shows the same thing — watching a play and immediately noting «parts I can use as reference,» Si verbatim-capture for repetition rather than principle-abstraction. Her shame around deviation also reads Fe, not Fi: she hid her film and novel interests because she feared social dismissal, not because those interests conflicted with her own values. And she's explicitly bad at ad-libbing — her own Audrey lyrics acknowledge it — which is the opposite of how an Ni-Se type usually operates. Her S1 resolution came through external validation from Kasumi, becoming real-with-others rather than authentic-as-individual. The INFJ case is legitimate, though: her creative output is unusually coherent and sustained (the full shadow-self play, Solitude Rain's integrated metaphor, AU fanfic writing), and the depth of her self-alienation goes beyond typical Fe-conformity. But the cognitive diagnostic tells outweigh the thematic-content tells, and ISFJ it is.",
+        "ja": "タイプはISFJ——圧倒的なファン多数派（INFJ 123票 vs ISFJ 6票、約20:1）から外れての判断。ただこれはデータセット中で最も判断が難しいケースで、正直に言うと55/45くらいの確信度しかない。ISFJの根拠はいくつかの鋭い認知的な手がかりに基づいている。2017年9月の公式コメントが最も強力な診断材料で、せつ菜とりなが「反省会で話し合った改善点をちゃんと具体化していた」ことを彼女が明示的に称賛して、自分も規律ある練習でそれを真似しようと決意している。これがSi-Teのフィードバックループ：うまくいく具体的なやり方を観察する→実践によって採用する。INFJのつまずきへの反応は通常Niの再解釈（「このパターンは何を意味する？」）であって、「彼女たちのやり方をもっと体系的にやる」ではない。2019年10月のコメントも同じ傾向で、観劇後すぐに「参考にできる部分を書き留める」というSi的な記録・再現志向が出ている。自分の「変わった」面に対する恥の感覚もFe的で、Fi的ではない——映画や小説への愛好を隠していたのは社会的な拒絶が怖かったからであって、それらが自分の価値観と矛盾していたからではない。そしてアドリブが明確に苦手——「Audrey」の歌詞でも自分でそれを認めている——これはNi-Seタイプの通常の行動とは逆。S1の解決もカスミからの外部的な承認によって訪れていて、個人として真実であるより「他者と共に真実である」形。INFJのケースも軽視できないが——創作物の一貫性と持続力（影の自分との全体的な舞台劇、「Solitude Rain」に統合された自己受容の比喩、二次創作執筆）は際立っている——認知的な診断の手がかりが内容の深さを上回ると判断して、ISFJで確定。",
+        "id": "ISFJ — beda pendapat dari mayoritas fans yang sangat dominan (INFJ 123 vs ISFJ 6, sekitar 20:1), tapi ini adalah keputusan paling tipis di seluruh dataset dan kalau jujur, tingkat keyakinannya paling 55/45, nggak lebih. Kasus ISFJ dibangun dari beberapa sinyal kognitif yang cukup tajam. Komentar resminya di September 2017 adalah bahan diagnostik yang paling kuat — dia secara eksplisit mengagumi Setsuna dan Rina karena \"mengkonkretkan area perbaikan\" dan bertekad melakukan hal yang sama lewat latihan disiplin. Itu loop Si-Te: amati metode konkret yang berhasil → adopsi lewat praktik. Respons INFJ terhadap kemunduran biasanya lewat Ni-reframing («pola ini berarti apa?»), bukan «lakukan apa yang mereka lakukan, lebih sistematis.» Komentarnya di Oktober 2019 menunjukkan hal yang sama — nonton pertunjukan teater lalu langsung catat \"bagian yang bisa dipakai sebagai referensi\", itu penangkapan Si yang verbatim untuk diulang, bukan abstraksi prinsip. Rasa malu di sekitar penyimpangan juga terbaca Fe, bukan Fi: dia sembunyikan minat film dan novelnya karena takut ditolak secara sosial, bukan karena minat itu bertentangan dengan nilai-nilainya sendiri. Dan dia terang-terangan lemah soal improvisasi — lirik Audrey-nya sendiri mengakuinya — yang merupakan kebalikan dari cara kerja tipe Ni-Se. Resolusi S1-nya datang lewat validasi eksternal dari Kasumi, menjadi nyata-bersama-orang-lain daripada autentik-sebagai-individu. Kasus INFJ juga sah dan nggak bisa diabaikan: output kreatifnya punya kepaduan dan daya tahan yang nggak biasa (pertunjukan shadow-self yang utuh, metafora terintegrasi di Solitude Rain, nulis AU fanfic), dan kedalaman alienasi dirinya melebihi tipikal konformitas Fe. Tapi sinyal diagnostik kognitif mengalahkan sinyal konten tematik, dan kesimpulannya tetap ISFJ."
+      },
+      "traits": {
+        "E": {
+          "score": -5,
+          "reason": {
+            "en": "Strongly introverted. \"Quite timid at times,\" shy, reserved, keeps her thoughts to herself, and during S1 she faded into the background so completely that fans literally didn't notice her name until her focus episode. More introverted than Ayumu because she actively disappears rather than just being visibly quiet. She improves over her arc, but the baseline is a strong introvert.",
+            "ja": "かなり強い内向型。「時々かなり内気になる」、シャイ、控えめ、思っていることを胸にしまっておく傾向がある。S1では完全に背景に溶け込んでいて、ファンは彼女の名前すら自分のエピソードまで気づかなかったほど。綾音よりも内向きで、ただ静かにいるのではなく、積極的に存在を消そうとする点が違う。アークを経て改善されるが、ベースラインは強い内向型。",
+            "id": "Introvert yang kuat. \"Cukup pemalu di beberapa waktu\", pendiam, tertutup, dan selalu menyimpan pikirannya sendiri. Di S1 dia nyaris hilang dari latar belakang sampai-sampai fans nggak sadar namanya sampai episode fokusnya tiba. Lebih introvert dari Ayumu karena dia aktif menghilang, bukan sekadar diam tapi tetap keliatan. Membaik lewat arc-nya, tapi baseline-nya introvert yang kuat."
+          }
+        },
+        "J": {
+          "score": 6,
+          "reason": {
+            "en": "Strong J. Honor student, disciplined about acting practice — memorizes lines rigorously, takes on too much responsibility, structures her self-improvement through concrete training plans (\"relieve anxiety by running,\" tracks reference techniques from watching plays). Official comments reveal a clear planner mindset: she catalogs methods from performances she attends to use later. Not Shioriko-tier cyborg-discipline, but firmly in the disciplined-executor range.",
+            "ja": "しっかりJ。優等生で、演技の練習に対して規律的——台詞を厳格に暗記して、責任を取りすぎる傾向があって、具体的なトレーニング計画を通じて自己改善を構造化する（「走ることで不安を解消する」、観劇から参考技術を記録する）。公式コメントには明確な計画的思考が現れている。観劇した舞台から後で使える手法をメモしておく習慣がある。栞子レベルのサイボーグ的規律ではないが、規律的な実行者の帯域にしっかり収まっている。",
+            "id": "J yang kuat. Murid teladan, disiplin soal latihan akting — hafal dialog dengan ketat, cenderung terlalu banyak tanggung jawab, menyusun perbaikan diri lewat rencana latihan yang konkret (\"hilangkan kecemasan dengan lari\", catat teknik referensi dari menonton pertunjukan). Komentar resminya menunjukkan pola pikir perencana yang jelas — dia katalog metode dari pertunjukan yang ditonton untuk dipakai nanti. Bukan setinggi Shioriko soal disiplin, tapi jelas berada di zona eksekutor yang terstruktur."
+          }
+        },
+        "T": {
+          "score": -4,
+          "reason": {
+            "en": "Strong F. Her whole arc is feeling-driven — self-acceptance, the ache to be loved as she actually is, the mask built for belonging, and the terror of being dismissed as an oddball. Kindness and selflessness are her defining qualities. She adapts her expressive skills to bring joy to audiences. There's no analytical or logical cognition operating as her primary mode — it's relational all the way down.",
+            "ja": "しっかりF。彼女のアーク全体が感情によって動いている——自己受容、本当の自分のまま愛されたい願望、所属感のために作ったマスク、そして変わった子だと思われることへの恐怖。優しさと自己犠牲が彼女を特徴づける資質。観客に喜びをもたらすために表現力を使う。論理的・分析的な認知は主要モードとしては機能していない——頭から足まで関係性の人。",
+            "id": "F yang kuat. Seluruh arc-nya digerakkan oleh perasaan — penerimaan diri, rasa ingin dicintai apa adanya, topeng yang dibuat demi rasa memiliki, dan ketakutan dianggap aneh dan dijauhi. Kebaikan dan sikap tidak mementingkan diri adalah kualitas yang mendefinisikannya. Dia menggunakan kemampuan ekspresif untuk membawa kebahagiaan ke penonton. Kognisi analitis atau logis nggak berfungsi sebagai mode utamanya — semuanya relasional dari awal sampai akhir."
+          }
+        },
+        "C": {
+          "score": -4,
+          "reason": {
+            "en": "Low. Deep self-loathing in her S1 baseline — \"actively hated being herself,\" fear-ruled life, couldn't recognize her own true feelings, pre-emptive ranking anxiety spilling into her official comments (\"worried I might drop next time\"). She recovers significantly through her shadow-play breakthrough and Kasumi's intervention, but the baseline was deep insecurity. The growth is real but it doesn't erase where she started.",
+            "ja": "低め。S1時点では深い自己嫌悪がベースラインにあった——「積極的に自分自身を嫌っていた」、恐怖に支配された生活、自分の本当の気持ちを認識できず、公式コメントにも先取り的なランク不安が滲み出ていた（「次は落ちるかもと心配していた」）。影の劇のブレークスルーとカスミの介入を経て大きく回復するが、ベースラインは深い不安定さだった。成長は本物だが、出発点が消えるわけじゃない。",
+            "id": "Rendah. Dasar yang dalam dari kebencian diri di S1 — \"aktif membenci dirinya sendiri\", hidup yang dikendalikan oleh ketakutan, nggak bisa mengenali perasaan sejatinya sendiri, dan kecemasan peringkat yang meluap ke komentar resminya (\"khawatir mungkin turun peringkat berikutnya\"). Dia pulih cukup signifikan lewat terobosan shadow-play-nya dan intervensi Kasumi, tapi baseline-nya adalah ketidakamanan yang dalam. Pertumbuhannya nyata tapi nggak menghapus dari mana dia memulai."
+          }
+        },
+        "M": {
+          "score": 5,
+          "reason": {
+            "en": "Moderate-high. Deeply passionate about acting and pushes herself hard to improve — \"I will make sure I can do it someday!\" She channels ambition through discipline: running to work through anxiety, actively seeking reference material from other performances. In S2 she noticeably challenges herself more. Not maxed out because her ambition is craft-oriented (be good at acting, move audiences) rather than competition-dominance oriented.",
+            "ja": "中〜高め。演技への情熱が深く、上達のために自分を強く追い込む——「いつか必ずできるようにします！」。野心を規律に変換する：不安を解消するために走り、他の舞台から積極的に参考材料を探す。S2では目に見えて自分に挑戦するようになる。最高値でないのは、彼女の野心が技芸志向（演技がうまくなる、観客を動かす）であって、競争・支配志向でないから。",
+            "id": "Sedang-tinggi. Passion-nya soal akting dalam banget dan dia mendorong dirinya keras untuk berkembang — \"Aku pasti bisa melakukannya suatu saat!\" Dia menyalurkan ambisi lewat disiplin: lari untuk melampaui kecemasan, aktif mencari bahan referensi dari pertunjukan lain. Di S2 dia terlihat jelas lebih sering menantang dirinya. Nggak mencapai maksimum karena ambisinya berorientasi pada keahlian (bagus dalam akting, menggerakkan penonton) bukan orientasi dominasi-kompetisi."
+          }
+        },
+        "O": {
+          "score": 1,
+          "reason": {
+            "en": "Slight positive. She shows real resilience — works through her shadow-self crisis and emerges with a fuller sense of self, maintains forward momentum after her S1 breakthrough, and opens up socially (lets members visit her house, cracks jokes, shares her writing with Yu). But her baseline is anxious: she \"worries quite often,\" her official comments show pre-emptive ranking anxiety, and she lived fear-first for a long formative stretch. The positivity is earned, not native.",
+            "ja": "わずかにポジティブ。本物のレジリエンスがある——影の自分との葛藤を乗り越えてより完全な自己感覚を持って出てきて、S1のブレークスルー後も前向きな勢いを保ち、社交的に開いていく（メンバーの家への招待、冗談を言うようになる、ゆうに自分の文章を見せる）。でもベースラインは不安寄りで、「よく物事を心配する」、公式コメントでは先取り的なランク不安が出ていて、長い形成期を恐怖を先立てて生きてきた。ポジティブさは勝ち取ったもので、生まれ持ったものではない。",
+            "id": "Sedikit positif. Dia punya ketahanan yang nyata — melewati krisis shadow-self-nya dan keluar dengan rasa diri yang lebih utuh, mempertahankan momentum maju setelah terobosan S1-nya, dan membuka diri secara sosial (mengundang anggota ke rumahnya, mulai bikin lelucon, menunjukkan tulisannya ke Yu). Tapi baseline-nya cemas: dia \"cukup sering khawatir\", komentar resminya menunjukkan kecemasan peringkat yang antisipatif, dan dia menjalani fase pembentukan yang panjang dengan ketakutan sebagai modus utama. Positivitasnya adalah hasil perjuangan, bukan sesuatu yang natural."
+          }
+        },
+        "A": {
+          "score": 6,
+          "reason": {
+            "en": "High empathy. \"Genuinely selfless and generous\" — offers her home to the whole group during trips, arranges study sessions, specifically helps Kasumi with her grades, stands up when teasing goes too far, gives thoughtful presents. Supportive but careful not to burden others, a trait she shares with Emma. Not maxed because her helpfulness has a self-protective people-pleasing layer underneath — she helps partly to secure love and acceptance.",
+            "ja": "高い共感力。「本当に利他的で気前がいい」——旅行中グループ全員に自宅を提供して、一緒に勉強するセッションを設けて、カスミの成績を積極的に助けて、からかいが行き過ぎると立ち上がる、心のこもったプレゼントを贈る。支援的だが他人に迷惑をかけたくない——エマと共通する特徴。最高値でないのは、彼女の親切心の下に自己防衛的な空気読みの層があるから——愛と受容を確保するために助けるという側面も一部ある。",
+            "id": "Empati yang tinggi. \"Tulus tidak mementingkan diri dan dermawan\" — menawarkan rumahnya ke seluruh grup saat perjalanan, mengatur sesi belajar bersama, secara khusus membantu Kasumi dengan nilainya, membela orang lain kalau godaan sudah keterlaluan, memberikan hadiah yang penuh perhatian. Suportif tapi hati-hati untuk tidak membebani orang lain, sifat yang dia bagi dengan Emma. Nggak mencapai maksimum karena kebaikannya punya lapisan people-pleasing yang protektif di bawahnya — dia membantu sebagian untuk memastikan cinta dan penerimaan."
+          }
+        },
+        "U": {
+          "score": -1,
+          "reason": {
+            "en": "Slight negative. Her interior is genuinely unusual — old films, classical novels, theater depth, and yes, Beauty-and-the-Beast AU slashfic. But she actively suppresses all of it, \"afraid to be seen as an oddball and be dismissed.\" The external presentation is yamato nadeshiko honor-student standard. Weird interior, conventional exterior, with the conformity actively enforced. Per the guide rule: if the person inside is unusual but presents normally, U should be modest.",
+            "ja": "わずかにネガティブ。内面は本当に変わっている——古い映画、古典小説、演劇への深い造詣、そして「美女と野獣」AU二次創作まで。でも全部積極的に抑え込んでいて、「変わった子と思われて否定されるのが怖い」。外見の表現は大和撫子・優等生の標準的なもの。変わった内面、普通の外見——そして普通さを積極的に維持している。ガイドのルール通り：内側が変わっていても普通に振る舞っている場合、Uは控えめに。",
+            "id": "Sedikit negatif. Bagian dalamnya memang tidak biasa — film lama, novel klasik, kedalaman dunia teater, dan ya, AU Beauty-and-the-Beast slashfic. Tapi dia aktif menekan semuanya, \"takut dianggap aneh dan ditolak.\" Tampilan eksternalnya adalah standar yamato nadeshiko murid teladan. Interior yang aneh, eksterior yang konvensional, dengan konformitas yang secara aktif ditegakkan. Sesuai aturan panduan: kalau orang di dalamnya tidak biasa tapi tampil normal, U harus modest."
+          }
+        },
+        "N": {
+          "score": -1,
+          "reason": {
+            "en": "Slightly S, though genuinely close to neutral — the hardest dimension to score here. Si-grounding is evident: she catalogs specific reference techniques from performances she watches to repeat later, her acting strength is in disciplined memorization not improvisation, she's explicitly bad at ad-libbing (a classic Si-dominant pattern), she's attached to specific people and her specific dog Ophelia. But her creative output is unusually sustained and symbolically coherent — the full shadow-self play, Solitude Rain's integrated metaphor, writing her own AU fanfic — which reads more Ni than scattered Ne. Net slight negative, with the ambiguity on the record.",
+            "ja": "わずかにS寄りだが、本当に中立に近い——このキャラクターで一番スコアが難しい次元。Siの根付きが明確で：観劇から後で再現するための参考技術を具体的にメモして、演技の強みは規律ある暗記であってアドリブじゃなくて、アドリブが明確に苦手（Si優位タイプのクラシックなパターン）で、特定の人たちと愛犬オフェリアという具体的な存在に愛着がある。でも創作物の質は際立って持続的で象徴的に一貫している——影の自分との完全な舞台劇、「Solitude Rain」の統合されたメタファー、二次創作の執筆——これはバラバラなNeよりNiに近く読める。わずかにネガティブ、ただし曖昧さはここに残しておく。",
+            "id": "Sedikit S, meski benar-benar mendekati netral — dimensi paling sulit di-score untuk karakter ini. Akar Si jelas terlihat: dia katalog teknik referensi spesifik dari pertunjukan yang ditonton untuk diulang nanti, kekuatan aktingnya ada di hafalan yang disiplin bukan improvisasi, dia terang-terangan lemah soal ad-lib (pola klasik Si-dominan), dan dia punya kedekatan khusus dengan orang-orang tertentu dan anjingnya Ophelia. Tapi output kreatifnya punya daya tahan dan kepaduan simbolik yang tidak biasa — pertunjukan shadow-self yang lengkap, metafora terintegrasi di Solitude Rain, nulis AU fanfic-nya sendiri — yang lebih terbaca sebagai Ni daripada Ne yang berhamburan. Net sedikit negatif, dengan ambiguitasnya tercatat di sini."
+          }
+        }
+      }
+    }
+  }
+}

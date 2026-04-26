@@ -40,7 +40,15 @@
       "Bash(/usr/bin/jq '.megumi_fujishima | {color, type: .mbti.type, traits: .mbti.traits | map_values\\(.score\\)}' /home/cw_naufal/prj/lovelive-mbti/characters/final_results/hasunosora/megumi_fujishima.json)",
       "Bash(/usr/bin/jq '.characters.sayaka_murano' /home/cw_naufal/prj/lovelive-mbti/characters/raw_results/hasunosora.json)",
       "Bash(/usr/bin/jq '.characters.tsuzuri_yugiri' /home/cw_naufal/prj/lovelive-mbti/characters/raw_results/hasunosora.json)",
-      "Bash(/usr/bin/jq '.sayaka_murano.mbti | {type, traits: .traits | map_values\\(.score\\)}' /home/cw_naufal/prj/lovelive-mbti/characters/final_results/hasunosora/sayaka_murano.json)"
+      "Bash(/usr/bin/jq '.sayaka_murano.mbti | {type, traits: .traits | map_values\\(.score\\)}' /home/cw_naufal/prj/lovelive-mbti/characters/final_results/hasunosora/sayaka_murano.json)",
+      "Bash(/usr/bin/jq '.characters.kasumi_nakasu' /home/cw_naufal/prj/lovelive-mbti/characters/raw_results/nijigasaki.json)",
+      "Bash(/usr/bin/jq '.characters.lanzhu_zhong' /home/cw_naufal/prj/lovelive-mbti/characters/raw_results/nijigasaki.json)",
+      "Bash(/usr/bin/jq '.characters.mia_taylor' /home/cw_naufal/prj/lovelive-mbti/characters/raw_results/nijigasaki.json)",
+      "Bash(/usr/bin/jq '.lanzhu_zhong | {type: .mbti.type, color, traits: .mbti.traits | map_values\\(.score\\)}' /home/cw_naufal/prj/lovelive-mbti/characters/final_results/nijigasaki/lanzhu_zhong.json)",
+      "Bash(/usr/bin/jq '.mia_taylor.mbti | {type, traits: .traits | map_values\\(.score\\)}' /home/cw_naufal/prj/lovelive-mbti/characters/final_results/nijigasaki/mia_taylor.json)",
+      "Bash(/usr/bin/jq '.characters.rina_tennoji' /home/cw_naufal/prj/lovelive-mbti/characters/raw_results/nijigasaki.json)",
+      "Bash(/usr/bin/jq '.characters.shizuku_osaka' /home/cw_naufal/prj/lovelive-mbti/characters/raw_results/nijigasaki.json)",
+      "Bash(/usr/bin/jq '.characters.yu_takasaki' /home/cw_naufal/prj/lovelive-mbti/characters/raw_results/nijigasaki.json)"
     ]
   }
 }

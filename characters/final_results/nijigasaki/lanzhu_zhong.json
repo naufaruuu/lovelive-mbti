@@ -1,0 +1,97 @@
+{
+  "lanzhu_zhong": {
+    "color": "#f8c8c4",
+    "name": {
+      "en": "Lanzhu Zhong",
+      "ja": "ショウ・ランジュ",
+      "id": "Lanzhu Zhong"
+    },
+    "desc": {
+      "en": "Lanzhu is a Hong Kong transfer student at Nijigasaki — trilingual, wealthy, and the kind of person who walks into a room and commands it without trying. She moved countries solo after seeing the School Idol Festival, fell in love with the club at first sight, and decided the best way to be with everyone was to build her own professional organization and mandate their participation. Underneath the queen-tier confidence and the corporate-scale ambition is someone who's spent her whole life being told she's too special to have real friends — and who just wanted to belong.",
+      "ja": "ランジュは虹ヶ咲への香港からの留学生——三ヶ国語話せて、裕福で、部屋に入ってきただけで場を制圧するタイプ。スクールアイドルフェスティバルを見てから単身で国を越えて、スクールアイドルクラブに一目ぼれして、「みんなと一緒にいたい」という気持ちを「プロの組織を作って参加を義務付ける」という形で実行した。女王みたいな自信と組織規模の野心の裏には、ずっと「特別すぎて本当の友達ができない」と言われ続けてきた子がいる——ただどこかに属したかっただけの。",
+      "id": "Lanzhu adalah siswa pindahan dari Hong Kong di Nijigasaki — bisa tiga bahasa, dari keluarga kaya, dan tipe orang yang masuk ke ruangan mana pun langsung nguasain suasana tanpa usaha. Dia pindah negara sendirian setelah nonton School Idol Festival, langsung jatuh cinta sama club itu, dan memutuskan cara terbaik untuk bisa bareng semua orang adalah dengan bangun organisasi profesional sendiri terus mewajibkan mereka bergabung. Di balik kepercayaan diri level ratu dan ambisi skala perusahaan itu, ada seseorang yang seumur hidup dibilang terlalu istimewa untuk punya teman beneran — yang sebenernya cuma pengen punya tempat untuk jadi bagian dari sesuatu."
+    },
+    "mbti": {
+      "type": "ENTJ",
+      "reason": {
+        "en": "ENTJ with near-unanimous fan support (85 vs 3 ENTP) and every major data point lines up. The Association is the textbook Te-Ni move — she wanted to connect with school idols she admired, and her solution was to create an institution that required their participation. That's not a feeling move, not even an intuitive brainstorm — it's structural vision (Ni) executed through organizational force (Te). Inferior Fi is visible throughout: her direct approach consistently makes people feel insulted without her intending it, she treats people as components of a system she's optimizing rather than emotional beings, and her care comes out as control — hiring professionals \"for their benefit,\" forcing participation \"for their good.\" When Shioriko corrects her, Lanzhu updates — not through internal emotional breakthrough, but through external-authority-recalibrating-her-system. That's Te-receptive feedback, not Fe soul-searching. Her queen presentation is achievement-based and competence-grounded, not warmth-and-affect-radiating, which separates her from the ENFJ achievers in the cast. The only ENTJ in both casts, and the reference case for Te-Ni organizational-visionary cognition: imagine the structure, then build it.",
+        "ja": "ENTJで、ファン票もほぼ満場一z致（ENTJ 85 vs ENTP 3）、すべての主要な要素が一致してる。「協会」はTe-Niの典型的な動き——憧れのスクールアイドルたちとつながりたくて、その解決策が「参加を義務付ける組織を作る」だった。これは感情的な判断でも、直感的なブレストでもない——構造的ビジョン（Ni）を組織的な力（Te）で実行したもの。劣等機能Fiは随所に見える。直接的なアプローチが意図せず相手を傷つけてしまう、感情的な存在としてではなく「最適化するシステムの部品」として人を扱う、気遣いがコントロールとして出てくる——プロを雇って「あなたのために」、参加を強制して「あなたのために」。栞子に指摘されたとき、ランジュは更新する——でもそれは内面からの感情的な突破口ではなく、「外部の権威がシステムを修正する」という形で。それはTeが受け取るフィードバックであって、Feの魂の探求じゃない。彼女の「女王」表現は実績と能力ベースであって、温かみや感情の放射ではない。これが同じ「野心的な達成者」タイプのENFJ勢との違い。両キャストを通じて唯一のENTJ、そしてTe-Ni組織的ビジョナリー認知のリファレンスケース：まず構造を思い描いて、それを作る。",
+        "id": "ENTJ, dengan dukungan fans yang hampir bulat (85 vs 3 ENTP) dan semua titik data utama cocok. Association-nya itu langkah Te-Ni yang paling klasik — dia pengen terhubung sama school idol yang dia kagumi, dan solusinya adalah bikin institusi yang mewajibkan mereka ikut serta. Itu bukan keputusan berbasis perasaan, bukan juga brainstorm intuitif — itu visi struktural (Ni) yang dieksekusi lewat kekuatan organisasi (Te). Fi inferior kelihatan sepanjang ceritanya: pendekatan langsung dia secara konsisten bikin orang merasa tersinggung tanpa dia sengaja, dia memperlakukan orang sebagai komponen sistem yang sedang dia optimalkan bukan sebagai makhluk yang punya perasaan, dan kepeduliannya keluar sebagai kontrol — sewa profesional \"demi kebaikan mereka\", paksa mereka ikut \"demi kebaikan mereka\". Waktu Shioriko ngoreksinya, Lanzhu update — bukan lewat terobosan emosional dari dalam, tapi lewat otoritas eksternal yang merekalibrasi sistemnya. Itu feedback yang diterima Te, bukan pencarian jiwa ala Fe. Penampilan ratu-nya berbasis prestasi dan kompetensi, bukan pancaran kehangatan, yang membedakan dia dari para achiever ENFJ di cast. Satu-satunya ENTJ di dua cast, sekaligus kasus referensi untuk kognisi visioner-organisasional Te-Ni: bayangkan strukturnya, lalu bangun."
+      },
+      "traits": {
+        "E": {
+          "score": 5,
+          "reason": {
+            "en": "Solidly extroverted — she moved countries alone to chase her dream, initiates everything from the guerrilla lives to the Association's forced consolidation, and commands stage presence in a way fans called \"absolutely one of the most dominant and memorable entrances\" in the franchise. But it's mission-directed extroversion, not pure social energy — her childhood isolation created a real insulating wall, and she had only Shioriko as a genuine friend. Strong E, but the extroversion is in service of a goal, not a vibe.",
+            "ja": "しっかりした外向性——夢を追って単身で国を越え、ゲリラライブから強制的な協会合流まで何でも自分から動き、「フランチャイズで最も強烈で記憶に残る登場のひとつ」とファンに言わしめるほどのステージ存在感を持ってる。でもそれはミッション指向の外向性であって、純粋な社交エネルギーじゃない——幼少期の孤立が本物の隔離の壁を作っていて、唯一の本当の友人は栞子だけだった。E強め、ただしその外向性は「雰囲気」ではなく「目的のため」に使われてる。",
+            "id": "Ekstrovert yang cukup kuat — dia pindah negara sendirian buat ngejar mimpinya, jadi inisiator dari mulai guerrilla live sampai paksa semua orang masuk Association, dan punya stage presence yang bikin fans bilang \"salah satu entrance paling dominan dan berkesan\" di franchise ini. Tapi itu ekstroversion yang diarahkan oleh misi, bukan energi sosial semata — isolasi masa kecilnya bikin tembok pemisah yang nyata, dan satu-satunya teman sejati yang dia punya ya Shioriko. E yang kuat, tapi ekstrovertnya dipakai buat tujuan, bukan sekadar buat berinteraksi."
+          }
+        },
+        "J": {
+          "score": 7,
+          "reason": {
+            "en": "Strong J. She built an entire organization from scratch — hired professional coaches, set up systematic evaluation, and forced participation with structured demands. Her wealthy, achievement-oriented upbringing (Hong Kong family, mother as school chairwoman) reinforced a life of ordered excellence. Decisive, systematic, goal-driven — she doesn't brainstorm possibilities, she executes plans. Near the high end of the cast, in the same tier as Shioriko but through Te-Ni force rather than Si-Te rigor.",
+            "ja": "J強め。一から組織を立ち上げた——プロコーチを雇って、体系的な評価を設定して、構造化された要求で参加を強制した。裕福で実績重視の育ち（香港の家族、母親が学校の理事長）が整然とした卓越さへの習慣を強化した。果断で、体系的で、目的志向——可能性をブレストするんじゃなくて、計画を実行する。キャストの中でも上位のJ、栞子と同じ層、ただしSi-Teの厳密さではなくTe-Niの力を通じて。",
+            "id": "J yang kuat. Dia bangun satu organisasi lengkap dari nol — rekrut pelatih profesional, set up sistem evaluasi, dan paksa partisipasi dengan tuntutan yang terstruktur. Latar belakangnya yang kaya dan berorientasi pencapaian (keluarga Hong Kong, ibu sebagai ketua sekolah) memperkuat kebiasaan hidup tertata dan unggul. Tegas, sistematis, dan didorong tujuan — dia nggak brainstorm kemungkinan, dia eksekusi rencana. Masuk tingkatan J tertinggi di cast, setara Shioriko tapi lewat kekuatan Te-Ni bukan ketelitian Si-Te."
+          }
+        },
+        "T": {
+          "score": 5,
+          "reason": {
+            "en": "Strong T. The Te-Ni dominant stack means every problem gets a structural solution — including her loneliness, which she solved by building an organization. Cold and calculated when necessary, and her inferior Fi consistently fails to read the emotional impact of her directness: \"her demanding way tends to make others feel insulted.\" She genuinely cares, but she can't access that care well enough to calibrate her external actions around it. One of the higher T scores in the cast — real feelings exist, they're just routed through inferior Fi.",
+            "ja": "T強め。Te-Niドミナントスタックは、すべての問題に構造的な解決策を与える——孤独さえも、組織を作ることで解決した。必要なときは冷静で計算高く、劣等機能Fiが直接さの感情的な影響を読めない。「要求の仕方が相手を傷つけてしまいがち」。本当に気にかけてはいるけど、それを外部に向けた行動に反映させるほど上手くアクセスできない。キャストの中でT寄りの方——本物の感情はあるけど、劣等機能Fiを通じて表れる。",
+            "id": "T yang kuat. Stack dominan Te-Ni artinya setiap masalah dapat solusi struktural — termasuk kesepiannya, yang dia selesaikan dengan membangun organisasi. Dingin dan penuh kalkulasi saat dibutuhkan, dan Fi inferior-nya secara konsisten gagal membaca dampak emosional dari keterusterangannya: \"cara menuntutnya cenderung bikin orang merasa tersinggung\". Dia genuinely peduli, tapi nggak bisa mengakses rasa peduli itu cukup baik untuk mengkalibrasi tindakannya ke luar. Salah satu skor T tertinggi di cast — perasaan sejatinya ada, cuma tersalurkan lewat Fi inferior."
+          }
+        },
+        "C": {
+          "score": 4,
+          "reason": {
+            "en": "High on the surface, with a real wound underneath. Externally she's all queen energy — confident declarations, no-hesitation decision-making, charismatic presence that commands rooms. But that confidence is compensating for a genuine abandonment wound: she was always left behind because she was \"too talented,\" and deep inside she just wanted to be seen as an equal, not as special. Net solid positive through achievement-based self-assurance riding over the old insecurity — but the wound is real and it's what drives the entire arc.",
+            "ja": "外面は高め、でも内側に本物の傷がある。外側は完全に「女王」エネルギー——自信に満ちた宣言、迷いのない決断、部屋を支配するカリスマ的存在感。でもその自信は本物の見捨てられた傷を補ってる。「才能がありすぎる」という理由でいつも置いていかれて、内側では「特別扱い」ではなく「対等な存在」として見られたかっただけ。実績ベースの自己保証が古い不安を乗り越えて、ネットではプラス——でも傷は本物で、それがアーク全体を動かしてる。",
+            "id": "Tinggi di permukaan, dengan luka sejati di bawahnya. Secara eksternal dia full energi ratu — deklarasi penuh keyakinan, pengambilan keputusan tanpa ragu, kehadiran karismatik yang nguasain ruangan. Tapi kepercayaan diri itu sebenernya menutupi luka abandonment yang nyata: dia selalu ditinggal karena \"terlalu berbakat\", dan jauh di dalam dia cuma mau dilihat sebagai setara, bukan sebagai istimewa. Net-nya positif solid lewat kepercayaan diri berbasis pencapaian yang mengatasi rasa tidak aman lama — tapi lukanya nyata dan itu yang menggerakkan seluruh arc-nya."
+          }
+        },
+        "M": {
+          "score": 9,
+          "reason": {
+            "en": "Near-max ambition. Empire-builder tier — she crossed international borders for her dream, created a professional organization from nothing, and demands perfection from herself in everything she does. The key distinction: she doesn't just dream at this scale, she institutionalizes. Session notes peg her as the reference case for sustained Te-Ni organizational ambition. Not quite +10 only because she eventually accepts losses and updates strategy after Shioriko's correction — but that adaptability makes her more dangerous, not less driven.",
+            "ja": "野心がほぼ最高値。帝国構築者レベル——夢のために国境を越え、何もないところからプロの組織を作り上げ、すべてにおいて自分に完璧を求める。重要な違いがある：この規模で夢を見るだけじゃなくて、制度化する。セッションノートでは、継続したTe-Ni組織的野心のリファレンスケースとして位置付けられてる。完全な+10じゃないのは、最終的に敗北を受け入れ、栞子の修正後に戦略を更新するから——でもその適応性は彼女をより危険にするものであって、駆動力を弱めるものじゃない。",
+            "id": "Ambisi yang hampir maksimal. Level empire-builder — dia melintas batas negara demi mimpinya, bikin organisasi profesional dari nol, dan menuntut kesempurnaan dari diri sendiri di segala hal. Perbedaan kuncinya: dia nggak cuma bermimpi di skala ini, tapi melembagakan. Catatan sesi menempatkan dia sebagai kasus referensi untuk ambisi organisasional Te-Ni yang berkelanjutan. Nggak sampai +10 hanya karena dia akhirnya mau menerima kekalahan dan update strategi setelah koreksi dari Shioriko — tapi kemampuan adaptasi itu bikin dia makin berbahaya, bukan berkurang semangatnya."
+          }
+        },
+        "O": {
+          "score": 3,
+          "reason": {
+            "en": "Moderate positive — more action-resilience than native optimism. She bounces back from the Association's collapse, accepts Shioriko's correction and adapts, and eventually integrates into the club finding genuine friendship. But the underlying loneliness and abandonment pattern are a real pessimism-seed — she can't fully trust others won't leave, and her \"superficial optimism\" masks deeper anxiety about being understood. She pushes forward because she acts, not because she naturally expects things to work out.",
+            "ja": "中程度のプラス——ネイティブな楽観主義というより、行動からくるレジリエンス。協会の崩壊から立ち直り、栞子の修正を受け入れて適応し、最終的にクラブに合流して本当の友情を見つける。でも根底にある孤独と見捨てられのパターンは本物の悲観の種で——他人がいつか離れていかないと完全には信じられず、「表面的な楽観主義」はより深い「理解されるか不安」を覆い隠してる。前に進むのは行動するからであって、うまくいくと自然に期待してるわけじゃない。",
+            "id": "Positif sedang — lebih ke resiliensi berbasis tindakan daripada optimisme yang natural. Dia bangkit dari kehancuran Association, menerima koreksi Shioriko dan beradaptasi, dan akhirnya bergabung ke club menemukan persahabatan yang tulus. Tapi pola kesepian dan abandonment yang mendasarinya adalah benih pesimisme yang nyata — dia nggak bisa sepenuhnya percaya orang lain nggak akan pergi, dan \"optimisme yang superfisial\" menutupi kecemasan yang lebih dalam tentang apakah dia akan dipahami. Dia terus melangkah karena dia bertindak, bukan karena secara natural mengharapkan semuanya akan beres."
+          }
+        },
+        "A": {
+          "score": 1,
+          "reason": {
+            "en": "Slight positive — real warmth exists but it's badly mangled in expression. She genuinely wants idols to improve, her demanding-excellence is a distorted love-language, and joining the club in the end proves the care was always real. But inferior Fi means care comes out as control: hiring professionals to fix people, forcing participation \"for their own good,\" accidentally insulting while trying to help. The warmth is there — it's just buried under a Te-filtered layer that mistakes optimization for affection.",
+            "ja": "わずかにプラス——本物の温かさはあるけど、表現が大きく歪んでる。アイドルたちに成長してほしいという気持ちは本物で、「完璧を要求する」のは歪んだ愛情の言語、最終的にクラブに入ることで気遣いが最初から本物だったと証明される。でも劣等機能Fiは気遣いをコントロールとして出す——人を「直す」ためにプロを雇い、「本人のために」と参加を強制し、助けようとしながら傷つけてしまう。温かさはある——ただTeでフィルタリングされた層の下に埋もれていて、最適化を愛情と間違えてしまう。",
+            "id": "Sedikit positif — kehangatan sejatinya ada tapi ekspresinya amburadul. Dia genuinely mau para idol berkembang, menuntut kesempurnaan adalah love language-nya yang tersalur dengan cara yang salah, dan akhirnya bergabung ke club membuktikan kepedulian itu selalu nyata dari dulu. Tapi Fi inferior bikin rasa peduli keluar sebagai kontrol: sewa profesional untuk \"memperbaiki\" orang, paksa partisipasi \"demi kebaikan mereka\", nggak sengaja menyinggung sambil berusaha membantu. Kehangatan itu ada — cuma terkubur di balik lapisan filter Te yang salah mengira optimasi sebagai kasih sayang."
+          }
+        },
+        "U": {
+          "score": 4,
+          "reason": {
+            "en": "Genuinely distinctive profile. Hong Kong wealthy background, trilingual (Japanese, Mandarin, Cantonese), mother as school chairwoman, brought to Japan by Mia's intervention — that's already an unusual setup. Then add the internal contradictions: the charismatic queen who is secretly a fangirl idiot (the episode of buying too much idol merch is peak Lanzhu), the empire-builder who just wanted friends, the name pronounced \"Ranju.\" The external power-position and the internal chaos-fangirl combine into something that doesn't fit any standard archetype.",
+            "ja": "本当に際立ったプロフィール。香港の裕福な家庭、三ヶ国語話せる（日本語・北京語・広東語）、母親が学校の理事長、ミアに引っ張られて日本へ——それだけでもう珍しい設定。そこに内面の矛盾が加わる：カリスマ的女王なのに裏でアイドルオタクの「おバカ」（アイドルグッズ買いすぎのエピソードはランジュの真骨頂）、帝国を作った人なのにただ友達が欲しかっただけ、名前の発音は「ランジュ」。外側のパワーポジションと内側の混沌としたファン気質が組み合わさって、どんな定型の型にも当てはまらないものになってる。",
+            "id": "Profil yang genuinely menonjol. Latar belakang kaya dari Hong Kong, trilingual (Jepang, Mandarin, Kanton), ibu sebagai ketua sekolah, dibawa ke Jepang atas inisiatif Mia — itu sendiri sudah setup yang nggak biasa. Lalu tambahkan kontradiksi internalnya: ratu karismatik yang diam-diam adalah fangirl yang polos (episode beli merchandise idol kebanyakan itu puncak Lanzhu banget), empire-builder yang sebenernya cuma pengen punya teman, nama yang diucapkan \"Ranju\". Posisi kekuatan eksternal dan fangirl-kacau internal itu bergabung jadi sesuatu yang nggak cocok dengan arketipe manapun."
+          }
+        },
+        "N": {
+          "score": 4,
+          "reason": {
+            "en": "Moderately-strong N. Ni-auxiliary shows up clearly in her visionary organization-building — she imagined the Association as a unified solution to the school-idol ecosystem problem and then executed that abstract vision into reality. Pattern-recognition about what she needed to do to connect with idols, and a drive toward dream-like future states (her intro literally ends with \"I want to give everyone a dream-like world\"). But she's also grounded in her elite-achievement habits and specific cultural background. Solid N — reference case for Ni-Te visionary-execution.",
+            "ja": "中〜強めのN。Ni補助機能はビジョナリーな組織構築にはっきり表れてる——「スクールアイドルエコシステムの問題への統一された解決策」として協会を構想して、その抽象的なビジョンを現実に実行した。アイドルとつながるために何が必要かというパターン認識、「夢のような世界」への未来志向（自己紹介の最後がまさに「みんなに夢のような世界を与えたい」）。でも同時に、エリート達成習慣と具体的な文化的背景にもちゃんと根を張ってる。N安定——Ni-Teビジョナリー実行のリファレンスケース。",
+            "id": "N yang cukup kuat. Ni-auxiliary terlihat jelas dalam pembangunan organisasi visioner-nya — dia membayangkan Association sebagai solusi terpadu untuk masalah ekosistem school idol lalu mengeksekusi visi abstrak itu jadi kenyataan. Pola pikir tentang apa yang dia butuhkan untuk terhubung dengan para idol, dan dorongan menuju keadaan masa depan yang seperti mimpi (self-intro-nya literally diakhiri dengan \"ingin memberikan semua orang dunia yang seperti mimpi\"). Tapi dia juga tetap punya kaki yang mengakar pada kebiasaan pencapaian kelas atas dan latar belakang budaya yang spesifik. N yang solid — kasus referensi untuk eksekusi visioner Ni-Te."
+          }
+        }
+      }
+    }
+  }
+}

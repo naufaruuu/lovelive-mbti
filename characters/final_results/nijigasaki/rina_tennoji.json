@@ -1,0 +1,97 @@
+{
+  "rina_tennoji": {
+    "color": "#9ca5b9",
+    "name": {
+      "en": "Rina Tennoji",
+      "ja": "天王寺璃奈",
+      "id": "Rina Tennoji"
+    },
+    "desc": {
+      "en": "Rina is a first-year at Nijigasaki who claims to be \"a super cute girl\" — and she means it, but her face just won't cooperate. Her emotions run deep and fast; the problem is routing them out. Her solution: the Rina-chan Board, a handmade sketchbook of facial expressions she holds up in place of her own face. What looks like a tech gimmick is actually a radical Fi-Ne move — she refused to fake expressions or give up on being seen, and invented something entirely her own instead. Underneath the board is someone bursting with warmth, humor, and feeling, who just needed a different output channel.",
+      "ja": "天王寺璃奈は虹ヶ咲の一年生で、「すっごくかわいい女の子」と自称してる——そしてそれは本当のことなんだけど、自分の顔がついてきてくれない。感情は深くて豊かで、問題はそれを表に出す経路だけ。その解決策が「璃奈ちゃんボード」——自分の表情を描いたスケッチブックで、自分の素顔の代わりに掲げる手作りのツール。テクノロジーの小道具に見えて、実はFi-Ne的な大胆な選択——表情を偽るくらいなら諦めず、ただ「見てもらえる存在」でいたくて、完全に自分だけのものを発明した。ボードの裏には、温かさとユーモアと感情があふれんばかりの子がいて、ただ別の出力チャンネルが必要だっただけ。",
+      "id": "Rina adalah siswa tahun pertama di Nijigasaki yang mengklaim dirinya \"cewek yang super imut\" — dan dia serius, cuma wajahnya aja yang nggak mau kerja sama. Emosinya dalam dan cepat; masalahnya cuma soal cara menyalurkannya keluar. Solusinya: Rina-chan Board, buku sketsa buatan sendiri berisi gambar ekspresi wajah yang dia angkat sebagai pengganti wajahnya sendiri. Kelihatannya kayak gimmick teknologi, tapi ini sebenernya adalah langkah Fi-Ne yang radikal — dia nolak untuk pura-pura berekspresi atau nyerah untuk dilihat orang, dan malah nyiptain sesuatu yang sepenuhnya miliknya sendiri. Di balik board itu ada seseorang yang meluap-luap dengan kehangatan, humor, dan perasaan, yang cuma butuh saluran output yang berbeda."
+    },
+    "mbti": {
+      "type": "INFP",
+      "reason": {
+        "en": "INFP — and the fan vote is decisive: 235 vs 84 for INTP (~3:1). The INTP case leans entirely on surface pattern-matching: tech talent, flat affect, information-processing course, the board-as-logical-solution. But that's the \"aesthetic projection trap\" — reading a cold exterior as T-dominant cognition. The real diagnostic is this: INTPs struggle to understand their own feelings; INFPs understand them just fine but struggle to express them outward. Rina knows exactly what she's feeling at every moment — her board switches faces at lightning speed, proving fluent internal emotional self-awareness. That's the Fi-expression problem, not the Ti-understanding-emotions problem. The board itself gives it away: an INTP building an expression-communication tool would design something efficient — sliders, text, standardized symbols. Rina drew her own face making feelings. That preserves personal authenticity while routing around the output issue — Fi keeping the authentic self, Ne inventing the creative workaround. And her core drive isn't to fit in or optimize — it's to be seen and connected authentically. If she wanted to fit in she'd fake facial expressions; instead she wore a cardboard board proudly to every live. The \"Is this the first time I'm useful to you?\" line to Ai is inferior Te leaking through — textbook INFP pattern of needing to prove concrete usefulness. Her tech skill is entirely F-serving: it exists to solve a connection problem, not as a system-building interest in itself.",
+        "ja": "タイプはINFP——ファン投票も明確な差: 235 vs 84でINTPに対して圧倒的（約3:1）。INTPの主張は表面的なパターンマッチングに頼り切ってる：技術の才能、無表情、情報処理科というコース、論理的解決としてのボード。でもそれは「外見投影トラップ」——冷たい外見をT優位の認知として読み違えること。本当の診断軸はここ：INTPは自分の感情を理解することに苦労する。INFPは感情をちゃんと理解できるけど、外に表現することが苦手。璃奈は常に自分が何を感じているかを正確に把握してる——ボードは秒単位で表情を切り替えてて、内なる感情の自己認識が流暢であることを証明してる。これはFiの「表現の問題」であって、Tiの「感情を理解できない問題」じゃない。ボードそのものが証拠：INTPが表情伝達ツールを作るなら効率的なもの——スライダー、テキスト、標準化された記号——を作るはず。璃奈は自分の顔で感情を描いた。それが個人の真正性を保ちながら出力問題を回避するということ——Fiが本当の自分を守って、Neが創造的な回避策を発明する。そして彼女の核心的な動機は「馴染む」でも「最適化する」でもなく、「ありのままで繋がる」こと。馴染みたいなら表情を偽ろうとするはずで、代わりに彼女はダンボールのボードをすべてのライブで誇らしげに使ってた。Aiへの「これって初めて私がお役に立てたってこと?」は劣等Teが漏れ出した瞬間——具体的な有用性を証明したいというINFPの典型的なパターン。技術スキルはすべてF-serving：それは接続の問題を解くために存在していて、それ自体がシステム構築への関心じゃない。",
+        "id": "INFP — dan voting fans-nya jelas: 235 vs 84 buat INTP (~3:1). Argumen INTP bergantung sepenuhnya pada pattern-matching yang permukaan: bakat teknologi, ekspresi datar, jurusan pengolahan informasi, board sebagai solusi logis. Tapi itu adalah \"aesthetic projection trap\" — membaca eksterior yang dingin sebagai kognisi T-dominan. Diagnostik sesungguhnya ada di sini: INTP kesulitan memahami perasaan mereka sendiri; INFP memahaminya dengan baik tapi kesulitan mengekspresikannya ke luar. Rina tau persis apa yang dia rasakan di setiap saat — board-nya ganti muka dalam hitungan detik, membuktikan kesadaran diri emosional yang fasih. Itu masalah ekspresi Fi, bukan masalah Ti yang nggak ngerti perasaan sendiri. Board-nya sendiri sudah kasih petunjuk: INTP yang bikin alat komunikasi ekspresi bakal desain sesuatu yang efisien — slider, teks, simbol terstandar. Rina malah gambar wajahnya sendiri lagi merasakan sesuatu. Itu mempertahankan keaslian personal sambil muter di sekitar masalah output — Fi yang jaga diri yang autentik, Ne yang nyiptain jalan kreatif. Dan motivasi inti Rina bukan buat menyesuaikan diri atau optimasi — tapi buat dilihat dan terhubung secara autentik. Kalau dia mau fit in, dia bakal usaha pura-pura berekspresi; tapi malah dia bangga-bangga pakai board kardus di setiap live. Kalimat \"Apa ini pertama kalinya aku berguna buat kamu?\" ke Ai adalah Te inferior yang bocor — pola khas INFP yang butuh ngebuktiin kegunaannya secara konkret. Skill teknisnya sepenuhnya F-serving: ada untuk menyelesaikan masalah koneksi, bukan sebagai ketertarikan membangun sistem."
+      },
+      "traits": {
+        "E": {
+          "score": -7,
+          "reason": {
+            "en": "Strong introvert. During low points she becomes a full shut-in, literally hiding in a cardboard box when stressed — tech gadgets as isolation scaffolding. Couldn't even glance at her own reflection in window panes. Needed Ai to pull her out socially. Her board and texts show enormous expressive range, but her energy orientation is solidly inward. She grows through the arcs but never flips to extroverted; the growth is in output channels, not in where she draws energy from.",
+            "ja": "しっかりとした内向型。落ち込んでいるときは完全な引きこもり状態になって、ストレスを感じるとダンボール箱の中に文字通り隠れてしまう——テクノロジーのガジェットが孤立の足場になってる。窓ガラスに映る自分の姿すら見られなかった。あいに社交的に引き出してもらう必要があった。ボードやテキストからは豊かな表現の幅が見えるけど、エネルギーの向きは完全に内向き。アークを通じて成長するけど、外向型に転換することはない——成長は出力チャンネルの広がりであって、エネルギーを引き出す方向の変化じゃない。",
+            "id": "Introvert yang kuat. Di titik terendahnya dia jadi shut-in total, secara harfiah bersembunyi di dalam kotak kardus saat stres — gadget teknologi sebagai perancah isolasi. Bahkan nggak bisa lirik pantulan wajahnya sendiri di kaca jendela. Butuh Ai untuk narik dia keluar secara sosial. Board dan teks-teksnya menunjukkan jangkauan ekspresif yang luar biasa, tapi orientasi energinya solid ke dalam. Dia tumbuh lewat arc-nya tapi nggak pernah berubah jadi ekstrovert; pertumbuhannya ada di saluran output, bukan di mana dia ngambil energi."
+          }
+        },
+        "J": {
+          "score": -4,
+          "reason": {
+            "en": "P-leaning. She's a constant tech tinkerer — quadcopter, iterative board versions, tablet and laptop setups — and an improvisational problem-solver when things break down. When her electronic board failed mid-concert, she invented a paper version on the spot. Her information-processing course fits an exploratory orientation. There's real discipline in craft execution, but the overall mode is adaptive and iterative, not planned-then-executed.",
+            "ja": "P寄り。常にいじってる——クアッドコプター、ボードの試行錯誤、タブレットやラップトップのセットアップ——そして問題が起きたときは即興で解決するタイプ。コンサート中にボードが壊れたとき、その場で紙のバージョンを発明した。情報処理科というコースも、探索的な志向に合ってる。技術の実行における規律は本物だけど、全体的なモードは計画してから実行じゃなく、適応的で反復的。",
+            "id": "Cenderung P. Dia tukang utak-atik teknologi yang konstan — quadcopter, iterasi versi board, setup tablet dan laptop — dan pemecah masalah secara improvisasi waktu sesuatu rusak. Waktu board elektroniknya mati di tengah konser, dia nyiptain versi kertas di tempat. Jurusan pengolahan informasinya sesuai dengan orientasi eksploratif. Ada disiplin nyata dalam eksekusi keahlian, tapi mode keseluruhannya adaptif dan iteratif, bukan direncanakan lalu dieksekusi."
+          }
+        },
+        "T": {
+          "score": -4,
+          "reason": {
+            "en": "Solidly F. Her entire core arc is emotional — wanting to be seen, admiring Ai's warmth, crying easily (\"Sobbing\" at 3rd place, \"Tear...\" at 2nd). The key diagnostic: Rina always knows what she's feeling, she just can't show it — the opposite pattern from INTP who struggles to identify feelings. Her rapid board-face switching proves fluent emotional self-awareness. Tech skill is an F-serving tool: routing Fi-authentic-expression through a non-facial medium, not T-cognition as its own end.",
+            "ja": "しっかりF。コアアークは完全に感情的——見てもらいたい、あいの温かさへの憧れ、泣きやすい（3位で「号泣」、2位で「涙...」）。重要な診断ポイント：璃奈は常に自分の感情を分かってる、ただ表せないだけ——感情を特定することに苦労するINTPとは逆のパターン。ボードの表情が素早く切り替わることは、感情の自己認識が流暢であることの証拠。技術スキルはFが道具として使うもの：非言語メディアを通じてFiの真正な表現を伝えるための媒体であって、それ自体が目的のT認知じゃない。",
+            "id": "F yang solid. Seluruh arc inti dia bersifat emosional — ingin dilihat, mengagumi kehangatan Ai, gampang nangis (\"Sesenggukan\" di posisi 3, \"Netes...\" di posisi 2). Diagnostik kuncinya: Rina selalu tau apa yang dia rasakan, cuma nggak bisa menunjukkannya — pola yang kebalikan dari INTP yang kesulitan mengidentifikasi perasaan. Board-face-nya yang cepat ganti membuktikan kesadaran diri emosional yang fasih. Skill teknisnya adalah alat yang F-serving: menyalurkan ekspresi autentik Fi lewat medium non-wajah, bukan kognisi T sebagai tujuan itu sendiri."
+          }
+        },
+        "C": {
+          "score": -6,
+          "reason": {
+            "en": "Very low baseline. \"Anxious shut-in mess\" — hiding in cardboard boxes, couldn't glance at her own reflection during crisis, \"didn't have confidence to say thank you with bare face yet,\" constantly scared her ranking could drop even if she tried her best. The \"someone like me\" self-referential phrasing runs throughout. She does improve substantially through Ai's support and her arc — eventually performs bare-faced for Mia's sake — but the baseline insecurity is deep and formative.",
+            "ja": "ベースラインはかなり低い。「不安で引きこもりがちなぐちゃぐちゃな状態」——ダンボール箱に隠れて、危機の最中は自分の反射も見られなくて、「まだ素顔でありがとうと言う自信がない」、どんなに頑張ってもランクが下がるかもしれないとずっと怯えてた。「私みたいな子が」という自己言及的な言い回しが随所に出てくる。あいのサポートとアークを通じて大きく改善して——最終的にはMiaのために素顔でパフォーマンスする——でもベースラインの不安感は深く、キャラクターの根幹を形成してる。",
+            "id": "Baseline yang sangat rendah. \"Kekacauan shut-in yang cemas\" — bersembunyi di kotak kardus, nggak bisa lirik pantulan dirinya sendiri saat krisis, \"belum punya rasa percaya diri untuk bilang terima kasih dengan wajah telanjang\", terus-terusan takut peringkatnya turun meski sudah berusaha semaksimal mungkin. Frasa self-referensial \"seseorang seperti aku\" muncul di mana-mana. Dia memang membaik secara signifikan lewat dukungan Ai dan arc-nya — akhirnya tampil tanpa masker demi Mia — tapi rasa tidak percaya diri dasarnya dalam dan formatif."
+          }
+        },
+        "M": {
+          "score": 3,
+          "reason": {
+            "en": "Moderate. Real competitive ambition shows up in her official comments — \"frustrated\" at 2nd place, \"I'll try even harder so I don't lose next time,\" won 1st in July 2017 rankings. She works hard on her tech gadgets to contribute to the club and keeps pushing despite anxiety. But the drive is bounded and connection-directed: she's chasing being-seen-and-connected, not pure competitive dominance.",
+            "ja": "中程度。本物の競争心がオフィシャルコメントに表れてる——2位で「悔しい」、「次は負けないようにもっと頑張る」、2017年7月ランキングで1位獲得。クラブに貢献するために技術ガジェットに真剣に取り組んで、不安を抱えながらも前進し続ける。でもその原動力は範囲が決まっていて、繋がりを向いてる：純粋な競争的支配じゃなく、「見てもらえること・本物の繋がり」を追い求めてる。",
+            "id": "Sedang. Ambisi kompetitif yang nyata muncul di komentar resminya — \"frustrasi\" di posisi 2, \"aku akan berusaha lebih keras supaya nggak kalah lagi\", menang posisi 1 di ranking Juli 2017. Dia kerja keras di gadget teknisnya untuk berkontribusi ke klub dan terus mendorong diri meski penuh kecemasan. Tapi dorongannya terbatas dan berorientasi koneksi: dia mengejar rasa dilihat dan terhubung secara autentik, bukan dominasi kompetitif murni."
+          }
+        },
+        "O": {
+          "score": 1,
+          "reason": {
+            "en": "Slight positive — earned, not native. She genuinely didn't give in to isolation, kept putting herself out there when staying hidden would have been easier, and built a novel solution that lets her participate on her own terms. But the baseline is anxious: frequent panic language, \"my head is spinning,\" scared of setbacks. Without Ai's external support the recovery arc probably doesn't complete. The resilience is real but it had to be built, not found.",
+            "ja": "わずかにポジティブ——生まれ持ったものじゃなく、積み上げたもの。孤立に屈せず、隠れていた方が楽なのに自分から出ていき続け、自分の条件で参加できる独自の解決策を作り上げた。でもベースラインは不安がち：頻繁なパニック表現、「頭がくるくるしてる」、失敗を恐れる言葉。あいの外部サポートなしでは回復のアークはたぶん完結しなかった。レジリエンスは本物だけど、もともと持ってたんじゃなく、構築しなきゃいけなかったもの。",
+            "id": "Sedikit positif — bukan bawaan, tapi hasil usaha. Dia memang nggak menyerah pada isolasi, terus keluar ke dunia padahal bersembunyi jauh lebih mudah, dan membangun solusi baru yang memungkinkan dia berpartisipasi dengan caranya sendiri. Tapi baseline-nya cemas: bahasa panik yang sering muncul, \"kepalaku berputar\", takut menghadapi kemunduran. Tanpa dukungan eksternal dari Ai, arc pemulihannya mungkin nggak bakal selesai. Ketahanannya nyata tapi harus dibangun, bukan sesuatu yang sudah ada."
+          }
+        },
+        "A": {
+          "score": 6,
+          "reason": {
+            "en": "High empathy running under the surface. She has a \"kind and supportive nature\" with real social awareness beneath the communication difficulty. When Mia slaps her in frustration, Rina's first response is to check if Mia hurt her hand — Fi compassion under physical provocation. She admires Ai for her warmth, and gradually inverts the dynamic to become Mia's protector herself. Over two seasons she evolves from \"protected person and taker\" into a \"protective person and giver.\" Warm all the way down.",
+            "ja": "表面の下に高い共感性が流れてる。コミュニケーションの苦手さの奥に「優しくて支えになる性格」と本物の社会的感受性がある。MiaがフラストレーションからRinaを叩いたとき、Rinaが最初にしたのはMiaの手が痛くないか確認すること——身体的な挑発の下にあるFiの共感。あいの温かさに憧れ、やがてそのダイナミクスを逆転させてMiaの保護者になっていく。2シーズンかけて「守られる側・受け取る側」から「守る側・与える側」に成長する。根の底まで温かい。",
+            "id": "Empati tinggi yang mengalir di bawah permukaan. Dia punya \"sifat yang baik dan suportif\" dengan kesadaran sosial yang nyata di balik kesulitan komunikasinya. Waktu Mia menamparnya dalam frustrasi, respons pertama Rina adalah memastikan tangan Mia nggak terluka — Fi compassion di bawah provokasi fisik. Dia mengagumi Ai karena kehangatan, dan perlahan membalik dinamika itu untuk jadi pelindung Mia sendiri. Selama dua season dia berkembang dari \"orang yang dilindungi dan yang menerima\" jadi \"orang yang melindungi dan memberi\". Hangat dari dalam sampai luar."
+          }
+        },
+        "U": {
+          "score": 6,
+          "reason": {
+            "en": "Genuinely high — external and internal eccentricity both in sync. The Rina-chan Board alone is a unique invented communication solution; no other Love Live character has built a custom technology around their own personality quirks. Then there's the cat-ear headphones with a face-monitor display, the quadcopter/tablet/laptop gadget ecosystem, chiptune-aesthetic songs, hiding in cardboard boxes as a coping mechanism, and messy pink hair. Internally she's the \"kuudere who actually has enormous emotional depth\" — a deliberate subversion of the cold-stone-face archetype. Surface and interior both distinctly her.",
+            "ja": "本当に高い——外側と内側の両方が同期した個性。璃奈ちゃんボード単体でも独自の発明的なコミュニケーション手段として唯一無二で、他のラブライブキャラクターで自分の個性的な特徴を解決するためにカスタムテクノロジーを構築した人はいない。さらに猫耳ヘッドフォンに顔モニター付き、クアッドコプター/タブレット/ラップトップのガジェットエコシステム、チップチューン美学の楽曲、対処行動としてのダンボール箱に隠れること、そしてピンクのぼさぼさヘア。内側は「実は感情の深みが巨大なクーデレ」——冷たい無表情のアーキタイプへの意図的な反転。外見も内側も、どっちも独特にRinaそのもの。",
+            "id": "Tinggi secara genuine — eksentrisitas eksternal dan internal keduanya sinkron. Rina-chan Board sendiri sudah merupakan solusi komunikasi yang ditemukan secara unik; nggak ada karakter Love Live lain yang membangun teknologi khusus di sekitar keunikan kepribadian mereka sendiri. Belum lagi headphone kucing dengan display monitor wajah, ekosistem gadget quadcopter/tablet/laptop, lagu dengan estetik chiptune, bersembunyi di kotak kardus sebagai mekanisme coping, dan rambut merah muda yang berantakan. Di dalamnya dia adalah \"kuudere yang sebenernya punya kedalaman emosional yang luar biasa\" — subversi yang disengaja dari arketipe wajah batu yang dingin. Penampilan luar dan dalamnya sama-sama khas dia."
+          }
+        },
+        "N": {
+          "score": 4,
+          "reason": {
+            "en": "Solid Ne. Her songs and outfits are \"some of the most inventive in the whole Love Live canon,\" she generates novel solutions under pressure (paper-board improvisation mid-concert), her board-face repertoire seems inexhaustible, and her emoji-and-flair-heavy digital communication style is pure associative play. Tempered somewhat by her concrete hands-on tech-gadget grounding and her focus on specific people (Ai, Mia) rather than abstract systems. Net moderately high.",
+            "ja": "しっかりNe。彼女の楽曲と衣装は「ラブライブ全体の中でも最も発明的なものの一つ」で、プレッシャー下で斬新な解決策を生み出して（コンサート中の紙ボードの即興）、ボードの表情レパートリーは尽きることがなく、絵文字と装飾たっぷりのデジタルコミュニケーションスタイルは純粋な連想的な遊び。具体的で実践的な技術ガジェットへのこだわりと、抽象的なシステムではなく特定の人（あい、Mia）への集中によって多少抑制されてる。ネットでは中程度の高さ。",
+            "id": "Ne yang solid. Lagu dan kostumnya \"termasuk yang paling inventif di seluruh kanon Love Live\", dia hasilkan solusi baru di bawah tekanan (improvisasi paper-board di tengah konser), repertoar ekspresi board-nya seolah nggak ada habisnya, dan gaya komunikasi digital-nya yang penuh emoji dan flair adalah permainan asosiatif murni. Sedikit diimbangi oleh keterikatan hands-on-nya pada gadget teknologi dan fokusnya pada orang-orang spesifik (Ai, Mia) ketimbang sistem yang abstrak. Net-nya sedang-tinggi."
+          }
+        }
+      }
+    }
+  }
+}

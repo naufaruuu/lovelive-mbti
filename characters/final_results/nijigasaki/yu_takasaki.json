@@ -1,0 +1,97 @@
+{
+  "yu_takasaki": {
+    "color": "#1d1d1d",
+    "name": {
+      "en": "Yu Takasaki",
+      "ja": "高咲侑",
+      "id": "Yu Takasaki"
+    },
+    "desc": {
+      "en": "Yu is Ayumu's childhood neighbor and the manager-composer behind Nijigasaki's School Idol Club — the only person in the main cast who never sings yet somehow holds everything together. Her signature catchphrases say it all: \"I'm thrilled!\" for her infectious enthusiasm, and \"I can't choose just one!\" for her genuine refusal to rank any of the twelve idols above another. She fell in love with school idols the moment she watched Setsuna Yuki perform, and spent the rest of the story making sure every single one of those idols got to shine exactly as themselves.",
+      "ja": "侑はあゆみの幼なじみの隣人で、虹ヶ咲スクールアイドル同好会のマネージャー兼ソングライター——メインキャストの中で唯一歌わないのに、なぜかすべてをまとめてしまう存在。彼女のキャッチフレーズがすべてを語ってる。「ときめいた！」はその感染力抜群の熱量を、「ヒトリダケナンテエラベナイヨー」は12人の誰かを他の子より上に置くことへの本気の拒否を。せつ菜のパフォーマンスを見た瞬間スクールアイドルに心を奪われ、そこから先は、一人ひとりのアイドルが自分らしく輝けるよう動き続けた。",
+      "id": "Yu adalah tetangga masa kecil Ayumu sekaligus manajer dan komposer di balik Nijigasaki School Idol Club — satu-satunya orang di cast utama yang nggak pernah nyanyi, tapi entah gimana caranya jadi lem yang ngikat semuanya. Catchphrase-nya bilang segalanya: \"Aku deg-degan!\" untuk antusiasnya yang menular, dan \"Aku nggak bisa milih cuma satu!\" untuk penolakannya yang tulus buat nge-rank siapapun di antara dua belas idol itu. Dia jatuh cinta sama school idol tepat di momen dia nonton Setsuna Yuki perform, dan dari situ dia habiskan sisa cerita untuk memastikan setiap idol bisa bersinar sesuai jati diri mereka masing-masing."
+    },
+    "mbti": {
+      "type": "ENFJ",
+      "reason": {
+        "en": "ENFJ — a dissent from the fan majority who voted INTJ 88 to ENFJ's 9. The INTJ lean probably comes from conflating game-Anata's strategic-planner personality with anime-Yu's distinctly Fe-catalyst mode — the raw text even notes that Yu adopted a lot of the player character's personality. Once you look at anime-Yu's actual behavior, the ENFJ case is decisive. Her response to failure isn't to redesign the system — it's to dissolve into individual enablement. Chapter 2 Ep 9: she realizes she'd been making idols fit her idealization, and her next move isn't a structural fix, it's to center each member's individual self-expression. That's Fe-Ni, not Ni-Te. Compare to Lanzhu (ENTJ): when Lanzhu's vision fails, she improves the organizational structure. When Yu's vision fails, she clears space for everyone else's voice. The Mia composition rivalry fits too — her failure wasn't a flawed methodology, it was that the song wasn't exclusively for the Nijigasaki girls. She missed the relational-specific dimension under stress, which is Fe-Ni-under-pressure, not INTJ craft-optimization. Her catchphrase 'HITORI DAKE NANTE ERABENAI YO' is ENFJ to the core — an INTJ would rank and prioritize, Yu refuses to. Her color is black, representing the 'shadow behind the idols' — her entire identity is structured around being support for others. That's Fe-dominant orientation. Among the ENFJs in both casts, she's the gentlest variant: the pastor-supporter, warmth without Setsuna's zealotry or Megumi's hunger.",
+        "ja": "タイプはENFJ——ファン投票INTJ 88対ENFJ 9という多数派からの異議。INTJが多いのはゲームのアナタ（戦略的プランナー）とアニメの侑（Fe触媒型）を混同してるせいだと思う。原テキストでも「侑はアニメ以前にゲームのプレイヤーキャラの性格を多く引き継いでいた」と明記されてる。アニメの侑の実際の行動を見ると、ENFJの証拠は決定的。失敗への応答が「システムを再設計する」じゃなく「個人のエンパワーメントに溶け込む」。2期9話、彼女はアイドルたちを自分の理想像に合わせようとしていたと気づく——次の行動は構造的な改善じゃなく、一人ひとりの自己表現を中心に置くこと。それがFe-Niであり、Ni-Teじゃない。ランジュ（ENTJ）と比較すると明快で、ランジュのビジョンが失敗すると彼女は組織構造を改善しようとする。侑のビジョンが失敗すると、侑は他の全員の声を聴く場を作る。ミアとの曲作り対決もそう——失敗の原因は方法論の欠陥じゃなく「ニジガサキの子たちだけのための曲じゃなかった」こと。ストレス下でFe-Niが関係性特有の次元を見失ったのであって、INTJの職人的最適化じゃない。「ヒトリダケナンテエラベナイヨー」というキャッチフレーズそのものがENFJの本質——INTJならランク付けして優先順位をつける。侑は拒否する。黒というカラーが「アイドルたちの影」を表してるのも、Feドミナントの方向性の表れ。両キャストのENFJ勢の中では最も温和なバリアント——熱狂的なせつ菜の伝道師性も、芽愛の渇望も持たない、穏やかな牧師型のサポーター。",
+        "id": "ENFJ — beda dari fan majority yang voting INTJ 88 banding ENFJ 9. Kecenderungan INTJ itu mungkin karena fans nyampur-adukkan kepribadian game-Anata yang strategis-planner sama mode Fe-catalyst yang khas di anime-Yu — teks sumber bahkan bilang Yu mengambil banyak kepribadian dari karakter player. Begitu lihat perilaku anime-Yu yang asli, kasus ENFJnya meyakinkan. Respons dia terhadap kegagalan bukan mendesain ulang sistemnya — tapi larut ke dalam enablement individu. Season 2 Ep 9: dia sadar sudah memaksa para idol masuk ke idealisasinya, dan langkah berikutnya bukan perbaikan struktural, tapi ngasih ruang ke ekspresi diri tiap member. Itu Fe-Ni, bukan Ni-Te. Bandingkan sama Lanzhu (ENTJ): waktu visi Lanzhu gagal, dia benerin struktur organisasinya. Waktu visi Yu gagal, dia bikin ruang buat suara semua orang. Rivalitas komposisi sama Mia juga pas — kegagalannya bukan soal metodologi yang salah, tapi karena lagunya \"bukan semata-mata untuk cewek-cewek Nijigasaki\". Dia kehilangan dimensi relasional-spesifik pas lagi stres — itu Fe-Ni-under-pressure, bukan optimisasi craft INTJ. Catchphrase-nya 'HITORI DAKE NANTE ERABENAI YO' itu ENFJ banget — INTJ bakal ngeprioritasin dan nge-rank; Yu nolak. Warnanya hitam, merepresentasikan 'bayangan di balik para idol' — identitas dasarnya dibangun di atas jadi support buat orang lain. Itu Fe-dominant orientation. Di antara para ENFJ di kedua cast, dia varian yang paling lembut: the pastor-supporter, hangat tanpa fanatisme Setsuna atau kelaparan Megumi."
+      },
+      "traits": {
+        "E": {
+          "score": 7,
+          "reason": {
+            "en": "Strongly extroverted, but in a supportive-channeled way rather than pure energy radiation. She pulls Setsuna back into the club, mediates the Setsuna-Kasumi conflict, manages the whole club's operations, and bonds easily across the entire cast. She even performs on stage despite not being an idol — because Fe needs proximity, and she wants to be WITH the group. Not max because her extroversion is focused on enabling others rather than broadcasting outward like Ai does.",
+            "ja": "しっかり外向的——ただし純粋なエネルギー放射型ではなく、サポート型の外向性。せつ菜を同好会に引き戻して、せつ菜とかすみの対立を仲裁して、同好会全体の運営を担って、キャスト全員と自然に繋がっていく。アイドルじゃないのに舞台に上がるのも、FeがどうしてもグループとWITHにいたいから。最高値じゃないのは、彼女の外向性がAiのような放射型じゃなく、他者をエンパワーするために使われてる方向性だから。",
+            "id": "Ekstrovert yang kuat, tapi lewat cara yang supportif bukan pancaran energi murni. Dia narik Setsuna balik ke klub, mediasi konflik Setsuna-Kasumi, kelola seluruh operasional klub, dan gampang akrab sama semua orang di cast. Dia bahkan perform di panggung padahal bukan idol — karena Fe butuh kedekatan, dan dia mau ada bareng grupnya. Nggak maksimal karena ekstrovertnya lebih ke arah enabling orang lain, bukan broadcast keluar kayak Ai."
+          }
+        },
+        "J": {
+          "score": 4,
+          "reason": {
+            "en": "Solid J, but not extreme. She manages the club schedule, plans the School Idol Festival with care, and made a structured commitment when she transferred to the music course to pursue composition. But 'her passion for music sometimes makes her neglect schoolwork,' which introduces some P-flex, and the Fe-catalyst role she plays demands constant adaptive responsiveness to whoever needs her next. Reliable executor, flexible when it counts.",
+            "ja": "Jはしっかりあるが、極端じゃない。同好会のスケジュール管理、SIFのメティキュラスな計画、音楽科への転科という人生方向の大きなコミットメントと、構造的な動きは確かにある。ただ「音楽への情熱がときに学校の勉強を疎かにさせる」という記述がP的なゆらぎを示してるし、Fe触媒役としての柔軟な応答性も必要。信頼できる実行者、でも要所での柔軟性はある。",
+            "id": "J yang solid, tapi nggak ekstrem. Dia kelola jadwal klub, rencein School Idol Festival dengan teliti, dan bikin komitmen terstruktur pas pindah ke jurusan musik buat ngejar komposisi. Tapi 'passion-nya terhadap musik kadang bikin dia lalai sama PR sekolah', yang munculin sedikit P-flex, dan peran Fe-catalyst yang dia jalanin butuh responsivitas adaptif terus ke siapapun yang butuh dia selanjutnya. Eksekutor yang bisa diandalkan, tapi fleksibel pas perlu."
+          }
+        },
+        "T": {
+          "score": -4,
+          "reason": {
+            "en": "F-dominant. Her whole engine is Fe-Ni: emotionally driven throughout her arc, caring about each member individually and orchestrating their growth. The 'thrilled!' catchphrase captures an authentically feeling-led baseline. She does have analytical capacity — studying composition, strategically rebuilding the club with Kasumi — but the primary mode is relational-feeling. Not max-F because her advisory-rational side does show up, pointing to some Te accessibility.",
+            "ja": "Fドミナント。エンジン全体がFe-Ni——アーク全体を通じて感情主導で動き、一人ひとりのメンバーを気にかけて成長をオーケストレートする。「ときめいた！」というキャッチフレーズは感情ベースのベースラインが本物であることの表れ。作曲の勉強や、かすみとの同好会再建という分析的な動きもあるにはある——でも主要モードはRelational-feeling。Fの最高値じゃないのは、合理的なアドバイザーの側面も顔を出すことがあり、Teのアクセス可能性が見えるから。",
+            "id": "F-dominant. Seluruh mesinnya adalah Fe-Ni: didorong emosi sepanjang arc-nya, peduli sama setiap member secara individual dan mengatur pertumbuhan mereka. Catchphrase 'aku deg-degan!' nangkep baseline yang betul-betul feeling-led. Dia emang punya kapasitas analitis — belajar komposisi, rebuilding klub secara strategis sama Kasumi — tapi mode utamanya adalah relasional-perasaan. Nggak F maksimal karena sisi advisory-rasionalnya sesekali muncul, yang nunjukin ada akses ke Te."
+          }
+        },
+        "C": {
+          "score": 5,
+          "reason": {
+            "en": "Mostly confident. She takes charge of the club-rebuilding immediately, pursues Ayumu's dream without hesitation, bridges multiple subunits, and boldly decides to transfer to the music course. There are anxious moments — the composition block under Mia-pressure, the separation dilemma with Ayumu — but the baseline is decisive. The 'thrilled!' energy is authentic, not performed confidence.",
+            "ja": "おおむね自信家。同好会再建をためらいなく引き受け、あゆみの夢を全力サポートして、複数のサブユニットを橋渡しして、音楽科への転科という決断も迷わない。不安な瞬間もある——ミアのプレッシャーのもとでの作曲スランプ、あゆみとの別れのジレンマ——でもベースラインは決断力がある。「ときめいた！」のエネルギーは本物で、演じられた自信じゃない。",
+            "id": "Kebanyakan percaya diri. Dia langsung ambil kendali rebuilding klub, ngejar mimpi Ayumu tanpa ragu, jembatani beberapa subunit, dan dengan berani memutuskan pindah ke jurusan musik. Ada momen cemas — kebuntuan komposisi di bawah tekanan Mia, dilema perpisahan sama Ayumu — tapi baseline-nya tegas. Energi 'aku deg-degan!' itu otentik, bukan kepercayaan diri yang dibuat-buat."
+          }
+        },
+        "M": {
+          "score": 5,
+          "reason": {
+            "en": "Driven in her own way, but the ambition is outward-directed. The music-course transfer is a serious life-direction commitment, and the composition rivalry with Mia pushes her hard. Still, her drive is fundamentally about enabling the club's collective excellence — the pastor-supporter ambition pattern: achieve so she can lift others. Not max because she's not competing for personal dominance; she's competing so the idols can be better.",
+            "ja": "彼女なりに突き動かされてるけど、その野心は外に向いている。音楽科への転科は人生の方向性への本気のコミットで、ミアとの作曲対決でも本気で食い下がる。ただ原動力は根本的に同好会全体のエクセレンスをエンパワーすること——達成するのは他者を引き上げるためという、牧師型サポーターの野心パターン。個人的な覇権を争ってるわけじゃなく、アイドルたちがより良くなれるために競ってる。だから最高値じゃない。",
+            "id": "Punya drive tersendiri, tapi ambisinya ngarah ke luar. Pindah ke jurusan musik itu komitmen arah hidup yang serius, dan rivalitas komposisi sama Mia beneran ngepush dia keras. Tapi dorongannya pada dasarnya soal mengaktifkan keunggulan kolektif klub — pola ambisi pastor-supporter: berprestasi supaya bisa mengangkat orang lain. Nggak maksimal karena dia nggak bersaing buat dominasi personal; dia bersaing supaya para idol bisa lebih baik."
+          }
+        },
+        "O": {
+          "score": 8,
+          "reason": {
+            "en": "Near-maximum resilience and optimism. The 'thrilled!' signature runs consistently across both seasons, and she bounces back through multiple serious crises: composition block, separation anxiety with Ayumu, the pressure from Lanzhu and Mia. Her energetic-enthusiastic baseline doesn't dip even when she's in the hardest parts of her arc. She and Ai are tied as the highest-O in the cast — a reference case for what a genuinely optimistic-resilient character looks like.",
+            "ja": "ほぼ最高値のレジリエンスと楽観性。「ときめいた！」のシグネチャーが1期2期を通じてブレずに流れ続けて、複数の深刻な危機を乗り越えてくる——作曲スランプ、あゆみとの別離への不安、ランジュとミアのプレッシャー。アークの最も辛い局面でも、エネルギッシュで熱心なベースラインが落ちない。AIとともにキャスト最高のOスコアを持ち、楽観的かつレジリエントなキャラクターの基準ケース。",
+            "id": "Ketahanan dan optimisme yang hampir maksimal. Signature 'aku deg-degan!' mengalir konsisten di kedua season, dan dia bangkit dari beberapa krisis serius: kebuntuan komposisi, kecemasan perpisahan sama Ayumu, tekanan dari Lanzhu dan Mia. Baseline energetik-antusiasnya nggak turun bahkan di bagian terberat arc-nya. Dia dan Ai tied sebagai yang paling tinggi O di cast — jadi kasus referensi untuk kayak apa karakter yang beneran optimis-resilient itu."
+          }
+        },
+        "A": {
+          "score": 7,
+          "reason": {
+            "en": "High empathy — she's the catalyst-enabler for all twelve other members. Helps each pursue their individual dream, mediates multiple conflicts, supports Shizuku's unit formation, stays emotionally present throughout. The source text calls her 'kind, empathetic, sociable, easily creating bonds.' Not Emma-tier max because her care is mission-channeled: she cares WHILE building toward something, Fe-Ni style. Still very high.",
+            "ja": "高い共感性——12人全員の触媒的エネイブラー。一人ひとりが個人の夢を追えるようにサポートして、複数の対立を仲裁して、しずくのユニット結成を後押しして、感情的に常にそこにいる。原テキストは彼女を「優しく、共感的で、社交的、簡単に絆を作れる」と説明する。エマ級の最高値じゃないのは、彼女のケアがミッション型——Fe-Niスタイルで何かを向けて進みながらケアする。それでも非常に高い。",
+            "id": "Empati yang tinggi — dia catalyst-enabler buat semua dua belas member lainnya. Bantu tiap orang ngejar mimpi individu mereka, mediasi banyak konflik, dukung pembentukan unit Shizuku, tetap hadir secara emosional sepanjang cerita. Teks sumber bilang dia 'baik hati, empatik, mudah bergaul, gampang menciptakan ikatan.' Nggak setinggi Emma karena kepeduliannya mission-channeled: dia peduli SAMBIL membangun menuju sesuatu, gaya Fe-Ni. Tapi tetap sangat tinggi."
+          }
+        },
+        "U": {
+          "score": -1,
+          "reason": {
+            "en": "Slight negative. Her structural position is genuinely unusual — green-tip twin-tails, black color-code as 'shadow behind the idols,' performing on stage without being an idol, the first non-idol main character across the Love Live franchise. But the personality interior is classic supportive-catalyst-protagonist: energetic, passionate, empathetic, charismatic. The distinctiveness lives in her structural function, not her inner character. Slight negative per the external/internal alignment rule.",
+            "ja": "わずかにマイナス。構造的ポジションは確かに珍しい——緑ティップのツインテール、「アイドルたちの影」を示す黒カラーコード、アイドルじゃないのに舞台に上がる存在、Love Liveフランチャイズ全体でのメインキャラ初の非アイドル。でも内面的性格は典型的なサポーター触媒型主人公——エネルギッシュで、情熱的で、共感的で、カリスマ的。独自性はストラクチャル機能にあって、内なるキャラクターにあるわけじゃない。外部・内部のアライメントルールに基づき、わずかなマイナス。",
+            "id": "Sedikit negatif. Posisi strukturalnya memang unik — twin-tails ujung hijau, kode warna hitam sebagai 'bayangan di balik para idol', perform di panggung tanpa jadi idol, karakter utama non-idol pertama di seluruh franchise Love Live. Tapi kepribadian dalamnya adalah tipikal supportive-catalyst-protagonist: energetik, passionate, empatik, karismatik. Keunikannya ada di fungsi struktural, bukan di karakter dalamnya. Sedikit negatif sesuai aturan external/internal alignment."
+          }
+        },
+        "N": {
+          "score": 4,
+          "reason": {
+            "en": "Solid N through auxiliary Ni in service of Fe. She generates a group-vision where 13 different idols can coexist as solo artists under one club, sees potential in each member intuitively, and orchestrates the connections between them. The Setsuna recognition scene is telling: 'even if others told me, I already had a feeling' — that's Ni seeing through appearance to underlying truth. Tempered slightly by her practical-executor side and the immediacy of her fan-passion.",
+            "ja": "Feのサービスに使われる補助的NiによるしっかりしたN。13人のアイドルが一つのクラブの中でソロアイドルとして共存できるというグループビジョンを生成し、各メンバーの可能性を直感的に見抜き、彼らの間の繋がりをオーケストレートする。せつ菜の正体特定シーンが象徴的——「誰かに言われなくても、なんとなくそんな気がしてた」——それはNiが外見を通り抜けて本質を見通す瞬間。実務的な実行者としての側面とファンとしての即応性が少しだけNを抑えている。",
+            "id": "N yang solid lewat Ni auxiliary yang melayani Fe. Dia menghasilkan visi kelompok di mana 13 idol berbeda bisa hidup berdampingan sebagai solo artist dalam satu klub, melihat potensi tiap member secara intuitif, dan mengatur koneksi di antara mereka. Adegan pengenalan Setsuna itu mengungkapkan banyak: 'bahkan kalau orang lain bilang ke aku, aku sudah punya firasat' — itu Ni yang menembus penampilan ke kebenaran di baliknya. Sedikit dimoderasi oleh sisi practical-executor-nya dan imediasi dari semangat fan-nya."
+          }
+        }
+      }
+    }
+  }
+}

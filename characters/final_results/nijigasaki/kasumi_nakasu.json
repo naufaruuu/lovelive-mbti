@@ -1,0 +1,97 @@
+{
+  "kasumi_nakasu": {
+    "color": "#e7d600",
+    "name": {
+      "en": "Kasumi Nakasu",
+      "ja": "中須かすみ",
+      "id": "Kasumi Nakasu"
+    },
+    "desc": {
+      "en": "Kasumi is Nijigasaki's self-declared president and the school idol with the world's strongest feelings about cuteness — she refers to herself as \"Kasumin\" in third person and has branded her entire identity around it. She's mischievous, loud, and perpetually scheming to come in first, but those schemes almost never work, and underneath the gremlin energy is someone genuinely warm who will drop her whole persona the moment a friend needs real care. The nickname \"Kasukasu\" — throwback to old bullies — is the one thing that breaks the act completely.",
+      "ja": "かすみは虹ヶ咲の自称部長で、かわいさへの執念が世界一強いスクールアイドル——自分を「かすみん」と三人称で呼んで、アイデンティティの全てをそこに集約させてる。いたずら好きで騒がしくて、常に一位を狙って策を練ってる。でもそのほとんどは空回りする。外側のキャラの奥には、友達が本当に困ったときに仮面を全部脱いで向き合える、本当に温かい子がいる。「かすかす」というあだ名——過去のいじめっ子の記憶——だけが、そのキャラを完全に崩してしまうもの。",
+      "id": "Kasumi adalah presiden yang mendeklarasikan dirinya sendiri di Nijigasaki, school idol yang obsesinya sama kata \"kawaii\" mungkin paling kuat sedunia — dia nyebut dirinya \"Kasumin\" dalam bentuk orang ketiga dan udah bikin seluruh identitasnya berputar di sana. Nakal, berisik, dan selalu mikirin cara buat jadi nomor satu, meski rencananya hampir nggak pernah berhasil. Di balik semua energi gremlin itu ada orang yang hangat banget — yang rela lepas semua persona-nya begitu teman butuh pertolongan beneran. Satu hal yang bisa hancurin act-nya seketika: dipanggil \"Kasukasu\", nama ejekan dari pembully-pembully lamanya."
+    },
+    "mbti": {
+      "type": "ENFP",
+      "reason": {
+        "en": "ENFP — dissenting from the fan majority. Fans voted ESFP 121 vs ENTJ 34, with ENFP barely registering. But the evidence points clearly to Fi-Ne over Se-Fi. The ESFP case leans hard on the Shizuku-detection scene in episode 8 as proof of Se-sensory-acuity — but re-read that moment and it's Fi-relational-attunement to someone she specifically cares about, not blanket environmental tracking. The real tell is how often Kasumi misses obvious physical things when she's self-absorbed: Yu standing right next to her, Nana entering the room, the whole club walking out mid-introduction. An Se-dom does not do that this reliably. Her acuity is selective-to-friends — that's Fi focus, not Se awareness. The scheme pattern is also decisive: her plans constantly fail or aren't as devious as she thinks, which is textbook Ne idea-generation without a Se practicality filter. The \"watashi\" moment — dropping \"Kasumin\" for genuine first-person in the Shizuku scene — is Fi-core peeking through a constructed Ne-persona. Se-Fi types don't build that kind of persona layer in the first place. Fans and reddit reads independently identify her cute-girl behavior as an ACT covering hurt, which is how Fi-Ne constructs identity — not Se-Fi's more present-authentic mode. ENTJ is ruled out flat by execution: Lanzhu actually builds her empire; Kasumi plots and fails. Kasumi is the \"schemey-selfish surface, hidden warmth\" ENFP — the Nico archetype: performance-as-identity over a real Fi core.",
+        "ja": "タイプはENFP——ファン多数派から外れての判断。ESFP 121票 vs ENTJ 34票で、ENFPはほぼ票がない。でもテキスト分析はSe-FiではなくFi-Neを指してる。ESFPの根拠はアニメ8話のシズク察知シーンをSeの感覚的鋭さとして使ってるけど——読み直すと、あれはかすみが特別に気にかけてる人への「Fi的な対人感受性」であって、周囲全体への環境トラッキングじゃない。本当の決め手は、かすみが自己陥没してるときにいかに頻繁に明らかな物理的変化を見落とすか——ゆうがすぐ隣にいるのに気づかない、奈々が部屋に戻ってくるのに気づかない、自己紹介中に部全員がいなくなってるのに気づかない。Seドミナントはこれほど安定してそれをやらない。彼女の鋭さは「気にかける友達への選択的感受性」——それはSeの知覚じゃなくてFiのフォーカス。計画のパターンも決定的で、「思ったほど巧妙じゃない失敗続き」はSe実用フィルターのないNeのアイデア生成そのもの。「かすみん→わたし」切り替え——シズク場面での本人称への切り替え——は構築されたNeペルソナを突き破るFiのコアが顔を出した瞬間。Se-Fiタイプはそういうペルソナ層をそもそも作らない。ファンやredditが口をそろえて「かわいい子キャラは傷を隠す演技だ」と読むのは、Fi-Neがアイデンティティを構築する方法——Se-Fiの「より現在的・素直」なモードとは違う。ENTJはランジュとの比較で消える——ランジュは本当に組織を作る。かすみは策を練って失敗する。かすみは「策士的な利己主義の外見、隠れた温かさ」のENFP——にこアーキタイプ：本物のFiコアの上に乗った「演技としてのアイデンティティ」。",
+        "id": "ENFP — beda dari suara mayoritas fans. Voting-nya ESFP 121 vs ENTJ 34, dan ENFP hampir nggak ada di sana. Tapi buktinya jelas nunjukin Fi-Ne, bukan Se-Fi. Argumen ESFP bergantung berat pada adegan deteksi Shizuku di episode 8 sebagai bukti ketajaman sensori Se — tapi baca ulang momen itu, itu adalah Fi-relational-attunement ke orang yang dia pedulikan secara spesifik, bukan pelacakan lingkungan secara umum. Tanda yang paling jelas justru seberapa sering Kasumi melewatkan hal-hal fisik yang obvious waktu dia sedang asyik sama pikirannya sendiri: Yu berdiri tepat di sebelahnya nggak keliatan, Nana masuk ruangan nggak kedeteksi, seluruh klub pergi di tengah-tengah introduksinya nggak disadari. Se-dom nggak akan semisses itu secara konsisten. Ketajamannya selektif — hanya ke orang-orang yang dia pedulikan — itu Fi bukan Se. Pola rencananya juga kunci: scheming-nya terus-terusan gagal atau nggak sejahat yang dia kira, itu tekstur klasik Ne yang generate ide tanpa filter praktis dari Se. Momen \"watashi\" — dia ganti \"Kasumin\" jadi pronoun pertama yang genuine waktu bicara sama Shizuku — adalah inti Fi-nya yang ngintip dari balik persona Ne yang dia bangun. Tipe Se-Fi nggak akan bikin lapisan persona kayak gitu dari awal. Fans sama komunitas reddit secara independen baca perilaku cute girl-nya sebagai ACT yang nutupin luka — itulah cara Fi-Ne membangun identitas, bukan mode Se-Fi yang lebih present dan autentik. ENTJ langsung gugur karena soal eksekusi: Lanzhu beneran bikin organisasi; Kasumi planning dan gagal. Kasumi adalah ENFP dengan template \"permukaan schemey-egois, kehangatan tersembunyi\" — arketipe Nico: identitas sebagai performa, di atas inti Fi yang nyata."
+      },
+      "traits": {
+        "E": {
+          "score": 5,
+          "reason": {
+            "en": "Solidly extroverted. She broadcasts \"Kasumin\" energy constantly — loud, performative, recruits strangers immediately (approached Ayumu and Yu out of nowhere), declared herself club president as the sole remaining member. But there's a real absent-minded inner-world pattern too: she misses Yu standing right next to her, misses Nana entering the room, misses the whole club walking out while she's mid-introduction. The cute-girl performance is somewhat effortful persona rather than pure natural radiation. Net solidly E, but not maxed.",
+            "ja": "しっかり外向的。「かすみん」エネルギーを絶えず発信してる——うるさく、パフォーマンス的で、見知らぬ人に即アプローチ（あゆむとゆうにいきなり声をかけた）、残り一人になっても自分を部長と宣言した。でも本物の「内側に入り込む」パターンもあって、ゆうがすぐ隣にいるのに気づかなかったり、奈々が入室するのを見逃したり、自己紹介の途中で部全員がいなくなってるのを見落としたりする。かわいい子キャラはある程度「作られたペルソナ」であって、純粋に自然にあふれ出すものじゃない。総じてしっかりE、でも最大値じゃない。",
+            "id": "Ekstrovert yang solid. Dia terus-terusan pancarkan energi \"Kasumin\" — berisik, performatif, langsung approach orang asing (nyamperin Ayumu sama Yu dari nggak ada angin nggak ada hujan), dan declare dirinya sendiri sebagai presiden klub meski sendirian. Tapi ada pola inner-world yang genuine juga: dia nggak sadar Yu berdiri tepat di sebelahnya, nggak nyadar Nana masuk ruangan, nggak sadar seluruh klub udah pergi waktu dia masih asik perkenalan. Performa cute girl-nya agak terasa seperti persona yang dibangun, bukan energi yang ngalir natural begitu aja. Total-nya solid E, tapi nggak sampai maksimal."
+          }
+        },
+        "J": {
+          "score": -4,
+          "reason": {
+            "en": "P-leaning. Spontaneous scheme-generation is her primary mode — she \"spends a lot of her time scheming or thinking up new ways to ensure her own victory.\" The critical diagnostic: those plans often fail or aren't as devious as she thinks, which shows Ne idea-generation running without J-style execution discipline. She improvises rather than structures. Some tactical focus activates when her achievement-drive kicks in, but her natural orientation is exploratory and scheme-generating, not planned and follow-through.",
+            "ja": "P寄り。自発的な策略生成が彼女の主要モード——「自分の勝利を確実にする新しい方法を考えることに多くの時間を費やしてる」。決定的な診断ポイントは「計画がしょっちゅう失敗するか、思ったほど悪知恵じゃない」こと——これはJ的な実行規律を持たないNeのアイデア生成を示してる。構造化じゃなく即興。達成欲が発動するときはある程度の戦術的集中も見られるけど、自然な方向性は探索的・策略生成型で、計画的・完遂型じゃない。",
+            "id": "Condong P. Mode spontan generate rencana itu kegiatan utamanya — dia \"banyak ngabisin waktu buat mikirin cara-cara baru untuk memastikan kemenangannya sendiri\". Tanda diagnostiknya yang krusial: rencana-rencananya sering gagal atau nggak sejahat yang dia kira — itu nunjukin Ne yang generate ide tanpa kendali eksekusi ala J. Dia improvisasi, bukan terstruktur. Ada sedikit fokus taktis waktu drive ambisinya aktif, tapi orientasi alaminya eksploratif dan suka bikin skema, bukan terencana dan follow-through."
+          }
+        },
+        "T": {
+          "score": -5,
+          "reason": {
+            "en": "Strong F. Entirely value- and feeling-driven — she wants to be cute because cuteness is a core identity value, not a logical strategy. The \"watashi\" moment with Shizuku is pure Fi-authentic care: she goes completely out of character, drops the Kasumin persona, and shows up for her friend with her real self. \"Good-hearted and friendly despite claiming to be mean.\" Care breaks through the mischievous surface whenever a friend is genuinely hurting. No Ti/Te-analytical logic at her core — her schemes are value-driven, not system-driven.",
+            "ja": "強いF。完全に価値観と感情で動いてる——かわいくありたいのは、かわいさがアイデンティティの核の価値だから。論理的戦略じゃない。シズクとの「わたし」の瞬間はFi的な本物のケアの塊：キャラを完全に外して、かすみんペルソナを脱いで、本当の自分で友達に向き合う。「意地悪と主張しながらも心が良くて友達思い」。友達が本当に傷ついてるときは、いたずらっぽい外面を突き破ってケアが出てくる。核にTi/Te的な分析思考はなく、策は論理ではなく価値観が動力源。",
+            "id": "F yang kuat. Sepenuhnya digerakkan oleh nilai dan perasaan — dia mau jadi cute karena kecantikan itu adalah nilai inti identitasnya, bukan strategi logis. Momen \"watashi\" sama Shizuku itu adalah Fi-authentic care yang murni: dia keluar total dari karakter, lepas persona Kasumin, dan hadir buat temannya dengan dirinya yang asli. \"Baik hati dan ramah meski ngaku-ngaku jahat\". Kepedulian itu tembus ke permukaan yang nakal kapanpun ada teman yang beneran lagi terluka. Nggak ada logika analitis Ti/Te di intinya — rencana-rencananya digerakkan oleh nilai, bukan oleh sistem."
+          }
+        },
+        "C": {
+          "score": 0,
+          "reason": {
+            "en": "Mixed. On the surface: huge confidence — \"Japan's best school idol,\" constant self-aggrandizing, declared herself club president and held the role without flinching. But the Kasumin persona reads consistently as a constructed act over real insecurity. The \"Kasukasu\" wound traces back to actual bullies. She genuinely feels outmatched by most of the group except in cuteness, and needs support to get through low moments. The declarations are real, but so is the hurt underneath. Net neutral.",
+            "ja": "複雑。外見的には：大きな自信——「日本一のスクールアイドル」、絶え間ない自己称賛、動じずに部長の座を宣言して保持し続けた。でも「かすみん」ペルソナは一貫して、本物の不安の上に乗った「構築された演技」として読まれる。「かすかす」の傷は実際のいじめっ子まで遡る。グループの中でかわいさ以外ではほとんどのメンバーに負けてると本当に感じてて、低調なときは支えを必要とする。宣言は本物だけど、その下の傷も本物。総じてニュートラル。",
+            "id": "Campuran. Di permukaan: percaya diri banget — \"school idol terbaik Jepang\", terus-terusan self-aggrandizing, declare diri sebagai presiden dan pegang posisi itu tanpa ragu. Tapi persona Kasumin secara konsisten terbaca sebagai act yang dibangun di atas insekuritas yang nyata. Luka \"Kasukasu\" itu balik ke pembully-pembully beneran dari masa lalu. Dia genuinely ngerasa kewalahan sama hampir semua anggota grup kecuali soal kecantikan, dan butuh dukungan untuk melewati momen-momen down-nya. Deklarasinya nyata, tapi luka di baliknya juga nyata. Net-nya netral."
+          }
+        },
+        "M": {
+          "score": 7,
+          "reason": {
+            "en": "High. \"Wants to be number one in any competition she's in\" — sore loser at anything less than first, schemes relentlessly for victory, held the club president role even as more capable members joined, Enneagram 3 achievement-drive per fan consensus. The rule here is that M measures the want, not the execution — and Kasumi's want is constant and loud. Not maxed because her scheming operates mostly at small-scale mischief rather than Lanzhu-tier empire-building.",
+            "ja": "高い。「参加するどんな競争でも一位になりたい」——一位以外は負けと感じるほどの敗北感、勝利のために絶え間なく策を練り、より優秀なメンバーが加入しても部長の座を保持し続けた。ファンの見解でもエニアグラム3の達成欲と一致。ここでのMの基準は実行力じゃなく「欲しがり」——かすみの欲しがりは常に大きくて声高。最大値じゃないのは、策略が主にランジュ規模の帝国建設ではなく、小規模のいたずらレベルで動いてるから。",
+            "id": "Tinggi. \"Mau jadi nomor satu di kompetisi apapun yang dia ikuti\" — sakit banget kalau dapat hasil selain juara satu, nggak berhenti skema demi kemenangan, pegang jabatan presiden klub bahkan waktu anggota yang lebih capable masuk, Enneagram 3 achievement-drive sesuai konsensus fans. Aturannya di sini adalah M ngukur keinginannya, bukan eksekusinya — dan keinginan Kasumi itu konsisten dan keras. Nggak maksimal karena scheming-nya kebanyakan di level mischief kecil, bukan empire-building skala Lanzhu."
+          }
+        },
+        "O": {
+          "score": 5,
+          "reason": {
+            "en": "Solid resilience. Kept the club alive as the sole remaining member when Setsuna disbanded it, bounces back from constantly failing schemes without losing momentum, stays hopeful through setbacks, and is \"creative and optimistic enough to see the opportunity when most have lost their hope.\" The bully-history and Kasukasu-wound exist but don't collapse her — she redirects them into drive. There's a genuine hurt undercurrent visible underneath, but it doesn't win.",
+            "ja": "しっかりとした回復力。せつ菜が廃部にしたとき、唯一の残留メンバーとして部を存続させた。失敗続きの策から立ち直ってもモメンタムを失わず、逆境でも希望を保ち、「ほとんどの人が希望を失ったときにチャンスを見出せるくらい創造的で楽観的」。いじめの過去と「かすかす」の傷は存在するけど、彼女を崩壊させない——その痛みをエネルギーへ方向転換する。本物の傷のアンダートーンが見え隠れするけど、それが勝つことはない。",
+            "id": "Ketahanan yang solid. Dia pertahankan klub tetap hidup waktu jadi satu-satunya anggota tersisa setelah Setsuna bubarkan, balik lagi dari rencana-rencana yang terus gagal tanpa kehilangan momentum, tetap bersemangat melewati kemunduran, dan \"cukup kreatif dan optimis untuk melihat kesempatan waktu kebanyakan orang udah kehilangan harapan\". Sejarah di-bully dan luka Kasukasu itu nyata tapi nggak bikin dia runtuh — dia redirect jadi bahan bakar. Ada undercurrent luka yang nyata keliatan di baliknya, tapi nggak pernah menang."
+          }
+        },
+        "A": {
+          "score": 4,
+          "reason": {
+            "en": "Moderately high empathy under a self-centered surface. When it counts: rallies the group when Ayumu is nervous before a live, exchanges genuine Christmas gifts, and the Shizuku intervention is pure caring — going far out of her comfort zone, dropping Kasumin to use \"watashi,\" showing up with her real self. But baseline is \"slightly self-centered and mischievous,\" she schemes against rivals habitually, and the sore-loser reaction is real. Warm under the selfishness layer — net positive but tempered.",
+            "ja": "利己的な表面の下にそこそこ高い共感力がある。大事なときは：あゆむがライブ前に緊張してるときグループの士気を上げ、本物のクリスマスプレゼントを交換し、シズクへの働きかけは純粋なケア——快適ゾーンを大きく外れ、かすみんを脱いで「わたし」を使い、本当の自分で向き合う。でもベースは「やや利己的でいたずら好き」で、ライバルへの策略は習慣的、負け惜しみ反応も本物。利己性の層の下は温かい——総じてポジティブだけど控えめ。",
+            "id": "Empati yang lumayan tinggi di balik permukaan yang egois. Waktu yang penting: ngangkat semangat grup waktu Ayumu gugup sebelum live, tukar kado Natal yang tulus, dan intervensi ke Shizuku itu adalah kepedulian murni — jauh keluar dari comfort zone-nya, lepas Kasumin dan pakai \"watashi\", hadir dengan dirinya yang asli. Tapi baseline-nya \"sedikit egois dan nakal\", scheming ke rival itu kebiasaan, dan reaksi sore loser-nya nyata. Hangat di bawah lapisan keegoisan — net positif tapi tetap proporsional."
+          }
+        },
+        "U": {
+          "score": 4,
+          "reason": {
+            "en": "Notably distinctive. Third-person self-branding as \"Kasumin,\" star hairpin, idol obsession beyond any other member's level, the \"black-hearted type\" (腹黒系) archetype placement, the scheming-as-lifestyle, the Kasukasu mythology tied to a specific backstory, hate-mail-to-rivals that \"naturally becomes normal fanmail,\" and the life-size-panel-of-herself-as-Christmas-decoration idea. The constructed cute-girl mask over a hurt core is itself a distinctive internal architecture. Tempered slightly because the core archetype — cute-obsessed ambitious idol — is a known template (the Nico comparison is common).",
+            "ja": "かなり個性的。「かすみん」という三人称セルフブランディング、星型ヘアピン、他のどのメンバーも超えるアイドル執念、「腹黒系スクールアイドル」というアーキタイプ、ライフスタイルとしての策略、固有のバックストーリーを持つ「かすかす」神話、「自然と普通のファンレターになる」ライバルへの嫌がらせ手紙、自分の等身大パネルをクリスマスデコにするアイデア。傷を持つコアの上に乗った構築されたかわいい子キャラは、それ自体が独特な内的構造。「かわいさ執着の野心的アイドル」というコアのアーキタイプは既知のテンプレートなので（にこ比較は一般的）、やや控えめ。",
+            "id": "Sangat khas. Self-branding dengan nama orang ketiga \"Kasumin\", jepit rambut berbentuk bintang, obsesi ke idola yang melebihi anggota lain manapun, penempatan arketipe \"black-hearted type\" (腹黒系), skema sebagai gaya hidup, mitologi Kasukasu yang terikat ke backstory spesifik, surat benci ke rival yang \"alami berubah jadi fanmail biasa\", dan ide panel seukuran diri sendiri sebagai dekorasi Natal. Topeng cute girl yang dibangun di atas inti yang terluka itu sendiri adalah arsitektur internal yang khas. Sedikit dikurangi karena arketipe intinya — idol ambisius yang obsesi sama kecantikan — sudah jadi template yang dikenal (perbandingan dengan Nico itu umum)."
+          }
+        },
+        "N": {
+          "score": 3,
+          "reason": {
+            "en": "Moderate Ne. Plan-generation and possibility-cascading is her core cognitive activity — endless scheme variants, \"never runs out of solutions for any problem,\" quick creative idea-generation, the \"Kasumi box\" inventions, the scare-senpais plans. Tempered by focus on concrete immediate goals (be cute NOW, be #1 NOW) and Si-grounded specifics (memorizes voter names, detailed venue-decoration planning). Net moderate N — Ne is clearly visible, but not as dominant as in more abstract-thinker ENFPs.",
+            "ja": "適度なNe。計画生成と可能性の連鎖が彼女の核の認知活動——止まらない策のバリエーション、「どんな問題でも解決策が尽きない」、素早いクリエイティブなアイデア生成、「かすみんボックス」の発明、スーパーこわいセンパイ計画。具体的な直近の目標（今すぐかわいく、今すぐ一位）とSi的な細部（投票者の名前を暗記、会場デコの細かい計画）へのフォーカスで抑えられてる。総じて適度なN——Neははっきり見えてるけど、より抽象的思考型のENFPほどドミナントじゃない。",
+            "id": "Ne yang moderat. Generate rencana dan kaskade kemungkinan itu aktivitas kognitif intinya — varian skema yang nggak ada habisnya, \"nggak pernah kehabisan solusi untuk masalah apapun\", generate ide kreatif dengan cepat, temuan \"Kasumi box\", rencana nakut-nakutin senpai. Dikurangi oleh fokus ke tujuan konkret dan langsung (jadi cute SEKARANG, jadi #1 SEKARANG) dan spesifik yang berakar di Si (hafal nama-nama pemilih, perencanaan detail dekorasi tempat). Net-nya N yang moderat — Ne jelas keliatan, tapi nggak sedominan ENFP tipe pemikir abstrak."
+          }
+        }
+      }
+    }
+  }
+}
