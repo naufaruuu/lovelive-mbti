@@ -1,8 +1,8 @@
 window.T = {
   en: {
-    appTitle: 'Nijigasaki Gakuen',
+    appTitle: 'Love Live!',
     appSubtitle: '8D Personality + MBTI Profiler',
-    appDesc: 'An 8D analysis model based on MBTI and Idol traits. Find your soulmate in Nijigasaki. Character personalities and MBTI scores are analyzed by Claude Opus 4.7 — may contain inaccurate results, take it for fun!',
+    appDesc: 'An 8D analysis model based on MBTI and Idol traits. Find your soulmate across Love Live! groups. Character personalities and MBTI scores are analyzed by Claude Opus 4.7 — may contain inaccurate results, take it for fun!',
     startBtn: 'Start Profiling',
     profiling: 'PROFILING',
     bestMatch: 'YOUR BEST SOUL RESONANCE MATCH',
@@ -25,15 +25,19 @@ window.T = {
     readmeCopyright: 'Copyright:',
     readmeCopyrightText: 'Assets belong to Bandai Namco Entertainment Inc.',
     readmeBtn: 'Understood',
+    groupsTitle: 'Select Groups',
+    groupNijigasaki: 'Nijigasaki',
+    groupHasunosora: 'Hasunosora',
+    groupsBtn: 'Done',
     options: ['Strongly Agree', 'Agree', 'Neutral', 'Disagree', 'Strongly Disagree'],
     dims: ['Extrovert', 'Judging', 'Logic', 'Confidence', 'Ambition', 'Composure', 'Empathy', 'Unique', 'Intuition'],
     yourMbti: 'Your MBTI Type',
     mbtiMatch: 'MBTI'
   },
   id: {
-    appTitle: 'Nijigasaki Gakuen',
+    appTitle: 'Love Live!',
     appSubtitle: 'Tes Kepribadian 8 Dimensi + MBTI',
-    appDesc: 'Model analisis 8 dimensi berdasarkan MBTI dan karakter idol. Temukan partner yang paling nyambung sama kamu di Nijigasaki. Kepribadian dan skor MBTI karakter dianalisis oleh Claude Opus 4.7 — hasilnya mungkin nggak 100% akurat, anggap aja buat seru-seruan!',
+    appDesc: 'Model analisis 8 dimensi berdasarkan MBTI dan karakter idol. Temukan partner yang paling nyambung sama kamu di semua grup Love Live!. Kepribadian dan skor MBTI karakter dianalisis oleh Claude Opus 4.7 — hasilnya mungkin nggak 100% akurat, anggap aja buat seru-seruan!',
 
     startBtn: 'Mulai Tes',
     profiling: 'PROFILING',
@@ -57,13 +61,17 @@ window.T = {
     readmeCopyright: 'Hak Cipta:',
     readmeCopyrightText: 'Aset dan karakter milik Bandai Namco Entertainment Inc.',
     readmeBtn: 'Oke, Ngerti',
+    groupsTitle: 'Pilih Grup',
+    groupNijigasaki: 'Nijigasaki',
+    groupHasunosora: 'Hasunosora',
+    groupsBtn: 'Selesai',
     options: ['Sangat Setuju', 'Setuju', 'Biasa Aja', 'Nggak Setuju', 'Sangat Nggak Setuju'],
     dims: ['Ekstrovert', 'Terencana', 'Logis', 'Percaya Diri', 'Ambisi', 'Santai', 'Empati', 'Unik', 'Intuisi'],
     yourMbti: 'Tipe MBTI Kamu',
     mbtiMatch: 'MBTI'
   },
   ja: {
-    appTitle: '初星学園',
+    appTitle: 'Love Live!',
     appSubtitle: '8次元深層性格＋MBTI診断',
     appDesc: 'MBTIとアイドル特質に基づく8次元分析モデル。魂の波長が最も近いパートナーを見つけます。キャラクターの性格とMBTIスコアはClaude Opus 4.7によって分析されています。結果が正確でない場合もあるので、楽しみながら試してください！',
 
@@ -89,6 +97,10 @@ window.T = {
     readmeCopyright: '著作権：',
     readmeCopyrightText: '画像素材の著作権はバンダイナムコエンターテインメントに帰属します。',
     readmeBtn: '了承しました',
+    groupsTitle: 'グループ選択',
+    groupNijigasaki: '虹ヶ咲',
+    groupHasunosora: '蓮ノ空',
+    groupsBtn: '完了',
     options: ['強く同意', '同意', 'どちらでもない', '反対', '強く反対'],
     dims: ['外向性', '計画性', '合理性', '自信', '向上心', 'おおらか', '共感力', '独自性', '直感'],
     yourMbti: 'あなたのMBTIタイプ',

@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="referrer" content="no-referrer">
     
-    <title>Nijigasaki Gakuen 8D Personality Profiler</title>
+    <title>Love Live! 8D Personality Profiler</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <script>
         tailwind.config = {
@@ -27,10 +27,12 @@
     <div id="root"></div>
 
     <script src="data/locales.js"></script>
+    <script src="data/nijigasaki.js"></script>
+    <script src="data/hasunosora.js"></script>
     <script src="data/characters.js"></script>
     <script src="data/questions.js"></script>
     <script type="text/babel">
-const { React, T, CHARACTERS, QUESTIONS, OPTION_VALUES } = window;
+const { React, T, GROUPS, CHARACTERS, QUESTIONS, OPTION_VALUES } = window;
 const { useState, useMemo, useEffect } = React;
 
 const Icon = ({ name, size = 24, className = '', fill = 'none' }) => {
@@ -40,6 +42,7 @@ const Icon = ({ name, size = 24, className = '', fill = 'none' }) => {
     };
     switch (name) {
         case 'star': return <svg {...svgProps}><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2" /></svg>;
+        case 'star-filled': return <svg {...svgProps} fill="currentColor" stroke="none"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2" /></svg>;
         case 'rainbow': return <svg {...svgProps} fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round"><path d="M2 17a10 10 0 0 1 20 0" /><path d="M5 17a7 7 0 0 1 14 0" /><path d="M8 17a4 4 0 0 1 8 0" /></svg>;
         case 'arrow-right': return <svg {...svgProps}><line x1="5" y1="12" x2="19" y2="12" /><polyline points="12 5 19 12 12 19" /></svg>;
         case 'chevron-left': return <svg {...svgProps}><polyline points="15 18 9 12 15 6" /></svg>;
@@ -161,7 +164,7 @@ const ExportCards = ({ top3, userMbti, lang, userTraits }) => {
           <RankBadge rank={rank} />
           <div>
             <h4 className={`text-xl font-bold ${char.text}`}>{char.name[lang]}</h4>
-            {char.mbti && <span className={`inline-block text-sm font-black tracking-wider px-2 py-0.5 rounded-full border mt-0.5 ${char.border} ${char.bgLight} ${char.text}`}>{char.mbti}</span>}
+            {char.mbti && <span className={`inline-block text-sm font-black tracking-wider px-2 py-0.5 rounded-full border mt-0.5 ${char.border} ${char.bgLight} ${char.text}`}>{char.mbti.type}</span>}
             <div className="mt-1">
               <span className="text-sm font-bold text-slate-500 bg-slate-50 px-2 py-0.5 rounded-full">{T[lang].matchRate} {char.matchRate}%</span>
             </div>
@@ -172,7 +175,7 @@ const ExportCards = ({ top3, userMbti, lang, userTraits }) => {
         </div>
       </div>
       <div className="flex-1 flex flex-col items-center justify-center -mt-2">
-         <RadarChart userTraits={userTraits} charTraits={char.traits} charColorClass={char.text} size={220} lang={lang} isDark={false} />
+         <RadarChart userTraits={userTraits} charTraits={char._traitScores} charColorClass={char.text} size={220} lang={lang} isDark={false} />
       </div>
     </div>
   );
@@ -231,6 +234,8 @@ function App() {
   const [lang, setLang] = useState('en');
   const [isDark, setIsDark] = useState(false);
   const [isExporting, setIsExporting] = useState(false);
+  const [selectedGroups, setSelectedGroups] = useState({ nijigasaki: true, hasunosora: true });
+  const [showGroups, setShowGroups] = useState(false);
 
   useEffect(() => {
     if (isDark) document.documentElement.classList.add('dark');
@@ -238,6 +243,18 @@ function App() {
   }, [isDark]);
 
   const quizQuestions = useMemo(() => QUESTIONS, []);
+  const visibleMatchList = useMemo(
+    () => matchList.filter(c => selectedGroups[c.group]),
+    [matchList, selectedGroups]
+  );
+
+  const toggleGroup = (group) => {
+    setSelectedGroups(prev => {
+      const next = { ...prev, [group]: !prev[group] };
+      const anyOn = Object.values(next).some(Boolean);
+      return anyOn ? next : prev;
+    });
+  };
 
   const handleStart = () => {
     setAppState('quiz');
@@ -262,7 +279,7 @@ function App() {
       const image = canvas.toDataURL("image/png");
       const link = document.createElement('a');
       link.href = image;
-      link.download = `nijigasaki-mbti-${format.replace(':', 'x')}.png`;
+      link.download = `lovelive-mbti-${format.replace(':', 'x')}.png`;
       link.click();
     } catch (err) {
       console.error('Export failed:', err);
@@ -315,10 +332,12 @@ function App() {
     const isUserDominantPositive = boostedScores[userDominant] > 0;
 
     let rawCharScores = CHARACTERS.map(char => {
+      const charTraitScores = {};
+      dims.forEach(d => { charTraitScores[d] = char.mbti.traits[d].score; });
       let dot = 0, uNorm = 0, cNorm = 0, sumSquares = 0;
       dims.forEach(d => {
         const uVal = boostedScores[d];
-        const cVal = char.traits[d];
+        const cVal = charTraitScores[d];
         dot += uVal * cVal;
         uNorm += uVal * uVal;
         cNorm += cVal * cVal;
@@ -332,12 +351,12 @@ function App() {
       const euclideanSim = Math.exp(-(dist * dist) / 400); 
 
       let synergyBonus = 0;
-      const charDominantVal = char.traits[userDominant];
-      if (isUserDominantPositive && charDominantVal > 0) synergyBonus = (charDominantVal / 10) * 5; 
-      else if (!isUserDominantPositive && charDominantVal < 0) synergyBonus = (Math.abs(charDominantVal) / 10) * 5; 
+      const charDominantVal = charTraitScores[userDominant];
+      if (isUserDominantPositive && charDominantVal > 0) synergyBonus = (charDominantVal / 10) * 5;
+      else if (!isUserDominantPositive && charDominantVal < 0) synergyBonus = (Math.abs(charDominantVal) / 10) * 5;
 
       let finalRate = (cosineSim * 80) + (euclideanSim * 20) + synergyBonus;
-      return { ...char, distance: dist, rawRate: finalRate };
+      return { ...char, _traitScores: charTraitScores, distance: dist, rawRate: finalRate };
     });
 
     let maxRaw = Math.max(...rawCharScores.map(s => s.rawRate));
@@ -390,10 +409,54 @@ function App() {
     );
   };
 
+  const GroupModal = () => {
+    if (!showGroups) return null;
+    const groups = [
+      { key: 'nijigasaki', label: T[lang].groupNijigasaki },
+      { key: 'hasunosora', label: T[lang].groupHasunosora },
+    ];
+    return (
+      <div className="fixed inset-0 z-50 flex items-center justify-center p-4 bg-slate-900/40 dark:bg-black/60 backdrop-blur-sm">
+        <div className="bg-white dark:bg-slate-800 w-full max-w-xs rounded-3xl shadow-2xl overflow-hidden relative animate-in fade-in zoom-in duration-200">
+          <button onClick={() => setShowGroups(false)} className="absolute top-4 right-4 p-2 text-slate-400 dark:text-slate-500 hover:bg-slate-100 dark:hover:bg-slate-700 rounded-full transition-colors">
+            <Icon name="x" size={20} />
+          </button>
+          <div className="p-8">
+            <div className="flex items-center gap-3 mb-6 border-b border-slate-100 dark:border-slate-700 pb-4">
+              <div className="bg-yellow-100 dark:bg-yellow-900/50 p-2 rounded-xl text-yellow-500"><Icon name="star-filled" size={24} /></div>
+              <h2 className="text-xl font-bold text-slate-800 dark:text-slate-100">{T[lang].groupsTitle}</h2>
+            </div>
+            <div className="space-y-3">
+              {groups.map(({ key, label }) => {
+                const isOn = selectedGroups[key];
+                const isLast = isOn && Object.values(selectedGroups).filter(Boolean).length === 1;
+                return (
+                  <button key={key} onClick={() => toggleGroup(key)} disabled={isLast}
+                    className={`w-full py-4 px-5 rounded-2xl font-bold text-left flex items-center justify-between transition-all ${isOn ? 'bg-slate-900 dark:bg-slate-100 text-white dark:text-slate-900' : 'bg-slate-100 dark:bg-slate-700 text-slate-500 dark:text-slate-400'} ${isLast ? 'opacity-50 cursor-not-allowed' : 'active:scale-95'}`}>
+                    <span>{label}</span>
+                    <span className={`w-5 h-5 rounded-full border-2 flex items-center justify-center ${isOn ? 'border-white dark:border-slate-900 bg-white dark:bg-slate-900' : 'border-slate-400 dark:border-slate-500'}`}>
+                      {isOn && <span className="w-2.5 h-2.5 rounded-full bg-slate-900 dark:bg-slate-100"></span>}
+                    </span>
+                  </button>
+                );
+              })}
+            </div>
+            <button onClick={() => setShowGroups(false)} className="w-full mt-6 py-3 bg-slate-100 dark:bg-slate-700 hover:bg-slate-200 dark:hover:bg-slate-600 text-slate-700 dark:text-slate-200 font-bold rounded-xl transition-colors">
+              {T[lang].groupsBtn}
+            </button>
+          </div>
+        </div>
+      </div>
+    );
+  };
+
   const TopLeftControls = () => (
     <div className="w-full flex flex-row justify-start gap-2 shrink-0 z-10">
       <button onClick={() => setShowReadme(true)} className="bg-white/80 dark:bg-slate-800/80 backdrop-blur-md border border-slate-200 dark:border-slate-700 text-slate-600 dark:text-slate-300 w-10 h-10 md:w-auto md:h-auto md:px-4 md:py-2 rounded-full text-sm font-bold shadow-sm hover:shadow hover:bg-white dark:hover:bg-slate-700 hover:text-orange-500 transition-all flex items-center justify-center gap-2">
         <Icon name="info" size={16} /> <span className="hidden md:inline">Readme</span>
+      </button>
+      <button onClick={() => setShowGroups(true)} className="bg-white/80 dark:bg-slate-800/80 backdrop-blur-md border border-slate-200 dark:border-slate-700 text-slate-600 dark:text-slate-300 w-10 h-10 md:w-auto md:h-auto md:px-4 md:py-2 rounded-full text-sm font-bold shadow-sm hover:shadow hover:bg-white dark:hover:bg-slate-700 hover:text-yellow-500 transition-all flex items-center justify-center gap-2">
+        <Icon name="star-filled" size={16} /> <span className="hidden md:inline">{Object.entries(selectedGroups).filter(([,v])=>v).length < 2 ? (selectedGroups.nijigasaki ? T[lang].groupNijigasaki : T[lang].groupHasunosora) : 'Groups'}</span>
       </button>
       <button onClick={toggleLang} className="bg-white/80 dark:bg-slate-800/80 backdrop-blur-md border border-slate-200 dark:border-slate-700 text-slate-600 dark:text-slate-300 w-10 h-10 md:w-auto md:h-auto md:px-4 md:py-2 rounded-full text-sm font-bold shadow-sm hover:shadow hover:bg-white dark:hover:bg-slate-700 hover:text-orange-500 transition-all flex items-center justify-center gap-2 uppercase">
         <span className="text-lg leading-none">{lang === 'en' ? '🇬🇧' : lang === 'id' ? '🇮🇩' : '🇯🇵'}</span> <span className="hidden md:inline">{lang}</span>
@@ -419,6 +482,7 @@ function App() {
       <div className="min-h-screen bg-gradient-to-br from-slate-100 to-slate-200 dark:from-slate-900 dark:to-slate-800 flex flex-col items-center justify-center p-4 text-slate-800 dark:text-slate-100 font-sans transition-colors duration-300">
         <TopLeftControls />
         <ReadmeModal />
+        <GroupModal />
         <div className="w-full mb-auto"></div>
         <div className="max-w-lg w-full bg-white dark:bg-slate-800 rounded-[2.5rem] shadow-2xl p-10 text-center relative overflow-hidden border border-white/50 dark:border-slate-700 backdrop-blur-sm">
           <div className="absolute -top-10 -right-10 md:-top-16 md:-right-16 w-48 h-48 md:w-64 md:h-64 opacity-20 dark:opacity-10 rotate-12 z-0 pointer-events-none">
@@ -449,6 +513,7 @@ function App() {
       <div className="min-h-screen bg-slate-50 dark:bg-slate-900 flex flex-col items-center p-4 md:p-6 text-slate-800 dark:text-slate-100 font-sans selection:bg-orange-100 dark:selection:bg-orange-900/50 transition-colors duration-300">
         <TopLeftControls />
         <ReadmeModal />
+        <GroupModal />
         <div className="max-w-xl w-full mt-8 md:mt-10">
           <div className="flex justify-between items-center mb-6 px-2">
             <button onClick={handlePrev} disabled={currentQ === 0} className={`w-11 h-11 flex items-center justify-center rounded-full transition-all duration-200 shadow border ${currentQ === 0 ? 'bg-slate-100 dark:bg-slate-800/50 text-slate-300 dark:text-slate-600 border-transparent cursor-not-allowed' : 'bg-white dark:bg-slate-700 text-slate-800 dark:text-slate-100 border-slate-200 dark:border-slate-600 hover:bg-slate-50 dark:hover:bg-slate-600 hover:shadow-md hover:text-orange-500 active:scale-95'}`}>
@@ -487,12 +552,13 @@ function App() {
   }
 
   if (appState === 'result' && matchList.length > 0) {
-    const topChar = matchList[0];
-    const top3 = matchList.slice(0, 3);
+    const topChar = visibleMatchList[0] || matchList[0];
+    const top3 = visibleMatchList.slice(0, 3);
     return (
       <div className="min-h-screen bg-slate-100 dark:bg-slate-900 flex flex-col items-center justify-center p-4 md:p-6 font-sans overflow-x-hidden relative transition-colors duration-300">
         <TopLeftControls />
         <ReadmeModal />
+        <GroupModal />
         <div className="w-full mb-auto"></div>
         <div className="max-w-xl w-full bg-white dark:bg-slate-800 rounded-[2.5rem] shadow-2xl overflow-hidden border border-slate-200 dark:border-slate-700">
           <div className={`pt-12 pb-24 px-6 text-center ${topChar.bgLight} dark:bg-opacity-10 relative border-b border-white/50 dark:border-slate-700`}>
@@ -517,7 +583,7 @@ function App() {
                 <div className="text-slate-300 dark:text-slate-600 text-2xl font-thin">↔</div>
                 <div className="flex flex-col items-center gap-1">
                   <span className="text-xs font-bold text-slate-400 dark:text-slate-500 uppercase tracking-widest">{T[lang].mbtiMatch}</span>
-                  <span className={`text-2xl font-black tracking-widest px-5 py-2 rounded-xl border ${topChar.border} ${topChar.bgLight} ${topChar.text}`}>{topChar.mbti}</span>
+                  <span className={`text-2xl font-black tracking-widest px-5 py-2 rounded-xl border ${topChar.border} ${topChar.bgLight} ${topChar.text}`}>{topChar.mbti.type}</span>
                 </div>
               </div>
             )}
@@ -532,7 +598,7 @@ function App() {
                         <RankBadge rank={index + 1} />
                         <div className="text-left">
                           <h4 className={`text-lg font-bold ${char.text}`}>{char.name[lang]}</h4>
-                          {char.mbti && <span className={`inline-block text-xs font-black tracking-wider px-2 py-0.5 rounded-full border mt-0.5 ${char.border} ${char.bgLight} ${char.text}`}>{char.mbti}</span>}
+                          {char.mbti && <span className={`inline-block text-xs font-black tracking-wider px-2 py-0.5 rounded-full border mt-0.5 ${char.border} ${char.bgLight} ${char.text}`}>{char.mbti.type}</span>}
                           <div className="mt-0.5">
                             <span className="text-xs font-bold text-slate-500 dark:text-slate-400 bg-slate-100 dark:bg-slate-900/50 px-2 py-0.5 rounded-full">{T[lang].matchRate} {char.matchRate}%</span>
                           </div>
@@ -546,7 +612,7 @@ function App() {
                       <div className="flex items-center gap-1"><span className="w-2.5 h-2.5 border border-slate-400 dark:border-slate-600 border-dashed bg-slate-200 dark:bg-slate-700 opacity-50"></span> {T[lang].you}</div>
                       <div className="flex items-center gap-1"><span className={`w-2.5 h-2.5 border ${char.border} ${char.color} opacity-50`}></span> {char.name[lang]}</div>
                     </div>
-                    <RadarChart userTraits={userTraits} charTraits={char.traits} charColorClass={char.text} size={250} lang={lang} isDark={isDark} />
+                    <RadarChart userTraits={userTraits} charTraits={char._traitScores} charColorClass={char.text} size={250} lang={lang} isDark={isDark} />
                   </div>
                 ))}
               </div>
@@ -580,6 +646,7 @@ function App() {
       <div className="min-h-screen bg-slate-100 dark:bg-slate-900 flex flex-col items-center p-4 md:p-6 font-sans transition-colors duration-300">
         <TopLeftControls />
         <ReadmeModal />
+        <GroupModal />
         <div className="max-w-2xl w-full mt-4">
           <div className="flex items-center mb-6">
             <button onClick={() => { setAppState('result'); window.scrollTo(0,0); }} className="w-11 h-11 flex items-center justify-center rounded-full transition-all duration-200 shadow border bg-white dark:bg-slate-700 text-slate-800 dark:text-slate-100 border-slate-200 dark:border-slate-600 hover:bg-slate-50 dark:hover:bg-slate-600 hover:shadow-md hover:text-orange-500 active:scale-95 mr-4 shrink-0">
@@ -591,7 +658,7 @@ function App() {
             </div>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
-            {matchList.map((char, index) => (
+            {visibleMatchList.map((char, index) => (
               <div key={char.id} className="bg-white dark:bg-slate-800 rounded-[2rem] p-5 shadow-sm border border-slate-200 dark:border-slate-700 flex flex-col relative overflow-hidden">
                 <div className={`absolute top-0 left-0 w-full h-1.5 ${char.color}`}></div>
                 <div className="flex items-center justify-between mb-2 mt-1">
@@ -599,7 +666,7 @@ function App() {
                     <span className="text-slate-300 dark:text-slate-600 font-black text-xl w-6 text-center">#{index + 1}</span>
                     <div>
                       <h4 className={`text-lg font-bold ${char.text}`}>{char.name[lang]}</h4>
-                      {char.mbti && <span className={`inline-block text-xs font-black tracking-wider px-2 py-0.5 rounded-full border mt-0.5 ${char.border} ${char.bgLight} ${char.text}`}>{char.mbti}</span>}
+                      {char.mbti && <span className={`inline-block text-xs font-black tracking-wider px-2 py-0.5 rounded-full border mt-0.5 ${char.border} ${char.bgLight} ${char.text}`}>{char.mbti.type}</span>}
                       <div className="mt-0.5">
                         <span className="text-xs font-bold text-slate-500 dark:text-slate-400">{T[lang].matchRate} {char.matchRate}%</span>
                       </div>
@@ -615,7 +682,7 @@ function App() {
                   </div>
                 )}
                 <div className="flex-1 flex flex-col items-center justify-center -mt-2">
-                   <RadarChart userTraits={userTraits} charTraits={char.traits} charColorClass={char.text} size={220} lang={lang} isDark={isDark} />
+                   <RadarChart userTraits={userTraits} charTraits={char._traitScores} charColorClass={char.text} size={220} lang={lang} isDark={isDark} />
                 </div>
               </div>
             ))}
