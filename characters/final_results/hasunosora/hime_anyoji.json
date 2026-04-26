@@ -1,0 +1,97 @@
+{
+  "hime_anyoji": {
+    "color": "#9d8de2",
+    "name": {
+      "en": "Hime Anyoji",
+      "ja": "安養寺姫芽",
+      "id": "Hime Anyoji"
+    },
+    "desc": {
+      "en": "Hime got into Hasunosora purely on her esports merits — she's a competitive FPS player who streams under 'Tsumayouji' and won a student tournament in middle school. She joined the school idol club as a devoted Mira-Cra Park! fan first, member second, and even after spending a full year in the same unit she still treats Megumi and Rurino like goddesses out of her league. Underneath the easygoing exterior is someone who competes with everything she has — she can't hold back even against beginners, because she won't betray something worth doing by doing it halfway. Her big realization: what she loves most isn't gaming or performing — it's the 'multiplayer match' feeling of connecting with another person through both.",
+      "ja": "姫芽はeスポーツ一芸で蓮ノ空に入学した本物のゲーマーで、「ツマヨウ寺」名義で実況配信をし、中学時代には学生大会で優勝した経歴も持っています。school idol clubに入ったきっかけは、メンバーとしてというよりもみらくらぱーく！の熱狂的なファンとして——同じユニットで1年間過ごした今も、恵とるりのを雲の上の存在として崇めているところがある。普段はのんびりとした話し方をしているけど、一度スイッチが入ったら本気で止まらない。初心者相手でも手を抜けないのは、本気でやる価値があることに、手を抜くことで裏切りたくないという信念から。彼女がたどり着いた答えは、自分が本当に好きなのはゲームでもアイドル活動でもなく、その両方を通じて「誰かと繋がる」こと——まさに人生最大の「マルチプレイマッチ」。",
+      "id": "Hime masuk Hasunosora murni lewat jalur esports — dia pemain FPS kompetitif yang streaming dengan nama 'Tsumayouji' dan pernah menang turnamen pelajar waktu SMP. Dia gabung ke school idol club lebih dulu sebagai fans garis keras Mira-Cra Park!, baru kemudian sebagai member, dan bahkan setelah satu tahun di unit yang sama dia masih nganggep Megumi dan Rurino kayak dewi yang jauh di atas jangkauannya. Di balik tampilan santainya tersimpan seseorang yang bertanding dengan sepenuh hati — dia nggak bisa menahan diri bahkan melawan pemula, karena menurutnya melakukan sesuatu yang punya nilai dengan setengah-setengah itu pengkhianatan. Dan hal terbesar yang dia sadari: yang paling dia cintai bukan gaming atau jadi school idol, tapi rasa \"multiplayer match\" — terhubung dengan orang lain lewat keduanya."
+    },
+    "mbti": {
+      "type": "ENFP",
+      "reason": {
+        "en": "ENFP — a dissenting call from the fan majority who split ENTP/ENFJ, but Reddit data makes the Fi-Ne case hard to ignore. Her pink aesthetic isn't passive; it's a deliberate, values-driven self-authorship (nails, hoodie, strawberry milk purely for the pink). Her devotion to Megumi — 'prayed to her as an actual goddess,' considers RuriMegu 'out of her league even in the same unit' — is classic Fi placing irreplaceable value on specific people, not ENTP's more detached playfulness. She fell for an obvious pigeon trap because she was obsessively chasing a Megumi acrylic stand: Ne-enthusiasm driven by Fi-attachment, not Ti-reasoning. Her practice philosophy is 'put in the time' and she genuinely embraces repetition — ENTPs burn out on that, Hime leans into it as a Fi-commitment. Her key breakthrough — 'what I truly love is enjoying something together with someone else' — is Fi value-articulation through introspection, not pattern-detection. She knows everyone's weaknesses but stays silent because Fi-care overrides Ne-observation. Hasunosora actually has two ENFPs in Kaho and Hime, just expressed differently: Kaho is the sunshine metaphor-generator ENFP; Hime is the intense fan-competitor ENFP. Same Fi-Ne-Te-Si stack, completely different domain.",
+        "ja": "ENFP——ファン多数派（ENTP vs ENFJ で分裂）に反する判定だが、Reddit のデータが Fi-Ne の論拠を強く支持している。ピンクへのこだわりは受動的なものではない——ネイル、パーカー、ストロベリーミルクにまで及ぶ意図的な価値観による自己表現。恵への熱烈な崇拝——「実際の女神のように祈った」「同じユニットにいるのに雲の上の存在」——は、特定の人への代替不可能な価値付けという Fi そのもので、ENTP のもっとドライな遊び心とは別物。はとに仕掛けられた罠にひっかかったのも、恵のアクリルスタンドへの執着から来るもの——Ti の推論ではなく、Fi-愛着に駆られた Ne の衝動。「時間をかけてこなす」という練習哲学も、繰り返しを厭わない姿勢も、ENTP が苦手なものを Fi コミットメントとして受け入れている証拠。最大の気づき——「本当に好きなのは、誰かと一緒に何かを楽しむこと」——は内省を通じた Fi の価値観表明であって、パターン検出じゃない。全員の弱点を把握しても沈黙を選ぶのは、Fi の気遣いが Ne の観察を上回っているから。蓮ノ空には実は ENFP が二人いて、加穂と姫芽がそれに当たる——表れ方はまるで違うけど。加穂は太陽みたいな比喩を連発する ENFP で、姫芽は強烈なファン気質の競争者 ENFP。スタックは同じ Fi-Ne-Te-Si、領域は全然違う。",
+        "id": "ENFP — berbeda dari mayoritas fan yang terpecah antara ENTP dan ENFJ, tapi data Reddit bikin kasus Fi-Ne susah diabaikan. Estetika pink-nya bukan kebetulan; itu ekspresi diri yang disengaja dan berbasis nilai (kuku, hoodie, strawberry milk semata-mata demi warna pink). Devosinya ke Megumi — 'mendoakannya seperti dewi beneran', menganggap RuriMegu 'berada di luar jangkauannya bahkan di unit yang sama' — itu Fi klasik yang menaruh nilai tak tergantikan pada orang tertentu, bukan ENTP yang lebih detached. Dia kejebak jebakan merpati yang jelas-jelas obvious karena terobsesi ngejar acrylic stand Megumi: dorongan Ne yang dibakar Fi-attachment, bukan reasoning Ti. Filosofi latihannya adalah 'luangkan waktunya' dan dia beneran embrace pengulangan — ENTP cepat bosen soal itu, Hime menjalaninya sebagai komitmen Fi. Breakthrough-nya yang paling penting — 'yang aku cintai sebenarnya adalah menikmati sesuatu bersama orang lain' — itu artikulasi nilai Fi lewat introspeksi, bukan deteksi pola. Dia tahu kelemahan semua orang tapi memilih diam karena kepedulian Fi-nya mengalahkan observasi Ne. Hasunosora sebetulnya punya dua ENFP: Kaho dan Hime, tapi ekspresinya beda banget. Kaho adalah ENFP generator metafora sunshine; Hime adalah ENFP yang kompetitif dan intens sebagai fans. Stack Fi-Ne-Te-Si-nya sama, domainnya beda total."
+      },
+      "traits": {
+        "E": {
+          "score": 4,
+          "reason": {
+            "en": "Moderate extroversion with a clear on/off quality. Her baseline is laid-back and calm — she's not consistently pushing social energy. But flip the switch and she's loud, passionate, and unstoppable in hype mode. The streamer background and being the most comfortable with livestreams among the 104th class members confirms a real outward orientation. It's more fluorescent-light-flicker than steady glow — similar energy to Kaho. Net moderate E.",
+            "ja": "オンオフのはっきりした適度な外向性。ベースラインはのんびり落ち着いた感じで、常にエネルギーを外に向けているわけじゃない。でもスイッチが入ると、声が大きくなって、熱量が溢れて、ハイプモードで止まらなくなる。配信の経験と、104期生の中でライブ配信が最も得意という事実が、本物の外向きな志向を裏付けている。安定した光というより蛍光灯みたいなちらつき感——加穂と似たエネルギー。総合：適度な E。",
+            "id": "Ekstroversi sedang dengan kualitas on/off yang jelas. Baseline-nya santai dan kalem — dia nggak terus-terusan mendorong energi sosial. Tapi begitu switch-nya nyala, dia jadi keras, penuh semangat, dan nggak terhentikan di hype mode. Latar belakang sebagai streamer dan status paling nyaman sama livestream di antara anak-anak 104th mengonfirmasi orientasi ke luar yang nyata. Lebih kayak lampu neon yang berkedip daripada cahaya yang stabil — energinya mirip Kaho. Hasilnya: E sedang."
+          }
+        },
+        "J": {
+          "score": -2,
+          "reason": {
+            "en": "P-leaning, though she has pockets of real structure. She deliberately maintains average grades and shows genuine daily training discipline — but that's learned Fi-commitment, not native J instinct. The P shows in her impulsiveness: she fell for an obvious pigeon trap while collecting Megumi acrylic stands, she sacrifices sleep for gaming, she leaves wall-of-text stream comments with no filter. The structure she has is domain-specific and driven by what she cares about, not a general planning orientation. Net moderate P.",
+            "ja": "P 寄りだが、きちんとした構造を持つ部分もある。成績を意図的に平均に保ち、日々のトレーニングに規律を見せる——でもこれは身につけた Fi コミットメントであって、生来の J 本能ではない。P の顔は衝動性に表れる：恵のアクリルスタンドを集めながら見え見えのはとの罠にはまる、ゲームのために睡眠を削る、フィルターなしの長大な配信コメントを書く。持っている構造はドメイン固有で、気にかけていることに駆られたもの。全体的な計画性の志向ではない。総合：適度な P。",
+            "id": "P-leaning, meski ada bagian-bagian di hidupnya yang beneran terstruktur. Dia sengaja menjaga nilai rata-rata dan disiplin latihan sehari-hari — tapi itu komitmen Fi yang dipelajari, bukan insting J asli. Sisi P-nya keliatan dari impulsivitasnya: dia kejebak jebakan merpati yang obvious saat ngejar acrylic stand Megumi, dia korbanin tidur buat gaming, dia nulis komentar stream panjang lebar tanpa filter. Struktur yang dia punya itu domain-spesifik, digerakkan oleh apa yang dia pedulikan, bukan orientasi perencanaan yang umum. Hasilnya: P sedang."
+          }
+        },
+        "T": {
+          "score": -3,
+          "reason": {
+            "en": "Stronger F than it first appears. The ENTP votes are probably responding to her competitive, tactical, systems-thinking gamer persona — but dig deeper and the cognition is Fi all the way. The pink aesthetic isn't decorative; it's identity authorship. The Megumi worship is devotional, not analytical. She models her own growth on RuriMegu's example of confronting dreams — Fi learning from role models rather than Ti reframing. Her surface-level tactical thinking is dressed-up Fi-commitment to something she deeply values. Solid F lean.",
+            "ja": "見かけより F が強い。ENTP 票はおそらく競争心のある戦術的なゲーマーの面に引っ張られているが、深く掘ると認知は Fi 一色。ピンクへのこだわりは装飾じゃなくて、アイデンティティの自己表明。恵への崇拝は分析的なものではなく、帰依に近い。自分の成長を「恵とるりのが夢をぶつけ合った例に倣う」という形でモデル化するのも、Ti によるリフレーミングではなく Fi のロールモデル学習。表面的な戦術思考は、深く価値を置いているものへの Fi コミットメントが形を変えたもの。しっかりした F 寄り。",
+            "id": "F-nya lebih kuat dari yang keliatan pertama kali. Suara-suara ENTP kemungkinan merespons persona gamer kompetitif dan taktis — tapi kalau digali lebih dalam, kognisinya Fi dari ujung ke ujung. Estetika pink bukan sekadar dekorasi; itu ekspresi identitas diri. Penyembahan terhadap Megumi itu devotional, bukan analitis. Dia memodelkan pertumbuhannya sendiri dari contoh RuriMegu yang saling membenturkan mimpi — Fi yang belajar dari role model, bukan reframing Ti. Cara pikir taktisnya di permukaan itu sebenarnya komitmen Fi yang tersamarkan. F yang solid."
+          }
+        },
+        "C": {
+          "score": 2,
+          "reason": {
+            "en": "Confident in her mastered domain, fragile in new interpersonal territory. She carries real authority as a gamer — tournament favorite, no self-deprecation about her skill. But the fragility is also real: she was 'utterly shocked' when RuriMegu visited her room and could barely offer tea, spiraled after a 10-game losing streak, felt crushed when Megumi called her play bad, and 'feared being seen as dead weight' in the club. Competence in one domain doesn't automatically transfer, and the gap is where her insecurity lives.",
+            "ja": "得意領域では自信があるが、新しい対人関係の場では脆さを見せる。ゲーマーとしての権威は本物——大会の優勝候補で、自分のスキルを卑下しない。でも脆さも本物：恵とるりのが部屋を訪ねてきたとき「呆然とした」、お茶も出せないほど緊張した、10連敗でスランプに陥った、恵に「下手くそ」と言われてダメージを受けた、クラブで「お荷物と思われたくない」という恐れも持っていた。一つの領域での有能さが自動的に別の場所に転移するわけではなく、そのギャップのなかに彼女の不安がある。",
+            "id": "Percaya diri di domain yang sudah dikuasai, tapi rapuh di situasi interpersonal baru. Dia punya otoritas nyata sebagai gamer — favorit turnamen, nggak ada rasa rendah diri soal kemampuannya. Tapi kerapuhannya juga nyata: dia 'benar-benar kaget' waktu RuriMegu mengunjungi kamarnya sampai hampir nggak bisa nawarin minum, spiral setelah kalah 10 kali berturut-turut, merasa hancur waktu Megumi bilang mainnya jelek, dan 'takut dianggap beban' di club. Kompeten di satu domain nggak otomatis kebawa ke mana-mana, dan di situlah insecure-nya tinggal."
+          }
+        },
+        "M": {
+          "score": 5,
+          "reason": {
+            "en": "Moderate-high ambition, expressed in concentrated bursts. She chose her school based on her passion, won a student tournament, trains obsessively when engaged, and has a real mission to 'spread her favorite game.' But the drive is domain-specific and activated by interest, not a constant background hum. When she's lit up, nothing stops her — when she's not, she's just laid-back. Mission-driven rather than broadly ambitious.",
+            "ja": "中〜高程度の野心を集中したバーストで表現する。情熱に基づいて進学先を選び、学生大会で優勝し、興が乗れば猛練習し、「好きなゲームを広めたい」という本物のミションを持っている。でも原動力はドメイン固有で、関心によって点火される——常に鳴り続けるエンジンではない。火がついたときは誰も止められないが、そうでないときはただのんびりしている。広範な野心というより、使命感に動かされるタイプ。",
+            "id": "Ambisi sedang-tinggi yang muncul dalam burst yang terkonsentrasi. Dia memilih sekolahnya berdasarkan passion, menang di turnamen pelajar, latihan secara obsesif kalau udah terlibat, dan punya misi nyata untuk 'menyebarkan game favoritnya'. Tapi dorongannya domain-spesifik dan butuh dipantik oleh minat, bukan suara latar yang terus-terusan ada. Kalau udah terbakar, nggak ada yang bisa menghentikannya — kalau belum, dia cuma santai aja. Lebih digerakkan misi ketimbang ambisius secara umum."
+          }
+        },
+        "O": {
+          "score": 5,
+          "reason": {
+            "en": "Genuinely resilient. She found new purpose after her student team disbanded, pulled herself out of a gaming slump through self-reflection, processed relational hurt into growth, and carries a fundamentally enthusiastic affect — that 'UOOOOOH!' energy is real, not performed. The setbacks land but they don't stick. Net positive.",
+            "ja": "本物のレジリエンスを持つ。学生チームが解散したあとに新たな目的を見つけ、内省を通じてゲームのスランプから抜け出し、対人関係の傷を成長へと変えた。根本的に熱量のあるパーソナリティで——あの「UOOOOOH!」エネルギーは本物で、演技じゃない。挫折はちゃんと刺さるが、長くは残らない。総合：ポジティブ。",
+            "id": "Resilien yang beneran. Dia nemuin tujuan baru setelah tim pelajarnya bubar, keluar dari slump gaming lewat refleksi diri, mengolah luka relasional jadi pertumbuhan, dan punya afek yang pada dasarnya antusias — energi 'UOOOOOH!' itu nyata, bukan pura-pura. Kegagalan tetap terasa, tapi nggak betah lama. Hasilnya: positif."
+          }
+        },
+        "A": {
+          "score": 6,
+          "reason": {
+            "en": "Genuinely caring, though the empathy runs through competition-intensity. Her core value is 'not hurting anyone with opinions' — an overcorrection from past harm. She writes screenplays, goes fishing and embroidery with members, leaves long devoted stream comments for her idols, and promised Megumi to support Rurino. The care is real; it just gets filtered through the same fierce focus she brings to gaming. Net moderately high.",
+            "ja": "本物の思いやりがあるが、そのやさしさは競争的な強度を通じて出てくる。コアな価値観は「発言で誰も傷つけないこと」——過去に傷つけてしまったことへの過修正から来ている。脚本を書き、メンバーと釣りや刺繍に行き、推しへの長くて献身的な配信コメントを書き、恵にるりのをサポートすると約束した。気遣いは本物、ただゲームにかける猛烈な集中力と同じフィルターを通じて表れてくる。総合：中程度にやや高め。",
+            "id": "Peduli yang tulus, meski empatinya tersalurkan lewat intensitas kompetitif. Nilai intinya adalah 'tidak menyakiti siapapun dengan pendapat' — koreksi berlebihan dari rasa bersalah masa lalu. Dia nulis skenario, pergi mancing dan bordir bareng member, nulis komentar stream yang panjang dan berdedikasi buat idolanya, dan berjanji ke Megumi untuk mendukung Rurino. Kepeduliannya nyata; hanya saja tersaring lewat fokus yang sama intensnya seperti waktu dia gaming. Hasilnya: sedang cenderung tinggi."
+          }
+        },
+        "U": {
+          "score": 5,
+          "reason": {
+            "en": "Distinctively eccentric in a very specific way. Esports-recruit high schooler, 'Tsumayouji' streamer identity, the 'UOOOOOH!' hype shout, speed-eating from game queue time, decorated nails kept short for gameplay. Reddit adds layers: intentional PINK-everything aesthetic (nails, hoodie, strawberry milk for extra pink flavor), fell for a pigeon trap while chasing a Megumi acrylic stand, 'prayed to Megumi as goddess', eats fish pastry from the tail. The whole picture is more distinctively odd than her bio summary suggests. Genuinely her own thing.",
+            "ja": "非常に具体的な形で際立って奇抜。eスポーツ推薦の高校生、「爪楊枝」という配信者アイデンティティ、「UOOOOOH!」の決め叫び、ゲームの待ち時間に早食い、飾りながらも短く切りそろえたネイル。Reddit がさらに層を加える：意図的なピンクだらけの美学（ネイル・パーカー・ストロベリーミルクをピンクのために飲む）、恵のアクリルスタンドを追いかけてはとの罠にはまる、「恵を女神のように祈る」、魚のパンを尻尾から食べる。全体像は経歴の要約が示すより、ずっと独特に変わっている。本当に自分だけの世界観を持っている。",
+            "id": "Eksentrik yang khas dengan cara yang sangat spesifik. Siswi rekrutan esports, identitas streamer 'Tsumayouji', teriakan hype 'UOOOOOH!', makan cepat di sela queue game, kuku didekorasi tapi dipotong pendek buat gameplay. Reddit menambahkan lapisan lagi: estetika PINK-segalanya yang disengaja (kuku, hoodie, strawberry milk demi menambah kadar pink), kejebak jebakan merpati saat ngejar acrylic stand Megumi, 'mendoakan Megumi kayak dewi', makan roti ikan dari bagian ekor. Gambaran lengkapnya jauh lebih unik dari yang kesan pertama kasih liat. Beneran dunianya sendiri."
+          }
+        },
+        "N": {
+          "score": 4,
+          "reason": {
+            "en": "Moderately N. The Ne shows in her possibility-seeking during her slump — she tried every hobby to find a new path. She connects abstract ideas across domains ('games and idols both give me X'), and she can articulate unifying values clearly. But the grounded competitive-practical orientation keeps it from going full N. She's present-to-future rather than lost in abstraction. Net moderate N.",
+            "ja": "N は中程度。Ne は彼女のスランプ期に可能性を探る姿に表れている——新しい道を見つけるためにあらゆる趣味を試した。「ゲームもアイドルもどちらも私に X を与えてくれる」という形で抽象的なつながりを見つけ、統合的な価値観を明確に言語化できる。でも地に足のついた競争的・実際的な志向が、完全な N になりきることを抑えている。抽象に迷い込むというより、現在から未来を見ている感じ。総合：中程度の N。",
+            "id": "N-nya sedang. Ne keliatan di masa slump-nya — dia coba setiap hobi buat nemuin jalan baru. Dia bisa menghubungkan ide-ide abstrak lintas domain ('game dan idol dua-duanya kasih aku X'), dan bisa mengartikulasikan nilai-nilai pemersatu dengan jelas. Tapi orientasi kompetitif-praktis yang membumi bikin dia nggak sampai full N. Dia present-ke-future, bukan yang nyasar dalam abstraksi. Hasilnya: N sedang."
+          }
+        }
+      }
+    }
+  }
+}

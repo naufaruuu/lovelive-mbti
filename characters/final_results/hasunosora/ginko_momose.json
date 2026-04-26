@@ -1,0 +1,97 @@
+{
+  "ginko_momose": {
+    "color": "#a2d7dd",
+    "name": {
+      "en": "Ginko Momose",
+      "ja": "百生吟子",
+      "id": "Ginko Momose"
+    },
+    "desc": {
+      "en": "Ginko is a Hasunosora second-year from a Kaga embroidery family in Kanazawa — she wears kimono as everyday wear, serves as the club's costume maker, and carries a dream straight from her grandmother, who was once a member of the Performing Arts Club that became the School Idol Club. She grew up more comfortable with elderly people than with kids her own age, which gives her this slightly out-of-time quality: Showa-era karaoke, temple walks, coffee beans, and a Kanazawa dialect that leaks out when she's caught off guard. She hides behind a tsundere shield and a habit of muttering \"someone like me...\" — but this is also the person who was already doing strength training before she even joined the club and can sew all nine unit costumes by herself from scratch.",
+      "ja": "吟子は金沢の加賀刺繍の家に生まれた蓮ノ空の二年生で、毎日着物で登校して、クラブの衣装担当を務めて、祖母から受け継いだ夢を胸に入部した——その祖母は、現在のスクールアイドルクラブの前身にあたる芸楽部のOGだ。同年代の友達よりお年寄りと仲良くなる環境で育ったから、ちょっと時代から外れたような独特の空気感がある——昭和の曲でカラオケして、お寺巡りをして、コーヒー豆に詳しくて、不意を突かれると金沢弁が出てくる。ツンデレな防壁と「自分なんかが……」という口癖で自分を隠してるけど——入部前からスタミナトレーニングを積んでいて、9着分全員の衣装を一人でゼロから縫い上げられる、そんな人でもある。",
+      "id": "Ginko adalah murid kelas dua Hasunosora dari keluarga pengrajin bordir Kaga di Kanazawa — dia pakai kimono sehari-hari, jadi pembuat kostum club, dan bawa mimpi yang turun langsung dari neneknya, yang dulunya anggota Kelompok Seni Pertunjukan, cikal bakal School Idol Club sekarang. Dia tumbuh lebih nyaman sama orang-orang tua daripada teman sebayanya, yang bikin dia punya kualitas semacam \"salah zaman\": karaoke lagu-lagu Showa, jalan-jalan ke kuil, tau banyak soal biji kopi, dan dialek Kanazawa yang muncul tiba-tiba kalau dia kaget. Dia sembunyi di balik tameng tsundere dan kebiasaan bergumam \"orang seperti aku...\" — tapi ini juga orang yang udah latihan fisik sebelum masuk club dan bisa jahit sembilan kostum buat semua unit sendirian dari nol."
+    },
+    "mbti": {
+      "type": "ISTJ",
+      "reason": {
+        "en": "ISTJ with a 2:1 fan majority over INFJ, and the analysis backs it up — though the INFJ case is worth addressing. Her baseline is Si all the way: she masters inherited craft (Kaga embroidery), preserves advice in notebooks for future reference, loves Showa-era songs, historical buildings, temples, and shrines, and bonded naturally with elderly people as a child. Tradition is her core value anchor. The INFJ case gets its strongest argument from her climactic arc moment — realizing that 'tradition survives by changing to fit the present' and cutting apart old costumes to reinvent them. That does have genuine Ni flavor: seeing past concrete form to underlying essence. But it reads as character growth for an ISTJ pushing past dominant Si toward tertiary Fi and inferior Ne, not as evidence she was INFJ the whole time. Her default habits and stress patterns are all Si: panics about betraying tradition, keeps data-preservation routines, looks backward rather than forward. The rich inner life she has is nostalgic, not visionary. Her tsundere emotional pattern and the self-deprecating 'someone like me...' habit fit ISTJ's tertiary Fi — deep private feelings that leak out awkwardly under pressure, including Kanazawa dialect slipping when emotions run high. She's not an Fe-harmony performer; she's Fi values occasionally overflowing.",
+        "ja": "ファンの2対1の多数決でISTJが選ばれていて、テキスト分析もそれを支持している——INFJケースも検討する価値はあるけど。ベースラインはどこまでも Si：受け継いだ技術（加賀刺繍）を極め、後で見返すためにノートに記録し、昭和歌謡・歴史的建造物・寺社仏閣を愛し、子どもの頃から自然とお年寄りと仲良くなってきた。伝統が彼女の核となる価値観の軸。INFJの論拠として最も強力なのは、彼女の物語のクライマックスでの気づきだ——「伝統は現代に合わせて変化することで生き続ける」という悟りと、古い衣装を切り刻んで新たに創り直す場面。これは確かに Ni らしい——具体的な形の向こうにある本質を見抜く感覚。でも、支配的な Si を超えて第三機能 Fi と劣等機能 Ne へ成長していく ISTJ のキャラクター成長として読むのが自然で、最初から INFJ だった証拠にはならない。デフォルトの習慣もストレス下のパターンも全部 Si：伝統を裏切ることへのパニック、記録・保存のルーティン、前ではなく後ろを向く姿勢。彼女が持つ豊かな内面世界はノスタルジックなものであって、ビジョナリーではない。ツンデレな感情パターンと「自分なんかが……」という自己卑下の習慣は ISTJ の第三機能 Fi にぴったり——深く個人的な感情がプレッシャー下でぎこちなく漏れ出し、感情が高ぶると金沢弁が出てしまうのもそれ。Fe でハーモニーを演じるタイプじゃない。Fi の価値観が時折あふれ出すタイプだ。",
+        "id": "ISTJ dengan keunggulan fan vote 2:1 atas INFJ, dan analisisnya mendukung itu — meski kasus INFJ tetap perlu dibahas. Baseline-nya Si dari ujung ke ujung: dia menguasai kerajinan warisan (bordir Kaga), menyimpan saran di notebook untuk dibaca ulang nanti, cinta lagu-lagu Showa, bangunan bersejarah, kuil, dan sejak kecil lebih akrab sama orang tua daripada teman sebayanya. Tradisi adalah jangkar nilai intinya. Argumen terkuat untuk INFJ datang dari momen klimaks arc-nya — sadar bahwa 'tradisi bertahan dengan berubah sesuai zaman', lalu memotong kostum lama untuk diciptakan kembali. Itu memang punya nuansa Ni yang nyata: melihat melampaui bentuk konkret ke esensinya. Tapi itu lebih terbaca sebagai pertumbuhan karakter seorang ISTJ yang mendorong diri melampaui Si dominan menuju Fi tersier dan Ne inferior, bukan bukti dia INFJ dari sananya. Kebiasaan default dan pola stres-nya semuanya Si: panik soal mengkhianati tradisi, rutinitas menyimpan data, orientasi ke belakang bukan ke depan. Kehidupan batin yang kaya yang dia miliki itu nostalgik, bukan visioner. Pola emosi tsundere-nya dan kebiasaan merendah 'orang seperti aku...' cocok dengan Fi tersier ISTJ — perasaan pribadi yang dalam, yang bocor dengan canggung saat tertekan, termasuk dialek Kanazawa yang muncul waktu emosi memuncak. Dia bukan tipe Fe yang perform keharmonisan; dia Fi yang sesekali meluap."
+      },
+      "traits": {
+        "E": {
+          "score": -3,
+          "reason": {
+            "en": "Reserved and not used to interacting with peers — she bonded more naturally with older folks than with kids her own age. That said, she's perceptive enough about group dynamics to be considered probably the most capable leader among the 104th-gen girls, and she can step up when the situation demands it. The introversion is real, just not severe — she's engaged where it counts.",
+            "ja": "控えめで、同世代との交流に慣れていない——同年代の友達より年上の人たちと自然に仲良くなってきたタイプ。とはいえ、グループのダイナミクスへの洞察力は確かで、104期生の中でリーダー素質が最もあるとも言われている。必要な場面では前に出られる。内向性は本物だけど、深刻なレベルではない——いざとなればちゃんと動ける。",
+            "id": "Pendiam dan belum terbiasa berinteraksi sama teman sebaya — dia lebih natural akrab dengan orang yang lebih tua daripada dengan orang seumurnya. Walaupun begitu, dia cukup jeli soal dinamika kelompok sampai dianggap yang paling capable jadi pemimpin di antara anak-anak 104th. Dia bisa tampil ke depan kalau situasi nuntut. Introversinya nyata, tapi nggak berat — dia tetap engage di momen yang penting."
+          }
+        },
+        "J": {
+          "score": 7,
+          "reason": {
+            "en": "Very high J. She's serious and diligent, writes everything down in notebooks, and has a disciplined approach to training — she built up her stamina before even joining the club. Reddit captures it perfectly: she 'likes to be prepared for situations she needs to face, but that comes at the cost of being completely unreliable for situations that require improvisation.' That J-dependence is explicit. Her mastery of structured traditional craft like Kaga embroidery is the same energy channeled into artisan form.",
+            "ja": "Jがかなり高い。真面目で勤勉で、何でもノートに書き留めて、訓練には規律正しく取り組む——部に入る前からスタミナを鍛えていた。Redditのまとめが絶妙：「直面すべき状況への準備は好きだけど、その代償として即興が必要な状況では全くアテにならなくなる」。このJ依存性は明白だ。加賀刺繍のような体系的な伝統工芸の習得も、同じエネルギーが職人仕事に向かったもの。",
+            "id": "J-nya sangat tinggi. Dia serius dan rajin, segalanya dicatat di notebook, dan punya pendekatan terlatih yang disiplin — bahkan udah melatih stamina sebelum masuk club. Reddit nangkepnya dengan tepat: dia 'suka bersiap untuk situasi yang perlu dia hadapi, tapi itu mengorbankan keandalannya di situasi yang butuh improvisasi.' Ketergantungan pada J itu eksplisit. Penguasaannya di kerajinan tradisional terstruktur seperti bordir Kaga adalah energi yang sama diarahkan ke bentuk keahlian."
+          }
+        },
+        "T": {
+          "score": 2,
+          "reason": {
+            "en": "Mild T lean. She's systematic and diligent on the T side, but emotionally driven and values-based on the F side — a classic mix for ISTJ's tertiary Fi. The tell is in her cutting remarks: she doesn't hold back against Kaho, and when her Fi-values surface they come out with Te-sharp precision — like that line about being 'more relieved that Kaho-senpai is responsible enough to support Sayaka-senpai.' Burns clearly, but the motivation is Fi, the delivery is T. Net result: mild T.",
+            "ja": "T寄りだが軽め。体系的で勤勉なTの側面を持ちつつ、感情的・価値観駆動なFの側面もある——ISTJ の第三機能 Fi では典型的な組み合わせ。証拠は彼女の鋭い発言にある。加穂に対して遠慮ない。Fi の価値観が表に出るとき、Te の精度で放たれる——「加穂先輩がさやか先輩をちゃんとサポートできるほど責任感があることの方が安心しました」というセリフのように。明確な刺さり方をするが、動機は Fi で、表現は T。総合的には T 軽め。",
+            "id": "T ringan. Dia sistematis dan rajin di sisi T, tapi emosional dan berbasis nilai di sisi F — campuran klasik buat Fi tersier ISTJ. Tandanya ada di komentar pedasnya: dia nggak nahan diri sama Kaho, dan waktu nilai Fi-nya muncul ke permukaan, keluarnya dengan presisi Te — kayak kalimat soal lebih lega karena 'Kaho-senpai cukup bertanggung jawab untuk mendukung Sayaka-senpai'. Tetep nyelekit, tapi motivasinya Fi, cara penyampaiannya T. Hasilnya: T ringan."
+          }
+        },
+        "C": {
+          "score": -3,
+          "reason": {
+            "en": "Real insecurity despite genuine competence. She has a habit of putting herself down with 'someone like me...' and finds it hard to take the first step toward new things. She's afraid of failure and needs time to prepare before she can feel ready. Getting compliments is awkward for her. The gap between how capable she actually is and how she sees herself is a defining tension in her character.",
+            "ja": "実力があるにもかかわらず、本物の不安を抱えている。「自分なんかが……」という自己卑下の口癖があって、新しいことへ最初の一歩を踏み出すのが難しい。失敗を恐れていて、準備できたと感じるまで時間が必要。褒められても素直に受け取れない。実際の能力と自己認識のギャップが、彼女のキャラクターにおける核心的な葛藤になっている。",
+            "id": "Insecure yang nyata meski kemampuannya beneran ada. Dia punya kebiasaan merendah dengan 'orang seperti aku...' dan susah ambil langkah pertama ke hal baru. Dia takut gagal dan butuh waktu persiapan sebelum merasa siap. Dapat pujian pun rasanya canggung. Jarak antara seberapa capable dia sebenarnya dan bagaimana dia memandang dirinya sendiri jadi ketegangan utama dalam karakternya."
+          }
+        },
+        "M": {
+          "score": 5,
+          "reason": {
+            "en": "Moderately high ambition expressed through excellence. She trained her stamina before joining, surpassed Kaho in physical conditioning, wants to win Love Live, and has real drive to create new traditions for Hasunosora. But the ambition is bounded — she's competitive in domains where she's prepared, not the type to chase something regardless of the odds. Achievement-driven but not reckless about it.",
+            "ja": "卓越性を通じて表現される中〜高めの野心。入部前にスタミナを鍛え、体力で加穂を超え、ラブライブで優勝したいという意志があり、蓮ノ空に新しい伝統を作りたいという本物の原動力がある。ただし野心には限界があって——準備できている領域では競争心があるが、勝ち目を無視して突き進むタイプではない。成果志向ではあっても、向こう見ずではない。",
+            "id": "Ambisi yang sedang-tinggi yang tersalurkan lewat keunggulan. Dia latihan stamina sebelum masuk, melampaui Kaho dalam kondisi fisik, mau menang Love Live, dan punya dorongan nyata untuk menciptakan tradisi baru buat Hasunosora. Tapi ambisinya ada batasnya — kompetitif di bidang yang dia siapkan, bukan tipe yang ngejar sesuatu terlepas dari peluang. Didorong oleh pencapaian, tapi nggak ugal-ugalan."
+          }
+        },
+        "O": {
+          "score": 0,
+          "reason": {
+            "en": "Balanced at zero — anxious baseline that cancels out with real resilience. She's afraid of failure and prone to panic about betraying tradition, but when she's pushed she does find her footing and move forward. The anxiety is genuine; so is the recovery. Neither side dominates.",
+            "ja": "ゼロでバランス——不安なベースラインと本物のレジリエンスが打ち消し合う。失敗を恐れていて、伝統を裏切ることへのパニックに陥りやすいが、追い詰められたとき自分の立ち位置を見つけて前に進む力もある。不安は本物。でも立ち直る力も本物。どちらかが一方的に勝つわけではない。",
+            "id": "Nol di tengah-tengah — baseline yang cemas tapi dikimbangi oleh ketahanan yang nyata. Dia takut gagal dan gampang panik soal mengkhianati tradisi, tapi kalau dipaksa situasi dia emang bisa nemu pijakannya dan melangkah maju. Kecemasannya beneran; pemulihannya juga beneran. Nggak ada yang mendominasi."
+          }
+        },
+        "A": {
+          "score": 5,
+          "reason": {
+            "en": "Genuinely warm beneath the reserve. She makes costumes for the group as an act of service through craft, and she lights up when others show genuine curiosity about her niche interests. Cautious about showing it, but the care is real — not maxed because she's more inwardly-focused than actively reaching out to others.",
+            "ja": "控えめな外見の下に本物の温かさがある。グループのために衣装を作るのは、工芸を通じたサービスの行為。自分のニッチな趣味に誰かが本気で興味を持ってくれると、心から嬉しそうな顔をする。それを見せることには慎重だが、気遣いは本物——最高値ではないのは、積極的に人に手を差し伸べるよりも内向きな志向の方が強いから。",
+            "id": "Hangat yang tulus di balik ketenangannya. Dia bikin kostum buat grupnya sebagai bentuk pelayanan lewat kerajinan, dan matanya bersinar waktu orang lain menunjukkan ketertarikan tulus pada minatnya yang niche. Hati-hati soal menunjukkannya, tapi kepeduliannya nyata — nggak maksimal karena dia lebih berorientasi ke dalam daripada aktif menjangkau orang lain."
+          }
+        },
+        "U": {
+          "score": 3,
+          "reason": {
+            "en": "Unconventional in a traditionalist way. Her interests — Kaga embroidery, kimono as everyday wear, Showa-era music, mystery novels recommended by elderly men, traditional crafts — are genuinely unusual for a high schooler. But the uniqueness comes from being deeply rooted in convention and heritage, not from being eccentric or subversive. Distinctive profile, but the distinctiveness points backward, not outward.",
+            "ja": "伝統主義者的な意味での非凡さ。彼女の趣味——加賀刺繍、日常着物、昭和歌謡、お年寄りに勧めてもらったミステリ小説、伝統工芸——は高校生としては本当に珍しい。でもその独自性は、慣習や文化遺産に深く根ざしていることから来るのであって、奇抜さや反体制からではない。際立ったプロフィールではあるけど、その際立ちは外に向かうのではなく、過去に向かっている。",
+            "id": "Tidak konvensional dengan cara yang tradisionalis. Minatnya — bordir Kaga, kimono sebagai pakaian sehari-hari, musik era Showa, novel misteri yang direkomendasikan orang-orang tua, kerajinan tradisional — memang nggak umum buat anak SMA. Tapi keunikannya datang dari berakar dalam pada konvensi dan warisan budaya, bukan dari eksentrik atau melawan arus. Profil yang khas, tapi keistimewaannya mengarah ke belakang, bukan ke luar."
+          }
+        },
+        "N": {
+          "score": -5,
+          "reason": {
+            "en": "Strongly S, firmly Si-grounded. Her value anchors are tradition and proven methods; she evaluates things against observed track records and historical precedent. Her climactic insight about tradition needing to evolve is her single biggest Ni-flavored moment, and it reads as ISTJ growth toward inferior Ne — not a sign of Ni dominance. Her default mode is backward-looking and concrete, all the way down.",
+            "ja": "Sが強い、Si に確固として根ざしている。価値の軸は伝統と実証済みの方法にあり、実績と歴史的先例を基準に物事を評価する。伝統が進化する必要性についての彼女のクライマックスの気づきは、最大の Ni 風の瞬間だが、それは ISTJ の劣等機能 Ne への成長と読める——Ni 支配の証拠ではない。デフォルトモードは後ろ向きで具体的、徹頭徹尾。",
+            "id": "S yang kuat, berakar kokoh di Si. Jangkar nilainya ada di tradisi dan metode yang terbukti; dia mengevaluasi sesuatu berdasarkan rekam jejak yang teramati dan preseden historis. Momen insight klimaksnya soal tradisi yang perlu berevolusi adalah satu-satunya momen bernuansa Ni terkuatnya, dan itu terbaca sebagai pertumbuhan ISTJ menuju Ne inferior — bukan tanda dominasi Ni. Mode default-nya selalu mundur ke belakang dan konkret, dari awal sampai akhir."
+          }
+        }
+      }
+    }
+  }
+}

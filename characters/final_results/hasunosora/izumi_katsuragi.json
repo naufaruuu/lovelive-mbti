@@ -1,0 +1,97 @@
+{
+  "izumi_katsuragi": {
+    "color": "#1ebecd",
+    "name": {
+      "en": "Izumi Katsuragi",
+      "ja": "桂城泉",
+      "id": "Izumi Katsuragi"
+    },
+    "desc": {
+      "en": "Izumi is a second-year transfer student at Hasunosora who came from a prestigious school in Tokyo — bringing with her a track record that includes a national fencing title, acting awards, a programming competition win, and 20 undefeated school idol performances in nine months. She operates with theatrical self-confidence and a deliberately old-fashioned speech style, but beneath the composed surface is someone who describes her own world as colorless without a dream to borrow. She has no personal goals — she lives entirely through other people's ambitions, borrowing their passion as a substitute reason to exist. Ceras's dream of winning Love Live is what brought her to Hasunosora, and it's what keeps her world in color.",
+      "ja": "泉は蓮ノ空の転入二年生。東京の名門校から来た彼女の経歴は目を見張るものがある——全国フェンシング優勝、演技賞、プログラミング大会優勝、そして9ヶ月でスクールアイドルとして20連勝無敗。演劇的な自信と意図的に古風な話し方を持っているが、その落ち着いた外見の下には、夢を借りなければ世界がモノクロになると語る人間がいる。個人的な目標は何もない——彼女は完全に他人の野心を通じて生きていて、その情熱を存在する理由の代わりとして借りている。ラブライブ!で優勝したいというセラスの夢が彼女を蓮ノ空に連れてきた——そしてそれが彼女の世界を色づかせ続けている。",
+      "id": "Izumi adalah murid pindahan kelas dua di Hasunosora, datang dari sekolah bergengsi di Tokyo dengan rekam jejak yang bikin orang melongo — juara nasional anggar, penghargaan akting, menang lomba programming, dan 20 penampilan school idol tanpa kekalahan dalam sembilan bulan. Gaya bicaranya teatrikal dan sengaja agak jadul, tapi di balik penampilannya yang tenang itu ada seseorang yang bilang dunianya jadi abu-abu kalau nggak ada mimpi orang lain yang bisa dipinjam. Dia nggak punya tujuan pribadi — hidupnya sepenuhnya bergantung pada ambisi orang lain, meminjam passion mereka sebagai alasan untuk tetap ada. Mimpi Ceras untuk memenangkan Love Live itulah yang membawanya ke Hasunosora, dan itulah yang membuat dunianya tetap berwarna."
+    },
+    "mbti": {
+      "type": "ENFJ",
+      "reason": {
+        "en": "ENFJ with a convincing fan vote (8 vs 1 ENTJ) and solid textual support — though the interesting part is that she's a 'broken' ENFJ, one whose auxiliary Ni has been structurally hollowed out by trauma. She has all the Ni capacity: she reads performances at a glance, spots what someone is hiding, predicts where training gaps will show up. But she can't point that Ni at her own life — it only works when it's hooked into someone else's dream. The ENTJ case falls apart on engine inspection: Te-Ni imposes external structure in service of a personal vision, like Lanzhu building an Association around her own taste. Izumi wins 20 competitions because Ceras wants them won — the engine is Fe borrowing someone else's Ni, not Te executing her own. Her 'blunt criticism' that reads as ENTJ toughness is actually calculated ENFJ pedagogy: she insults deliberately to push people forward, always with an eye on their growth. ENTP is also out — she learns fencing, acting, programming, and songwriting not for the joy of exploration but as Fe-instrumental skills in service of whoever's dream she's currently living through. The clearest ENFJ signal is the hollow-knight pattern itself: an ENFJ whose own Ni vision is empty, running on borrowed purpose.",
+        "ja": "ファン投票でも8対1でENFJが支持され、テキスト分析もそれを裏付けている——ただ興味深いのは、彼女が「壊れた」ENFJだという点だ。補助機能のNiがトラウマによって構造的に空洞化している。Niの能力自体はある——パフォーマンスを一目で読み、誰かが隠していることを見抜き、練習の穴がどこに出るか予測できる。でもそのNiを自分自身の人生には向けられない——誰か他人の夢に引っ掛けたときだけ機能する。ENTJの説は「エンジン」を見れば崩れる：Te-NiはLanzhuが自分のセンスでAssociationを作ったように、個人的なビジョンのために外的な構造を課す。泉が20連勝するのはセラスがそれを望んでいるから——エンジンは他人のNiを借りるFeであり、自分のNiを実行するTeではない。ENTJらしく見える「辛口批評」も、実は計算されたENFJの教育法だ：人を前進させるために意図的に傷つける、常に相手の成長を見据えながら。ENTPも違う——フェンシング、演技、プログラミング、作曲を習得するのは探求の喜びからではなく、今生きている誰かの夢のためのFe的実用スキルとして。最も明確なENFJの証拠は「空洞の騎士」パターンそのものだ——自分のNiビジョンが空になったENFJが、借り物の目的で動いている。",
+        "id": "ENFJ dengan fan vote yang meyakinkan (8 vs 1 ENTJ) dan dukungan teks yang kuat — tapi yang menarik adalah dia ENFJ yang 'rusak', yang Ni-auxiliary-nya secara struktural dikosongkan oleh trauma. Kapasitas Ni-nya ada: dia baca penampilan sekilas pandang, nangkap apa yang seseorang sembunyikan, prediksi di mana celah latihan bakal muncul. Tapi dia nggak bisa arahkan Ni itu ke hidupnya sendiri — fungsinya cuma aktif kalau dikaitkan ke mimpi orang lain. Kasus ENTJ runtuh begitu kita lihat 'mesinnya': Te-Ni memaksakan struktur eksternal demi visi pribadi, kayak Lanzhu yang bangun Asosiasi sesuai selera dia sendiri. Izumi menang 20 pertandingan karena Ceras yang mau menang — mesinnya adalah Fe yang meminjam Ni orang lain, bukan Te yang menjalankan Ni-nya sendiri. Kritik pedasnya yang keliatan kayak ENTJ sebenarnya adalah pedagogi ENFJ yang terkalkulasi: dia sengaja nyindir buat mendorong orang maju, selalu dengan mata tertuju pada pertumbuhan mereka. ENTP juga nggak cocok — dia belajar anggar, akting, programming, dan songwriting bukan karena senang eksplorasi, tapi sebagai skill instrumen-Fe demi mimpi siapa pun yang sedang dia jalani. Sinyal ENFJ paling jelas justru ada di pola 'ksatria yang hampa' itu sendiri: ENFJ yang visi Ni-nya sendiri kosong, berjalan dengan tujuan yang dipinjam."
+      },
+      "traits": {
+        "E": {
+          "score": 5,
+          "reason": {
+            "en": "Moderately extroverted — she ninja-zoomed into frame the first time she met the 104th-gen girls, engaged total strangers with complete confidence, and her 'hey' greeting became a call-and-response at live concerts. She enjoys team sports, festivals, and anywhere people get excited together. She bursts into loud delighted laughter at Sayaka's antics. More actively social than her composed exterior suggests, though she stays private about her deeper emotional core.",
+            "ja": "程よく外向的——104期生と初めて会ったとき、まるで忍者のような速さでフレームに飛び込んでいった。見知らぬ人にも完全な自信を持って話しかけ、挨拶の「ねえ」はライブでのコール&レスポンスになるほどの定番に。団体スポーツ、フェスティバル、みんなが一緒に盛り上がれる場所が大好き。さやかのドタバタにはどっと大声で笑う。落ち着いた外見が示すよりずっと積極的に社交的だが、感情的な核心部分については依然として秘密にしている。",
+            "id": "Ekstrovert yang cukup menonjol — dia muncul bak ninja saat pertama kali ketemu anak-anak 104th, nyapa orang asing dengan percaya diri penuh, dan sapaan 'hey'-nya sampai jadi call-and-response di konser live. Dia suka olahraga tim, festival, dan tempat mana pun yang bikin semua orang excited bareng. Dia sampai ngakak keras-keras ngeliatin ulah Sayaka. Lebih aktif secara sosial dari kesan tenangnya, meski tetap menjaga privasi soal inti emosionalnya yang lebih dalam."
+          }
+        },
+        "J": {
+          "score": 6,
+          "reason": {
+            "en": "Structured and goal-directed. 20 performances in 9 months is execution discipline at its most literal, and she went undefeated through all of them. Her response to a complicated plan — 'so we just need to win' — is peak J: cut through complexity to the actionable conclusion. She was also noted for her management contribution in the 105th-year gaming arc. Decisive when working toward a goal, though her method-flexibility keeps her from being rigidly J.",
+            "ja": "構造的で目標志向。9ヶ月で20回の公演、すべて制覇——これ以上ないほど文字通りの実行規律だ。複雑な計画を聞いたときの反応「じゃあ優勝すればいいだけですよね」はJ気質の極み：複雑さを切り捨てて行動可能な結論に辿り着く。105期のゲームアークでも彼女のマネジメント貢献が注目された。目標に向かうときは決断力があるが、方法に対する柔軟性がある分、硬直したJではない。",
+            "id": "Terstruktur dan berorientasi tujuan. 20 penampilan dalam 9 bulan itu disiplin eksekusi yang paling harafiah, dan dia nggak kalah satu pun. Responnya saat dikasih tahu rencana yang kompleks — 'jadi kita tinggal menang aja kan' — itu puncak J: potong kerumitan, langsung ke kesimpulan yang bisa dieksekusi. Kontribusi manajemennya di gaming arc tahun 105th juga diakui. Tegas saat bergerak menuju tujuan, tapi fleksibel soal metode sehingga dia nggak J yang kaku."
+          }
+        },
+        "T": {
+          "score": 0,
+          "reason": {
+            "en": "Genuinely split down the middle. Her motivation is Fe through and through — she literally lives through others' dreams, and her tough-love coaching is calculated Fe pedagogy designed for the other person's growth. But the surface reads T: radical directness ('so we just need to win'), management competence, and a self-aware admission that harsh criticism sometimes serves her 'selfish purpose of getting stronger rivals.' That last bit is classically Fi-comfortable — owning that her goals can drive her relationship choices. Half-T, half-F in behavior even though the function stack is Fe-dominant.",
+            "ja": "正真正銘、真ん中で割れている。動機はどこまでもFe——文字通り他人の夢を通じて生きていて、厳しい愛のコーチングは相手の成長のために設計された計算されたFeの教育法だ。でも表面はTに読める：過激な率直さ（「優勝すればいいだけですよね」）、マネジメント能力、そして辛口批評が「強いライバルを作るという自己目的」でもあるという自覚的な発言。その最後の部分はFiらしさの典型——自分の目標が関係の選択を動かしうることを認めている。機能スタックはFe優位でも行動上は半分T、半分F。",
+            "id": "Beneran terbagi rata di tengah. Motivasinya Fe dari ujung ke ujung — dia harafiah hidup lewat mimpi orang lain, dan coaching tough-love-nya adalah pedagogi Fe yang terkalkulasi demi pertumbuhan orang itu. Tapi permukaannya terbaca T: keterusterangan yang radikal ('tinggal menang aja'), kompetensi manajemen, dan pengakuan sadar diri bahwa kritik keras kadang melayani 'tujuan egoisnya untuk mendapat rival yang lebih kuat'. Bagian terakhir itu Fi banget — mengakui bahwa tujuannya sendiri bisa mendorong pilihan-pilihan relasinya. Setengah T, setengah F dalam perilaku meski stack-nya Fe-dominant."
+          }
+        },
+        "C": {
+          "score": 6,
+          "reason": {
+            "en": "Strongly self-assured on the outside — 'self confidence is on another level' is the Reddit read, and it shows. She talks to strangers like she owns the room, is fearless in silly bits and fanservice, and her 'so we just need to win' framing says everything about how she processes obstacles. But the hollow inner core tempers this: she's secure in her competence while running empty on self-worth. Net strongly positive from the external face, quietly complicated underneath.",
+            "ja": "外面的には非常に自信がある——「自信のレベルが次元違い」というRedditの評価は正確だ。誰にでも場を制したように話しかけ、面白いネタやファンサービスでも怖気づかない。「優勝すればいいだけですよね」というフレーミングは、障害をどう処理するかを物語っている。でも内側の空洞がこれを和らげている——自分の能力には自信があるが、自己価値感は空っぽで動いている。外見的には強くポジティブだが、内側はひっそりと複雑だ。",
+            "id": "Di luar sangat percaya diri — 'level percaya dirinya beda dimensi' kata Reddit, dan itu keliatan. Dia ngobrol sama orang asing seolah dia yang pegang ruangan, nggak takut di bit konyol dan fanservice, dan framing 'tinggal menang aja'-nya bilang segalanya tentang cara dia proses hambatan. Tapi inti yang hampa itu jadi pengimbangannya: dia aman soal kompetensi tapi jalan dengan tangki self-worth yang kosong. Positif kuat dari sisi luar, diam-diam rumit di dalamnya."
+          }
+        },
+        "M": {
+          "score": 7,
+          "reason": {
+            "en": "High drive, but it's borrowed drive. On Ceras's behalf, she's relentlessly ambitious — transferred schools, ground out 20 competitions, trains constantly, will do whatever it takes to win. But she has zero personal ambition. She doesn't take pleasure in winning herself; her investment ends the moment another person's dream succeeds or fails. The behavior is unambiguous high ambition; the source is proxy rather than self-directed.",
+            "ja": "モチベーションは高い、でも借り物だ。セラスのために、彼女は容赦なく野心的——学校を転校し、20の大会を勝ち抜き、常にトレーニングし、優勝のためならなんでもする。でも個人的な野心はゼロ。勝つこと自体には喜びを感じない——投資は他人の夢が成功または失敗した瞬間に終わる。行動は疑いなく高い野心だが、その源泉は自己主導ではなく代理的なものだ。",
+            "id": "Dorongannya tinggi, tapi itu dorongan pinjaman. Demi Ceras, dia ambisius tanpa ampun — pindah sekolah, menggilas 20 kompetisi, terus latihan, bakal lakukan apapun buat menang. Tapi dia nggak punya ambisi pribadi sama sekali. Dia nggak ngerasain kesenangan dari kemenangan itu sendiri; investasinya berakhir begitu mimpi orang lain berhasil atau gagal. Perilakunya jelas menunjukkan ambisi tinggi, tapi sumbernya proxy, bukan dari dalam dirinya sendiri."
+          }
+        },
+        "O": {
+          "score": 1,
+          "reason": {
+            "en": "Slightly positive, but complicated. On the surface she's composed and even playful — she bursts into genuine laughter at club absurdity, enjoys friendly bickering with Ceras, and approaches bizarre situations with curiosity. But the underlying worldview is dark: colorless world, 'hollow ghost,' treats herself as a devil 'doomed to only remain useful in her suffering.' She functions through service but doesn't expect good things for herself personally. Slightly more integrated than pure hollowness — the genuine delight at Hasunosora weirdness is real.",
+            "ja": "わずかにポジティブだが、複雑だ。表面上は落ち着いていて遊び心もある——クラブの奇妙な出来事に本当に笑い、セラスとの友好的な言い争いを楽しみ、奇妙な状況には好奇心を持って臨む。でも根底にある世界観は暗い：モノクロの世界、「空洞の亡霊」、自分を悪魔と見なし、「苦しみの中でのみ有用であることを運命づけられた」存在として扱う。奉仕を通じて機能しているが、個人的に自分のために良いことを期待していない。純粋な空洞よりはわずかに統合されている——蓮ノ空の奇妙さへの本物の喜びは本物だ。",
+            "id": "Sedikit positif, tapi rumit. Di permukaan dia tenang bahkan playful — dia ngakak beneran ngeliatin kegilaan club, nikmatin adu mulut bersahabat sama Ceras, dan hadapi situasi aneh dengan rasa ingin tahu. Tapi worldview dasarnya gelap: dunia abu-abu, 'hantu hampa', menganggap dirinya iblis yang 'ditakdirkan hanya berguna dalam penderitaannya'. Dia berfungsi lewat pelayanan tapi nggak mengharapkan hal baik untuk dirinya sendiri. Sedikit lebih terintegrasi daripada kekosongan murni — kesenangan tulusnya ngeliatin keanehan Hasunosora itu nyata."
+          }
+        },
+        "A": {
+          "score": 4,
+          "reason": {
+            "en": "Deeply helpful in a structural way — she lives entirely to serve others' dreams and will sacrifice huge portions of her life to do it. But the intimacy is structurally damaged: she 'never really felt a connection towards the other person' and actively pushes people away when she thinks closeness with her would harm them. She's also self-aware enough to note that some of her harsh advice is partly 'for the selfish purpose of getting stronger rivals.' Near-absolute helpfulness with genuinely limited intimacy capacity.",
+            "ja": "構造的な意味で深く協力的——彼女は完全に他人の夢に奉仕するために生きていて、そのために人生の大部分を犠牲にする。でも親密さは構造的に傷ついている：「相手に対して本当のつながりを感じたことがない」し、自分との近さが相手を傷つけると思えば積極的に人を遠ざける。また、辛口のアドバイスの一部が「強いライバルを作るという自己目的」でもあることを自覚しているほど自己認識が高い。ほぼ絶対的な協力心を持ちながら、親密さの能力は本当に制限されている。",
+            "id": "Secara struktural sangat membantu — hidupnya sepenuhnya untuk melayani mimpi orang lain dan dia rela mengorbankan porsi besar hidupnya demi itu. Tapi kapasitas intimasinya secara struktural rusak: dia 'nggak pernah benar-benar ngerasain koneksi ke orang itu' dan aktif mendorong orang menjauh kalau dia pikir kedekatan dengannya bakal menyakiti mereka. Dia juga cukup sadar diri untuk ngakui bahwa sebagian kritik pedasnya ada unsur 'tujuan egois buat dapat rival yang lebih kuat'. Kesetiaan membantu yang hampir mutlak, tapi kapasitas intimasinya beneran terbatas."
+          }
+        },
+        "U": {
+          "score": 6,
+          "reason": {
+            "en": "A distinctly unusual profile. She speaks in a theatrically affected style with old-fashioned phrasing, calls herself a 'devil' and frames her relationships as 'contracts,' transferred schools on the spot to help someone win a tournament, and is a multi-domain prodigy (fencing + acting + programming + dance + songwriting) who picked each up not out of personal interest but as instrumental tools. Add legendary gyudon devotion and the 'hey' call-and-response at concerts. Unconventional in almost every direction.",
+            "ja": "明らかに珍しいプロフィール。演劇的な口調と古風な言い回しで話し、自分を「悪魔」と呼び、人間関係を「契約」として組み立て、誰かの大会優勝を手伝うためにその場で転校し、個人的な興味からではなく道具として習得した各分野での天才（フェンシング＋演技＋プログラミング＋ダンス＋作曲）。伝説的な牛丼愛とライブでの「ねえ」コール&レスポンスも忘れずに。ほぼあらゆる方向で型破り。",
+            "id": "Profil yang jelas-jelas nggak biasa. Dia bicara dengan gaya teatrikal dan frasa jadul, menyebut dirinya 'iblis' dan bingkai hubungannya sebagai 'kontrak', pindah sekolah dadakan buat bantu seseorang menang turnamen, dan jadi prodigy multi-domain (anggar + akting + programming + dance + songwriting) yang masing-masing dia kuasai bukan dari minat pribadi tapi sebagai alat instrumen. Ditambah devotion legendaris pada gyudon dan call-and-response 'hey' di konser. Nggak konvensional di hampir setiap arah."
+          }
+        },
+        "N": {
+          "score": 5,
+          "reason": {
+            "en": "Strong Ni directed outward. She reads performances at a glance and pinpoints exactly what's lacking, spots that Hime knows everyone's weaknesses but is deliberately hiding them (knowing what someone else knows AND is suppressing is meta-level Ni), and accurately predicted where training gaps would manifest. The Ni is functionally vacant when turned inward — she can't apply that same pattern-recognition to her own life or future. But externally, it's elite-level perceptive intelligence.",
+            "ja": "強いNiが外側に向けられている。パフォーマンスを一目で読み解き、何が足りないかを正確に指摘する。ヒメがみんなの弱点を知っているが意図的に隠していることを見抜く（誰かが何を知っているか、そしてそれを抑制しているかを知ることはNiのメタレベルの認識だ）。そして練習のギャップがどこに現れるかを正確に予測した。Niは内側に向けたときは機能的に空虚だ——自分自身の人生や未来には同じパターン認識を適用できない。でも外側に向けたとき、それはエリートレベルの知覚的知性だ。",
+            "id": "Ni yang kuat diarahkan ke luar. Dia baca penampilan sekilas dan langsung nunjuk apa yang kurang, nangkap bahwa Hime tau kelemahan semua orang tapi sengaja nyembunyinnya (tahu apa yang orang lain tahu DAN sedang ditekan itu Ni level meta), dan dengan akurat memprediksi di mana celah latihan bakal keliatan. Ni-nya secara fungsional kosong saat diputar ke dalam — dia nggak bisa aplikasikan pengenalan pola yang sama ke hidupnya sendiri atau masa depannya. Tapi saat diarahkan ke luar, itu kecerdasan perseptif level elite."
+          }
+        }
+      }
+    }
+  }
+}

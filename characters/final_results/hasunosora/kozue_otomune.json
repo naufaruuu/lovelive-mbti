@@ -1,0 +1,97 @@
+{
+  "kozue_otomune": {
+    "color": "#68be8d",
+    "name": {
+      "en": "Kozue Otomune",
+      "ja": "乙宗梢",
+      "id": "Kozue Otomune"
+    },
+    "desc": {
+      "en": "Kozue is the graceful honor student who does everything — composes, choreographs, makes costumes, and leads Hasunosora's school idol club — all with the discipline of someone raised in a wealthy classical music family who was expected to become a professional musician. She spent three years laser-focused on winning Love Live, convinced her family to let her chase this dream, and eventually got there. The twist: despite all that elite versatility, she genuinely thinks she has 'no real talent,' compares herself unfavorably to her clubmates, and was notoriously terrible with technology (she once tried to 'befriend her phone' by taking it on walks). When she finally won Love Live, she fell into creative paralysis — couldn't write a single new song.",
+      "ja": "梢は蓮ノ空の school idol club を率いる優雅な優等生で、作曲・振付・衣装制作・ボーカルまで全部ひとりでこなす——裕福な音楽一家に生まれ、幼い頃からプロの音楽家になることを期待されて育った、その規律そのものの人物です。Love Live 優勝を目指して3年間ひたすら突き進み、家族を説得してこの夢を追い、ついに叶えた。ただし落とし穴がある：あれだけのエリートな才能を持ちながら、本人は本気で「自分には才能がない」と思っていて、部員たちと比べては引け目を感じている。テクノロジーが著しく苦手なのも有名で（スマートフォンを「散歩に連れて行って友達になろうとした」こともある）。そして念願の Love Live 優勝を果たした瞬間、新しい曲が一曲も書けなくなった。",
+      "id": "Kozue adalah siswa berprestasi yang elegan sekaligus ketua club school idol Hasunosora — dia nulis lagu, bikin koreografi, jahit kostum, dan memimpin semuanya dengan disiplin orang yang dibesarkan di keluarga musik klasik kaya yang berharap dia jadi musisi profesional. Tiga tahun dia fokus habis-habisan buat menang Love Live, sukses yakinkan keluarganya, dan akhirnya berhasil. Tapi ada bagian yang menarik: di balik semua keahlian itu, dia beneran percaya kalau dirinya 'nggak punya bakat nyata', dan sering ngerasa kalah jauh dibanding teman-temannya. Dia juga terkenal banget nggak bisa pakai teknologi — pernah coba 'berteman dengan ponselnya' dengan mengajaknya jalan-jalan — dan begitu dia akhirnya menang Love Live, dia nggak bisa nulis satu lagu pun."
+    },
+    "mbti": {
+      "type": "ESFJ",
+      "reason": {
+        "en": "ESFJ takes the majority fan vote (16 vs. 9 for ENFJ), and the textual analysis backs it up — though the ENFJ split is real and worth addressing. The key differentiator is her leadership style: it's perfectionist and self-punishing, not visionary. She keeps failure-objects as penance, carries regret across years, and holds herself to an exacting standard of form. Compare her to Setsuna (ENFJ), whose mission was transforming how people relate to their passions — Kozue wants to execute the form of school idol perfectly, not reinvent it. Her post-win 'new dream' ('build lives that surpass even the greatest live, again and again') is iterative excellence within established form, not transformation of form. Her tech illiteracy is a telling Si-specific pattern: she memorizes procedures rather than understanding systems, even trying to 'befriend her machine by taking it on walks, sleeping beside it, bringing it into the bath' — pure Si treating devices as relational entities, no Ne systems-abstraction in sight. Her speech patterns are extremely Si-Fe: rigorously formal, hierarchically coded, shifting through defined relationship stages before dropping honorifics. That 'penance fool' self-punishment is Fe-Si guilt — attached to specific past failures as concrete objects — not Ni-Fe future-oriented self-development. She's to Setsuna what Shioriko is to Lanzhu: same rough Fe social function, expressed through a more traditional and established framework.",
+        "ja": "ファン投票でESFJが多数（16対ENFJの9）を取っていて、テキスト分析もそれを支持している——ただし ENFJ との票差は本物で、検討する価値はある。核心的な違いはリーダーシップのスタイル：ビジョナリーではなく、完璧主義的で自己罰的。失敗の記念物を贖罪として手元に置き、後悔を何年も引きずり、形の厳格な基準を自分に課す。彼女と夕霧せつな（ENFJ）を比べてみよう——せつなのミッションは「人々が情熱にどう向き合うか」を変えることだったが、梢は school idol の「形」を完璧に実行したいのであって、再発明したいわけではない。優勝後の「新しい夢」（「最高のライブを超えるライブを、また何度でも作り続ける」）は確立されたフォームの中での反復的な卓越性であって、フォームの変革ではない。テクノロジー苦手なのも Si 特有のパターンを示している：システムを理解するのではなく手順を丸暗記する。「機械に散歩させ、隣で寝て、お風呂に一緒に入って友達になろうとした」のは、デバイスを関係的な存在として扱う純粋な Si で、Ne のシステム的抽象化の影もない。会話パターンは Si-Fe そのもの：厳格に形式的で、階層的に符号化されており、特定の段階を経て初めて敬語を外す。「贖罪バカ」的な自己懲罰パターンは、具体的な過去の失敗を物体として保持する Fe-Si の罪悪感であり、Ni-Fe 的な未来志向の自己成長ではない。彼女とせつなの関係は、しずこと嵐珠の関係と同じ——同じ大まかな Fe 的社会機能が、より伝統的・確立された枠組みで表れている。",
+        "id": "ESFJ unggul di fan vote (16 vs. 9 untuk ENFJ), dan analisis teksnya mendukung — meski selisih ENFJ itu nyata dan perlu dibahas. Pembeda kuncinya ada di gaya kepemimpinannya: perfeksionis dan self-punishing, bukan visioner. Dia menyimpan benda-benda kegagalan sebagai penebusan, membawa penyesalan selama bertahun-tahun, dan menuntut dirinya sendiri pada standar form yang ketat. Bandingkan dengan Setsuna (ENFJ) yang misinya mengubah cara orang berhubungan dengan passion mereka — Kozue mau mengeksekusi form school idol dengan sempurna, bukan menciptakan ulang. 'Mimpi baru'-nya setelah menang ('bangun live yang melampaui live terhebat, lagi dan lagi') adalah keunggulan iteratif dalam form yang sudah ada, bukan transformasi form. Kesulitannya dengan teknologi adalah pola Si yang khas: dia menghafal prosedur alih-alih memahami sistemnya, sampai-sampai coba 'berteman dengan mesinnya lewat diajak jalan-jalan, tidur di sebelahnya, dibawa ke kamar mandi' — Si murni yang memperlakukan perangkat sebagai entitas relasional, tanpa jejak abstraksi sistem Ne. Pola bicaranya sangat Si-Fe: sangat formal, dikode secara hierarkis, bergeser melalui tahapan hubungan yang terdefinisi sebelum lepas honorifik. Pola self-punishment 'penebusan dosa' itu adalah rasa bersalah Fe-Si — melekat pada kegagalan masa lalu yang konkret sebagai objek fisik — bukan pengembangan diri Ni-Fe yang berorientasi masa depan. Hubungannya dengan Setsuna mirip hubungan Shioriko dengan Lanzhu: fungsi sosial Fe yang sama kasarnya, tapi diekspresikan lewat kerangka yang lebih tradisional."
+      },
+      "traits": {
+        "E": {
+          "score": 2,
+          "reason": {
+            "en": "Formal and reserved — Reddit notes that 'first-year Kozue was grumpy as hell' and she grew warmer over time through Fe service and leadership duty rather than natural sociability. She's genuinely leadership-oriented (club president, teaches keyboard and composition, hosts streams), but the warmth is performed Fe, not freely radiated. Less extroverted than Ai or Setsuna precisely because her leadership is duty-driven rather than personality-driven.",
+            "ja": "フォーマルで控えめ——Reddit によれば「1年生の頃の梢は機嫌が最悪だった」そうで、自然な社交性ではなく Fe のサービスと義務的なリーダーシップを通じて徐々に温かみを増していった。部長、鍵盤・作曲の指導、配信ホストと、リーダー志向は本物だが、温かさはあくまで演じられた Fe であり、自然に放射されるものではない。彼女のリーダーシップが性格ではなく義務に基づいているぶん、愛や夕霧せつなほど外向きではない。",
+            "id": "Formal dan pendiam — Reddit nyebutin kalau 'Kozue tahun pertama itu cemberut banget' dan dia jadi lebih hangat seiring waktu lewat tugas Fe dan kepemimpinan, bukan sosiabilitas alami. Dia beneran orientasi leadership (ketua club, ngajarin keyboard dan komposisi, host stream), tapi kehangatan itu Fe yang diperformakan, bukan yang terpancar bebas. Nggak se-ekstrovert Ai atau Setsuna justru karena kepemimpinannya didorong kewajiban, bukan kepribadian."
+          }
+        },
+        "J": {
+          "score": 9,
+          "reason": {
+            "en": "Extremely high — possibly max-J for Hasunosora. She runs perfectionist and rigorous training regimens, enforces disciplined practice, uses a formal hierarchical speech system, and assigns strength training as punishment. Reddit reinforces it: she 'meticulously planned' the multi-step Kaho recruitment (tea bonding → manager role → gradual introduction), and sustained a singular dream pursuit for three full years with near-total structural discipline. Careful preparation isn't just a habit — it's her entire operating system.",
+            "ja": "非常に高い——蓮ノ空で最も J に近いかもしれない。完璧主義で厳格なトレーニング体制を敷き、規律ある練習を義務付け、形式的な階層的敬語体系を使い、懲罰として筋トレを課す。Reddit も裏付けている：加穂の勧誘を「緻密に計画」し（お茶での絆作り→マネージャー役→段階的な導入）、3年間ほぼ完全な構造的規律で一つの夢を追い続けた。入念な準備は単なる習慣ではなく、彼女の全オペレーティングシステムだ。",
+            "id": "Sangat tinggi — mungkin yang paling J di Hasunosora. Dia jalanin regimen latihan yang perfeksionis dan ketat, tegakkan praktik yang disiplin, pakai sistem bicara hierarkis formal, dan kasih latihan kekuatan sebagai hukuman. Reddit ngonfirmasi: dia 'merencanakannya dengan teliti' untuk rekrutmen Kaho yang multi-langkah (bonding lewat teh → peran manajer → pengenalan bertahap), dan bertahan pada satu mimpi selama tiga tahun penuh dengan disiplin struktural hampir total. Persiapan yang matang bukan sekadar kebiasaan — itu seluruh sistem operasinya."
+          }
+        },
+        "T": {
+          "score": -3,
+          "reason": {
+            "en": "Feeling-oriented with real discipline. Her greatest talent is emotional expression through singing — 'when it comes to singing, it is Kozue' — and her deepest attachments are interpersonal, shown by the fact that she only drops honorifics for 'especially treasured people.' The discipline and structure around her feelings is very T on the surface, but the motivation underneath is F all the way. Moderately F.",
+            "ja": "本物の規律を持ちつつも、感情志向。「歌うことに関しては梢」と言われる彼女の最大の才能は歌を通じた感情表現であり、最も深い絆は対人関係に根ざしている——特別に大切な人だけに敬語を外すという事実がそれを示す。感情に関わる規律と構造は表面的には T に見えるが、その根底にある動機は完全に F。やや F 寄り。",
+            "id": "Berorientasi perasaan tapi dengan disiplin yang nyata. Bakat terbesarnya adalah ekspresi emosional lewat menyanyi — 'kalau soal menyanyi, ya Kozue' — dan keterikatan terdalamnya bersifat interpersonal, terlihat dari fakta bahwa dia cuma lepas honorifik buat 'orang yang sungguh-sungguh berharga'. Disiplin dan struktur di sekitar perasaannya kelihatan T di permukaan, tapi motivasi di baliknya sepenuhnya F. Agak F."
+          }
+        },
+        "C": {
+          "score": -3,
+          "reason": {
+            "en": "Low self-esteem is one of her most defining character traits. She insists she has 'no real talent' despite elite ability, compares herself unfavorably to Kaho's brightness, and didn't even expect to become club president — she assumed Megumi would get it. Reddit confirms the self-esteem issue persists throughout all three of her years. There's a real gap between the polished exterior and the insecurity underneath.",
+            "ja": "低い自己評価は彼女の最も重要なキャラクター特性のひとつ。エリートの実力があるのに「本当の才能はない」と言い張り、加穂の明るさと自分を比べては引け目を感じ、部長になるとさえ思っていなかった——めぐが担うだろうと思っていた。Reddit も 3年間を通じてこの自己評価の低さが持続していることを確認している。洗練された外見と内側の不安感の乖離は本物だ。",
+            "id": "Harga diri yang rendah adalah salah satu ciri karakter terpentingnya. Dia ngotot punya 'bakat yang nyata nggak ada' padahal kemampuannya elite, bandingin diri sendiri dengan kecerahan Kaho dengan nggak menguntungkan dirinya, dan bahkan nggak nyangka bakal jadi ketua club — dia kira Megumi yang bakal dapet itu. Reddit ngonfirmasi masalah harga diri ini bertahan sepanjang ketiga tahunnya. Ada jarak nyata antara tampilan luar yang dipoles dan keraguan di dalamnya."
+          }
+        },
+        "M": {
+          "score": 9,
+          "reason": {
+            "en": "Near-max. Reddit is explicit: 'her dream of winning Love Live was her main motivation that moved her throughout the years' — a singular obsessive goal sustained for three full years. The post-achievement creative paralysis (couldn't compose after winning) shows just how totalizing that ambition was. Her graduation song 'Be Proud' reflects how completely the dream organized her entire life.",
+            "ja": "ほぼ最大値。Reddit がはっきり述べている：「Love Live 優勝という夢が、彼女を何年にもわたって動かし続けた主な動機だった」——3年間持続した単一の執念的な目標。達成後の創作麻痺（優勝後に曲が書けなくなった）が、その野心がいかに全てを占領していたかを示している。卒業ソング「Be Proud」は、その夢が彼女の人生全体をいかに組織していたかを反映している。",
+            "id": "Hampir maksimal. Reddit tegas soal ini: 'mimpinya untuk menang Love Live adalah motivasi utama yang menggerakkannya selama bertahun-tahun' — satu tujuan obsesif yang dipertahankan selama tiga tahun penuh. Kelumpuhan kreatif pasca-pencapaian (nggak bisa nulis lagu setelah menang) nunjukin betapa totalnya ambisi itu. Lagu kelulusannya 'Be Proud' mencerminkan betapa sempurnanya mimpi itu mengorganisir seluruh hidupnya."
+          }
+        },
+        "O": {
+          "score": 0,
+          "reason": {
+            "en": "Genuinely mixed. She burned out after winning Love Live — slumped into creative paralysis, couldn't write new songs — and Reddit notes she 'gets badly sick at least once per year' from overworking, and that her first year she was 'grumpy as hell.' But she 'rarely cries, almost never gives up,' and eventually found a new dream. Real resilience balanced against the crushing weight of her own perfectionism. Net neutral.",
+            "ja": "本当に混在している。Love Live 優勝後に燃え尽き——創作麻痺に陥り、新曲が書けなくなった。Reddit によれば過労で「年に少なくとも1回は本格的に体を壊す」とされ、1年生の頃は「機嫌が最悪」だった。でも「ほとんど泣かず、ほぼ諦めない」彼女は最終的に新しい夢を見つけた。本物のレジリエンスと、自分自身の完璧主義の重さとのバランス。ネット中立。",
+            "id": "Beneran campur. Dia burnout setelah menang Love Live — terjatuh dalam kelumpuhan kreatif, nggak bisa nulis lagu baru — dan Reddit nyebut dia 'sakit parah setidaknya sekali setahun' akibat kerja berlebihan, dan tahun pertamanya dia 'cemberut banget'. Tapi dia 'jarang nangis, hampir nggak pernah nyerah,' dan akhirnya nemu mimpi baru. Ketahanan nyata yang dikimbangi oleh beban perfeksionismenya sendiri. Nol di tengah."
+          }
+        },
+        "A": {
+          "score": 5,
+          "reason": {
+            "en": "Genuinely caring within her formal framework. She taught multiple club members their crafts — keyboard, composition — and is deeply loyal, though emotionally reserved. The honorific-dropping only for 'especially treasured people' tells you a lot about how deliberate and real her attachments are. She also got physically in front of Kaho when Megumi was being intimidating. Not openly warm like Ai, but deeply invested in specific people — tempered only by her shouting matches with Megumi and the tunnel vision of her perfectionism.",
+            "ja": "形式的な枠組みの中での本物の気遣い。鍵盤・作曲など複数の部員に技術を教え、感情的に控えめではあるが深く義理固い。「特別に大切な人」だけに敬語を外すという事実が、彼女の愛着がいかに意図的で本物であるかを物語っている。めぐが威圧的だったとき、加穂をかばって前に出たこともある。愛ほどオープンに温かくはないが、特定の人々への投資は深い——めぐとの口喧嘩や完璧主義のトンネルビジョンによって和らげられてはいるものの。",
+            "id": "Penuh perhatian yang tulus dalam kerangka formalnya. Dia ngajarin beberapa anggota club keahlian mereka — keyboard, komposisi — dan sangat setia, meski secara emosional tertutup. Fakta bahwa dia cuma lepas honorifik buat 'orang yang sungguh-sungguh berharga' nunjukin betapa disengajanya dan nyatanya keterikatan dia. Dia juga secara fisik berdiri di depan Kaho waktu Megumi lagi intimidating. Nggak se-hangat Ai secara terbuka, tapi investasi emosionalnya pada orang-orang tertentu dalam banget — dikurangi hanya oleh adu teriak dengan Megumi dan tunnel vision perfeksionismenya."
+          }
+        },
+        "U": {
+          "score": -2,
+          "reason": {
+            "en": "A pretty conventional archetype at the core. Handsome ojou-sama, honor student, from a classical musical family with multiple beach villas — she slots neatly into the sheltered-refined rich-girl trope, and Reddit explicitly compares her to Ren from other Love Live content. Her quirks (tech illiteracy, stargazing, wool felting, protein supplements, guinea-pig-car plushies) are charming and endearing but feel like flavor rather than deep eccentricity. Core archetype is conventional.",
+            "ja": "根本的にはかなり型通りのアーキタイプ。ハンサムなお嬢様、優等生、複数の海辺の別荘を持つクラシック音楽家の家系——「箱入りお嬢様」のトロープにスッポリはまっていて、Reddit は明示的に他の Love Live コンテンツの「蓮」と比較している。彼女の独自性（テクノロジー苦手、星空観察、羊毛フェルト、プロテインサプリ、モルモット型のぬいぐるみ）は愛らしいが、深いエキセントリシティというより味付けに感じる。コアのアーキタイプはコンベンショナル。",
+            "id": "Arketipe yang cukup konvensional di intinya. Ojou-sama yang tampan, murid berprestasi, dari keluarga musisi klasik dengan beberapa villa tepi pantai — dia cocok banget dengan trope gadis kaya-terpelihara-elegan, dan Reddit secara eksplisit bandingkan dia dengan Ren dari konten Love Live lain. Keanehan-keanehannya (buta teknologi, melihat bintang, wool felting, suplemen protein, plushie berbentuk marmut) itu menggemaskan tapi kerasa lebih seperti bumbu daripada eksentrisitas yang dalam. Arketipe intinya konvensional."
+          }
+        },
+        "N": {
+          "score": -4,
+          "reason": {
+            "en": "Strongly grounded in concrete Si. She draws on musical family heritage, classical instruments since childhood, memorized sayings like 'stand like a peony,' keeps physical failure-objects as penance mementos. The most telling evidence is her post-win creative paralysis: after achieving her singular concrete goal, she couldn't generate a new dream without external structure — her inferior Ne simply doesn't self-initiate. The tech illiteracy pattern is diagnostic too: she memorizes procedures instead of understanding systems. Default mode is backward-looking and concrete.",
+            "ja": "具体的な Si に強く根ざしている。音楽家の家系という文化遺産、幼い頃からのクラシック楽器、「牡丹のように立て」といった暗記した格言、贖罪の記念物として手元に置く実物の失敗オブジェクト。最も示唆的な証拠は優勝後の創作麻痺：単一の具体的な目標を達成した後、外部の構造なしに新しい夢を作り出せなかった——劣等機能 Ne は自力では起動しない。テクノロジーの不得意パターンも診断的：システムを理解するのではなく手順を丸暗記する。デフォルトモードは後ろ向きで具体的。",
+            "id": "Berakar kuat di Si yang konkret. Dia bersandar pada warisan keluarga musik, alat musik klasik sejak kecil, pepatah yang dihafal seperti 'berdiri seperti bunga peony,' dan menyimpan benda-benda kegagalan fisik sebagai mementos penebusan. Bukti paling kuat adalah kelumpuhan kreatif pasca-kemenangan: setelah mencapai satu tujuan konkret tunggalnya, dia nggak bisa hasilkan mimpi baru tanpa struktur eksternal — Ne inferior-nya memang nggak self-initiate. Pola buta teknologinya juga diagnostik: dia menghafal prosedur alih-alih memahami sistem. Mode default-nya selalu mundur ke belakang dan konkret."
+          }
+        }
+      }
+    }
+  }
+}
