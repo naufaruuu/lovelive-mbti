@@ -1,0 +1,97 @@
+{
+  "kotori_minami": {
+    "color": "#cebfbf",
+    "name": {
+      "en": "Kotori Minami",
+      "ja": "南ことり",
+      "id": "Kotori Minami"
+    },
+    "desc": {
+      "en": "Kotori is the warm, gentle heart of μ's — a childhood best friend of Honoka and Umi, and the daughter of Otonokizaka's chairwoman. She's the group's wardrobe supervisor and the one designing all of μ's iconic costumes, despite describing herself as clumsy and not at all confident about being an idol. Shy and famously indecisive, she needs her friends to make decisions for her — but when it comes to fashion, she's quietly brilliant. She once secretly worked at a maid café as \"Minalinsky\" to fund her craft, and nearly left Japan to study fashion abroad before Honoka came running to the airport.",
+      "ja": "ことりはμ'sの温かくて優しい心。穂乃果・海未とは幼馴染で、乙女坂学院の理事長の娘でもあります。グループのコスチューム担当として、μ'sのステージ衣装をすべてデザインしている子だけど、自己紹介では「私、アイドルとしてはまったく自信がなくて……」って言ってしまうタイプ。内気で優柔不断、決断は穂乃果と海未に任せっぱなしだけど、ファッションのことになると静かな才能が光る。「ミナリンスキー」の名前でメイドカフェでアルバイトして衣装制作の資金を貯めたり、ファッションを学ぶために海外留学を決意しかけたり——でも最後は空港まで走ってきた穂乃果に引き止められた。",
+      "id": "Kotori itu jantungnya μ's yang hangat dan lembut — sahabat masa kecil Honoka dan Umi sekaligus putri dari ketua yayasan Otonokizaka. Di grup dia pegang peran sebagai wardrobe supervisor, dialah yang desain semua kostum ikonik μ's, meskipun dia sendiri bilang dirinya ceroboh dan nggak pede sama sekali soal jadi idol. Pemalu dan terkenal paling gampang bimbang di antara semua anggota — keputusan apapun diserahin ke Honoka sama Umi. Tapi soal fashion, dia diam-diam jenius. Pernah kerja part-time di maid café sebagai \"Minalinsky\" buat ngumpulin dana beli bahan, dan nyaris beneran cabut ke luar negeri buat belajar fashion — sampai Honoka berlari-lari ke bandara menahannya."
+    },
+    "mbti": {
+      "type": "ISFJ",
+      "reason": {
+        "en": "ISFJ — dissenting from the majority fan vote of ESFJ (238 vs 56). The 80/20 split smells like aesthetic projection: \"feminine + cute + caring + altruistic\" reads ESFJ as a default without closely checking whether her engine is Fe-dominant or Fe-auxiliary. The decisive axis here is E vs I — both camps agree on the Si-Fe stack, just in different order. What tips it ISFJ is the cumulative passive-conservative-engine pattern. Her self-intro is the purest ISFJ follower template in μ's: \"Maybe I can do it if I'm with everyone?\" — she didn't initiate, she was carried along. Reddit put it plainly: she's a follower, not a leader. ESFJ Fe-dom would more actively drive group cohesion; Kotori is pulled by the group, not pulling it. She's also described as the most indecisive person in μ's, routinely needing Honoka and Umi to decide for her — Fe-doms consult others but still drive; Kotori genuinely can't move without external input. The abroad arc is the cleanest diagnostic: she packed one suitcase, went to the airport, and waited — she needed Honoka to come stop her rather than processing the decision through the group actively. What she really wanted was for someone to tell her to stay, to make her feel wanted. That's pure Fe-aux pulling for external validation, not Fe-dom broadcasting group-harmony outward. Her fashion-craft mastery is Si-dom style: elaborate, detail-intensive, replication-based. And the Minalinsky maid café was a secret compartmentalized life she hid even from her closest friends — ESFJ Fe-dom would more naturally integrate and broadcast. The ESFJ case is real and the fan majority isn't wrong to notice the Fe, but the engine running Kotori is Si-dom-conservative-anchor with Fe-aux-deferral, not Fe-dom-active-driver.",
+        "ja": "タイプはISFJ——ファン多数票のESFJ（238票対56票）に異を唱える形です。この80/20の偏りは「女の子らしい＋かわいい＋優しい＋面倒見がいい」→ESFJ、というステレオタイプ投影の匂いがする。Si-Feスタックという点では両陣営の意見が一致していて、問題はその順番——つまりEかIかだけ。ISFJに傾く決め手は、彼女のエンジンが一貫して「受け身で保守的」なことです。自己紹介はμ'sで一番わかりやすいISFJフォロワーのテンプレート：「みんなと一緒ならできるかも？」——自分から動いたんじゃなく、引っ張られた。Redditも端的に言い切ってる：「リーダーじゃなくフォロワー」。ESFJ Fe支配なら集団の結束をもっと能動的に動かすはず。ことりは集団に引っ張られる側。μ'sの中で最も優柔不断とされていて、穂乃果と海未に決断を委ねることが習慣になっている——Fe支配は他人に相談しながらも最終的に自分で動く、でもことりは外部の入力なしには動けない。留学アークがいちばん鮮明な診断材料です：スーツケース一個で空港まで行って、待った。穂乃果に来てもらう必要があった。本当に望んでいたのは「誰かに引き止めてほしかった、自分が必要とされていると感じたかった」ということ——これはFe補助が外部からの確認を必要としている状態で、Fe主導が外向きにグループの調和を発信しているのとは違う。ファッションへの熟練はSi主導的な精緻な細部へのこだわりで、「ミナリンスキー」のメイドカフェは親友にも隠した区画された秘密の生活だった——ESFJ Fe支配ならもっと自然に統合して周囲に見せるはず。ESFJ説には筋があるし、ファン多数がFeを認識したのは正しいけれど、ことりを動かしているエンジンはSi主導の保守的なアンカー＋Fe補助の委任であって、Fe主導の能動的なドライバーではない。",
+        "id": "ISFJ — ini dissent dari voting mayoritas fans yang milih ESFJ (238 vs 56). Selisih 80/20 itu rasanya lebih ke proyeksi estetika: \"feminim + imut + peduli + altruistik\" langsung kepikiran ESFJ tanpa dicek lebih dalam apakah engine-nya Fe-dominan atau Fe-auxiliari. Satu-satunya sumbu yang diperdebatkan di sini ya E vs I — dua kubu sepakat soal stack Si-Fe, tinggal urutannya. Yang bikin condong ke ISFJ adalah pola engine-nya yang konsisten pasif dan konservatif. Intro karakternya itu template ISFJ follower paling bersih di μ's: \"Mungkin aku bisa kalau bareng semua orang?\" — dia nggak inisiatif, dia yang didorong. Reddit bilang blak-blakan: dia follower, bukan leader. ESFJ dengan Fe-dom bakal lebih aktif nggerakin kohesi grup; Kotori yang ditarik grup, bukan yang narik. Dia juga disebut sebagai anggota paling bimbang di μ's, rutin nyerahin keputusan ke Honoka sama Umi — Fe-dom mungkin konsultasi ke orang lain tapi tetap yang gerak duluan; Kotori beneran nggak bisa gerak tanpa input dari luar. Arc luar negerinya itu diagnostik yang paling jelas: dia bawa satu koper, pergi ke bandara, dan nunggu — dia butuh Honoka datang nahannya, bukan dia yang aktif proses keputusan lewat grup. Yang sebenernya dia mau itu ada yang bilang \"tolong tetap di sini\", ada yang bikin dia ngerasa dibutuhkan. Itu Fe-aux yang butuh validasi eksternal, bukan Fe-dom yang broadcast harmoni grup keluar. Keahlian fashion-nya itu gaya Si-dom: elaboratif, detail-intensif, berbasis replikasi. Dan Minalinsky di maid café itu kehidupan rahasia yang dia sembunyiin bahkan dari sahabat terdekatnya — ESFJ Fe-dom lebih natural buat integrate dan tunjukin ke orang. Argumen ESFJ ada dasarnya dan mayoritas fans nggak salah ngenali Fe-nya, tapi engine yang jalanin Kotori itu Si-dom sebagai anchor konservatif dengan Fe-aux yang deferensial, bukan Fe-dom sebagai driver aktif."
+      },
+      "traits": {
+        "E": {
+          "score": -4,
+          "reason": {
+            "en": "Solid introvert. Her baseline is shy and reserved — soft, almost helium-pitched voice, head perpetually in the clouds, and a self-described clumsiness that positions her as passive by nature. She's a follower, not an initiator. That said, she's not the deepest introvert in the cast: the warmth of the childhood trio flows comfortably, and the Minalinsky maid café persona shows she has Fe-capacity in bounded, comfortable contexts.",
+            "ja": "しっかりしたI寄り。ベースラインは内気で物静か——独特のヘリウムっぽい声、いつもふわふわしている「天然」キャラ、自分でも「おっちょこちょい」と認めている受け身な自己定位。フォロワーであってイニシアチブを取る側ではない。ただし最深のイントロバートというわけでもなくて、幼馴染トリオとの間では温かみが自然に流れるし、「ミナリンスキー」のメイドカフェは、安心できる文脈ではFeの容量が発揮されることを示している。",
+            "id": "Introvert yang solid. Baseline-nya pemalu dan kalem — suaranya lembut hampir kayak helium, kepalanya selalu melayang-layang, dan sifat ceroboh yang dia akui sendiri bikin dia secara natural lebih ke posisi pasif. Follower, bukan initiator. Tapi bukan introvert paling dalam di cast: kehangatan trio masa kecil mengalir dengan nyaman, dan persona maid café Minalinsky nunjukin kalau kapasitas Fe-nya ada, asal di konteks yang aman dan terbatas."
+          }
+        },
+        "J": {
+          "score": 4,
+          "reason": {
+            "en": "Solid J through work and craft discipline. Kotori's Holiday explicitly calls her \"the type of person who can't relax unless all the work is done as soon as possible.\" She's an honor student and has produced μ's elaborate costumes across multiple years — that level of sustained craft output demands Si-detail mastery. Tempered a bit by her indecisive streak: J-decisiveness falls apart in her personal-choice domain, where she needs others to choose for her.",
+            "ja": "仕事とクラフトへの規律を通じてしっかりJです。「ことりのホリデー」では明示的に「仕事が全部終わらないと落ち着けないタイプ」と書かれている。優等生でもあり、複数年にわたってμ'sの精巧な衣装を作り続けている——そのレベルの持続的なクラフト出力はSiの細部への習熟が必要。ただ優柔不断な一面がテンパーになっていて、個人的な選択の場面では決断力が崩れ、他者に委ねることになる。",
+            "id": "J yang solid lewat disiplin kerja dan kerajinan. \"Kotori's Holiday\" eksplisit bilang dia \"tipe yang nggak bisa santai kalau kerjaan belum kelar semua secepat mungkin.\" Dia murid teladan dan udah produksi kostum-kostum elaborate μ's selama bertahun-tahun — level output kerajinan yang konsisten kayak gitu butuh kemampuan Si yang detail-intensif. Diimbangi sedikit sama sifat bimbangnya: decisiveness-nya ala J ambyar di domain pilihan pribadi, di mana dia butuh orang lain yang mutusin untuknya."
+          }
+        },
+        "T": {
+          "score": -5,
+          "reason": {
+            "en": "Strong F, no analytical edge anywhere. She's explicitly described as the most altruistic in μ's — she cares more about how others feel than how she herself feels. Her entire cognitive mode runs on emotion: peacemaker between Honoka and Umi, suppresses her own feelings to protect others, fell for Nico's personal-chef lie without a second thought. Same F-depth as Honoka.",
+            "ja": "しっかりF、分析的な側面はどこにもない。μ'sの中で最も利他的と明示されている——自分の感情よりも他者の感情を優先する。認知のすべてが感情ベース：穂乃果と海未の仲裁役、自分の気持ちを抑えて他者を守る、ニコの「専属シェフ」の嘘にも疑いなく引っかかる。穂乃果と同じFの深さ。",
+            "id": "F yang kuat, nggak ada sisi analitis sama sekali. Dia eksplisit disebut yang paling altruistik di μ's — dia lebih peduli perasaan orang lain daripada perasaannya sendiri. Seluruh mode kognitifnya berjalan lewat emosi: jadi penengah antara Honoka dan Umi, menekan perasaannya sendiri buat lindungi orang lain, bahkan kena tipu kebohongan soal \"chef pribadi\"-nya Nico tanpa curiga sedikit pun. Kedalaman F yang sama kayak Honoka."
+          }
+        },
+        "C": {
+          "score": -5,
+          "reason": {
+            "en": "Low self-assurance is baked into her intro: \"Kotori isn't confident at all about being an idol\" and \"let's try my best not to get in the way of my friends!\" — that's self-as-burden framing. She's described as the most indecisive in μ's, systematically defers to others, and fell for Nico's lie (gullibility as a confidence signal). The \"yandere meme\" originated from her insecurity-and-clinginess pattern. Bounded confidence exists in fashion — she clearly takes pride in her craft — but that domain-specific mastery barely dents the overall low baseline.",
+            "ja": "自己肯定感の低さは彼女の自己紹介に根ざしている：「アイドルとしてはまったく自信がなくて」「友達の邪魔にならないように頑張ります！」——これは「自分が重荷」という自己定位。μ'sの中で最も優柔不断とされていて、体系的に他者に委ね、ニコの嘘にも引っかかる（騙されやすさは自信の指標）。「ヤンデレミーム」は彼女の不安と依存のパターンから生まれた。ファッション分野では限定的な自信があって、クラフトへの誇りは確実に持っているけど、それが全体的に低いベースラインを大きく変えるほどではない。",
+            "id": "Rasa percaya diri yang rendah itu udah tertanam di intro-nya: \"Kotori nggak pede sama sekali soal jadi idol\" dan \"aku mau coba yang terbaik biar nggak ngerepotin temen-temenku!\" — itu framing diri sebagai beban. Dia disebut paling bimbang di μ's, secara sistematis nyerahin keputusan ke orang lain, dan kena tipu Nico (gampang ditipu itu sinyal kepercayaan diri). \"Yandere meme\" lahir dari pola insekuritas dan ketergantungannya. Ada kepercayaan diri yang terbatas di soal fashion — dia jelas bangga sama craft-nya — tapi spesialisasi domain itu nggak banyak geser baseline rendah secara keseluruhan."
+          }
+        },
+        "M": {
+          "score": 1,
+          "reason": {
+            "en": "Low drive per the WANT not WORK rule. She joined μ's entirely because her friends did — \"Maybe I can do it if I'm with everyone?\" is the classic low-M follower entry. She did have her own want (studying fashion abroad in Europe), but couldn't act on it without external permission, and ultimately gave it up when Honoka came to the airport. She's a hard worker in craft terms, but the want is small-scale personal passion, not driving ambition.",
+            "ja": "「欲求」ルールで見るとMは低い。μ'sに参加したのは完全に「友達がやるから」——「みんなと一緒ならできるかも？」は低Mフォロワーの参入テンプレートそのもの。ヨーロッパでのファッション留学という自分の欲求はあったけど、外からの許可なしには動けず、最終的には空港まで来た穂乃果に会って留まった。クラフトとしての仕事熱心さはあるけれど、その欲求は小規模な個人的クラフトへのpassionであって、推進する野心ではない。",
+            "id": "Drive-nya rendah kalau pakai aturan WANT bukan WORK. Dia gabung μ's sepenuhnya karena temennya ikut — \"Mungkin aku bisa kalau bareng semua orang?\" itu template follower low-M yang klasik. Dia punya keinginan sendiri (belajar fashion di Eropa), tapi nggak bisa gerak tanpa izin dari luar, dan akhirnya nyerahin mimpinya itu waktu Honoka datang ke bandara. Dia memang pekerja keras soal craft, tapi keinginannya itu passion pribadi skala kecil, bukan ambisi yang mendorong."
+          }
+        },
+        "O": {
+          "score": 1,
+          "reason": {
+            "en": "Slight positive. Cheerful, warm, and dreamy by default — a gentle positive internal world rather than an anxious spiral. She maintains forward warmth throughout μ's growth arc in S1. Tempered by a real undercurrent of anxiety: insecure about being an idol, prone to decision paralysis, and the yandere-meme insecurity-extension shows the anxiety isn't surface-level. No strong resilience arc at Honoka/Chika tier — a gentle, earned warmth rather than bounce-back optimism.",
+            "ja": "わずかにプラス寄り。デフォルトは明るく温かくてふわふわ——不安の渦ではなく、穏やかでポジティブな内的世界。S1のμ'sの成長アークを通じて前向きな温かみを維持している。ただ実際の不安の底流もあって：アイドルとしての自信のなさ、決断麻痺の傾向、ヤンデレミームの不安延長がその不安が表面的ではないことを示している。穂乃果やチカレベルの強い回復力のアークはなく——弾き返す楽観主義というより、穏やかで積み重ねた温かみ。",
+            "id": "Sedikit positif. Defaultnya ceria, hangat, dan penuh angan — dunia dalam yang lembut dan positif daripada spiral kecemasan. Dia jaga kehangatan yang ke depan sepanjang arc pertumbuhan μ's di S1. Diimbangi sama undercurrent kecemasan yang nyata: nggak pede soal jadi idol, gampang lumpuh dalam pengambilan keputusan, dan meme yandere menunjukkan kecemasannya itu bukan level permukaan. Nggak ada arc ketangguhan sekuat Honoka atau Chika — ini kehangatan yang lembut dan diperoleh pelan-pelan, bukan optimisme yang langsung bangkit."
+          }
+        },
+        "A": {
+          "score": 7,
+          "reason": {
+            "en": "Top of the A-range. The raw text uses a superlative: \"easily the most altruistic character in her group, and cares more how others feel than how she does herself.\" She's the 2nd-year-trio peacemaker, systematically suppresses her own feelings to protect others, kept the abroad letter secret \"for Honoka's and the group's sake,\" and as Reddit puts it: \"will always listen to you and never ask anything, and sometimes, that's to her own detriment.\" Tempered slightly by the passivity-as-avoidance angle — doing favors in advance to dodge conflict isn't purely altruism — but the overall pattern is genuine, systematic other-prioritization.",
+            "ja": "Aの上位。生データは最上級表現を使っている：「グループの中で間違いなく最も利他的なキャラで、自分よりも他者の気持ちを優先する」。2年生トリオのピースメーカーであり、他者を守るために自分の気持ちを体系的に抑え、留学の手紙を「穂乃果のため、グループのため」に秘密にし、Redditが言うように「いつでも話を聞いてくれて、何も求めない、そしてそれが時として自分の損になる」。「事前に先回りして好意をする」のが対立回避であって純粋な利他主義ではないという側面がわずかにテンパーになっているが、全体的なパターンは本物の体系的な他者優先。",
+            "id": "Paling atas di range A. Teks aslinya pakai superlative: \"dengan mudah karakter paling altruistik di grupnya, dan lebih peduli perasaan orang lain daripada perasaannya sendiri.\" Dia jadi penengah di trio kelas 2, secara sistematis menekan perasaannya sendiri demi orang lain, menyembunyikan surat luar negeri \"demi Honoka dan grup\", dan seperti kata Reddit: \"selalu mau dengerin kamu tanpa minta apa-apa balik, dan kadang itu jadi kerugian buat dirinya sendiri.\" Diimbangi sedikit sama sudut pasif-sebagai-penghindaran — melakukan kebaikan di muka buat menghindari konflik itu bukan altruisme murni — tapi pola keseluruhannya adalah prioritisasi orang lain yang tulus dan sistematis."
+          }
+        },
+        "U": {
+          "score": -2,
+          "reason": {
+            "en": "Low-moderate. There's real external specificity: chairwoman-mother heritage, fashion-designer wardrobe-supervisor role, the secret Minalinsky maid-café life, the helium-pitched distinctive voice, bird-symbolism in her name (\"Kotori\" = \"little bird\"), and she originated both the \"Kotobomb\" and the franchise-wide yandere meme. But the inner personality is conventional: shy, sweet, altruistic fashion girl executed warmly. The external markers offset what is a pretty archetypal interior.",
+            "ja": "低〜中程度のマイナス。外見的な独自性は確かにある：理事長の娘という出自、ファッションデザイナー兼コスチューム担当というロール、「ミナリンスキー」の秘密のメイドカフェ生活、独特のヘリウムっぽい声、名前の鳥モチーフ（「ことり」＝「小鳥」）、「コトボム」とシリーズ全体のヤンデレミームを生み出した発祥地でもある。ただし内面的な人格は王道：内気でかわいくて利他的なファッション好きの女の子、温かみをもって実行されている。外部の特徴がかなり典型的な内面を相殺している。",
+            "id": "Low-moderate ke negatif. Ada kekhasan eksternal yang nyata: latar belakang putri ketua yayasan, peran fashion-designer sekaligus wardrobe supervisor, kehidupan rahasia maid café sebagai Minalinsky, suara yang khas hampir seperti helium, simbolisme burung di namanya (\"Kotori\" = \"burung kecil\"), dan dia yang mengawali \"Kotobomb\" dan meme yandere di seluruh franchise. Tapi kepribadian dalamnya konvensional: cewek fashion pemalu, manis, altruistik yang dieksekusi dengan hangat. Penanda eksternalnya yang mengimbangi interior yang cukup pakem itu."
+          }
+        },
+        "N": {
+          "score": -5,
+          "reason": {
+            "en": "Strongly S. Si-dom reads all over her: fashion-craft mastery requires Si detail-attention and replication (she designs elaborate costumes that \"look really challenging to replicate\"), her comfort zone is the known childhood-trio bond, and she defaults to staying with the familiar rather than imagining alternatives. Inferior-Ne shows in her gullibility — she didn't even consider that Nico's personal-chef story might be false. The \"head in the clouds\" quality reads as spacey-Si-Fe distraction or daydreamer-passivity, not abstract-conceptual Ne. Her actual cognitive output is concrete fashion-design detail.",
+            "ja": "しっかりSです。Si主導の特徴が全面に出ている：ファッションクラフトの熟練はSiの細部への注意と再現を必要とする（「本当に複製が難しそう」と言われる精巧な衣装をデザインする）、コンフォートゾーンは既知の幼馴染トリオとの絆、代替案を想像するよりも慣れ親しんだものにとどまることがデフォルト。劣等Neは騙されやすさに現れている——ニコの「専属シェフ」の話が嘘かもしれないとも考えなかった。「天然でふわふわ」という特質は抽象的・概念的なNeの認知ではなく、分散したSi-Feの注意の散漫さや受け身の夢想家的な受動性として読める。実際の認知出力は具体的なファッションデザインの細部。",
+            "id": "S yang kuat. Ciri-ciri Si-dom ada di mana-mana: keahlian fashion-craft butuh perhatian detail Si dan replikasi (dia desain kostum-kostum elaborate yang \"kelihatannya susah banget buat direplikasi\"), zona nyamannya adalah ikatan trio masa kecil yang sudah dikenal, dan defaultnya tetap di yang familiar daripada membayangkan alternatif. Ne inferior keliatan dari sifat gampang percayanya — dia bahkan nggak mikir bahwa cerita \"chef pribadi\"-nya Nico bisa saja bohong. Sifat \"melayang-layang\" itu terbaca sebagai distraksi Si-Fe yang spacey atau pasifnya pemimpi, bukan Ne yang konseptual-abstrak. Output kognitif aktualnya adalah detail desain fashion yang konkret."
+          }
+        }
+      }
+    }
+  }
+}

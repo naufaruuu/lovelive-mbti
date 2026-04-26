@@ -1,0 +1,97 @@
+{
+  "hanayo_koizumi": {
+    "color": "#6ae673",
+    "name": {
+      "en": "Hanayo Koizumi",
+      "ja": "小泉花陽",
+      "id": "Hanayo Koizumi"
+    },
+    "desc": {
+      "en": "Hanayo is a first-year school idol in μ's who has dreamed of being an idol since she was a baby — but she was so shy she couldn't even say it out loud until Rin and Maki literally pushed her through the door. Off-stage she's the definition of reserved: soft-spoken, easily startled, quick to apologize. The moment school idols come up, though, she defrosts instantly into an encyclopedia of enthusiasm. She's also the school's alpaca caretaker, a devoted rice lover, and eventually succeeds Nico as president of the Idol Research Club.",
+      "ja": "花陽はμ'sの1年生スクールアイドルで、生まれた頃からずっとアイドルになりたかった子。でもシャイすぎて、りんとMakiに文字どおり押し込まれるまで、自分の気持ちを口に出せなかった。ふだんは控えめで、おどおどしやすく、すぐ「ごめんなさい」が出てくるタイプ。でもスクールアイドルの話題になった瞬間、一気にスイッチが入って熱量全開の百科事典に変わる。学校のアルパカの世話係で、お米が大好きで、最終的にはニコからアイドル研究部の部長を引き継ぎます。",
+      "id": "Hanayo itu school idol year 1 di μ's yang udah ngeimpi jadi idol sejak bayi — tapi dia terlalu pemalu sampai nggak bisa ngomongnya keras-keras, dan butuh Rin sama Maki yang literally nyodor-nyodorin dia buat akhirnya ngakuin maunya. Di luar panggung, dia tipe yang pendiam banget, gampang kaget, dan reflek-nya minta maaf terus. Tapi begitu topik school idol muncul, dia langsung mencair jadi ensiklopedia idol yang penuh semangat. Di sekolah dia juga ngurusin alpaka, fanatik berat sama nasi, dan akhirnya narima jabatan ketua klub Idol Research dari Nico."
+    },
+    "mbti": {
+      "type": "ISFJ",
+      "reason": {
+        "en": "ISFJ by a landslide — 190 votes vs. 14 for INFP (~93/7), and the textual evidence aligns cleanly with the consensus. The key diagnostic is Fe-aux versus Fi-dom. Hanayo's idol dream is real and has been burning since she was a baby, but she couldn't act on it without someone else pushing her — she actually hid the passion from Rin, her best friend. That's not Fi protecting an authentic inner identity; that's Fe-aux deferring the want to avoid disrupting harmony. Fi-doms like Hanamaru or Kanon struggle to articulate their wants too, but their silence comes from an identity-wound — \"I'm not worthy\" — while Hanayo's silence is pure peacekeeping: she'd rather get pushed around than risk losing her comfortable quiet. The Si-aux is everywhere: years of encyclopedic idol-fandom knowledge built up piece by piece, a caretaker routine for the school alpacas, rice as a Si comfort anchor, concrete craft hobbies in drawing and origami, and a strong pull toward sticking to her habits over trying anything new. The Fe-aux shows up in precision attunement to bonded people — she reads Rin well enough to engineer the entire Love Wing Bell bridal-dress event so Rin gets to lead practices, and she's one of the first to pick up on how Maki is feeling. That's relational management, not just empathic resonance. The INFP case only has surface pull — introvert plus niche passion — but the cognitive engine is clearly Si-Fe, not Fi-Ne. Closest parallels are Ruby (fellow shy fangirl ISFJ with an idol-passion domain who needed a push to join) and Kotori (\"considerate towards friends' feelings, similar to Kotori\" is literally in the raw text). ESFJ is off the table entirely — her self-intro is shyness incarnate, she needs others to make decisions for her, and she cannot articulate her own wants. Fe-aux, not Fe-dom.",
+        "ja": "ISFJで圧倒的な多数決——票数は190対14でINFPを寄せ付けず（約93/7）、テキスト分析も満票支持。決め手はFe-aux対Fi-domの診断。花陽のアイドルへの夢は本物で、赤ちゃんの頃から燃え続けてきたけど、誰かに背中を押してもらわないと動けなかった。それどころか親友のりんにすら隠していた。これはFiが「本当の自分」を守る動きじゃない。Fe-auxが、波風を立てないために自分の望みを後回しにするパターン。Fi-domのはなまるやカノンも自分の気持ちをうまく言えないタイプだけど、あちらは「自分には価値がない」という自己像の傷からくるもの。花陽の場合は平和維持が目的——押しつぶされても、穏やかな日常を失うよりいい、という判断。Si-auxは至るところにある。何年もかけて積み上げてきたアイドルの百科事典的な知識、学校のアルパカの世話という日課、Si的な安心感の象徴であるお米への愛着、絵やおりがみというアナログな趣味、そして習慣に縛られやすく新しいことを試しにくいパターン。Fe-auxは絆を結んだ相手への精密な感情読み取りに現れる——りんのことを深く理解して「ラブウィングベル」のウェディングドレスイベントを丸ごとセッティングし、りんが練習を仕切れるよう場を整える。MakiがどんなことをMakiが感じているかに最初に気づく女の子でもある。これは感情の共鳴じゃなくて関係の「管理」。INFP説は「内向き＋強いニッチ好き」という外側だけ似てるけど、認知エンジンはSi-Fe。最近傍はルビー（同じく「押されなければ動けない」シャイなファンISFJで、idol-passion-domain持ち）とことり（「ことりに似て友達思い」と本文に明記）。ESFJは完全にない——自己紹介が究極のシャイ全開で、他人任せで、自分の望みを言葉にできない。Fe-domじゃなくFe-aux。",
+        "id": "ISFJ dengan margin yang jauh banget — 190 berbanding 14 vs INFP (sekitar 93/7), dan bukti dari teksnya bersih nggak ada celah. Kunci diagnosisnya ada di Fe-aux lawan Fi-dom. Mimpi Hanayo jadi idol itu nyata dan udah membara sejak bayi, tapi dia nggak bisa bergerak tanpa ada yang mendorongnya — dia bahkan menyembunyikan passion itu dari Rin, sahabat sendiri. Ini bukan Fi yang melindungi identitas otentik; ini Fe-aux yang nunda keinginannya sendiri demi nggak bikin situasi jadi canggung. Fi-dom kayak Hanamaru atau Kanon juga susah ngomong soal keinginan mereka, tapi diam mereka berakar dari luka identitas — \"aku nggak layak\" — sedangkan diamnya Hanayo murni soal menjaga kedamaian: dia lebih rela didorong-dorong daripada merusak ketenangan yang dia punya. Si-aux-nya keliatan di mana-mana: pengetahuan idol yang ensiklopedis yang dibangun selama bertahun-tahun, rutinitas ngurus alpaka sekolah, nasi sebagai comfort anchor khas Si, hobi konkret seperti menggambar dan origami, dan tarikan kuat untuk tetap di kebiasaannya daripada nyoba hal baru. Fe-aux-nya muncul lewat kepekaan yang presisi ke orang-orang terdekatnya — dia cukup kenal Rin sampai dia yang ngatur seluruh acara gaun pengantin Love Wing Bell biar Rin yang bisa memimpin latihan, dan dia salah satu yang pertama nangkep perasaan Maki. Itu bukan sekadar empati, itu manajemen relasi. Argumen INFP cuma punya daya tarik di permukaan — introvert plus passion niche — tapi mesin kognitifnya jelas Si-Fe, bukan Fi-Ne. Paralel terdekat adalah Ruby (sesama ISFJ fangirl pemalu dengan domain idol-passion yang butuh dorongan untuk gabung) dan Kotori (\"peduli pada perasaan teman, mirip Kotori\" itu literal ada di teks aslinya). ESFJ langsung gugur — self-intro-nya quintessential pemalu, dia nggak bisa ambil keputusan sendiri, dan nggak bisa ngungkapin keinginannya. Fe-aux, bukan Fe-dom."
+      },
+      "traits": {
+        "E": {
+          "score": -6,
+          "reason": {
+            "en": "Very strong introvert. Her self-intro is basically anxiety in monologue form — \"Um... excuse me... I got nervous... I'm sorry... deep breath, deep breath.\" Described as \"very shy, quiet, very reserved,\" easily scared, and someone who normally lets other people make decisions for her. \"Somebody, please help me!\" as a catchphrase says it all. She does thaw out instantly when school idols come up, but that's a bounded passion domain — the baseline is firmly inward.",
+            "ja": "かなりのイントロバート。自己紹介がほぼ不安の独白——「えっと、すみません…緊張しちゃって…ごめんなさい…深呼吸、深呼吸」。「とても内気でおとなしく、自分の意見をあまり言わない」「とても控えめ」「びっくりしやすい」「他の人に決めてもらいがち」と描写されている。キャッチフレーズが「誰か助けて！」という時点でもう言わずもがな。スクールアイドルの話になると即座に打ち解けるけど、それはあくまで限定的な情熱のドメイン——ベースのエネルギーは徹底して内向き。",
+            "id": "Introvert yang sangat dalam. Self-intro-nya hampir kayak narasi kecemasan — \"Um... permisi... aku gugup... maaf... tarik napas, tarik napas.\" Digambarkan sebagai \"sangat pemalu, pendiam, sangat tertutup\", gampang kaget, dan tipe yang biasanya biar orang lain aja yang ambil keputusan. Catchphrase-nya \"Somebody, please help me!\" udah cukup nggak sih. Dia langsung mencair begitu school idol dibahas, tapi itu domain passion yang terbatas — baseline-nya tetap sangat ke dalam."
+          }
+        },
+        "J": {
+          "score": 3,
+          "reason": {
+            "en": "Moderate J, with a specific flavor. The discipline is real: her idol-fandom knowledge is built from years of sustained Si-detail accumulation, she has a caretaker routine with the school alpacas, and she eventually shoulders the IRC president role that Nico passes down. But the J-directedness fails in the personal-choice domain — she can't make decisions for herself, gets pushed around, and is described as \"prone to giving up easily.\" The structure is there, but it's domain-specific and collapses when it's about her own wants.",
+            "ja": "モデレートなJ、ただし特定の傾向あり。規律は本物——アイドルの知識は何年もSi的な細部の積み上げで築かれているし、学校のアルパカの世話という日課もあるし、最終的にはニコから部長を引き継いで責任を担う。でも「自分で決める」場面ではJらしい決断力が機能しない——自分のことになると他の人に決めてもらいがちで、「諦めやすい」とも言われてる。構造は存在するけど、ドメイン限定で、自分の望みに関わるとあっさり崩れる。",
+            "id": "J yang moderat, dengan corak tertentu. Kedisiplinannya nyata: pengetahuan idol-nya dibangun dari akumulasi detail Si selama bertahun-tahun, dia punya rutinitas ngurus alpaka sekolah, dan akhirnya dia yang nerima tongkat estafet jabatan presiden IRC dari Nico. Tapi J-nya rontok pas soal pilihan pribadi — dia nggak bisa ambil keputusan buat dirinya sendiri, gampang didorong-dorong, dan digambarkan \"mudah menyerah.\" Strukturnya ada, tapi domain-spesifik dan langsung jebol kalau menyangkut keinginannya sendiri."
+          }
+        },
+        "T": {
+          "score": -5,
+          "reason": {
+            "en": "Firmly F. Every decision and every burst of energy runs on felt warmth or felt anxiety — there's no analytical layer anywhere. She's described as \"genuinely sweet and kind-hearted, considerate towards her friends and their feelings, similar to Kotori Minami,\" which is a direct Fe-aux cross-reference. Zero Ti or Te in the mix.",
+            "ja": "確固たるF。すべての判断と行動エネルギーは感じた温かさか感じた不安から来ていて、どこにも分析的な層がない。「本当に優しく思いやりがあり、友達の気持ちを気にかけるところがことり似」と描写されていて、これはFe-auxへの直接的な参照。TiもTeもゼロ。",
+            "id": "F murni. Semua keputusan dan semua semburan energinya bergerak dari kehangatan atau kecemasan yang dirasakan — nggak ada lapisan analitis sama sekali. Dia digambarkan \"genuinely sweet dan kind-hearted, peduli pada perasaan teman-temannya, mirip Kotori Minami\" — itu referensi langsung ke Fe-aux. Nggak ada Ti atau Te sama sekali."
+          }
+        },
+        "C": {
+          "score": -7,
+          "reason": {
+            "en": "Foundational low confidence. \"Poor self-esteem\" and \"prone to giving up easily\" are explicit Wikipedia descriptors. She hid her idol passion from her best friend for years. She apologizes reflexively and qualifies herself mid-sentence (\"if it's okay with even a Hanayo like this\"). The weight-conscious arc in S2 Ep 7 adds another layer of body-image anxiety. The one bright spot is bounded-domain confidence — she can recite idol facts fluently once the topic is safe — but the baseline self-image is rock-bottom.",
+            "ja": "自信のベースラインが極端に低い。「自己評価が低い」「諦めやすい」はウィキペディアが明示している描写。アイドルへの情熱を親友にすら何年も隠していた。反射的に謝るし、「こんな花陽でよければ」と自分を値引いて言葉を足す。S2第7話の体重を気にする展開も、自己イメージの不安の一面を示している。ドメイン限定の自信はある——話題が安全なら idol 知識を流暢に語れる——でも全体的な自己イメージは底辺。",
+            "id": "Self-confidence yang sangat rendah di dasarnya. \"Harga diri yang rendah\" dan \"mudah menyerah\" itu deskripsi eksplisit dari Wikipedia. Dia menyembunyikan passion idol-nya dari sahabat sendiri selama bertahun-tahun. Minta maaf itu refleks buat dia, dan dia sendiri yang nge-discount dirinya di tengah kalimat (\"kalau Hanayo kayak gini boleh\"). Arc soal berat badan di S2 Ep 7 nambah lagi lapisan kecemasan soal citra tubuhnya. Satu-satunya bright spot adalah kepercayaan diri dalam domain yang aman — dia bisa lancar ngoceh soal fakta idol begitu topiknya nyaman — tapi self-image dasarnya ya di titik terendah."
+          }
+        },
+        "M": {
+          "score": 1,
+          "reason": {
+            "en": "Low M by the WANT not WORK rule. She has a genuine long-term dream — idol passion sustained since infancy — but couldn't act on it without an external catalyst. When she wanted to join the club, she actively avoided signaling interest and needed Maki and Rin to literally push her to admit it. Once committed she stays committed, and by the end of the series she accepts the IRC presidency. The passion is real, but the action mode is catalyst-dependent — same cluster as Kotori and Ayumu.",
+            "ja": "M = WANTルール上は低め。乳幼児から続く本物のアイドルへの情熱はあるけど、外からの触媒なしには動けなかった。入部したかったのに、興味を示さないようにわざと避けて、「入りたい」と認めるためにMakiとりんに文字どおり背中を押されるまで動けなかった。一度コミットしたら続ける力はある、シリーズ終盤に部長を引き受けることも。でも行動モードは外発依存——ことりや歩夢と同じクラスター。",
+            "id": "M-nya rendah berdasarkan aturan WANT bukan WORK. Dia punya mimpi jangka panjang yang genuine — passion idol yang terjaga sejak bayi — tapi nggak bisa bergerak tanpa ada yang mulai duluan dari luar. Pas mau gabung klub, dia aktif menghindari kelihatan tertarik, dan butuh Maki sama Rin yang literally dorong dia untuk ngakuinnya. Begitu komit, dia tetap konsisten, dan di akhir series dia nerima jabatan presiden IRC. Passion-nya nyata, tapi mode tindakannya bergantung sama katalis dari luar — satu klaster sama Kotori dan Ayumu."
+          }
+        },
+        "O": {
+          "score": 1,
+          "reason": {
+            "en": "Slight positive, but earned through arc rather than natural baseline. Foundational anxiety is everywhere — easily scared, low self-esteem, \"Somebody please help me!\" as a worldview. But she grows into herself through bonded friendships, the RinPana mutual-push dynamic (Rin pulled her in, she later pulls Rin into center), and by eventually taking on leadership succession. The optimism is real by the end, it just had to be fought for.",
+            "ja": "わずかにプラス、でも素のベースラインじゃなくて成長のなかで勝ち取ったもの。根底には不安がある——びっくりしやすく、自己評価が低く、「誰か助けて！」が世界観の一部になっている。でも友情を通じて自分を育て、RinPanaの相互背中押し（りんが花陽を引き込み、後に花陽がりんをセンターへ押す）を経て、最終的にリーダーシップを引き継ぐ。最後には本物の前向きさがある、ただそこに至るまでに戦ってきた。",
+            "id": "Sedikit positif, tapi ini hasil dari perjalanan bukan bawaan dasarnya. Kecemasan mendasar ada di mana-mana — gampang kaget, self-esteem rendah, \"Somebody please help me!\" itu hampir jadi pandangan hidupnya. Tapi dia tumbuh lewat pertemanan yang erat, dinamika saling dorong RinPana (Rin yang menariknya masuk, dia yang kemudian mendorong Rin ke posisi center), dan akhirnya nerima tongkat kepemimpinan. Optimismenya nyata di akhir, cuma harus diperjuangkan dulu."
+          }
+        },
+        "A": {
+          "score": 6,
+          "reason": {
+            "en": "High empathy, delivered through precision bonded-attunement. She reads Rin so well she can identify Rin's suppressed want to be center and sets up the entire Love Wing Bell bridal-dress event for Rin to lead — returning the exact same push Rin once gave her. She's also described as one of the first girls to pick up on Maki's real feelings. \"In this way, I think Hanayo is a lot like Nozomi or Kotori\" (reddit C). The delivery is bounded and quiet — she doesn't broadcast warmth indiscriminately — but the attunement to specific close bonds is sharp.",
+            "ja": "共感力が高く、特定の絆への精密な感情読み取りで発揮される。りんのことをよく知りすぎていて、りんの「センターになりたい」という抑えた本音を読み取り、ラブウィングベルのウェディングドレスイベント全体をりんがリードできるよう整える——かつてりんが花陽に与えた「背中押し」をそのまま返す形で。「花陽はMakiの本当の気持ちをいち早く察した女の子の一人でもある。そういう意味で花陽はのぞみやことりに似てると思う」（redditのC）。届け方は控えめで静か——無差別に温かさを発信するわけじゃないけど、近しい人への感情読み取りは鋭い。",
+            "id": "Empati tinggi, yang tersalurkan lewat kepekaan presisi ke orang-orang terdekat. Dia kenal Rin cukup dalam sampai bisa nangkep keinginan Rin yang tertekan untuk jadi center, lalu dia yang ngatur seluruh acara gaun pengantin Love Wing Bell biar Rin yang bisa memimpin — mengembalikan dorongan yang persis sama dengan yang dulu Rin berikan ke dia. Dia juga disebut salah satu yang paling awal menangkap perasaan asli Maki. \"Dalam hal ini, aku pikir Hanayo mirip Nozomi atau Kotori\" (reddit C). Cara penyampaiannya terbatas dan tenang — dia nggak sebar kehangatan ke mana-mana — tapi kepekaannya ke orang-orang terdekat tajam banget."
+          }
+        },
+        "U": {
+          "score": -1,
+          "reason": {
+            "en": "Slight negative. There are genuine surface quirks — rice obsession, alpaca caretaker, encyclopedic idol-otaku knowledge, \"Kayo-chin\" nickname, the glasses she takes off before going on stage. But the core archetype is deliberately conventional: the shy, relatable everygirl who's a secret idol fan. Reddit nails it: \"she's supposed to be a bit of an 'average anime audience' surrogate.\" The garnish is quirky, but the interior is intentionally ordinary.",
+            "ja": "わずかにマイナス。表面的な個性はある——お米へのこだわり、アルパカ係、百科事典的なアイドルオタク知識、「かよちん」というあだ名、ステージ前に外す眼鏡。でも核のアーキタイプは意図的に普通——シャイで共感しやすい、隠れアイドルファンの等身大の女の子。Redditのコメントが的確にまとめてる:「彼女はある種の『平均的なアニメ視聴者』の代理人として機能している」。飾りは個性的、でも中身は意図的に凡庸。",
+            "id": "Sedikit negatif. Ada keanehan permukaan yang genuine — obsesi nasi, penjaga alpaka, pengetahuan idol-otaku yang ensiklopedis, panggilan \"Kayo-chin\", kacamata yang dia lepas sebelum naik panggung. Tapi inti archetypenya memang sengaja biasa: si everygirl pemalu yang relate dan ternyata fans idol dalam diam. Reddit merangkumnya tepat: \"dia memang dirancang sebagai semacam 'rata-rata penonton anime' yang bisa dijadikan cerminan diri.\" Hiasannya nyentrik, tapi dalemannya memang sengaja ordinary."
+          }
+        },
+        "N": {
+          "score": -5,
+          "reason": {
+            "en": "Strongly S. The Si-aux fingerprints are clear: encyclopedic idol-fandom knowledge built from years of concrete detail accumulation, an alpaca-care physical routine, rice as a sensory comfort anchor, drawing and origami as hands-on craft hobbies, and \"stuck to her routine and her habits\" as a consistent behavioral pattern (PDB A's exact phrasing). Inferior Ne shows up as anxious imagination — the \"Somebody please help me!\" catastrophizing — but there's no abstract conceptual content anywhere. Same S-range as Riko, Ruby, and Kotori.",
+            "ja": "強くS寄り。Si-auxの痕跡が明確に見える——何年もかけて具体的な細部を積み上げてきたアイドルオタク知識、アルパカの世話という身体的な日課、感覚的な安心の錨としてのお米、絵やおりがみという実地の趣味、そして「自分の習慣とルーティンにとどまり続ける」という一貫した行動パターン（PDB Aの表現そのまま）。劣等機能のNeは不安な想像として現れる——「誰か助けて！」という最悪の事態への投影——でも抽象的な概念的な内容はどこにもない。Riko・ルビー・ことりと同じSレンジ。",
+            "id": "Sangat condong S. Jejak Si-aux-nya jelas: pengetahuan idol-otaku yang ensiklopedis yang dibangun dari akumulasi detail konkret selama bertahun-tahun, rutinitas fisik ngurus alpaka, nasi sebagai comfort anchor sensoris, menggambar dan origami sebagai hobi yang tangible, dan \"terpatok pada rutinitas dan kebiasaan\" sebagai pola perilaku yang konsisten (phrasing persis dari PDB A). Ne inferior muncul sebagai imajinasi cemas — catastrophizing ala \"Somebody please help me!\" — tapi nggak ada konten konseptual yang abstrak di mana pun. Rentang S yang sama dengan Riko, Ruby, dan Kotori."
+          }
+        }
+      }
+    }
+  }
+}

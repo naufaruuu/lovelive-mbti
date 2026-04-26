@@ -1,0 +1,97 @@
+{
+  "umi_sonoda": {
+    "color": "#1769ff",
+    "name": {
+      "en": "Umi Sonoda",
+      "ja": "園田海未",
+      "id": "Umi Sonoda"
+    },
+    "desc": {
+      "en": "Umi Sonoda is the embodiment of a yamato nadeshiko — a proper, traditional Japanese lady raised by an iemoto mother and a shihan father, with a combined dojo inheritance waiting for her. She's μ's main lyricist, primary trainer, and student council vice president, quietly keeping everything running while Honoka charges ahead. Despite her sharp discipline and strict moral code, she's deeply shy around strangers and painfully unable to lie — the second she feels anything, it shows on her face.",
+      "ja": "園田海未はまさに「大和撫子」——伝統的なお家元のお母さんと師範のお父さんのもとで育ち、二つの道場を受け継ぐ宿命を背負って育ってきた子。μ'sのメイン作詞家、初期トレーナー、生徒会副会長として、ほのかが先頭を走る後ろでひっそりと全部を支え続けています。厳しい規律と真面目な道徳観を持ちながら、知らない人には強烈に人見知りで、嘘をつくのが物理的にできないという面白い一面も。何かを感じた瞬間に全部顔に出てしまいます。",
+      "id": "Umi Sonoda itu perwujudan nyata dari yamato nadeshiko — perempuan Jepang yang sopan dan tradisional, dibesarkan dari ibu seorang iemoto dan ayah seorang shihan, dengan dua dojo yang udah nunggu untuk dia warisi. Di μ's dia jadi penulis lirik utama, pelatih awal, sekaligus wakil ketua OSIS — diem-diem ngerjain semua hal penting sementara Honoka terus tancap gas di depan. Di balik disiplin dan kode moral yang ketat itu, dia beneran pemalu kalau sama orang asing, dan secara harafiah nggak bisa bohong — begitu ada sesuatu yang dia rasain, langsung kelihatan semua di mukanya."
+    },
+    "mbti": {
+      "type": "ISTJ",
+      "reason": {
+        "en": "ISTJ, and it's one of the cleaner calls in the cast — 255 vs 9 votes for ESTJ, and the text fully backs it up. The only real sub-debate is E vs I, but Umi's introversion is so explicitly stated that it's not even close: she's described as shy around strangers, reserved by default, and prefers to stay in the background even while holding major roles. The T/F question is worth pausing on, especially because her Aqours parallel Riko ended up ISFJ despite a similar cast position — but the evidence here clearly favors Te-aux over Fe-aux. Umi is framed as a logic-first, solution-seeker; she enforces training standards because the standard is the standard, not because she's reading the emotional temperature of the room. When she forces Honoka and Hanayo through brutal training hours after their weight gain, she's not wavering the way an Fe-aux character would — she's executing the protocol. Her care language is structural: she writes the lyrics, she organizes the logistics, she trains the group. She doesn't comfort by mirroring feelings (Fe-aux) — she does the work that needs doing (Te-Si). The cannot-lie quirk from S2 Ep 5 is a perfect Fi-tert tell — her emotions leak out physically in real time because she doesn't have Fe-aux available to manage them for harmony. Si-dom is visible everywhere: multiple traditional arts mastered through years of sustained physical repetition (kendo, koto, nagauta, shodō, nichibu, kyūdō), a concrete by-the-book baseline, and an inferior-Ne pattern that shows up as worrywart catastrophizing and anxious imagination spirals. ESTJ is ruled out by the repeated evidence of introversion. INTJ is ruled out by the Si-anchor of tradition-and-form-mastery versus abstract future projection. Solid ISTJ — the traditional Japanese lady flavor, running deep on duty, discipline, and quiet loyalty.",
+        "ja": "タイプはISTJで、これはキャスト内でも比較的はっきりした判断。投票は255対9でESTJ、テキストの証拠もそれを支持しています。実質的な争点はEとIだけど、ウミの内向性はあまりに明示的すぎてほぼ議論の余地なし——「知らない人に対して恥ずかしがり屋」「基本的に控えめ」「目立たないようにしている」という描写が直接テキストに出てくる。T/Fは少し立ち止まる価値があって、アクアのRikoが似たようなポジションでISFJになったからこそ検討が必要——でもここはTe-auxの証拠がFe-auxを明確に上回ります。ウミは「論理的に解決を探す人」として描かれていて、体重増加後のほのかとハナヨへの厳しいトレーニングは「それがルールだから」という執行であって、周囲の感情状態を読んで調整するFe-auxパターンではない。ケアの言語も構造的——歌詞を書く、物流を整える、グループをトレーニングする。感情ミラーリング（Fe-aux）ではなく、やるべきことをやる（Te-Si）という形。S2第5話の「嘘がつけない」ネタはFi-tert的な感情漏れの典型で、Fe-auxがないからリアルタイムで感情が顔に出てしまう。Si-domもどこにでも見える——剣道・箏・長唄・書道・二千舞・弓道を長年の反復練習で習得し、「教科書通り」のベースラインを持ち、劣等機能Neとして心配性・最悪のシナリオを想定する不安パターンが随所に出てくる。ESTJは繰り返される内向性の証拠で脱落。INTJはNi-auxの抽象的な未来投影ではなく、Si的な形と伝統への確固たるアンカーがあるので脱落。しっかりISTJ——義務・規律・静かな忠誠心で動く、大和撫子型ISTJです。",
+        "id": "ISTJ, dan ini salah satu keputusan yang paling jelas di cast-nya — voting 255 lawan 9 buat ESTJ, dan teksnya juga ngedukung penuh. Satu-satunya perdebatan kecil ya E vs I, tapi introvert-nya Umi terlalu eksplisit untuk disangsiin: dia digambarin pemalu sama orang asing, pendiam secara default, dan milih stay di balik layar meski pegang peran-peran penting. Pertanyaan T/F layak diperlambat, terutama karena Riko yang jadi paralel-nya di Aqours akhirnya ISFJ padahal posisi karakternya mirip — tapi bukti di sini jelas mengarah ke Te-aux, bukan Fe-aux. Umi digambarkan sebagai orang yang logic-first dan suka cari solusi; dia tegakin standar latihan karena emang itu standarnya, bukan karena lagi baca suasana hati orang-orang di ruangan. Waktu dia maksa Honoka sama Hanayo latihan keras banget habis berat badannya naik, dia nggak ragu-ragu kayak karakter Fe-aux — dia cuma eksekusi protokolnya. Bahasa peduli-nya Umi itu struktural: dia nulis lirik, atur logistik, latih grup. Bukan kenyamanan lewat mirroring perasaan orang lain (Fe-aux), tapi ngerjain apa yang perlu dikerjain (Te-Si). Quirk nggak-bisa-bohong di S2 episode 5 itu contoh sempurna Fi-tert yang bocor — emosinya keluar sendiri secara fisik di waktu nyata karena dia nggak punya Fe-aux yang bisa nutupin buat jaga harmoni. Si-dom-nya keliatan di mana-mana: banyak seni tradisional yang dikuasai lewat bertahun-tahun latihan fisik berulang (kendo, koto, nagauta, shodō, nichibu, kyūdō), baseline yang sangat \"sesuai aturan\", dan pola inferior Ne yang muncul sebagai kekhawatiran berlebihan dan spiral imajinasi cemas. ESTJ gugur karena bukti introvertnya berulang. INTJ gugur karena ada anchor Si di tradisi dan penguasaan bentuk, bukan proyeksi masa depan abstrak ala Ni-aux. ISTJ yang solid — tipe yamato nadeshiko, jalannya pakai kewajiban, disiplin, dan kesetiaan yang diam-diam dalam."
+      },
+      "traits": {
+        "E": {
+          "score": -5,
+          "reason": {
+            "en": "Strongly introverted. The text is explicit: she's \"generally shy when having to interact with unfamiliar people,\" acts reserved by default, and deliberately stays in the background when she can. Her self-introduction is classic deflective-introvert — \"I would be happy if you thought of me, even for just a moment.\" She can lead and execute as vice president, but her baseline energy is firmly inward.",
+            "ja": "しっかりI寄り。テキストが直接述べていて、「知らない人と接するのが基本的に苦手」「デフォルトで控えめ」「できる限り目立たないようにしている」。自己紹介も典型的な内向型の照れ隠しで——「ほんの少しのことでも、一瞬でいいので、私のことを思ってくれたら嬉しいです」。副会長としてリードして実行することはできるけど、ベースのエネルギーは明確に内向きです。",
+            "id": "Introvert yang jelas. Teksnya eksplisit: dia \"secara umum pemalu kalau harus berinteraksi sama orang asing\", pendiam secara default, dan sengaja milih stay di belakang kalau bisa. Perkenalan dirinya itu pola introvert-deflective klasik — \"Aku akan senang kalau kamu memikirkanku, walau sesaat.\" Dia bisa memimpin dan eksekusi sebagai wakil ketua, tapi baseline energinya udah jelas ke dalam."
+          }
+        },
+        "J": {
+          "score": 7,
+          "reason": {
+            "en": "Extremely high. She's described as \"nearly to a fault\" disciplined, a personal ethos built around despising laziness, shortcuts, and cheating. She mastered multiple traditional arts — kendo, koto, nagauta, shodō, nichibu, kyūdō — all requiring years of sustained formal practice. She's μ's main organizer, main lyricist, and training enforcer, all at once. This is Dia/Eli territory on the J scale.",
+            "ja": "非常に高い。「ほとんど欠点になるレベルで」規律的と描かれ、怠惰・近道・ズルへの嫌悪が個人的な信条になっている。剣道・箏・長唄・書道・二千舞・弓道——長年の正式な練習が必要な芸事を複数習得済み。μ'sのメイン組織者・メイン作詞家・トレーニング執行役をすべて兼任。Jスケールでいうとダイア・エリのレンジです。",
+            "id": "Sangat tinggi. Dia digambarin disiplin \"hampir sampai jadi cacat\", dengan ethos pribadi yang benci malas, jalan pintas, dan curang. Dia menguasai banyak seni tradisional — kendo, koto, nagauta, shodō, nichibu, kyūdō — semuanya butuh latihan formal bertahun-tahun. Sekaligus jadi pengatur utama μ's, penulis lirik utama, dan penegak latihan. Ini level J-nya Dia sama Eli."
+          }
+        },
+        "T": {
+          "score": 3,
+          "reason": {
+            "en": "Solid T. Her Te-aux framework shows up in how she's described — \"highly intelligent and a very logical solution-seeker,\" \"always thinks logically and is very by the book.\" She enforces training standards by principle, not by emotional state. That said, Fi-tert leaks through: she literally cannot hide what she feels (the S2 Ep 5 Old Maid scene), and her warmth toward Honoka and Kotori is genuine and specific, not broadcast. Tsundere-strict-disciplinarian cluster, same range as Eli and Dia.",
+            "ja": "しっかりT。Te-auxのフレームワークが描写からにじみ出ていて——「非常に頭が良く、論理的に解決を探す」「常に論理的に考え、教科書通り」。トレーニング基準を感情的な状態ではなく原則で執行する。ただしFi-tertが漏れている部分もあって：感じたことを物理的に隠せない（S2第5話の「ババ抜き」シーン）、ほのかとことりへの深い愛着は本物で特定の相手への感情。ツンデレ厳格規律型で、エリとダイアと同じレンジ。",
+            "id": "T-nya solid. Framework Te-aux-nya keliatan dari deskripsinya — \"sangat cerdas dan suka cari solusi yang logis\", \"selalu berpikir logis dan sangat sesuai aturan\". Dia tegakin standar latihan berdasarkan prinsip, bukan kondisi emosi. Tapi Fi-tert tetap bocor: dia literally nggak bisa nutupin apa yang dia rasain (adegan Old Maid di S2 episode 5), dan kehangatan dia ke Honoka sama Kotori itu genuine dan spesifik, bukan disebarin ke semua orang. Cluster tsundere-strict-disciplinarian, level yang sama kayak Eli dan Dia."
+          }
+        },
+        "C": {
+          "score": 0,
+          "reason": {
+            "en": "Neutral — confidence in trained domains cancels out against shy self-deprecation elsewhere. She has serious external competence: multi-art mastery, organizational excellence, archery precision sharp enough for dart-game accuracy. But she opens her self-introduction with \"I am not confident in dancing,\" gets flustered and ashamed even imagining herself as an idol during kyūdō practice, and needs Nozomi to physically pull her back from overcommitting on a mountain climb. High earned-competence in domains she's trained, low baseline confidence everywhere else.",
+            "ja": "ニュートラル——訓練された分野での外的な有能さが、他の場面での内向きな自己評価と相殺する。外では確かな実力を持っていて、多分野の芸事習得・組織力・ダーツ的中精度まで証明された弓の腕前がある。でも自己紹介は「ダンスには自信がありません」から始まり、弓道の練習中に自分がアイドルになることを想像しただけでうろたえて恥ずかしがり、登山でのめり込みすぎてのぞみに引き戻してもらう羽目に。練習してきた領域では高い実力系自信、それ以外はベースラインが低い。",
+            "id": "Netral — kepercayaan diri di bidang yang udah dilatih saling membatalkan sama rasa minder di tempat lain. Kompetensi eksternalnya serius: menguasai banyak seni, unggul dalam organisasi, akurasi memanah yang juga tajam sampai akurat di permainan lempar dart. Tapi dia buka perkenalan dirinya dengan \"aku tidak percaya diri dalam menari\", gugup dan malu bahkan cuma karena membayangkan diri sendiri jadi idol saat latihan kyūdō, dan perlu Nozomi yang secara fisik narik dia balik waktu keterusan mendaki gunung. Percaya diri yang earned tinggi di bidang yang udah dilatih, rendah di bidang lainnya."
+          }
+        },
+        "M": {
+          "score": 5,
+          "reason": {
+            "en": "High-moderate. Sustaining multiple traditional arts over years takes serious want, not just discipline. Once she commits to μ's — after initially refusing because idol life clashed with her values — she drives sustained execution: main lyricist for most of their songs, original trainer, vice president, choreography aid. But her drive is duty-and-loyalty-execution, not self-originated competitive ambition. She fights for Honoka's vision after choosing to believe in it, which puts her slightly below Dia's explicit competitive-winning framing.",
+            "ja": "高めの中程度。複数の芸事を長年続けるには、規律だけじゃなく本物のやりたい気持ちが必要。アイドル活動が自分の価値観と合わないとして最初は断ったあと、一度μ'sにコミットしてからは持続的な実行力を発揮する——ほぼ全曲のメイン作詞、初期トレーナー、副会長、振付補助。でも彼女の動力は義務と信義の執行であって、自発的な競争的野心ではない。ほのかのビジョンを信じると決めてから戦う形で、ダイアの「明確に勝ちにいく」フレームよりは少し下。",
+            "id": "Tinggi-moderat. Mempertahankan banyak seni tradisional selama bertahun-tahun itu butuh keinginan yang serius, bukan cuma disiplin. Setelah dia akhirnya commit ke μ's — padahal awalnya menolak karena kehidupan idol bertabrakan sama nilai-nilainya — dia jalanin semuanya dengan sustained: penulis lirik utama buat sebagian besar lagu mereka, pelatih awal, wakil ketua OSIS, bantuin koreografi. Tapi dorongannya itu lebih ke eksekusi kewajiban dan kesetiaan, bukan ambisi kompetitif yang lahir dari dirinya sendiri. Dia berjuang demi visi Honoka setelah memilih untuk percaya, yang bikin skor-nya sedikit di bawah framing Dia yang eksplisit soal menang."
+          }
+        },
+        "O": {
+          "score": -1,
+          "reason": {
+            "en": "Slight pessimist. The worrywart tendency is explicit — she catastrophizes and imagines worst-case scenarios when something unexpected occurs. It's inferior-Ne doing its thing: anxious what-if spirals, freaking out at the romance movie in S2, needing to be pulled back from the mountain overcommit, fear-spiraling when Honoka collapsed. Same range as Dia and Eli — the Si-Te cluster where inferior Ne shows up as anxiety.",
+            "ja": "少しO寄りのマイナス。心配性の傾向は明示的で——予期しないことが起きると最悪の事態を想定してカタストロファイジングする。劣等機能Neが典型的に出ている：不安ベースの「もしも」スパイラル、S2のロマンス映画でのパニック、登山での突き進みすぎてのぞみに引き戻されるシーン、ほのかが倒れた時の恐怖スパイラル。ダイアとエリと同じレンジ——劣等NeがSi-Teクラスターで不安として出るパターン。",
+            "id": "Sedikit pesimis. Kecenderungan khawatirnya eksplisit — dia langsung bayangin skenario terburuk kalau ada sesuatu yang tak terduga terjadi. Ini inferior Ne yang lagi bekerja: spiral cemas ala \"bagaimana kalau...\", panik di film roman di S2, perlu ditarik balik dari keterusan mendaki gunung, spiral ketakutan waktu Honoka pingsan. Level yang sama kayak Dia dan Eli — cluster Si-Te yang inferior Ne-nya muncul sebagai kecemasan."
+          }
+        },
+        "A": {
+          "score": 4,
+          "reason": {
+            "en": "Moderate-high. Her care is genuine and runs deep, even if the delivery is strict. She never acts out of malice toward her friends — \"her antics with Honoka are her way of expressing affection.\" The Kotori airport arc is a strong read: Umi understood what Kotori actually needed (to be asked to come back) when others missed it, and ended up doing the talk for her. She also stepped in for Maki during the SID father-conflict. Deep loyalty that shows up through action, not warmth-broadcast — bounded by Fi-tert specific-care rather than Fe-aux group-attunement.",
+            "ja": "中高程度。ケアは本物で深いけど、表現が厳しい。友人に対して悪意で動くことはなく——「ほのかへのああいう対応は、彼女なりの愛情表現」。ことりの空港アーク読みが鮮やかで：ほかの子が気づけなかった「ことりは戻っておいでと言ってほしかった」というニーズを海未だけが読んで、代わりに伝えた。マキの父親との対立（SID）でも代わりに話をしに行っている。行動で示す深い忠誠心で、Fi-tert的な特定の人への深い愛情が根底にある——Fe-auxのようなグループ全体への感情調整ではなく。",
+            "id": "Tinggi-moderat. Kepeduliannya genuine dan dalam, meski cara penyampaiannya keras. Dia nggak pernah bergerak karena niat jahat ke teman-temannya — \"kelakuannya ke Honoka itu cara dia nunjukin kasih sayang.\" Arc bandara Kotori jadi bukti kuat: Umi nangkep apa yang sebenernya Kotori butuhkan (untuk diminta kembali) waktu yang lain nggak nyadar, dan akhirnya dia yang berbicara mewakilinya. Dia juga turun tangan buat Maki waktu konflik ayah di SID. Kesetiaan yang dalam yang muncul lewat tindakan, bukan kehangatan yang disebar ke semua — dibatasi oleh rasa sayang yang spesifik ala Fi-tert, bukan attunement kelompok ala Fe-aux."
+          }
+        },
+        "U": {
+          "score": 1,
+          "reason": {
+            "en": "Mild positive. The external package is distinctive: iemoto-mother plus shihan-father combined dojo heir, the \"Love Arrow Shoot!\" (ラブアローシュート) catchphrase plus the iconic arrow-kissing scene, inability to maintain a poker face as a physical quirk, \"supersonic pillows\" mode when her sleep is disturbed (S1 Ep 10), and a deeper singing voice that stands out in the group. But the interior personality — strict traditional disciplinarian with quiet loyalty — is a fairly conventional archetype. Distinctive packaging on a recognizable mold.",
+            "ja": "軽いプラス。外側のパッケージは確かに特徴的——家元の母と師範の父、二つの道場を受け継ぐ珍しい設定、「ラブアローシュート」の決め台詞＋矢にキスするアイコニックなシーン、感情が顔に全部出てしまう物理的な癖、眠りを邪魔されると「超音速枕」モードになるシーン（S1第10話）、グループ内で際立つ低めの歌声。でも内面のパーソナリティ——静かな忠誠を持つ厳格な伝統的規律者——はかなり典型的なアーキタイプ。独特なパッケージに包まれた、おなじみの型。",
+            "id": "Sedikit positif. Paket eksternalnya memang khas: pewaris dojo gabungan dari ibu iemoto dan ayah shihan yang langka di franchise, catchphrase \"Love Arrow Shoot!\" (ラブアローシュート) plus adegan ikon cium anak panah, nggak bisa jaga poker face sebagai quirk fisik, mode \"bantal supersonik\" kalau tidurnya diganggu (S1 episode 10), dan suara nyanyian yang lebih dalam yang menonjol di grup. Tapi kepribadian dalamnya — pendisiplin tradisional yang ketat dengan kesetiaan yang diam-diam — itu pola yang cukup konvensional. Kemasan yang khas, tapi isinya pakem."
+          }
+        },
+        "N": {
+          "score": -5,
+          "reason": {
+            "en": "Strongly S. Si-dom is the cognitive engine here: multiple traditional arts mastered through years of sustained physical repetition, inherited-tradition-preservation as identity core, a concrete by-the-book baseline, and care-mode expressed through structural doing rather than imagining alternatives. Inferior-Ne shows up everywhere — worrywart catastrophizing (explicit in PDB A), anxious imagination spirals, the archery scene where she imagines herself as a cheery idol then immediately flushes with shame, the romance-movie freakout. Same range as the ESTJ/ISFJ cluster.",
+            "ja": "しっかりS寄り。Si-domが認知エンジン：剣道・箏・長唄・書道・二千舞・弓道を長年の身体的な反復練習で習得、継承した伝統の保存がアイデンティティの核、具体的な「教科書通り」のベースライン、代替案を想像するのではなく構造的なやることとして表現されるケアモード。劣等Neもいたる所に——心配性とカタストロファイジング（PDB Aに明示）、不安に満ちた想像スパイラル、弓道の練習中に「元気なアイドル」として自分を想像して即座に赤面・羞恥するシーン、ロマンス映画でのパニック。ESTJ/ISFJクラスターと同じレンジ。",
+            "id": "S yang kuat. Si-dom itu engine kognitifnya di sini: banyak seni tradisional dikuasai lewat bertahun-tahun pengulangan fisik yang sustained, pelestarian tradisi yang diwarisi jadi inti identitas, baseline yang konkret dan sangat \"sesuai aturan\", dan cara peduli yang diungkapkan lewat tindakan struktural daripada membayangkan alternatif. Inferior Ne muncul di mana-mana — kekhawatiran dan catastrophizing (eksplisit di PDB A), spiral imajinasi cemas, adegan kyūdō di mana dia membayangkan diri sendiri sebagai idol yang ceria terus langsung merah muka kemaluan, panik di film roman. Level yang sama kayak cluster ESTJ/ISFJ."
+          }
+        }
+      }
+    }
+  }
+}

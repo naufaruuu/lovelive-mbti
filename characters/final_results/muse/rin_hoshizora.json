@@ -1,0 +1,97 @@
+{
+  "rin_hoshizora": {
+    "color": "#fff832",
+    "name": {
+      "en": "Rin Hoshizora",
+      "ja": "星空凛",
+      "id": "Rin Hoshizora"
+    },
+    "desc": {
+      "en": "Rin is an energetic first-year and the most athletic member of μ's — hurdles, soccer, basketball, you name it. She's best friends with Hanayo since childhood, acting as the bold half of their duo who drags her forward into every new adventure. The twist is her identity wound: she was bullied as a kid for wearing skirts, and that old teasing grew into a real complex that made her doubt whether someone like her could ever be a school idol. Her whole arc is reclaiming who she actually is — not a tomboy, not a girly girl, just Rin — and it hits. Oh, and she goes \"nya~!\" a lot.",
+      "ja": "凛はμ'sで一番スポーツができる元気な1年生。ハードル、サッカー、バスケ、なんでもこなす。幼馴染の花陽とは小さい頃からの親友で、彼女の背中をぐいぐい押す「前に出るタイプ」。でもそこには大きな傷があって、子どもの頃スカートで登校してからかわれた経験が積み重なって、やがて「自分みたいなのがスクールアイドルになれるわけない」という思い込みになっていった。彼女のキャラクターアークは「自分らしさを取り戻す旅」——トムボーイでも女の子でもなく、ただ「凛」として生きることを選ぶ話。あと、口癖は「にゃ〜！」です。",
+      "id": "Rin itu first-year yang paling atletis di μ's — lari gawang, sepak bola, basket, semua dia bisa. Dia sahabatan sama Hanayo dari kecil, dan dia yang selalu jadi pendorong — nyeret Hanayo ke tiap petualangan baru. Tapi di balik itu ada luka identitas yang nyata: waktu kecil dia pernah di-bully karena pakai rok, dan hinaan itu lama-lama nempel jadi kompleks yang bikin dia ragu apakah orang kayak dia pantas jadi school idol. Seluruh arc-nya soal ngerebut kembali dirinya sendiri — bukan tomboy, bukan feminin sempurna, cuma Rin — dan itu ngena banget. Oh, sama dia sering bilang \"nya~!\"."
+    },
+    "mbti": {
+      "type": "ESFP",
+      "reason": {
+        "en": "ESFP by overwhelming consensus — 207 votes against 7 for ESFJ, and the cognitive evidence actually supports it rather than just reflecting aesthetic vibes. The T/F axis is easy: she explicitly puts others' feelings first before acting, and her entire arc is built around a Fi-identity wound, not a Fe-harmony concern. The real diagnostic is Se vs Si and Fi vs Fe. For Se: her athletic multi-sport mastery is body-as-primary-medium, pure Se-aux signature. \"Loses motivation easily\" is classic Se-dom present-engagement pattern, not the duty-driven follow-through of an Si-aux ESFJ. Backflips on the rooftop, dancing in the rain — unmediated physical Se-impulse, no deliberation in sight. For Fi over Fe: she internalized the childhood bullying as an identity wound, not as social pressure to perform femininity. Fe-aux users feel external harmony-pressure; Rin absorbed the label as self. Her arc resolution is Fi-individuation — reclaiming authentic self-expression against an imposed external label, same architecture as Yoshiko's fallen-angel persona arc, just a different aesthetic. \"I never remember Rin seeing herself as a tomboy — it's only something pushed onto her.\" That's Fi-authenticity in four words. She's the catgirl-tomboy ESFP: Se-Fi athletic-mischief-baseline, deep specific-bond to Hanayo (parallel to You-Chika), and a femininity-identity arc that's more explicit than anything else in the ESFP cluster. By the end of her arc, pure joy — Ai-tier radiance once the complex resolves.",
+        "ja": "ESFP、圧倒的多数——207票対7票（ESFJ）という結果で、しかも実際の認知機能分析もちゃんと裏付けてくれてる。T/F軸は簡単で、「他人の気持ちを優先してから行動する」と明言されているし、全体のキャラクターアークがFiの「アイデンティティの傷」で出来てる（Feの「調和への気遣い」ではない）。本当の診断ポイントはSeかSiか、FiかFeか。Seの根拠として：多競技にわたるスポーツの突出した才能は「身体を主な表現媒体とする」典型的なSe-auxのパターン。「やる気をなくしやすい」はSe-domの「目の前の刺激に駆動される注意力」によるもので、Si-auxのESFJが持つ「義務感による継続力」とは違う。屋上でのバク転や雨の中でのダンスも、熟慮ゼロのSe衝動的身体表現。FiがFeより強い根拠として：幼少期のいじめを「アイデンティティの傷」として内面化しているのであって、「周囲に合わせなければというプレッシャー（Fe）」ではない。Fe-auxなら外的調和の圧力を感じるが、凛はそのレッテルを自分自身として取り込んだ——これがFiの傷の構造。アーク解決もFiの個性化として読める——外から押し付けられたレッテルに抗い、本来の自分を取り戻す旅。「凛が自分をトムボーイだと思ったことは一度もない。それは外から貼られたレッテルに過ぎない」という指摘がすべてを語ってる。μ'sの「にゃ〜！のESFP」——Se-FiのベースラインをRinPanaへの深い絆で補完しながら、スタック上で最も明示的なFiのアーク（よりちゃっかりしたYouのアークよりも踏み込んでる）を持つキャラ。アーク解決後は純粋な喜びが溢れ出す。",
+        "id": "ESFP, dan ini bukan hasil voting doang — 207 berbanding 7 untuk ESFJ, dan analisis kognisinya juga ngedukung, bukan sekadar kesan estetika. Sumbu T/F paling gampang dilihat: dia secara eksplisit ngutamain perasaan orang lain sebelum bertindak, dan seluruh arc-nya dibangun di atas luka identitas Fi, bukan kekhawatiran harmoni Fe. Titik diagnostik yang sesungguhnya ada di Se vs Si dan Fi vs Fe. Untuk Se: kemampuan atletik multi-cabangnya adalah \"tubuh sebagai medium utama\" — tanda khas Se-aux. \"Kehilangan motivasi dengan mudah\" itu pola Se-dom yang energinya terikat sama stimulus langsung, bukan ketekunan berbasis rasa kewajiban yang dimiliki Si-aux ESFJ. Salto di atap, joget di tengah hujan — itu ekspresi fisik Se yang langsung tanpa deliberasi. Untuk Fi di atas Fe: dia nginternalisasi perundungan masa kecil sebagai luka identitas, bukan sebagai tekanan sosial buat tampil feminin. Pengguna Fe-aux merasakan tekanan harmoni eksternal; Rin nyerap label itu jadi bagian dari dirinya sendiri. Resolusi arc-nya adalah Fi-individuation — ngerebut kembali ekspresi diri yang autentik dari label yang dipaksakan dari luar, strukturnya sama kayak arc Yoshiko dengan persona Yohane, cuma estetikanya beda. \"Rin nggak pernah liat dirinya sendiri sebagai tomboy — itu cuma sesuatu yang ditempelkan orang lain ke dia.\" Itu Fi-authenticity dalam satu kalimat. Dia ESFP si catgirl-tomboy: baseline Se-Fi atletis dan iseng, ikatan spesifik yang dalam sama Hanayo (paralel sama You-Chika), dan arc identitas feminitas yang paling eksplisit di kluster ESFP. Setelah arc-nya selesai, yang keluar murni kebahagiaan — level radiance-nya naik setara Ai."
+      },
+      "traits": {
+        "E": {
+          "score": 6,
+          "reason": {
+            "en": "Strong extrovert by default — boundless energy, pulls Hanayo everywhere, pushes Eli without getting scolded, playfully teases everyone, and has literally attempted to hug every member of μ's. Her cheerfulness is contagious rather than contained. Docked from the maximum because the femininity-complex genuinely produced real social withdrawal in one specific domain — that identity wound created moments of real shyness that an Ai-tier extrovert would never have.",
+            "ja": "ベースは強い外向型——エネルギーが尽きることなく、花陽を引っ張り回し、エリを怒らせずにぐいぐい押せて、みんなにじゃれつき、μ'sの全員にハグしようとしたことすらある。明るさが周囲に伝染するタイプ。最高値じゃないのは、女性らしさへのコンプレックスが特定の場面でリアルな引きこもりを引き起こしていたから——Aiクラスの外向型なら持たないような「恥ずかしさ」がちゃんと存在してた。",
+            "id": "Ekstrovert yang kuat secara default — energinya nggak ada habisnya, nyeret Hanayo ke mana-mana, bisa mendorong-dorong Eli tanpa kena marah, iseng ke semua orang, dan literally pernah mencoba memeluk semua anggota μ's. Keceriaannya nular, bukan tersimpan untuk diri sendiri. Nggak nyampe skor maksimum karena kompleks feminitas-nya terbukti bikin dia menarik diri di satu domain tertentu — luka identitas itu menciptakan momen-momen shy yang nggak akan dimiliki ekstrovert sekelas Ai."
+          }
+        },
+        "J": {
+          "score": -3,
+          "reason": {
+            "en": "P-leaning, clearly. The default is impulsive physical action — rooftop backflips, spontaneous rain-dancing, \"san baka\" exam-cramming with Honoka and Nico because planning ahead wasn't a priority. \"Loses motivation easily\" is right there in her Wikipedia description, the textbook Se-dom engagement pattern. Athletic discipline gives her domain-specific follow-through, but that's not enough to flip her to J overall.",
+            "ja": "P寄り、明確に。デフォルトが衝動的な身体行動——屋上でのバク転、突発的な雨の中のダンス、ホノカとニコとの「三馬鹿」によるテスト前の一夜漬け（先を見通す計画性は持ち合わせてない）。「やる気をなくしやすい」はWikipedia上でも明記されており、Se-domの「今に駆動される注意力」の教科書的なパターン。運動面での規律は特定ドメインでの継続力を生んでいるが、それだけでJ側に振れるほどじゃない。",
+            "id": "Jelas P-leaning. Mode default-nya itu aksi fisik yang impulsif — salto di atap, joget spontan di tengah hujan, SKS bareng Honoka dan Nico alias \"san baka\" karena rencana jauh-jauh hari bukan prioritasnya. \"Kehilangan motivasi dengan mudah\" bahkan tertulis eksplisit di deskripsi Wikipedia-nya, pola Se-dom yang paling klasik. Disiplin atletiknya memang bikin dia konsisten di satu bidang, tapi itu nggak cukup buat balik dia ke sisi J secara keseluruhan."
+          }
+        },
+        "T": {
+          "score": -4,
+          "reason": {
+            "en": "Strong F. She explicitly puts others' feelings first before taking action — that's in the source text, not an interpretation. Her entire femininity arc is emotional identity cognition from top to bottom: an Fi-individuation arc about reclaiming authentic selfhood. There's no analytical-cognition presence anywhere in her character. Slightly less F-dominant than the most extreme F characters because Fi-aux (not dominant) means her feeling-function isn't quite the loudest thing in the room.",
+            "ja": "しっかりF。「人の気持ちを優先してから動く」は解釈ではなく原文からの直接引用。女性らしさをめぐるアーク全体が、頭のてっぺんからつま先まで感情的アイデンティティの認知——本来の自己を取り戻すFiの個性化アーク。キャラクター全体を通じて分析的思考の気配がまったくない。最もF的なキャラクターほど極端でないのは、FiがdomではなくauxであるためF機能がそこまで突出していないから。",
+            "id": "F yang kuat. Dia secara eksplisit mengutamakan perasaan orang lain sebelum bertindak — itu kutipan langsung dari sumber, bukan interpretasi. Seluruh arc femininitasnya dari awal sampai akhir adalah kognisi identitas emosional: arc Fi-individuation tentang merebut kembali jati diri yang autentik. Nggak ada jejak kognisi analitis di mana pun dalam karakternya. Sedikit kurang F-dominant dibanding karakter paling F karena Fi-aux (bukan dominant) berarti fungsi feeling-nya nggak sepenuhnya mendominasi segalanya."
+          }
+        },
+        "C": {
+          "score": -2,
+          "reason": {
+            "en": "A complicated mix. Externally confident in athletic domains — \"confident in my running and stamina!\" is basically her self-introduction opener. But the femininity complex runs deep: childhood bullying left a wound that made her genuinely unable to see herself as fit for school idol life. Her self-intro also acknowledges \"short and completely far from being a beauty\" and \"always late to the start and a bit of a crybaby.\" Athletic confidence riding over a real identity-level insecurity nets out slightly negative.",
+            "ja": "複雑な混在。スポーツの領域では外向きに自信満々——「走ることとスタミナには自信があります！」は自己紹介の冒頭そのもの。でも女性らしさへのコンプレックスは深くて、幼少期のいじめによって「自分はスクールアイドルに向いていない」という思い込みが本気で形成された。自己紹介でも「小柄でとても美人とはいえない」「スタートがいつも遅くて、少し泣き虫」と認めている。運動面での自信が土台にあるアイデンティティの傷を覆い隠しているが、差し引きするとわずかにマイナス。",
+            "id": "Campuran yang rumit. Di ranah atletik, dia percaya diri banget — \"percaya diri sama lari dan staminaku!\" adalah kata-kata pembuka perkenalan dirinya sendiri. Tapi kompleks femininitasnya mengakar dalam: perundungan masa kecil meninggalkan luka yang bikin dia beneran nggak bisa ngeliat dirinya sendiri sebagai sosok yang pantas jadi school idol. Perkenalan dirinya juga ngakuin \"bertubuh kecil dan jauh dari cantik\" dan \"selalu terlambat memulai dan sedikit cengeng.\" Kepercayaan diri di bidang atletik menutupi insekuritas identitas yang nyata, tapi kalau dijumlah hasilnya sedikit negatif."
+          }
+        },
+        "M": {
+          "score": 2,
+          "reason": {
+            "en": "Low-moderate. She joined μ's primarily because Hanayo wanted to — she followed her best friend's dream rather than charging toward her own. \"Loses motivation easily\" is literally a cited trait. Her athletic talent never gets tournament-arc competitive framing in the series. What drive she has is relational and situational: she pushed hard for Hanayo's sake, which shows targeted want-for-a-bonded-person more than self-propelled ambition.",
+            "ja": "やや低め。μ'sに入ったのは主に花陽が入りたかったから——自分の夢に向かって突き進んだのではなく、親友の夢に付き合った形。「やる気をなくしやすい」は明示されている特性。作中でスポーツ能力がトーナメント的な競争軸で描かれることもない。彼女の意欲はリレーショナルで状況依存的——花陽のために全力を出すのは、自己推進型の野心より特定の絆に向けた意志として読める。",
+            "id": "Rendah-sedang. Dia masuk μ's terutama karena Hanayo yang mau — dia ikut mengejar mimpi sahabatnya, bukan ambisinya sendiri. \"Kehilangan motivasi dengan mudah\" itu sifat yang secara eksplisit disebut. Bakat atletiknya juga nggak pernah ditempatkan dalam konteks kompetitif yang serius di ceritanya. Semangat yang dia punya lebih bersifat relasional dan situasional: dia kerja keras demi Hanayo, yang menunjukkan keinginan yang ditujukan pada orang terdekat, bukan ambisi yang berjalan atas inisiatif sendiri."
+          }
+        },
+        "O": {
+          "score": 6,
+          "reason": {
+            "en": "Strong native optimism. \"Energetic, optimistic\" is how she's described from the jump, and her happy-go-lucky baseline is genuine, not a performance. She bounces back from the femininity-wound through arc-resolution with real spirit. Slight temper from the anxiety-undercurrent during the wound-period and the \"loses motivation easily\" pattern — Se-attention-fluctuation can read as instability when stimulation drops. But the default state is just warmth.",
+            "ja": "生まれ持った強い楽観性。「エネルギッシュで楽観的」は最初の描写からそのまま当てはまるし、「なんとかなる」的なベースラインは演技じゃなく本物。アーク解決後に本当の元気さで女性らしさへのコンプレックスを乗り越えてみせる。傷を抱えていた時期の不安感や「やる気をなくしやすい」パターンが若干のマイナス要素——Seの注意力は刺激が落ちると不安定に見えることがある。でも基本状態はただただ温かい。",
+            "id": "Optimisme bawaan yang kuat. \"Energik dan optimistis\" itu deskripsinya sejak awal, dan baseline happy-go-lucky-nya tulus, bukan polesan. Dia bangkit dari luka feminitas lewat resolusi arc dengan semangat yang nyata. Sedikit diimbangi oleh undercurrent kecemasan selama periode luka dan pola \"kehilangan motivasi dengan mudah\" — fluktuasi perhatian Se bisa kelihatan tidak stabil kalau stimulusnya turun. Tapi kondisi default-nya ya cuma hangat."
+          }
+        },
+        "A": {
+          "score": 5,
+          "reason": {
+            "en": "High empathy, Fi-aux style — deep and targeted rather than broadcast. She explicitly puts others' feelings first, she's deeply loyal to Hanayo (pushing her toward her dreams, being pushed back in turn), and her teasing is affectionate, never cutting. Hanayo understood Rin's emotional side just as Rin understood Hanayo's — that mutual attunement is the whole foundation of their bond. Bounded slightly because Fi-warmth is concentrated toward bonded people rather than extended systematically to the whole group.",
+            "ja": "共感力は高いが、Fi-auxらしく深くピンポイント——放射型ではなくターゲット型。他者の気持ちを優先すると明言されており、花陽への忠誠心は深い（花陽の夢を後押しし、今度は花陽から押し返される）、そして彼女のからかいは愛情ある行為であり、傷つける意図が一切ない。花陽が凛の感情的な側面を理解したように、凛も花陽の感情的な側面を理解した——この相互理解がふたりの絆の根幹。グループ全体へ組織的に広がるのではなく絆の深い相手に集中するFiの温かさのため、若干抑えめ。",
+            "id": "Empatinya tinggi, gaya Fi-aux — dalam dan terarah, bukan tipe yang nyebar ke semua arah. Dia secara eksplisit mengutamakan perasaan orang lain, sangat loyal sama Hanayo (mendorongnya ke mimpinya, lalu didorong balik), dan cara ngisenginnya itu penuh kasih sayang, bukan menusuk. Hanayo memahami sisi emosional Rin sama seperti Rin memahami sisi emosional Hanayo — saling memahami itu yang jadi fondasi ikatan mereka. Sedikit dibatasi karena kehangatan Fi-nya terkonsentrasi ke orang-orang dekat, bukan diperluas secara sistematis ke seluruh grup."
+          }
+        },
+        "U": {
+          "score": 1,
+          "reason": {
+            "en": "The externals are genuinely distinctive: cat-mannerisms (curved mouth, \"nya~!\" verbal tic, cat-hair allergy that prevents her from actually keeping a cat), backflips-on-rooftop signature scene, \"san baka\" trio comedic role, sudden-musical-number breakout in the SIP movie, and her identity arc (tomboy grappling with femininity-label) is something that \"doesn't happen often, especially nowadays.\" But the core personality — energetic genki tomboy-athlete — is a pretty conventional archetype. Unique garnish over a familiar flavor.",
+            "ja": "外見的なユニークさはほんものだ：猫のしぐさ（へにょっとした口元、口癖「にゃ〜！」、猫アレルギーで飼えないという悲しいオチ）、屋上でのバク転シーン、「三馬鹿」コメディトリオとしての役割、SIPの映画での突発ミュージカルナンバー、そして「特に最近ではあまり見ない」トムボーイが女性らしさのレッテルと格闘するアイデンティティアーク。ただ内面のコアは——元気いっぱいのスポーツ得意なトムボーイ——わりと王道のアーキタイプ。見慣れた味の上に乗った、独特のトッピング。",
+            "id": "Eksteriornya memang beneran khas: mannerisme kucing (sudut mulut melengkung, verbal tic \"nya~!\", alergi bulu kucing yang bikin dia nggak bisa pelihara kucing beneran), adegan tanda tangan salto di atap, peran komedi trio \"san baka\", tiba-tiba mulai bernyanyi jadi full musical number di film SIP, dan arc identitasnya (tomboy yang bergulat dengan label feminitas) termasuk sesuatu yang \"jarang banget ditemuin, apalagi sekarang\". Tapi inti kepribadiannya — genki tomboy atletis yang energik — adalah arketipe yang cukup pakem. Topping unik di atas rasa yang familiar."
+          }
+        },
+        "N": {
+          "score": -5,
+          "reason": {
+            "en": "Strongly S — pure Se-aux. Multi-sport physical mastery is body-as-primary-medium. Backflips on the rooftop, dancing unmediated in the rain — present-moment physical expression with zero abstract conceptualization. \"Loses motivation easily\" is the Se-dom engagement pattern: energy tied to immediate stimulus, drops when stimulation drops. The inferior-Ni fingerprint even shows up in how she processed the childhood bullying: one bad experience got absorbed into a fixed self-narrative (\"I can't be a school idol\") — that's inferior-Ni distorted-singular-meaning-from-one-event, exactly as the inferior-Ni pattern predicts. No abstract or conceptual content anywhere.",
+            "ja": "しっかりS、純粋なSe-aux。多競技にわたる身体的な熟達は「身体が主な表現媒体」。屋上でのバク転、何も考えずに雨の中で踊る——今この瞬間の身体表現であり、抽象的な概念化はゼロ。「やる気をなくしやすい」はSe-domの関与パターン：エネルギーが目の前の刺激に紐づいており、刺激が落ちると一緒に落ちる。劣等Niの痕跡は幼少期のいじめの処理の仕方にも見える：一度の悪い体験が固定した自己物語（「私はスクールアイドルになれない」）として吸収された——「一つの出来事から歪んだ固定的な意味を引き出す」という劣等Niのパターンそのもの。どこにも抽象的・概念的なコンテンツがない。",
+            "id": "S yang kuat — Se-aux murni. Penguasaan fisik multi-olahraga adalah \"tubuh sebagai medium utama\". Salto di atap, joget tanpa pikir panjang di tengah hujan — ekspresi fisik momen kini tanpa konseptualisasi abstrak sama sekali. \"Kehilangan motivasi dengan mudah\" adalah pola keterlibatan Se-dom: energi terikat sama stimulus langsung, ikut turun kalau stimulusnya hilang. Jejak Ni-inferior juga muncul di cara dia memproses perundungan masa kecil: satu pengalaman buruk diserap jadi narasi diri yang fixed (\"aku nggak cocok jadi school idol\") — itu persis pola Ni-inferior yang menarik makna tunggal yang terdistorsi dari satu kejadian. Nggak ada konten abstrak atau konseptual di mana pun dalam karakternya."
+          }
+        }
+      }
+    }
+  }
+}
