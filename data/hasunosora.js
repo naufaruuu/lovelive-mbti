@@ -106,7 +106,7 @@ window.GROUPS.hasunosora = [
     group: "hasunosora",
     image: "https://ll-mbti-assets.naufalalfa.com/hasunosora/ginko.webp",
     color: "bg-[#a2d7dd]",
-    text: "text-[#a2d7dd]",
+    text: "text-[#2a7a80] dark:text-[#a2d7dd]",
     bgLight: "bg-[#a2d7dd]/10",
     border: "border-[#a2d7dd]",
     name: {
@@ -510,7 +510,7 @@ window.GROUPS.hasunosora = [
     group: "hasunosora",
     image: "https://ll-mbti-assets.naufalalfa.com/hasunosora/kosuzu.webp",
     color: "bg-[#fad764]",
-    text: "text-[#fad764]",
+    text: "text-[#8a6a00] dark:text-[#fad764]",
     bgLight: "bg-[#fad764]/10",
     border: "border-[#fad764]",
     name: {
@@ -611,7 +611,7 @@ window.GROUPS.hasunosora = [
     group: "hasunosora",
     image: "https://ll-mbti-assets.naufalalfa.com/hasunosora/kozue.webp",
     color: "bg-[#68be8d]",
-    text: "text-[#68be8d]",
+    text: "text-[#2d7a52] dark:text-[#68be8d]",
     bgLight: "bg-[#68be8d]/10",
     border: "border-[#68be8d]",
     name: {
@@ -712,7 +712,7 @@ window.GROUPS.hasunosora = [
     group: "hasunosora",
     image: "https://ll-mbti-assets.naufalalfa.com/hasunosora/megumi.webp",
     color: "bg-[#c8c2c6]",
-    text: "text-[#c8c2c6]",
+    text: "text-[#6a5a68] dark:text-[#c8c2c6]",
     bgLight: "bg-[#c8c2c6]/10",
     border: "border-[#c8c2c6]",
     name: {
@@ -1015,7 +1015,7 @@ window.GROUPS.hasunosora = [
     group: "hasunosora",
     image: "https://ll-mbti-assets.naufalalfa.com/hasunosora/tsuzuri.webp",
     color: "bg-[#ba2636]",
-    text: "text-[#ba2636]",
+    text: "text-[#ba2636] dark:text-[#ff6070]",
     bgLight: "bg-[#ba2636]/10",
     border: "border-[#ba2636]",
     name: {

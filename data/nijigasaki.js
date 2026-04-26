@@ -5,7 +5,7 @@ window.GROUPS.nijigasaki = [
     group: "nijigasaki",
     image: "https://ll-mbti-assets.naufalalfa.com/nijigasaki/setsuna.png",
     color: "bg-[#d81c2f]",
-    text: "text-[#d81c2f]",
+    text: "text-[#d81c2f] dark:text-[#ff5060]",
     bgLight: "bg-[#d81c2f]/10",
     border: "border-[#d81c2f]",
     name: {
@@ -207,7 +207,7 @@ window.GROUPS.nijigasaki = [
     group: "nijigasaki",
     image: "https://ll-mbti-assets.naufalalfa.com/nijigasaki/ayumu.png",
     color: "bg-[#ed7d95]",
-    text: "text-[#ed7d95]",
+    text: "text-[#c0506a] dark:text-[#ed7d95]",
     bgLight: "bg-[#ed7d95]/10",
     border: "border-[#ed7d95]",
     name: {
@@ -308,7 +308,7 @@ window.GROUPS.nijigasaki = [
     group: "nijigasaki",
     image: "https://ll-mbti-assets.naufalalfa.com/nijigasaki/verde.png",
     color: "bg-[#84c36e]",
-    text: "text-[#84c36e]",
+    text: "text-[#3d6b2a] dark:text-[#84c36e]",
     bgLight: "bg-[#84c36e]/10",
     border: "border-[#84c36e]",
     name: {
@@ -611,7 +611,7 @@ window.GROUPS.nijigasaki = [
     group: "nijigasaki",
     image: "https://ll-mbti-assets.naufalalfa.com/nijigasaki/kasumi.png",
     color: "bg-[#e7d600]",
-    text: "text-[#e7d600]",
+    text: "text-[#8a7000] dark:text-[#e7d600]",
     bgLight: "bg-[#e7d600]/10",
     border: "border-[#e7d600]",
     name: {
@@ -712,7 +712,7 @@ window.GROUPS.nijigasaki = [
     group: "nijigasaki",
     image: "https://ll-mbti-assets.naufalalfa.com/nijigasaki/lanzhu.png",
     color: "bg-[#f8c8c4]",
-    text: "text-[#f8c8c4]",
+    text: "text-[#c04040] dark:text-[#f8c8c4]",
     bgLight: "bg-[#f8c8c4]/10",
     border: "border-[#f8c8c4]",
     name: {
@@ -813,7 +813,7 @@ window.GROUPS.nijigasaki = [
     group: "nijigasaki",
     image: "https://ll-mbti-assets.naufalalfa.com/nijigasaki/mia.png",
     color: "bg-[#a9a898]",
-    text: "text-[#a9a898]",
+    text: "text-[#5a5950] dark:text-[#a9a898]",
     bgLight: "bg-[#a9a898]/10",
     border: "border-[#a9a898]",
     name: {
@@ -914,7 +914,7 @@ window.GROUPS.nijigasaki = [
     group: "nijigasaki",
     image: "https://ll-mbti-assets.naufalalfa.com/nijigasaki/rina.png",
     color: "bg-[#9ca5b9]",
-    text: "text-[#9ca5b9]",
+    text: "text-[#4a5568] dark:text-[#9ca5b9]",
     bgLight: "bg-[#9ca5b9]/10",
     border: "border-[#9ca5b9]",
     name: {
@@ -1217,7 +1217,7 @@ window.GROUPS.nijigasaki = [
     group: "nijigasaki",
     image: "https://ll-mbti-assets.naufalalfa.com/nijigasaki/yu.png",
     color: "bg-[#1d1d1d]",
-    text: "text-[#1d1d1d]",
+    text: "text-[#1d1d1d] dark:text-[#c0c0c0]",
     bgLight: "bg-[#1d1d1d]/10",
     border: "border-[#1d1d1d]",
     name: {
