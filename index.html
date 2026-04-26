@@ -53,6 +53,8 @@ const Icon = ({ name, size = 24, className = '', fill = 'none' }) => {
         case 'arrow-right': return <svg {...svgProps}><line x1="5" y1="12" x2="19" y2="12" /><polyline points="12 5 19 12 12 19" /></svg>;
         case 'chevron-left': return <svg {...svgProps}><polyline points="15 18 9 12 15 6" /></svg>;
         case 'chevron-right': return <svg {...svgProps}><polyline points="9 18 15 12 9 6" /></svg>;
+        case 'chevron-up': return <svg {...svgProps}><polyline points="18 15 12 9 6 15" /></svg>;
+        case 'chevron-down': return <svg {...svgProps}><polyline points="6 9 12 15 18 9" /></svg>;
         case 'users': return <svg {...svgProps}><path d="M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2" /><circle cx="9" cy="7" r="4" /><path d="M22 21v-2a4 4 0 0 0-3-3.87" /><path d="M16 3.13a4 4 0 0 1 0 7.75" /></svg>;
         case 'rotate-ccw': return <svg {...svgProps}><polyline points="1 4 1 10 7 10" /><path d="M3.51 15a9 9 0 1 0 2.13-9.36L1 10" /></svg>;
         case 'trophy': return <svg {...svgProps}><path d="M6 9H4.5a2.5 2.5 0 0 1 0-5H6" /><path d="M18 9h1.5a2.5 2.5 0 0 0 0-5H18" /><path d="M4 22h16" /><path d="M10 14.66V17c0 1.1-.9 2-2 2H6" /><path d="M14 14.66V17c0 1.1.9 2 2 2h2" /><path d="M18 2H6v7a6 6 0 0 0 12 0V2Z" /></svg>;
@@ -945,6 +947,14 @@ function App() {
           </div>
         </div>
         <FooterPill />
+        <div className="fixed bottom-6 right-4 flex flex-col gap-2 z-50">
+          <button onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })} className="w-11 h-11 flex items-center justify-center rounded-full bg-white dark:bg-slate-700 text-slate-700 dark:text-slate-200 shadow-lg border border-slate-200 dark:border-slate-600 hover:bg-orange-50 dark:hover:bg-slate-600 hover:text-orange-500 active:scale-95 transition-all">
+            <Icon name="chevron-up" size={20} />
+          </button>
+          <button onClick={() => window.scrollTo({ top: document.body.scrollHeight, behavior: 'smooth' })} className="w-11 h-11 flex items-center justify-center rounded-full bg-white dark:bg-slate-700 text-slate-700 dark:text-slate-200 shadow-lg border border-slate-200 dark:border-slate-600 hover:bg-orange-50 dark:hover:bg-slate-600 hover:text-orange-500 active:scale-95 transition-all">
+            <Icon name="chevron-down" size={20} />
+          </button>
+        </div>
       </div>
     );
   }

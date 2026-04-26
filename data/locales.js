@@ -3,7 +3,7 @@ window.T = {
     appTitle: 'Love Live!',
     appSubtitle: '8D Personality + MBTI Profiler',
     appDesc: [
-      'Answer 36 questions inspired by school-idol life — forming a club, choreo practice, setlist arguments, first-live nerves — and find which Love Live! character matches your personality across μ\'s, Aqours, Nijigasaki, Hasunosora, and Liella!.',
+      'Answer 36 questions inspired by school-idol life and find which Love Live! character matches your personality across μ\'s, Aqours, Nijigasaki, Hasunosora, and Liella!. Tap the ★ icon to filter results by group.',
       'Your answers are scored across 9 trait dimensions: the classic MBTI four (E/I, N/S, T/F, J/P) plus five idol-specific axes — Confidence, Ambition, Optimism, Empathy, and Uniqueness. Your trait profile is matched to each character using cosine similarity (direction) blended with distance (intensity), then ranked by overall alignment.',
     ],
     appDescP3Pre: 'Character data gathered from ',
@@ -64,7 +64,7 @@ window.T = {
     appTitle: 'Love Live!',
     appSubtitle: 'Tes Kepribadian 8 Dimensi + MBTI',
     appDesc: [
-      'Jawab 36 pertanyaan bertema kehidupan school idol — daftar klub, latihan koreo, debat setlist, gugup sebelum live pertama — dan temukan karakter Love Live! yang paling cocok sama kepribadian kamu dari μ\'s, Aqours, Nijigasaki, Hasunosora, sampai Liella!.',
+      'Jawab 36 pertanyaan bertema kehidupan school idol dan temukan karakter Love Live! yang paling cocok sama kepribadian kamu dari μ\'s, Aqours, Nijigasaki, Hasunosora, sampai Liella!. Tap ikon ★ untuk menyaring hasil berdasarkan grup.',
       'Jawabanmu diukur di 9 dimensi kepribadian: 4 dimensi MBTI klasik (E/I, N/S, T/F, J/P) plus 5 dimensi khusus idol — Kepercayaan Diri, Ambisi, Optimisme, Empati, dan Keunikan. Profil kepribadianmu dicocokkan ke tiap karakter pakai kemiripan arah dan intensitas trait, lalu diurutkan dari yang paling cocok.',
     ],
     appDescP3Pre: 'Data karakter dikumpulkan dari ',
@@ -126,7 +126,7 @@ window.T = {
     appTitle: 'Love Live!',
     appSubtitle: '8次元深層性格＋MBTI診断',
     appDesc: [
-      '36問のスクールアイドルシナリオ — 部員募集、振り付け練習、セットリスト論争、初ライブの緊張 — に答えて、μ\'s・Aqours・虹ヶ咲・蓮ノ空・Liella! の中からあなたの個性に最も近いキャラクターを見つけよう。',
+      '36問のスクールアイドルシナリオに答えて、μ\'s・Aqours・虹ヶ咲・蓮ノ空・Liella! の中からあなたの個性に最も近いキャラクターを見つけよう。★アイコンをタップするとグループ別に絞り込めます。',
       '回答は9つの特性次元で採点されます：従来のMBTI4軸（E/I・N/S・T/F・J/P）に加え、自信・野心・楽観性・共感力・独自性の5軸を拡張。あなたの特性プロフィールをコサイン類似度（方向性）と距離（強度）でキャラクタープロフィールと照合し、最も近い順に並べます。',
     ],
     appDescP3Pre: 'キャラクターデータは',
