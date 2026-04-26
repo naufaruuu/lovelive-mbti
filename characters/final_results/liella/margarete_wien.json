@@ -1,0 +1,95 @@
+{
+  "color": "#e49dfd",
+  "name": {
+    "en": "Margarete Wien",
+    "ja": "ウィーン・マルガレーテ",
+    "id": "Margarete Wien"
+  },
+  "desc": {
+    "en": "Margarete is a prodigy singer from Vienna who crossed to Japan alone with one goal: win Love Live! and use it as a backdoor into the prestigious music academy she failed to enter. Cold, competitive, and deliberately intimidating — she throws stones at Kanon's window and describes Liella as \"nothing more than stepping stones\" — she's the rare Love Live rival who actually feels like a villain. Under the gothic-edgelord surface is a girl shaped by family pressure, childhood neglect, and a fierce need to win on her own terms, not anyone else's.",
+    "ja": "マルガレーテはウィーン出身の天才歌手で、一つの目的のためだけに日本へ単身渡ってきた——Love Liveで優勝して、入試に失敗した名門音楽学院への入学権を手にすること。冷淡で競争心が強く、わざと威圧的に振る舞う——かのんの窓に石を投げ、Liella!を「単なる踏み台」と言い切る。ラブライブシリーズの中でも本物のヴィランに見える稀な存在。ゴシック的な演出の奥には、家族のプレッシャーと幼少期の孤独に育まれた、自分の流儀で勝ちたいという強烈な意志を持つ少女がいる。",
+    "id": "Margarete itu penyanyi prodigy dari Vienna yang nekat nyebrang ke Jepang sendirian demi satu tujuan: menang Love Live! dan pakai itu sebagai jalur masuk ke akademi musik bergengsi yang gagal dia tembus lewat ujian. Dingin, sangat kompetitif, dan sengaja bikin orang takut — dia lempar batu ke jendela Kanon, nyebut Liella sebagai \"batu loncatan semata.\" Dia salah satu rival Love Live yang beneran terasa kayak villain. Di balik tampang gothic edgelord-nya, ada cewek yang dibentuk oleh tekanan keluarga, kesepian masa kecil, dan kebutuhan kuat untuk menang dengan caranya sendiri — bukan cara orang lain."
+  },
+  "mbti": {
+    "type": "INTJ",
+    "reason": {
+      "en": "INTJ by a narrow fan vote (37 vs 32 ENTJ) that honestly reflects how contested her E/I axis is — both readings have real evidence. What tips it INTJ is the pattern of her cognition: she arrived in Japan with her plan already fully-formed in Vienna, then adapted when reality diverged. That's Ni-dom plan-first sequencing. An ENTJ would have surveyed the situation on arrival and built the plan from what she found. Margarete imported hers. The Fi-tertiary integrity-of-method signature is the strongest piece of evidence — S3's \"I want to BEAT you, otherwise I'll never be able to live it down\" isn't ambition, it's a values commitment: she refuses to ride Liella's coattails even though joining would reach her goal faster. That's Fi-tertiary serving Ni-vision, not someone laser-tunneled on outcomes at any cost. Compare to Natsumi (ESFP), whose Fi-inferior is all about the money-goal by any route. Margarete cares deeply how she gets there. Se-inferior also shows: a confirmed moment in S3 E3 where she gets overwhelmed by environmental stimulation — ENTJs have tertiary Se that expresses as work-hard-play-hard sensory tolerance, not overwhelm. And her unit-building pattern is diagnostic: Lanzhu (the ENTJ reference case) built an Association with hired professionals and institutional-scale infrastructure. Margarete built a minimal trio — herself, Kanon, Tomari — and she started solo. That under-delegation is classic Ni-dom INTJ: tight control over execution because the internal vision has specific requirements. Cold-stoic baseline, slow-to-warm, reluctant even to live with her host family — all introvert-baseline signals. The ENTJ case isn't nothing (she runs practices, confronts rivals, forms units), but those are auxiliary Te actions serving a dominant Ni vision. The vision came first. Confidence ~60/40.",
+      "ja": "ファン投票はINTJが僅差（37対32でENTJ）——そのまま彼女のE/I軸の難しさを反映してる。両方のリーディングに根拠がある。それでもINTJに振れる決め手は、彼女の認知の順序。日本に来る前から、ウィーンの時点でプランは完成していた——Love Liveで優勝して音楽学院に入る。現地に来てから状況を見てプランを作るタイプじゃない。それはNi優勢の「プランが先、現実確認が後」の動き方。ENTJなら到着してから環境を読んで計画を立てる。マルガレーテは計画を持ち込んだ。Fi第三機能の「やり方への誠実さ」がこの分析で一番強い根拠。S3の「あなたに勝たないと、一生引きずる」はただの野心じゃなく価値観のコミットメント——Liella!のおこぼれに乗ればゴールに近づくのに、あえて拒む。これはNiビジョンを守るFiの頑固さで、手段を選ばないタイプの目的志向とは全然違う。Se劣等機能も確認されていて（S3 E3で環境の刺激に圧倒される場面）、ENTJなら第三機能SeがハードワークとSe的な刺激耐性として出てくるはず。ユニット編成のパターンも診断的で、Lanzhu（ENTJの参照ケース）はプロのスタッフを抱えたAssociationを組織-スケールで構築した。マルガレーテは自分+かのん+とまりの3人だけのミニチームを作った——まず一人で参戦してから。これは「内部ビジョンに特定の要件がある」NiドムINTJのもとで起きる過少委任パターン。冷淡でストイックなベースライン、なかなか心を開かない、ホストファミリーとの同居さえ渋る——どれも内向型ベースラインのシグナル。ENTJ説も否定はできないけど（練習を仕切る、ライバルと直接対峙する、ユニットを形成する）、それらはすべてNiビジョンの実行を支えるTeの行動。ビジョンが先にある。確信度は60/40でINTJ。",
+      "id": "INTJ tipis di voting (37 vs 32 ENTJ) — dan itu jujur mencerminkan betapa debatable-nya sumbu E/I-nya. Dua-duanya punya bukti yang nyata. Yang akhirnya bikin condong ke INTJ adalah pola kognisinya: dia sampai di Jepang dengan rencana yang udah matang sejak di Vienna, lalu beradaptasi waktu realita meleset dari rencana itu. Itu sequencing Ni dominan yang \"plan dulu, cek realita belakangan.\" ENTJ akan survei situasi dulu setelah tiba, baru bangun rencana dari yang dia temukan. Margarete dateng bawa rencananya sendiri. Tanda tangan Fi tersier soal \"integritas cara\" adalah bukti paling kuat di sini — kalimat di S3 \"aku mau NGALAHIN kamu, karena kalau nggak, aku nggak bakal bisa nerima diri sendiri\" itu bukan sekadar ambisi, itu komitmen nilai: dia nolak numpang di coattail Liella padahal itu jalur yang lebih cepat. Itu Fi tersier yang melindungi Ni-vision, bukan orang yang ngejar tujuan dengan cara apa pun. Bandingkan sama Natsumi (ESFP) yang Fi inferiornya ngejar tujuan duit lewat jalur apa pun. Margarete sangat peduli caranya sampai ke sana. Se inferior juga terkonfirmasi — ada momen di S3 E3 di mana dia kewalahan oleh stimulasi lingkungan; ENTJ punya Se tersier yang keluar sebagai toleransi sensorik, bukan overwhelm. Pola bangun unit-nya juga diagnostik: Lanzhu (referensi ENTJ) bikin Association berskala institusi dengan staf profesional. Margarete bikin trio minimal — dirinya, Kanon, Tomari — dan mulai solo dulu. Under-delegation kayak gini ciri khas INTJ Ni dom yang visioner: kontrol ketat karena visi internalnya punya syarat spesifik. Baseline dingin-stoik, lambat buka diri, bahkan numpang di rumah keluarga Kanon aja dia nggak mau — semua itu sinyal introvert baseline. Argumen ENTJ tetap ada (dia jalalin latihan, konfrontasi langsung rival, bentuk unit), tapi itu semua aksi Te auxiliari yang melayani Ni dominan. Visinya duluan. Keyakinan sekitar 60/40 INTJ."
+    },
+    "traits": {
+      "E": {
+        "score": -3,
+        "reason": {
+          "en": "A moderate introvert with a Te-assertive output mode. Her default is cold-stoic and distant — she reluctantly lives with Kanon's family and is slow to warm even after joining Liella. She spent years living alone internationally. But she's not passively shy: she confronts rivals directly, directs practices, gives orders, and formed her own unit. That assertive output is role-driven Te, not E baseline. Less introverted than Mei because she does actively direct others when her goal demands it.",
+          "ja": "内向型ではあるけど、Te的なアサーティブな出力モードも持ってる子。デフォルトは冷淡でストイックで距離を置く——かのんの家に渋々居候して、Liella!に加わってからも心を開くのに時間がかかる。一人で何年も海外生活を続けてきた。でも消極的に引っ込んでるわけじゃない。ライバルに直接対峙するし、練習を取り仕切るし、指示を出すし、自分でユニットを作った。そのアサーティブな行動はTeが目標のために出てくるもので、Eのベースラインとは別物。メイ（-5）よりは内向度が薄いのは、目標のためなら積極的に他者を動かしにいくから。",
+          "id": "Introvert sedang dengan mode output Te yang asertif. Default-nya dingin, stoik, dan menjaga jarak — numpang di rumah Kanon pun dengan terpaksa, dan lambat buka diri bahkan setelah bergabung ke Liella. Dia udah tinggal sendirian di luar negeri bertahun-tahun. Tapi dia bukan tipe yang pendiam pasif: dia konfrontasi langsung rival, pegang kendali latihan, kasih instruksi, dan bikin unit sendiri. Output asertif itu keluar dari Te buat ngejar tujuan, bukan E sebagai baseline. Lebih nggak introvert dari Mei karena kalau goalnya minta, dia aktif gerakin orang lain."
+        }
+      },
+      "J": {
+        "score": 6,
+        "reason": {
+          "en": "Strong J across the board. Her masterplan — win Love Live, get into the Vienna academy — is a multi-step goal pursued across continents and years. She holds others to strict effort standards and argues with Tomari directly for skipping practice. Formal, structured speech even when hostile. But she adapts when the plan meets reality: she pivots from solo idol to unit, pivots from beat-Liella to join-Liella, and eventually stays in Japan instead of going home. Strong J, not rigid J.",
+          "ja": "全体的に強いJ。Love Liveで優勝してウィーンの学院に入るというマスタープランは、大陸をまたいで何年にもわたって追求してきた多段階の目標。他者にも厳しい努力基準を課して、練習をサボるとまりに直接文句を言う。敵対的なときでさえ、話し方は形式的で整然としている。ただし、プランが現実にぶつかったときには適応できる——ソロからユニットに切り替え、Liella!を倒す側から加わる側へピボットし、最終的には帰国せず日本に残ることを選んだ。強いJだが、硬直したJではない。",
+          "id": "J yang kuat di semua lini. Masterplan-nya — menang Love Live, masuk akademi Vienna — adalah tujuan multi-langkah yang dikejar lintas benua dan bertahun-tahun. Dia pegang orang lain pada standar usaha yang ketat dan langsung protes ke Tomari yang skip latihan. Cara bicaranya formal dan terstruktur bahkan waktu lagi bermusuhan. Tapi dia bisa adaptasi kalau plan-nya ketabrak realita: dia pivot dari solo idol ke unit, pivot dari mau ngalahin Liella ke gabung Liella, dan akhirnya milih tinggal di Jepang daripada pulang. J yang kuat, bukan J yang kaku."
+        }
+      },
+      "T": {
+        "score": 5,
+        "reason": {
+          "en": "Strongly T. Cold-blooded and stoic by default, she frames everything instrumentally — \"Liella and Love Live are nothing more than stepping stones.\" She judges others by measurable effort and runs her unit with Te-organizational precision. But her Fi-tertiary integrity-of-method surfaces at key moments: \"I want to BEAT you, otherwise I'll never be able to live it down\" is real values-commitment, not just strategy. Real feelings underneath the cold-pragmatic surface.",
+          "ja": "Tが強い。デフォルトで冷淡かつストイックで、あらゆることを手段として捉える——「Liella!もLove Liveも単なる踏み台に過ぎない」。他者を測定可能な努力で評価し、Te的な組織力でユニットを取り仕切る。ただし第三機能Fiのやり方への誠実さが重要な局面で顔を出す——「あなたに勝たなければ一生引きずる」は本物の価値観へのコミットメントで、単なる戦略じゃない。冷淡で実利的な表面の奥に、本物の感情がある。",
+          "id": "T yang kuat. Default-nya dingin dan stoik, dia frame segalanya secara instrumental — \"Liella sama Love Live nggak lebih dari batu loncatan.\" Dia nilai orang berdasarkan usaha yang bisa diukur dan jalanin unit-nya dengan presisi organisatoris Te. Tapi Fi tersiernya soal integritas cara muncul di momen kunci: \"aku mau NGALAHIN kamu, karena kalau nggak, aku nggak bakal bisa nerima diri sendiri\" — itu komitmen nilai yang nyata, bukan sekadar strategi. Ada perasaan yang beneran di balik permukaan dingin-pragmatisnya."
+        }
+      },
+      "C": {
+        "score": 4,
+        "reason": {
+          "en": "Arrogant-prodigy confidence as her baseline — she boldly declares she'll move everyone who hears her and enters Love Live as a solo middle-schooler without blinking. But there are real cracks: she originally failed the academy entrance exam, her family's bargain implies she was already in backup-plan territory, and Liella's defeat sent her into an internal breakdown. Strong confidence built on genuine talent, with setback-wounds she doesn't easily show.",
+          "ja": "天才型のアレーガンスがベースライン——聴く人全員を感動させると堂々と宣言して、中学生で単独でLove Liveにエントリーしてきた。でも本当の亀裂もある。もともと音楽学院の入試に落ちていて、親との取引はすでに「バックアッププラン」の段階に入っていたことを示している。そしてLiella!に負けた後は内側で崩れた。本物の才能に裏打ちされた強い自信に、表に出さない挫折の傷がある。",
+          "id": "Baseline-nya adalah kepercayaan diri ala prodigy yang arogan — dia tanpa canggung deklarasi bakal bikin semua pendengarnya tergerak, dan daftar Love Live solo waktu masih SMP tanpa ragu. Tapi ada retakan nyata: dia awalnya gagal ujian masuk akademi, deal keluarganya ngasih tahu dia udah di zona backup plan, dan kekalahan dari Liella bikin dia collapse secara internal. Kepercayaan diri yang kuat, didukung bakat nyata, dengan luka dari kegagalan yang nggak dia tunjukin sembarangan."
+        }
+      },
+      "M": {
+        "score": 8,
+        "reason": {
+          "en": "Very high drive. She crossed to Japan alone in middle school to chase a specific goal, sustained multi-year execution through setbacks, and explicitly refuses the easy path — she won't accept victory through Liella's coattails even when that option is available. When her original deal fell through, she didn't retreat home: she stayed and sharpened her ambition. Not a +9 because the goal is personal-achievement-scale (one specific academy) rather than world-building or empire-scale.",
+          "ja": "ドライブが非常に高い。中学生のうちに一人で日本に渡り、具体的な目標のために何年にもわたって挫折を経て実行し続けた。そして明示的に楽な道を拒む——Liella!のおこぼれで勝てる選択肢があってもそれを拒絶する。当初の取引が崩れても帰国せず、野心をさらに研ぎ澄ませて日本に残ることを選んだ。+9じゃないのは、目標が「特定の学院への入学」という個人達成スケールで、帝国建設や世界規模のビジョンではないから。",
+          "id": "Drive-nya sangat tinggi. Dia nyebrang ke Jepang sendirian waktu SMP demi satu tujuan spesifik, eksekusi bertahun-tahun melewati berbagai kegagalan, dan secara eksplisit nolak jalan gampang — dia nggak mau terima kemenangan lewat coattail Liella bahkan waktu opsi itu ada. Waktu deal asalnya gagal, dia nggak pulang ke Austria: dia tinggal dan pertajam ambisinya. Bukan +9 karena skala tujuannya personal-achievement (satu akademi spesifik), bukan membangun sesuatu yang lebih besar."
+        }
+      },
+      "O": {
+        "score": 2,
+        "reason": {
+          "en": "Moderate resilience, earned rather than native. She bounced back from the failed entrance exam, executed the family's deal plan, and after losing to Liella — instead of retreating — chose to stay and compete. But her cold-stoic surface covers real anxiety: family-expectation pressure, musical-prodigy burden, and childhood neglect shaped a baseline that's more anxiety-adjacent than effortlessly optimistic. Net positive through grit, not temperament.",
+          "ja": "回復力は中程度のプラスで、生まれつきというより鍛え上げたもの。入試の失敗から立ち直り、家族の取引プランを実行し、Liella!に負けた後も撤退せず残ることを選んだ。でも冷淡でストイックな表面の下に本物の不安がある——家族からのプレッシャー、音楽天才としての重荷、幼少期の孤独が、楽観主義よりも不安に近いベースラインを作り上げている。気質じゃなく根性で維持するネットポジティブ。",
+          "id": "Resiliensi positif sedang, hasil tempaan bukan bawaan. Dia bangkit dari ujian masuk yang gagal, jalani rencana deal keluarga, dan setelah kalah dari Liella — alih-alih pulang — milih tetap tinggal dan terus bersaing. Tapi permukaan dingin-stoik-nya nutupin kecemasan yang nyata: tekanan ekspektasi keluarga, beban jadi prodigy musik, dan kesepian masa kecil membentuk baseline yang lebih dekat ke anxiety daripada optimisme yang ngalir otomatis. Net positif yang dijaga lewat kegigihan, bukan temperamen."
+        }
+      },
+      "A": {
+        "score": 2,
+        "reason": {
+          "en": "Slight positive, very slow-earned. Her baseline is cold-blooded and hostile — outright antagonistic toward idols she sees as threats. But across S3 she genuinely softens: she forms real bonds with Kanon and Tomari, acknowledges Kinako and Natsumi's earnestness, teaches Aria how to bake, and ultimately stays in Japan because she cares about the relationships she's built. Warmth is real but bounded — specific people, late-earned, never replacing her competitive core.",
+          "ja": "わずかなプラスで、ゆっくりと積み上げたもの。ベースラインは冷淡かつ敵対的——脅威と見なすアイドルには真っ向から敵意を向ける。でもS3をかけて確かに柔らかくなっていく。かのんとまりと本物の絆を作り、きな子なつみの誠実さを認め、アリアにお菓子作りを教え、最終的には築いた関係を大切にしたくて日本に残る。その優しさは本物だけど、限られた相手への、時間をかけて積み上げたもので、競争心というコアが消えるわけじゃない。",
+          "id": "Positif tipis, sangat pelan diraihnya. Baseline-nya dingin dan bermusuhan — terang-terangan antagonis ke idol yang dia lihat sebagai ancaman. Tapi sepanjang S3 dia beneran melunak: bentuk ikatan nyata sama Kanon dan Tomari, akui kejujuran dan kesungguhan Kinako dan Natsumi, ajarin Aria cara bikin kue, dan akhirnya tinggal di Jepang karena dia peduli sama hubungan yang udah dia bangun. Kehangatan itu nyata tapi terbatas — hanya ke orang-orang tertentu, diraih pelan-pelan, dan nggak pernah gantiin inti kompetitifnya."
+        }
+      },
+      "U": {
+        "score": 3,
+        "reason": {
+          "en": "Moderately distinctive. Austrian exchange student from a musical-dynasty family, gothic-villain aesthetic, songs that fans call \"the most villainous in Love Live\", throwing stones at Kanon's window, solo idol debut in middle school, Salzburg cooking skill, part-time Shibuya cafe worker. A genuinely unique cultural and thematic profile. But the core archetype — antagonist-rival-idol who eventually warms up — has franchise precedent all over it (A-RISE, Saint Snow, SunnyPa). The flavor is novel; the shape is a known one.",
+          "ja": "適度に個性的。ウィーン出身の音楽名家のお嬢様、ゴシック的なヴィランの美学、ファンに「ラブライブ史上最もヴィランらしい曲」と言われるソング、かのんの窓への石投げ、中学生でのソロアイドルデビュー、ザルツブルガー料理のスキル、渋谷家カフェでのアルバイト。文化的・テーマ的に本物のユニークなプロフィール。でもコアのアーキタイプ——最終的に心を開く対立ライバルアイドル——はフランチャイズに前例がいくつもある（A-RISE、Saint Snow、SunnyPa）。フレーバーは新しいが、形は既知のもの。",
+          "id": "Cukup unik. Exchange student Austria dari keluarga dinasti musik, estetik villain gothic, lagu-lagu yang fans sebut \"paling villainous di Love Live\", lempar batu ke jendela Kanon, debut solo idol waktu SMP, skill masak Salzburg, part-time di kafe keluarga Shibuya. Profil kultural dan tematik yang beneran unik. Tapi inti arketipe-nya — rival antagonis yang akhirnya melunak — punya preseden di franchise ini (A-RISE, Saint Snow, SunnyPa). Flavor-nya baru; bentuknya sudah dikenal."
+        }
+      },
+      "N": {
+        "score": 5,
+        "reason": {
+          "en": "Strong N. Ni-dominant is visible in her sustained single vision across years (the academy-pathway, unconstrained by immediate circumstances), her strategic multi-step planning formed internally before execution, and her Fi-tertiary integrity-of-method (wins matter only if won the right way — abstract values over concrete results). Se-inferior confirms through the S3 E3 overwhelm moment. No Si tradition-anchor or Se-present-focus as primary cognitive mode. Solid Ni-dom reading.",
+          "ja": "Nが強い。Ni優勢は複数の側面で見える——年単位の単一ビジョンの持続（学院入学という一点志向、目前の現実に左右されない）、内側で形成されてから外部に実行される多段階の戦略的プランニング、Fi第三機能の「方法への誠実さ」（正しい方法で勝つことだけが意味のある勝利——抽象的な価値観が具体的な結果に優先する）。S3 E3の感覚過負荷の場面がSe劣等機能を裏付ける。Si的な伝統へのアンカーも、第一認知モードとしてのSe現在志向もない。しっかりしたNiドムの読み。",
+          "id": "N yang kuat. Ni dominan keliatan dari beberapa sisi — visi tunggal yang dipertahankan bertahun-tahun (jalur ke akademi, nggak terganggu kondisi langsung di sekitarnya), perencanaan multi-langkah yang dibentuk secara internal sebelum dieksekusi, dan integritas cara dari Fi tersier (menang itu cuma berarti kalau cara-nya bener — nilai abstrak di atas hasil konkret). Se inferior terkonfirmasi dari momen kewalahan stimulasi di S3 E3. Nggak ada Si sebagai anchor tradisi, nggak ada Se sebagai mode kognitif utama. Pembacaan Ni dom yang solid."
+        }
+      }
+    }
+  }
+}

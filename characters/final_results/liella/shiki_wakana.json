@@ -1,0 +1,95 @@
+{
+  "color": "#b2ffdd",
+  "name": {
+    "en": "Shiki Wakana",
+    "ja": "若菜四季",
+    "id": "Shiki Wakana"
+  },
+  "desc": {
+    "en": "Shiki is a stoic second-year school idol who mostly expresses herself through short, efficient sentences — her self-introduction is literally just her name and two hobbies before she tries to end the conversation. Her two main loves are Mei and science: she spent years alone in the science club inventing gadgets like robotic roller-skates, a hoverboard, and a muscle manipulator, but she joined Liella in the first place just to lure Mei in. Underneath the minimal-speech exterior is a deeply loyal, quietly caring girl who goes full mad-scientist the moment someone she loves needs help.",
+    "ja": "四季は口数が少なく、自己紹介すら名前と趣味を二つ言って終わらせようとするほど——でも根っこはすごく誠実で面倒見のいい子。好きなものはMeiとサイエンス。ロボットローラースケートやホバーボードや筋肉操作装置を一人で作り上げてきた科学部の住人で、そもそもLiella!に入ったのは「Meiを引き込むため」という作戦ありきだった。最小限の言葉の裏に、誰かのためなら即「マッドサイエンスモード」に切り替わる熱量が隠れている。",
+    "id": "Shiki itu school idol tahun kedua yang bicara seperlunya — perkenalan dirinya ya nama doang, dua hobi, terus udah, dia mau nutup percakapannya. Dua hal yang dia suka: Mei sama sains. Bertahun-tahun dia ngabisin waktu sendirian di science club, nyiptain gadget dari sepatu roda robotik sampai hoverboard sampai alat manipulasi otot. Tapi alasan dia join Liella dari awal ya buat ngerayu Mei masuk. Di balik tampang stoiknya ada cewek yang loyal banget dan diem-diem peduli — langsung masuk mode mad scientist begitu orang yang dia sayang butuh bantuan."
+  },
+  "mbti": {
+    "type": "INFP",
+    "reason": {
+      "en": "INFP, dissenting from the fan majority (INTP 38, INTJ 14) — but honest confidence here is only about 55/45, not a slam dunk. The strongest single INFP diagnostic is her self-introduction: when asked what she likes, she answers \"Mei\" first, before stag beetles and science. That's not a Ti person. She also abandoned the science club — her solitary domain — to follow Mei into Liella, which is a Fi-values-over-Ti-domain move. The Special Color arc is about self-acceptance through value-articulation (\"white shines only when surrounded by other colors\"), which reads as Fi identity work rather than Ti framework refinement. Inferior Se shows up in her sensory overwhelm: she faints under physical/emotional overload, avoids brightness, hates loud places. The INTP case is genuine though — her gadgets are functionally sophisticated (not just emotional-expression tools), she schemes for the sheer fun of it (the Natsumi plots), and her stoic minimal-affect plus autistic-coded presentation is a closer match to INTP than to the warmer Fi-dom stereotype. The tie-breaker is Mei-as-stated-first-priority plus science-club-as-loneliness-refuge: the tech is real, but the emotional core beneath it is the stronger signal.",
+      "ja": "タイプはINFP。ファン投票の多数派（INTP 38票、INTJ 14票）と異なるけど、自信度は正直55/45くらいで僅差。最も強いINFP診断材料は自己紹介——「好きなもの？Mei。あとカブトムシと蝶と……以上」という答えの順番。Tiドミナントの人がこう答えるとは思えない。しかも彼女は自分の領域だった科学部を捨て、Meiを追ってLiella!に入った——これはTiよりFiの価値観を優先した行動。S3のSpecial Colorアークも「自分の色を認める（白は他の色に囲まれて初めて輝く）」という自己受容の物語で、Ti的な論理整理よりFiのアイデンティティ作業に近い。劣等機能Seは感覚過負荷として出てくる——眩しさに弱く、うるさい場所が苦手で、限界を超えると気を失う。INTP説も筋は通っていて、ガジェットは感情表現のための道具にとどまらない実用的な精度があるし、楽しみのためにスキームを立てる（Natsumiとの共謀）あたりはTi-Neの遊び。でもMeiを「好きなもの一番目」に挙げる自己紹介と、科学部が孤独の避難場所だったという文脈が、技術の実用性よりも強い感情的シグナルとして残る。",
+      "id": "INFP, beda dari mayoritas voting fans (INTP 38, INTJ 14) — tapi jujur confidence-nya cuma sekitar 55/45, bukan keputusan yang gampang. Bukti INFP paling kuat ada di perkenalan dirinya: pas ditanya suka apa, dia jawab \"Mei\" duluan, sebelum kumbang dan kupu-kupu dan sains. Itu bukan jawaban orang Ti. Dia juga ninggalin science club — domain pribadinya selama bertahun-tahun — buat ngikut Mei masuk Liella, yang lebih ke keputusan Fi (nilai personal di atas domain Ti). Arc Special Color di S3 juga soal penerimaan diri lewat artikulasi nilai (\"putih baru bisa bersinar kalau dikelilingi warna lain\"), yang lebih baca sebagai kerja identitas Fi daripada penyempurnaan framework Ti. Se inferior-nya keliatan dari sensory overwhelm — dia bisa pingsan kalau kondisinya terlalu berat, nghindarin cahaya terang, nggak tahan tempat berisik. Tapi INTP-nya juga masuk: gadget-nya itu fungsional beneran (bukan cuma alat ekspresi emosi), dia scheming buat senang-senang (komplotannya sama Natsumi), dan gaya bicara minimalisnya plus coding autistik-nya lebih cocok ke INTP daripada stereotip Fi-dom yang lebih hangat. Yang akhirnya bikin condong ke INFP ya Mei sebagai prioritas pertama yang disebut sendiri, plus framing science club sebagai tempat berlindung dari kesepian — teknisnya nyata, tapi sinyal emosional di baliknya lebih kuat."
+    },
+    "traits": {
+      "E": {
+        "score": -7,
+        "reason": {
+          "en": "Strong introvert. Her self-introduction is three sentences before she tries to close it — \"That's it. Huh? You think that's too short?\" She spent years alone in the science club before the Mei-recruitment arc, avoids bright places, hates loud environments, and her default output is minimal. Closer to Rina's -7 than anyone with expressive output.",
+          "ja": "強いイントロバート。自己紹介は3文で切り上げようとする（「以上です。え、短すぎる？」）。Mei勧誘アーク以前は科学部に一人でいたし、明るい場所を避け、うるさい環境が苦手で、デフォルトの出力が最小限。表現力のあるキャラではなく、理奈の-7に近いポジション。",
+          "id": "Introvert kuat. Perkenalan dirinya tiga kalimat terus udah mau ditutup — \"Sekian. Hah? Terlalu pendek?\" Dia bertahun-tahun sendirian di science club sebelum arc ngajak Mei, nghindarin tempat terang, nggak tahan lingkungan ramai, dan output default-nya ya minimal. Lebih deket ke level -7-nya Rina daripada karakter yang ekspresif."
+        }
+      },
+      "J": {
+        "score": -4,
+        "reason": {
+          "en": "P-leaning. Her inventions aren't execution of a single plan but a cascade of novel schemes — skeleton plan, muscle manipulator, tracker bugs, truth serum, robotic roller-skates, hoverboard, all improvised as situations call for them. She randomly blurts English phrases with no apparent filter, and her stress response is fainting, not structured problem-solving. She follows Mei's lead rather than charting her own course.",
+          "ja": "P寄り。発明品は一つの計画を実行するというより、状況に応じて新しい案をどんどん生成している——骨格プラン、筋肉操作装置、追跡バグ、真実の血清、ロボットローラースケート、ホバーボード、全部その場の即興型。英語フレーズを唐突に口にするのもフィルターなしのNe出力っぽい。ストレス時は失神というJらしくない反応をする。自分で道を決めるより、Meiの後をついていくタイプ。",
+          "id": "Condong ke P. Gadget-gadgetnya bukan eksekusi satu rencana, tapi lebih ke kaskade ide baru sesuai situasi — skeleton plan, muscle manipulator, tracker bug, truth serum, sepatu roda robotik, hoverboard, semua muncul improvisasi. Dia juga tiba-tiba blurting kalimat bahasa Inggris tanpa filter yang jelas, dan respons stres-nya adalah pingsan, bukan problem-solving terstruktur. Lebih sering ngikut arah Mei daripada nentuin jalurnya sendiri."
+        }
+      },
+      "T": {
+        "score": -2,
+        "reason": {
+          "en": "Slight F — and this is the contested axis. The F evidence: she lists Mei as her favorite thing before science, her gadgets frequently serve relational goals (helping Kinako join Liella, pulling Mei into the club), and the Special Color arc centers on self-acceptance through a relationship. The T evidence: her engineering is genuinely sophisticated, and fans consistently describe the science as her actual defining trait, not a cover for emotion. Net slight F because Mei-first self-identification is the strongest single diagnostic, but the Ti case keeps the score close to zero.",
+          "ja": "わずかにF——でもここが一番難しい軸。F寄りの根拠：自己紹介でMeiをサイエンスより先に挙げる、ガジェットが関係性のゴールに向けて使われる（KinakoのLiella入り支援、Mei勧誘）、Special ColorアークはMeiとの絆を通じた自己受容の話。T寄りの根拠：エンジニアリングの完成度が高い、ファン読解でも科学が「感情の包み」ではなく「本物の定義的特徴」として扱われることが多い。Meiを一番目に挙げる自己紹介が最強の診断材料なので微F判定だが、Tiの根拠がある分スコアはゼロに近い。",
+          "id": "Sedikit F — dan ini axis yang paling diperdebatkan. Bukti F: dia nyebut Mei duluan sebelum sains di perkenalan, gadget-nya sering punya tujuan relasional (bantu Kinako join Liella, narik Mei masuk club), dan arc Special Color intinya soal penerimaan diri lewat hubungan sama Mei. Bukti T: engineering-nya beneran canggih, dan fans secara konsisten baca sainya sebagai karakter utama yang mendefinisikan dia, bukan pelarian emosi. Net-nya sedikit F karena Mei-duluan di self-introduction itu bukti tunggal terkuat, tapi kasusnya Ti bikin skor tetap deket ke nol."
+        }
+      },
+      "C": {
+        "score": -5,
+        "reason": {
+          "en": "Low confidence baseline. Her Special Color arc is explicitly about not believing she can stand out, she hides behind Mei as her shadow in S3, and multiple fan reads note an inferiority complex toward the senpai — her skill level not matching up was a real wound. She grows through arcs, but the starting point is substantially insecure.",
+          "ja": "自己肯定感が低い。Special ColorアークはそのものずバリとSTARTが「自分は目立てないと思っている」ところから始まる。S3ではMeiの影に隠れるし、複数のファン読解が先輩に対する劣等感を指摘——自分の技術レベルが追いついていないことを実際に傷として感じている。成長はするが、出発点は相当に不安定。",
+          "id": "Self-confidence-nya rendah dari awal. Arc Special Color-nya secara eksplisit soal dia yang nggak percaya bisa menonjol, di S3 dia bersembunyi di belakang Mei sebagai bayangan, dan beberapa pembacaan fans nyebut ada inferioritas ke senpai-senpai — perasaan kalau skill-nya nggak nyampe itu beneran jadi luka. Dia berkembang lewat arc-arc-nya, tapi titik awalnya memang insecure yang cukup dalam."
+        }
+      },
+      "M": {
+        "score": 2,
+        "reason": {
+          "en": "Low-moderate. She didn't want to be an idol on her own terms — she joined on a trial period to bait Mei, stayed because Mei stayed. She explicitly avoids the spotlight and doesn't chase center roles. Some earned commitment builds across seasons (she accepts the vice-president role under Mei), but her ambition is peer-devotion and small-domain mastery, not self-directed competitive drive.",
+          "ja": "低め〜中程度。自分の意志でアイドルになりたかったわけではなく、Meiを引き込むためにお試し参加して、Meiが残るから自分も残ったという流れ。スポットライトを積極的に求めず、センターポジションも追わない。季節を経て副会長を引き受けるなど責任感は育つが、原動力はあくまで「Meiのそばにいること」と「自分の小さな領域（サイエンス）の熟達」。競争志向の野心ではない。",
+          "id": "Rendah sampai sedang. Dia nggak join karena pengen jadi idol atas kemauannya sendiri — dia join coba-coba buat narik Mei, terus lanjut karena Mei lanjut. Dia eksplisit nghindarin spotlight dan nggak ngejar posisi center. Ada komitmen yang terbentuk seiring waktu (nerima peran wakil presiden di bawah Mei), tapi dorongannya ya lebih ke devotion ke Mei dan penguasaan domain kecilnya sendiri (sains) — bukan ambisi kompetitif yang ngarah ke diri sendiri."
+        }
+      },
+      "O": {
+        "score": 1,
+        "reason": {
+          "en": "Slight positive through earned growth, not natural brightness. Her baseline is stoic-cautious-avoidant — described as a \"deeply lonely girl\" before Liella, she faints under overwhelm and struggled with the inferiority complex through S2. The resilience she shows in S3 (the Special Color arc, accepting the vice-president role) is won, not given.",
+          "ja": "わずかにプラス——生まれ持った明るさではなく、積み重ねた成長の結果。ベースラインは「深く孤独な女の子」（Liella加入前の描写）で、負荷がかかると気を失い、S2を通じて劣等感と戦い続けている。S3で見せる粘り強さ（Special Colorアーク、副会長就任）は鍛えて得たもの。",
+          "id": "Sedikit positif lewat pertumbuhan yang diperjuangkan, bukan keceriaan alami. Baseline-nya stoik-hati-hati-menghindar — digambarkan sebagai \"cewek yang sangat kesepian\" sebelum Liella, dia pingsan saat kewalahan dan berjuang sama rasa inferioritas sepanjang S2. Ketahanan yang dia tunjukkan di S3 (arc Special Color, nerima peran wakil presiden) itu hasil kerja keras, bukan bawaan."
+        }
+      },
+      "A": {
+        "score": 5,
+        "reason": {
+          "en": "Moderate-high warmth, but bounded. Her devotion to Mei is total — she literally invents machines to help the people she cares about (a device to get Kinako up the stairs, gadgets to pull Mei into the club). She took the initiative to talk to Natsumi when she needed it. But she gets jealous and possessive when Mei spends time with others, and her warmth toward people outside the Mei-and-bonded-classmates circle stays quiet by default.",
+          "ja": "温かさは中〜高だが、範囲が限られている。Meiへの献身は全力で、実際に大切な人のために機械を発明する（Kinakoが階段を上れるよう装置を作る、Meiをクラブに引き込むためのガジェット）。Natsumiが困っているとき自分から話しかけたのも彼女。ただMeiが他の誰かと過ごすと嫉妬して独占的になる。Meiと仲の良いクラスメート以外への温かさは、デフォルトでは静かなまま。",
+          "id": "Kehangatan sedang sampai tinggi, tapi terbatas pada orang-orang tertentu. Devotion-nya ke Mei itu total — dia beneran nyiptain mesin buat bantu orang yang dia sayang (alat biar Kinako bisa naik tangga, gadget buat narik Mei masuk club). Dia juga yang ngambil inisiatif ngajak Natsumi ngobrol waktu Natsumi butuh. Tapi dia bisa cemburu dan posesif kalau Mei lagi sama orang lain, dan kehangatan ke orang di luar lingkaran Mei-dan-teman-seangkatan tetap diem-diem aja secara default."
+        }
+      },
+      "U": {
+        "score": 5,
+        "reason": {
+          "en": "Notably distinctive. The only mad-scientist character in all of Love Live, she builds actual working gadgets — robotic roller-skates, a hoverboard, a muscle manipulator, truth serums, tracker bugs, night vision goggles. She randomly blurts English for no explained reason. Her self-introduction is three sentences and she's already trying to end it. Her favorite thing is a person, not a skill. Multiple fan reads note autistic coding alongside Rina and Tsuzuri. The distinctiveness runs both external (tech inventor) and internal (unusual cognitive style and sensory sensitivities).",
+          "ja": "際立って個性的。Love Live全体を通じて唯一のマッドサイエンティストキャラで、ロボットローラースケート・ホバーボード・筋肉操作装置・真実の血清・追跡バグ・暗視ゴーグルなど実際に動くガジェットを作り上げる。理由不明のまま突然英語フレーズを叫ぶ。自己紹介は3文で切り上げようとする。「好きなもの」に人の名前が入る。理奈やつづりと同様の「暗示的オートスティック」コーディングをファンから指摘される。外見的（テックインベンター）にも内面的（独特の認知スタイル・感覚過敏）にも独自性が高い。",
+          "id": "Kelihatan banget beda. Satu-satunya karakter mad scientist di seluruh Love Live, dia nyiptain gadget yang beneran fungsi — sepatu roda robotik, hoverboard, muscle manipulator, truth serum, tracker bug, kacamata night vision. Dia tiba-tiba blurting kalimat bahasa Inggris tanpa alasan yang jelas. Perkenalan dirinya tiga kalimat dan dia udah mau nutup. \"Hal yang disukai\"-nya itu nama orang. Beberapa fans juga nyebut dia punya coding autistik kayak Rina dan Tsuzuri. Keunikannya ada di dua sisi: luar (tech inventor) dan dalam (gaya kognitif yang nggak biasa plus sensory sensitivity)."
+        }
+      },
+      "N": {
+        "score": 3,
+        "reason": {
+          "en": "Moderate N. Her inventions emerge from possibility-cascading — she doesn't refine one solution, she generates novel schemes (the skeleton plan, the tracker bugs, the truth serum) as problems appear. Randomly blurted English reads like unfiltered Ne-associative output. Inferior Se shows clearly in sensory overwhelm: too bright, too loud, and she physically faints when pushed past her threshold.",
+          "ja": "中程度のN。発明は一つの解を磨くのではなく、問題に応じて新しい可能性をどんどん生成する（骨格プラン、追跡バグ、真実の血清）——これはNe的な可能性の連鎖に見える。唐突に英語を叫ぶのも、フィルターなしのNe的連想出力っぽい。劣等機能Seは感覚過負荷として明確に出る：眩しすぎる、うるさすぎる、限界を超えると実際に気を失う。",
+          "id": "N sedang. Gadget-gadgetnya muncul dari kemungkinan yang terus berkembang — bukan menyempurnakan satu solusi, tapi menghasilkan skema baru sesuai masalah (skeleton plan, tracker bug, truth serum). Blurting bahasa Inggris secara acak juga keliatan kayak output asosiasi Ne tanpa filter. Se inferior-nya jelas banget lewat sensory overwhelm: terlalu terang, terlalu berisik, dan dia beneran pingsan kalau udah melewati batas."
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "color": "#ff51c4",
+  "name": {
+    "en": "Natsumi Onitsuka",
+    "ja": "鬼塚夏美",
+    "id": "Natsumi Onitsuka"
+  },
+  "desc": {
+    "en": "Natsumi joined Liella! as a small-time L-Tuber with one goal: turn their popularity into ad revenue for herself. She's cheerful on the surface and genuinely manipulative underneath — schemes-first, feelings-later, complete with a cartoon-villain face when plotting with Shiki and a habit of working part-time jobs until her bones literally break. Beneath all the money-gremlin energy is a kid who tried everything as a child, failed at all of it, and quietly decided she wasn't allowed to have real dreams anymore. That backstory, plus the complicated knot of her relationship with her younger sister Tomari, is what turns her from a funny Wario-type side character into something with actual weight.",
+    "ja": "夏美がLiella!に近づいたのは、彼女たちの人気を自分のLチューブチャンネルの広告収益に変えるため——それだけ。表向きはフレンドリーだけど、根っこは計算高くてしっかり自己中。志貴と一緒に陰謀を企てるときの「悪役の顔」、バイトで骨が折れるまで働く根性、どれもコミカルに見えるけど、その奥には幼い頃から何度も夢にぶつかっては玉砕してきた過去がある。気づいたら「自分には夢を持つ資格がない」と思い込んでいた子。妹・泊との複雑な関係も含めて、ただの面白いお金ゴブリンキャラじゃない重さを持つ存在です。",
+    "id": "Natsumi masuk ke Liella! dengan satu tujuan: manfaatin popularitas mereka buat dapet ad revenue dari channel L-Tube-nya sendiri. Permukaannya ceria, tapi di baliknya dia memang manipulatif dan perhitungan — skema dulu, perasaan belakangan, lengkap dengan tampang villain kartun pas lagi plot-plottingan sama Shiki dan kebiasaan kerja part-time sampai tulangnya beneran patah. Di balik semua energi money gremlin itu, ada anak yang sudah nyoba segalanya waktu kecil, gagal di semuanya, terus diem-diem memutuskan bahwa dirinya nggak berhak punya mimpi beneran. Latar belakang itu, plus hubungannya yang rumit sama adiknya Tomari, yang akhirnya ngubah dia dari karakter lucu tipe Wario jadi sesuatu yang beneran berbobot."
+  },
+  "mbti": {
+    "type": "ESFP",
+    "reason": {
+      "en": "ESFP with a close fan vote (44 vs 31 for ENTJ), and the textual case for ESFP holds up after genuinely stress-testing the ENTJ read. The ENTJ argument isn't silly — she's tactical, she generates endless schemes, she grinds with serious discipline. But those are Se-Fi running compensation patterns, not Te-Ni. Her entire motivational engine is a Fi-wound: childhood dream-failures destroyed her self-worth to the point where she stopped letting herself want things. The money-obsession isn't Te-pragmatism — a Te-dom would articulate money as a resource for something; Natsumi can't say why she wants it because the real answer is emotionally too painful to touch. Compare her to Lanzhu, the actual Liella ENTJ reference case: Lanzhu built a full Association, hired professionals, ran multi-year structure. Natsumi delivers packages on a bike and breaks a bone. Same ambition scale? Not even close. Her Se-aux shows everywhere: physical part-time grinds, on-camera performance as primary identity, freezing in the snow for a selfie, concrete follower-counts over abstract vision. Her scheme-generation looks like Ne but it's always \"how do I monetize THIS situation RIGHT NOW\" — Se opportunism, not Ne possibility-cascades. The S3 resolution seals it: her arc ends with emotional sister-repair and receiving \"never stop dreaming\" — that's an Fi-wound healing, not a Te-victory lap. Three ESFPs across the casts, three distinct wounds: Ai is pure Se-Fi sunshine, Chisato is disciplined-individuation ESFP, Natsumi is the compensatory-scheming ESFP where the Fi-inadequacy wound is deepest.",
+      "ja": "タイプはESFP、ファン投票は僅差（ESFP 44 vs ENTJ 31）。ENTJの読みを本気で検証してもESFP支持は揺るがない。彼女が戦略的で計画を次々生み出し、真剣にこなすのは事実——でもそれはSe-FiがFiの傷を補うために動いてる姿で、Te-Niの認知じゃない。彼女のモチベーションの核にあるのはFiの傷。幼少期の夢の失敗が積み重なって自己評価が崩壊し、自分が夢を持つことを許せなくなった。お金への執着はTeの実用主義じゃない——Te優勢なら「何のための資金か」を言語化できるはず。夏美はそれができない。なぜなら本当の答えがFiにとって痛すぎる場所にあるから。本物のENTJ参照ケース・ランジュと比べると明確で、ランジュは協会を設立し専門家を雇って多年の構造を作り上げた。夏美はバイクで配達して骨を折った。規模が全然違う。Se補助機能の証拠は至る所に——肉体的なバイト群、カメラの前に立つことを主要アイデンティティとすること、雪の中で自撮りするために凍えること、抽象的なビジョンより具体的なフォロワー数。スキームはNeみたいに見えるけど「この状況で今すぐ何をマネタイズするか」という即時具体的な話で、Neの抽象的可能性カスケードじゃない。S3の解決がすべてを確定させる——妹との感情的な和解と「夢を諦めるな」メッセージの受け取り。これはFiの傷の癒しであってTeの勝利じゃない。3キャストにわたる3人のESFP——愛は純粋なSe-Fiの太陽タイプ、千砂都は規律ある個性化のESFP、夏美はFiの傷が最も深い、補償的スキームのESFP。",
+      "id": "ESFP dengan voting tipis (44 vs 31 untuk ENTJ), dan argumen ESFP tetap solid setelah beneran dicoba-tekan pakai kacamata ENTJ. Argumen ENTJ bukan omong kosong — dia taktis, endlessly bikin skema, dan kerja kerasnya serius. Tapi itu semua adalah Se-Fi yang lagi nge-kompensasi luka Fi, bukan Te-Ni yang bergerak. Seluruh mesin motivasinya adalah luka Fi: kegagalan mimpi masa kecil yang numbukin self-worth-nya sampai ke titik di mana dia berhenti mengizinkan dirinya menginginkan sesuatu. Obsesi uangnya bukan Te-pragmatisme — seorang Te-dom bisa ngartikulasiin uang sebagai resource untuk sesuatu; Natsumi nggak bisa jawab kenapa dia mau uang karena jawaban benerannya terlalu sakit buat disentuh secara emosional. Bandingkan sama Lanzhu, referensi ENTJ Liella yang asli: Lanzhu bangun Association beneran, rekrut profesional, jalanin struktur bertahun-tahun. Natsumi antar paket naik motor dan tulangnya patah. Skala yang sama? Jauh banget. Se aux-nya keliatan di mana-mana: kerja fisik part-time, identitas utamanya adalah tampil di depan kamera, bela-belain beku di salju demi selfie, ngitung follower konkret bukan visi abstrak. Skema-skemanya keliatan kayak Ne tapi selalu \"gimana caranya monetize situasi INI SEKARANG\" — oportunisme Se, bukan cascade kemungkinan-Ne. Resolusi S3 yang nyegel semuanya: arc-nya berakhir dengan perbaikan hubungan emosional sama adiknya dan nerima pesan \"jangan berhenti bermimpi\" — itu luka Fi yang sembuh, bukan kemenangan Te. Tiga ESFP di tiga cast, tiga luka yang beda: Ai adalah Se-Fi sunshine murni, Chisato adalah ESFP disiplin-individuasi, Natsumi adalah ESFP kompensasi-skema dengan luka Fi-inadequacy yang paling dalam."
+    },
+    "traits": {
+      "E": {
+        "score": 6,
+        "reason": {
+          "en": "Clear extrovert. The L-Tuber presenter persona is her primary identity, \"OniNatsu!\" is practically a broadcast jingle, and she engages socially with everyone she can extract content or attention from. Customer-facing part-time jobs, vlogging the whole group, scheming in plain sight — all of it is outward-facing. Not a max score because her extroversion is transactional rather than warmth-broadcasting, and she has real self-doubt collapse moments when the persona cracks.",
+          "ja": "しっかりした外向け。Lチューバーのプレゼンターモードが主要アイデンティティ、「おにナツ！」はほぼ放送ジングル、コンテンツや注目を引き出せる人全員と積極的に関わる。接客バイト、グループのVlog撮影、目の立つ場所で陰謀を企てる——全部外向きの行動。ただし最高値じゃないのは、彼女の外向きは「価値を引き出すための交流」であって温かみの放射じゃないから。ペルソナが崩れたとき、本物の自己不信の崩落がある。",
+          "id": "Ekstrovernya jelas. Persona presenter L-Tuber adalah identitas utamanya, \"OniNatsu!\" praktis kayak jingle siaran, dan dia nyamperin semua orang yang bisa dia ekstrak konten atau perhatiannya. Kerja part-time yang customer-facing, nge-vlog seluruh grup, bikin skema terang-terangan — semuanya outward-facing. Nggak nyampe skor max karena ekstroversinya lebih transaksional daripada hangat-ngalir, dan ada momen-momen collapse self-doubt yang beneran pas personanya retak."
+        }
+      },
+      "J": {
+        "score": -3,
+        "reason": {
+          "en": "P-leaning. Her whole pattern is scheme-and-pivot: monetize Liella → produce vlogs → producer role → dream reopening. Part-time job-hopping (Lber Eats, moving company) and multiple childhood entertainment fields tried-and-abandoned all point to adaptive-reactive over planned-executor. She can grind hard when motivated — stays up late editing, breaks a bone working — but that's Fi-compensatory grit, not structural discipline. The orientation is opportunistic, not organized.",
+          "ja": "P寄り。スキームして方向転換するのが基本パターン：Liella!をマネタイズ→Vlog制作→プロデューサー役→夢の再開。バイト遍歴（Lberイーツ、引越し会社）も幼少期に複数のエンタメ領域を試してはやめてきた歴史も、計画的実行者よりも適応的・即応的であることを示してる。やる気が出れば本気で頑張れる——深夜まで動画編集、骨が折れるまで働く——でもそれはFiの補償的な根性であって構造的な規律じゃない。",
+          "id": "P-leaning. Polanya adalah skema-dan-pivot: monetize Liella → bikin vlog → jadi producer → mimpi yang dibuka lagi. Gonta-ganti part-time (Lber Eats, perusahaan pindahan) dan banyak bidang hiburan yang dicoba-ditinggalin waktu kecil semuanya nunjukin orientasi adaptif-reaktif, bukan eksekutor terencana. Dia bisa grind keras kalau termotivasi — begadang ngedit video, kerja sampai tulang patah — tapi itu grit kompensasi Fi, bukan disiplin terstruktur."
+        }
+      },
+      "T": {
+        "score": -3,
+        "reason": {
+          "en": "F underneath the scheming surface. The money-obsession and tactical persona are constructed compensation for a Fi-wound, not native Te-cognition. Her whole arc is driven by childhood dream-failure hitting Fi self-worth directly — she stopped dreaming because she stopped feeling worthy of dreams, not because she made a rational calculation. The S3 resolution is emotional-opening (sister repair, \"never stop dreaming\") not systematic achievement. The T-presentation is real and persistent, but it's Se-Fi developing tactical capacity under pressure, not genuine Te.",
+          "ja": "スキーミングな表面の下はFタイプ。お金への執着と戦術的なペルソナはFiの傷への補償であってTeの認知じゃない。弧全体が、幼少期の夢の失敗がFiの自己価値感に直撃したことで動いている——合理的な計算の結果じゃなく、「夢を持つ価値がない」と感じたから夢を諦めた。S3の解決も感情的な開放（妹との修復、「夢を諦めるな」）であって体系的な達成じゃない。T的な表面は本物で持続的だけど、それはプレッシャー下でSe-Fiが戦術的能力を発達させたもの。",
+          "id": "F di bawah permukaan yang scheming. Obsesi uang dan persona taktis adalah kompensasi untuk luka Fi, bukan Te-cognition asli. Seluruh arc-nya digerakkan oleh kegagalan mimpi masa kecil yang langsung ngehantam self-worth Fi — dia berhenti bermimpi karena dia merasa nggak layak punya mimpi, bukan karena dia bikin kalkulasi rasional. Resolusi S3 adalah pembukaan emosional (perbaikan hubungan dengan adik, \"jangan berhenti bermimpi\") bukan pencapaian sistematis. Presentasi T-nya nyata dan persisten, tapi itu Se-Fi yang ngembangin kapasitas taktis di bawah tekanan, bukan Te yang beneran."
+        }
+      },
+      "C": {
+        "score": -4,
+        "reason": {
+          "en": "Low confidence at the core. A childhood of hitting first-hurdle walls across multiple dream-domains completely destroyed her self-esteem per reddit C. She landed on money as a goal precisely because it felt safer than risking another dream-failure — \"she doesn't feel worthy of having a dream.\" The cheerful scheming surface is compensatory confidence plastered over a deep insecurity. Structurally similar to Kasumi and Sumire — persona-masking-wound — but Natsumi's wound is arguably the deepest of the three.",
+          "ja": "自己評価は根っこから低い。複数の夢の領域で最初の壁を越えられなかった幼少期が自尊心を完全に破壊した（Reddit C）。お金を目標にしたのは、また夢の失敗をするリスクより安全に感じたから——「夢を持つ資格がないと感じている」。明るいスキーミングの表面は、深い不安感の上に貼り付けられた補償的な自信。構造的にはカスミやすみれと似ていて——ペルソナが傷を覆い隠す——でも夏美の傷はその中でも一番深いかもしれない。",
+          "id": "Kepercayaan dirinya rendah di inti. Masa kecil yang terus-terusan mentok di halangan pertama di berbagai domain mimpi menghancurkan self-esteem-nya sepenuhnya (reddit C). Dia milih uang sebagai tujuan justru karena itu terasa lebih aman daripada risiko gagal di mimpi lagi — \"dia merasa nggak berhak punya mimpi.\" Permukaan ceria-scheming itu adalah kepercayaan diri kompensasi yang ditempel di atas insecurity yang dalam. Strukturnya mirip Kasumi dan Sumire — persona yang nutup luka — tapi luka Natsumi bisa dibilang yang paling dalam di antara ketiganya."
+        }
+      },
+      "M": {
+        "score": 6,
+        "reason": {
+          "en": "High drive, undeniably. She started an L-Tuber career independently before school idols, grinds multiple part-time jobs simultaneously, works to the point of breaking a bone, and keeps generating schemes even when earlier ones fail. The pivot to producer role shows evolved ambition rather than giving up. Not max because the original drive was compensatory safety-seeking — money as substitute for risky dreams — rather than pure competitive hunger. The scale stays concrete-financial rather than structural-empire.",
+          "ja": "モチベーションは高い、間違いなく。school idol になる前から独力でLチューバーとして活動し、複数のバイトを掛け持ちし、骨が折れるまで働き、前のスキームが失敗しても次を生み出し続ける。プロデューサー役への転換は諦めじゃなく進化した野心の表れ。最高値じゃないのは元の動機が補償的な安全追求——リスクのある夢の代替としてのお金——であって純粋な競争的な飢えじゃないから。スケールは具体的な金銭目標にとどまっていて帝国を作ろうとするスケールじゃない。",
+          "id": "Dorongannya tinggi, nggak bisa disangkal. Dia udah mulai karir L-Tuber sendiri sebelum jadi school idol, gonta-ganti part-time secara bersamaan, kerja sampai tulang patah, dan terus bikin skema baru meski yang sebelumnya gagal. Pivot ke peran producer nunjukin ambisi yang berevolusi, bukan menyerah. Nggak nyampe max karena dorongan awalnya adalah pencarian keamanan kompensasi — uang sebagai pengganti mimpi yang berisiko — bukan nafsu kompetitif murni. Skalanya tetap konkret-finansial, bukan empire-building."
+        }
+      },
+      "O": {
+        "score": 2,
+        "reason": {
+          "en": "Moderate positive, earned not innate. Despite multiple dream-failures and demolished self-esteem, she keeps trying new paths and maintains a cheerful surface affect through all of it. She bounces back across failures, accepts Kanon's intervention in Hokkaido, and reopens to dreaming. But the underlying Fi-wound means she's optimistic about money-grinds while being quietly pessimistic about her right to real dreams. Net positive only through accumulated perseverance, not natural buoyancy.",
+          "ja": "中程度のポジティブ、生まれつきじゃなく獲得したもの。複数の夢の失敗と崩壊した自尊心にもかかわらず、新しい道を試し続けて明るい表面を保ち続ける。失敗を越えてバウンスバックし、北海道でのかのんの介入を受け入れ、夢に再開する。ただし根底にあるFiの傷は、お金稼ぎには楽観的でも本物の夢を持つ権利については静かに悲観的、という構造を作っている。ネットでポジティブなのは自然な浮力じゃなく積み重ねた粘り強さによる。",
+          "id": "Moderat positif, hasil tempaan bukan bawaan. Meski berkali-kali gagal di mimpi dan self-esteem-nya hancur, dia terus nyoba jalur baru dan maintain permukaan yang ceria selama semua itu. Dia bangkit dari kegagalan, nerima intervensi Kanon di Hokkaido, dan buka diri lagi ke mimpi. Tapi luka Fi di bawahnya bikin dia optimis soal grind uang sekaligus diam-diam pesimis soal haknya untuk punya mimpi beneran. Net positif hanya karena ketekunan yang terakumulasi, bukan kegembiraan yang ngalir natural."
+        }
+      },
+      "A": {
+        "score": 3,
+        "reason": {
+          "en": "Moderate, and late-earned. She genuinely cares about Tomari — constantly praises her, wanted to be a cool older sister, and couldn't bring herself to repair their relationship because she was scared of hurting her again. She's supportive to Kinako when she doubts joining Liella, and warm with the group once her obsession isn't triggered. Significantly tempered though: she takes advantage of Liella's kindness, plots to poison Margarete with Shiki, and initially treats the group as a content farm. The warmth is real, but it's bounded and conditional.",
+          "ja": "中程度で、後から積み上げたもの。泊のことは本当に気にかけている——常に褒め、かっこいい姉になりたかった、また傷つけることを怖れて関係修復に踏み出せなかった。木乃子がLiella!加入を迷っているときはサポートし、執着が作動していないときはグループに対して温かい。ただし相当な打ち消しもある：Liella!の善意を利用する、志貴とマルガレーテの毒盛りを企てる、最初はメンバーをコンテンツ素材として扱う。温かさは本物だけど、限定的で条件付き。",
+          "id": "Moderat, dan didapat belakangan. Dia beneran peduli sama Tomari — terus-terusan muji dia, mau jadi kakak yang keren, dan nggak sanggup mulai memperbaiki hubungan mereka karena takut menyakitinya lagi. Dia supportif ke Kinako waktu Kinako ragu mau join Liella, dan hangat ke grup kalau obsesinya nggak lagi aktif. Tapi ada counter yang cukup besar: manfaatin kebaikan Liella, plot racunin Margarete bareng Shiki, dan awalnya perlakuin anggota grup sebagai ladang konten. Hangatnya nyata, tapi terbatas dan kondisional."
+        }
+      },
+      "U": {
+        "score": 3,
+        "reason": {
+          "en": "Moderately distinctive. Money-obsessed idol is genuinely rare in Love Live — no main character in the franchise is as fixated on money per reddit C. Add the L-Tuber background, \"OniNatsu!\" catchphrase, \"~desu no\" sentence-ender, original takoyaki smoothie as her favorite food, the cartoon-villain-scheming-aesthetic, the cold-blooded poison-plot mode with Shiki, and working herself to a literal broken bone. The core archetype is a Nico-gremlin-scheming variant (recognizable), but the money-focus plus sister-dynamic plus dream-failure-compensation arc makes a distinctive combo.",
+          "ja": "中程度に独特。お金に執着したidolはLove Liveでは本当に珍しい——Reddit Cによればシリーズでここまでお金に固執したメインキャラはいない。Lチューバー出身、「おにナツ！」のキャッチフレーズ、「〜ですの」の語尾、好物は自分発案のたこ焼きスムージー、カートゥーン悪役テイストのスキーミング美学、志貴との冷酷な毒盛り計画モード、骨が折れるまで働く働きバカ要素。核のアーキタイプはニコ系のいたずら系（見覚えがある）でも、お金へのこだわり＋妹・泊との動的関係＋夢の失敗補償アークの組み合わせが独自性を作っている。",
+          "id": "Agak khas. Idol yang obsesi sama uang itu genuinely langka di Love Live — nggak ada karakter utama di franchise yang se-fiksasi ini sama uang (reddit C). Tambahin background L-Tuber, catchphrase \"OniNatsu!\", akhiran kalimat \"~desu no\", takoyaki smoothie buatan sendiri sebagai makanan favorit, estetika scheming villain kartun, mode plot racun yang cold-blooded bareng Shiki, dan kerja sampai tulang beneran patah. Archetype intinya adalah varian Nico-gremlin-scheming (familiar), tapi kombinasi fokus uang + dinamika adik + arc kompensasi-kegagalan-mimpi bikin combo yang khas."
+        }
+      },
+      "N": {
+        "score": -2,
+        "reason": {
+          "en": "Slight S. Se-aux keeps her planted in the concrete-physical present: part-time physical labor, on-camera performance as L-Tuber, working to a broken bone, freezing in the snow for a selfie, counting followers rather than casting abstract visions. Her schemes look like Ne-brainstorming but they're always \"how do I monetize this specific situation right now\" — immediate concrete opportunism, not abstract possibility-cascades. Multiple childhood dream-tries were in specific physical-skill domains, hitting concrete skill-walls rather than chasing abstract visions. Some tertiary Ni shows in the eventual dream-arc insight, but the primary mode is present-and-concrete.",
+          "ja": "やや感覚寄り。Se補助機能が彼女を具体的・物理的な現在に根ざしている：肉体的なバイト、Lチューバーとしてのカメラのペルソナンス、骨が折れるまで働く、自撮りのために雪の中で凍える、抽象的なビジョンよりフォロワー数を数える。スキームはNeのブレインストーミングに見えるけど、常に「この特定の状況を今すぐどう収益化するか」——即時具体的なオポチュニズムであって抽象的な可能性のカスケードじゃない。幼少期に試した夢も具体的な身体的スキル領域で、具体的なスキルの壁にぶつかったもの。最終的な夢のアークで第三機能のNiの片鱗は見えるけど、基本モードは具体的な現在志向。",
+          "id": "S tipis. Se aux-nya bikin dia tetap mengakar di konkret-fisik-sekarang: kerja fisik part-time, performa di depan kamera sebagai L-Tuber, kerja sampai tulang patah, beku di salju demi selfie, ngitung follower daripada ngebayangin visi abstrak. Skema-skemanya keliatan kayak Ne-brainstorming tapi selalu tentang \"gimana aku monetize situasi spesifik ini sekarang\" — oportunisme konkret-langsung, bukan cascade kemungkinan abstrak. Mimpi-mimpi masa kecil yang dicoba juga di domain skill fisik spesifik, nabrak tembok skill konkret bukan ngejar visi abstrak. Sedikit Ni tersier keliatan di insight arc mimpi akhirnya, tapi mode utamanya adalah konkret dan sekarang."
+        }
+      }
+    }
+  }
+}

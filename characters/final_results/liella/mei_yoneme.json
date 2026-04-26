@@ -1,0 +1,95 @@
+{
+  "color": "#ff3535",
+  "name": {
+    "en": "Mei Yoneme",
+    "ja": "米女メイ",
+    "id": "Mei Yoneme"
+  },
+  "desc": {
+    "en": "Mei is a second-year at Yuigaoka who gets mistaken for a delinquent constantly — the \"scary eyes\" are just bad eyesight, not a threat. Underneath the abrasive tomboy exterior is a die-hard school idol fan who enrolled at Yuigaoka specifically to watch Liella from a distance, too convinced she wasn't \"cute enough\" to ever actually join. She did join, eventually became club president after Chisato graduated, and quietly turned out to be one of the most fiercely devoted members in the whole group.",
+    "ja": "米女メイは雄鶏が丘の2年生で、いつも不良扱いされてしまう子——「怖い目」の正体は視力が悪いだけで、別に怒ってるわけじゃない。ぶっきらぼうなトムボーイな外見の奥には、筋金入りのスクールアイドルファンが隠れていて、実はLiella!を遠くから応援するためだけに雄鶏が丘に入学したという経緯がある。「自分にはアイドルは合わない」って思い込みがあったから。最終的にはLiella!に加入して、千砂都の卒業後は部長まで務めることになる——気づいたらグループの中で最も熱い献身を持つメンバーの一人になっていた。",
+    "id": "Mei itu siswi kelas dua di Yuigaoka yang terus-terusan disangka anggota geng — padahal \"tatapan seramnya\" cuma efek samping mata minus, bukan niat nakut-nakutin. Di balik tampang tomboy yang galak itu, ada penggemar berat school idol yang bahkan masuk ke Yuigaoka khusus buat nonton Liella! dari jauh, karena dia yakin banget dirinya nggak \"cukup cute\" untuk ikut bergabung. Tapi akhirnya dia masuk juga, dan setelah Chisato lulus dia jadi ketua klub — diam-diam jadi salah satu anggota yang paling berdedikasi dari seluruh grup."
+  },
+  "mbti": {
+    "type": "ISFP",
+    "reason": {
+      "en": "ISFP with a very clean fan vote (38 vs 4 ISTP, nearly 90/10), and the textual case backs it up. The core argument is Fi over Ti: Mei's entire arc is built around protecting a deeply personal value — her love for school idols — from outside judgment. That's classic Fi-dominant signature: a fiercely held private value she constructs a whole defensive persona around to prevent exposure. Ti-doms don't work that way; they build logical frameworks, not emotional fortresses. The embarrassment when called \"cute\" is Fi-shame at having a vulnerable self exposed, not a Ti-cognitive error. Her self-assessment — \"I don't suit being a school idol\" — is a value-based identity claim, not a logical deduction. Her bond with Shiki is the most Fi thing about her: one specific person as her emotional anchor across middle school and high school, culminating in the Special Color arc where Mei makes a song specifically to give Shiki her center moment. That level of individual-attachment intensity is pure Fi, not Ti. Se-aux is all over her surface: the tomboy physical presence, ready-to-fight energy (she was prepared to fight Keke's sister and Tomari in S3), direct reactive outbursts, hardcore fandom with physical artifacts (blades at concerts, legendary idol DVD collection), piano as an embodied physical skill, catlike demeanor. She lives in the physical present, not in abstract visions. ISTP is ruled out by the sustained Fi-identity-protection pattern and the Shiki-bond's individual intensity. INFP is ruled out by the strong Se physicality — no Ne abstract-possibility-generation anywhere. The abrasive persona exists precisely to push people away and shield the sensitive Fi interior — same function as Karin's elegant-performative persona (Nijigasaki) and Rurino's loud-party-girl persona (Hasunosora), just expressed as explicit repulsion rather than attraction.",
+      "ja": "ISFPで、ファン投票もかなりきれいに決まってる（38対4のISTP、約90/10）。テキスト分析もこれを支持してる。核心の論点はFi対Ti。メイのアークそのものが、深く個人的な価値観——スクールアイドルへの愛着——を外部の評価から守ることを軸に構成されている。これはFi-dominant特有のパターン：自分にとって本物の価値観を外に晒されないよう、防衛的なペルソナを丸ごと構築してしまう。Ti-domはそういう動き方をしない——感情の要塞じゃなく、論理的フレームワークを作る。「かわいい」と言われたときの恥ずかしがり方は、傷つきやすい自己が露わになるときのFi的な羞恥心であって、Ti的な認知エラーではない。「私にはスクールアイドルは合わない」という自己評価は、論理的推論じゃなく価値観に基づくアイデンティティの主張。志希との絆が一番Fiらしい——中学から高校にかけての、特定の一人を感情的支柱として持ち続けるあの強度。Special Colorのアークでは志希だけのためだけに曲を作る。そこまで特定の個人への執着が強いのはFiであってTiではない。Se-auxは表層に溢れてる：トムボーイな身体的存在感、すぐ喧嘩になりそうな反射的な気迫（S3ではKekeの姉やとまりに戦いを挑もうとした）、直接的な衝動的発言、身体的な熱狂的ファン活動（コンサートでのブレード振り、伝説的なアイドルDVDコレクション）、肉体的スキルとしてのピアノ、猫のような身のこなし。抽象的ビジョンは持たず、物理的な今の瞬間に生きてる。ISTPはFiアイデンティティ保護のパターンと志希との個別的強度で除外。INFPはSe身体性の強さで除外——どこにもNeの抽象的な可能性生成はない。",
+      "id": "ISFP dengan voting fans yang cukup bersih (38 lawan 4 ISTP, hampir 90/10), dan analisis teksnya sejalan. Inti argumennya adalah Fi di atas Ti: seluruh arc Mei dibangun di sekitar melindungi satu nilai pribadi yang sangat dalam — rasa cintanya ke school idol — dari penilaian orang luar. Itu signature Fi-dominant yang klasik: nilai otentik yang dia pegang erat, dan dia bangun persona defensif seutuhnya buat nyegah nilai itu terekspos. Ti-dom nggak begitu caranya — mereka bangun kerangka logis, bukan benteng emosional. Rasa malu waktu dipanggil \"cute\" itu Fi-shame pas diri yang rentan terbuka, bukan cognitive error ala Ti. Self-assessment-nya — \"aku nggak cocok jadi school idol\" — itu klaim identitas berbasis nilai, bukan deduksi logis. Hubungannya sama Shiki adalah hal yang paling Fi dari dia: satu orang spesifik sebagai jangkar emosional dari SMP sampai SMA, yang memuncak di arc Special Color di mana Mei bikin lagu khusus buat kasih Shiki momen center-nya. Intensitas attachment se-personal itu murni Fi, bukan Ti. Se-aux keliatan di mana-mana: kehadiran fisik ala tomboy, energi siap berantem (dia beneran siap hajar adiknya Keke dan Tomari di S3), ledakan reaktif yang langsung, fandom keras dengan artefak fisik (blade di konser, koleksi DVD idol yang legendaris), piano sebagai skill fisik yang diasah, gerak-gerik ala kucing. Dia hidup di momen fisik sekarang, bukan di visi abstrak. ISTP gugur karena pola perlindungan identitas Fi yang konsisten dan intensitas individual bond sama Shiki. INFP gugur karena sisi fisik Se-nya kuat — nggak ada Ne abstract-possibility-generation di mana pun. Persona galaknya itu memang sengaja buat ngusir orang dan melindungi Fi yang sensitif di dalemnya — fungsinya sama kayak persona Karin yang elegan-performatif (Nijigasaki) dan persona Rurino yang ceria keras (Hasunosora), cuma ekspresinya berupa penolakan aktif, bukan undangan."
+    },
+    "traits": {
+      "E": {
+        "score": -5,
+        "reason": {
+          "en": "Strong introvert. She processes everything internally, stays quiet unless she has something specific to say, and kept her idol obsession completely hidden out of fear of judgment. Her default social mode is observation from a distance — she was a Liella stalker-fan before she ever considered joining. The abrasive speech pattern is a distancing mechanism, not extroverted broadcasting — she's only fully comfortable around Shiki.",
+          "ja": "しっかりとした内向型。全部内側で処理して、言いたいことがなければ黙ってるタイプ。アイドルへの熱狂も、判断されるのが怖くて完全に隠してた。デフォルトの社会モードは「遠くから観察する」——入部を考える前は完全にLiella!のストーカーファンだった。ぶっきらぼうな話し方は外向きの発信じゃなく、距離を置くためのメカニズム。完全にリラックスできるのは志希の前だけ。",
+          "id": "Introvert yang kuat. Dia proses semuanya di dalam kepala, diam kalau nggak ada yang mau disampaikan, dan sembunyiin obsesi idol-nya rapat-rapat karena takut dinilai orang. Mode sosial defaultnya itu mengamati dari jauh — sebelum sempat kepikiran bergabung, dia udah jadi stalker-fan Liella! duluan. Cara ngomongnya yang kasar itu mekanisme buat bikin jarak, bukan siaran ke luar — dia cuma beneran santai kalau sama Shiki."
+        }
+      },
+      "J": {
+        "score": -4,
+        "reason": {
+          "en": "P-leaning. There's no structured life-execution visible in her baseline — she's reactive, emotionally-driven, and her speech patterns (tomboy \"ze\" endings, tsundere outbursts) are improvisational by nature. She watched Liella as a passive observer rather than executing a plan to join. She does take on craft discipline for piano and composing, and steps up to responsibilities when the role demands (club president, composer), but that's responsiveness, not a pre-planned structure.",
+          "ja": "P寄り。普段の生活に計画的な実行の構造は見えない——反応的で感情ドリブン、口調（「ぜ」語尾のトムボーイ話し方、ツンデレ的な爆発）は即興的。入部前はLiella!をただ眺めてる受動的な観察者だった。ピアノと作曲への職人的なこだわりはあるし、役割が求める責任（部長、コンポーザー）はしっかり引き受けるけど、それは要求への応答であって、計画を事前に立てているわけではない。",
+          "id": "Cenderung P. Nggak keliatan struktur eksekusi yang terencana di keseharian dia — reaktif, berbasis emosi, dan pola ngomongnya (akhiran \"ze\" ala tomboy, ledakan tsundere) emang improvisasional dari sononya. Dia nonton Liella! sebagai pengamat pasif, bukan eksekutor rencana buat gabung. Memang ada disiplin craft soal piano sama komposisi, dan dia bisa ambil tanggung jawab waktu situasinya minta (jadi presiden klub, jadi komposer) — tapi itu responsif, bukan terstruktur dari awal."
+        }
+      },
+      "T": {
+        "score": -4,
+        "reason": {
+          "en": "Strong F. Her entire character arc is emotionally organized — hiding idol adoration out of fear of judgment (Fi protecting a personally sacred value), value-based self-assessment (\"I don't suit being a school idol\"), embarrassment when called cute (Fi-shame at exposure of a sensitive self), and the deep specific bond with Shiki as composer and confidant. Not maxed because Se-aux gives her tactical physical decisiveness and some tertiary-Ni pattern recognition — she read Ren's state and Shiki's emotional needs accurately without being asked.",
+          "ja": "しっかりF。キャラクターアーク全体が感情で構成されてる——評価されることへの恐れからアイドル好きを隠す（Fi的な、自分にとって大切な価値を守るパターン）、価値観に基づく自己評価（「私にはスクールアイドルは合わない」）、かわいいと言われたときの恥ずかしがり方（傷つきやすい自己が晒されるFi的な羞恥心）、作曲者・相談相手としての志希との深く特定的な絆。最大値じゃないのは、Se-auxが戦術的な身体的決断力を与えていて、Ni的なパターン認識（誰にも言われていないのにレンの状態と志希の感情的なニーズを正確に読んでいる）も一部見られるから。",
+          "id": "F yang kuat. Seluruh arc karakternya tersusun secara emosional — nyembunyiin kecintaan ke idol karena takut dinilai (Fi yang melindungi nilai yang sakral secara personal), self-assessment berbasis nilai (\"aku nggak cocok jadi school idol\"), malu waktu dipanggil cute (Fi-shame waktu diri yang sensitif terbuka), dan ikatan dalam yang spesifik sama Shiki sebagai komposer dan tempat curhat. Nggak maksimal karena Se-aux kasih ketegasan fisik yang taktis dan sedikit tertiary-Ni pattern recognition — dia bisa baca kondisi Ren dan kebutuhan emosional Shiki dengan akurat tanpa diminta."
+        }
+      },
+      "C": {
+        "score": -5,
+        "reason": {
+          "en": "Low confidence is the foundation. She explicitly thought she didn't suit being a school idol, her introduction literally starts with \"of course, I don't think I'm a good fit,\" she hides her interests out of fear of judgment, and compliments like \"cute\" trigger genuine embarrassment — she can't absorb a positive self-image. The abrasive exterior is a compensatory mask that provides some functional confidence in antisocial mode, which is why she doesn't bottom out completely, but the baseline is substantially insecure.",
+          "ja": "自己評価の低さがベースにある。「私にはスクールアイドルは合わない」と明確に思い込んでいたし、自己紹介も「もちろん、自分が向いてるとは思えないけど……」から始まる。興味を評価されることへの恐れから隠し、「かわいい」みたいな褒め言葉は本当に恥ずかしくなる——ポジティブな自己像を受け取れない。反社会的モードでは多少の機能的な自信を生み出してくれる攻撃的なマスクがあるから最低値には落ちないけど、ベースはかなり不安定。",
+          "id": "Rasa nggak percaya diri itu fondasinya. Dia beneran yakin dirinya nggak cocok jadi school idol, perkenalan dirinya literal dimulai dengan \"tentu saja aku nggak merasa cocok,\" dia sembunyiin minatnya karena takut dinilai, dan pujian kayak \"cute\" bikin dia genuinely malu — dia nggak bisa nyerap citra diri yang positif. Eksterior yang kasar itu topeng kompensasi yang kasih sedikit kepercayaan fungsional di mode antisosial, makanya nggak nyungsep habis-habisan, tapi baselinenya ya lumayan insecure."
+        }
+      },
+      "M": {
+        "score": 3,
+        "reason": {
+          "en": "Moderate drive. She chose Yuigaoka specifically because of Liella — that's a self-directed decision reflecting real internal motivation. She quietly developed piano and composing skills across years of private practice and eventually stepped up as club president and group composer. But the ambition is fan-service oriented rather than competitive-dominance oriented: she originally wanted to watch from a distance and had no intention of joining until personally invited. Self-doubt kept active ambition suppressed for a long time.",
+          "ja": "程よいドライブ感。Liella!のために特定的に雄鶏が丘を選んだ——それ自体が内発的な動機を持つ自己主導的な選択。ピアノと作曲のスキルも数年かけて内々に磨いてきて、最終的に部長とグループコンポーザーとして立った。ただ、その野心はファン奉仕志向であって、競争的支配志向ではない——元々は遠くから見ていたかっただけで、直接声をかけてもらうまで入部するつもりがなかった。自己不信が長い間、積極的な野心を抑え込んでいた。",
+          "id": "Drive-nya moderat. Dia milih Yuigaoka khusus karena Liella! — itu keputusan yang self-directed dan mencerminkan motivasi internal yang nyata. Skill piano dan komposisinya juga diasah diam-diam selama bertahun-tahun, dan akhirnya dia maju jadi ketua klub dan komposer grup. Tapi ambisinya lebih ke arah fan-service daripada dominasi kompetitif — awalnya dia cuma mau nonton dari jauh dan nggak niat gabung sampai diajak langsung. Rasa nggak percaya diri yang lama bikin ambisi aktifnya tertahan."
+        }
+      },
+      "O": {
+        "score": 1,
+        "reason": {
+          "en": "Slight positive, earned through growth. She starts with an anxious, defensive baseline — hiding interests, convinced she's not good enough, building walls. But across the seasons she genuinely opens up: the defensive S2 Mei becomes the S3 Mei who can lift Shiki up and lead a club. The resilience is real, it just isn't native optimism — it's a result of relationships and the trust built inside Liella.",
+          "ja": "わずかにポジティブで、成長を経て得たもの。スタート地点は不安と防衛反応——興味を隠して、自分は不十分だと確信して、壁を作る。でも季節を経るごとに本当に開いていく：S2の防衛的なメイが、S3では志希を支えてクラブを引っ張れる子になる。その回復力は本物だけど、生まれつきの楽観主義じゃない——Liella!の中で築いた関係と信頼から生まれたもの。",
+          "id": "Sedikit positif, hasil dari pertumbuhan. Baselinenya itu cemas dan defensif — nyembunyiin minat, yakin dirinya nggak cukup baik, bangun tembok di mana-mana. Tapi season demi season dia beneran terbuka: Mei yang defensif di S2 jadi Mei yang bisa nguatin Shiki dan memimpin klub di S3. Ketahanannya nyata, cuma ini bukan optimisme bawaan — ini hasil dari relasi dan kepercayaan yang dibangun di dalam Liella!."
+        }
+      },
+      "A": {
+        "score": 4,
+        "reason": {
+          "en": "Moderately high empathy, masked by surface abrasion. She subtly puts Shiki above everything else, encouraged Kinako to believe in herself when Kinako doubted her own capabilities, and became Ren's confidant for her gaming addiction — Ren chose her specifically because she's non-judgmental and trustworthy. The warmth is bounded though: abrasive to strangers, butted heads with Margarete, was ready to fight Keke's sister and Tomari in S3. Classic Fi-bounded warmth: deeply warm with bonded people, cold walls for everyone else.",
+          "ja": "モデレートに高い共感性、表面的なぶっきらぼうさに隠れてる。志希のことはいつもさりげなく最優先にして、きなこが自分の力を疑っているとき背中を押して、レンのゲーム依存の相談相手にもなった——レンが彼女を選んだのは、メイが非審判的で信頼できるから。ただし温かさには境界がある：見知らぬ人には攻撃的、マルガレーテとは衝突、S3ではKekeの姉ととまりに戦いを挑もうとしていた。典型的なFiの境界付き温かさ：絆を結んだ人には深く温かく、それ以外には冷たい壁。",
+          "id": "Empati yang lumayan tinggi, tersembunyi di balik kekasaran permukaan. Dia selalu taruh Shiki di atas segalanya secara diam-diam, dorong Kinako buat percaya sama diri sendiri waktu Kinako ragu, dan jadi tempat curhat Ren soal adiksi gaming-nya — Ren pilih dia karena emang nggak gampang menghakimi dan bisa dipercaya. Tapi kehangatannya ada batasnya: galak sama orang asing, sempat bentrokan sama Margarete, dan siap berantem sama adiknya Keke dan Tomari di S3. Ini pola Fi-bounded warmth yang klasik: sangat hangat ke orang yang sudah dekat, tembok dingin untuk yang lain."
+        }
+      },
+      "U": {
+        "score": 3,
+        "reason": {
+          "en": "Moderately distinctive. The combination is genuinely unusual: scary eyes from bad eyesight misread as a delinquent, tomboy speech with \"ze\" endings, extreme hardcore idol-fan mode (blades at concerts, legendary DVD collection on Nico's tier), bright red hair with a deliberate outsider aesthetic, hidden piano and composing talent. The tsundere-delinquent archetype is recognizable, but the extreme-idol-fan plus tomboy-speech plus scary-eyes combination is its own thing. Reddit put it well — her very existence is worldbuilding.",
+          "ja": "程よく個性的。その組み合わせが本当に珍しい：視力が悪いせいで不良に見える怖い目、「ぜ」語尾のトムボーイな話し方、ガチすぎるアイドルファンモード（コンサートでのブレード振り、ニコと並ぶ伝説のDVDコレクション）、意図的なアウトサイダー美学を持つ真っ赤な髪、隠れたピアノと作曲の才能。ツンデレ不良のアーキタイプは見覚えがあるけど、極端なアイドルファン＋トムボーイ口調＋怖い目の組み合わせは独自のもの。Redditが言ったように——彼女の存在そのものがワールドビルディング。",
+          "id": "Cukup distinktif. Kombinasinya beneran tidak biasa: mata serem dari mata minus yang disalah baca sebagai preman, cara ngomong tomboy dengan akhiran \"ze\", mode hardcore idol fan yang ekstrem (blade di konser, koleksi DVD legendaris setingkat Nico), rambut merah terang dengan estetika outsider yang disengaja, bakat piano dan komposisi yang tersembunyi. Arketipe tsundere-preman itu familiar, tapi kombinasi extreme idol fan + tomboy speech + scary eyes itu jadi sesuatu yang unik sendiri. Reddit bilang dengan tepat — keberadaannya itu sendiri udah worldbuilding."
+        }
+      },
+      "N": {
+        "score": -3,
+        "reason": {
+          "en": "Moderate S. Se-aux keeps her grounded in the physical present — tsundere outbursts, ready-to-fight energy, concrete fandom artifacts (blades, DVDs), piano as an embodied skill, catlike physical demeanor, reactive speech patterns. Some tertiary-Ni shows up in her pattern-recognition capacity: she reads Shiki's emotional needs across years, spots Kinako's self-doubt, and identifies Shiki's center-potential despite her avoidance. But there's no abstract visionary content anywhere. Solidly sensing-dominant.",
+          "ja": "程よいS。Se-auxが彼女を物理的な今に根ざしてくれてる——ツンデレの爆発、すぐに戦いに臨む気迫、具体的なファン活動のアーティファクト（ブレード、DVD）、身体的スキルとしてのピアノ、猫のような物理的な立ち居振る舞い、反応的な話し方。Ni三次機能はパターン認識の能力として少し見える：志希の感情的なニーズを数年越しで読む、きなこの自己不信に気づく、志希がスポットライトを避けているにもかかわらずセンターの可能性を見抜く。ただし抽象的なビジョン的な要素はどこにもない。しっかりSensing優位。",
+          "id": "S yang moderat. Se-aux bikin dia tetap melekat di momen fisik sekarang — ledakan tsundere, energi siap berantem, artefak fandom yang konkret (blade, DVD), piano sebagai skill yang dirasakan lewat tubuh, gerak-gerik ala kucing, pola bicara yang reaktif. Tertiary-Ni muncul sedikit dalam kapasitas pattern recognition: dia baca kebutuhan emosional Shiki selama bertahun-tahun, ngeh sama keraguan diri Kinako, dan liat potensi center Shiki meski Shiki sendiri menghindarinya. Tapi nggak ada konten visioner yang abstrak sama sekali. Solidly sensing-dominant."
+        }
+      }
+    }
+  }
+}

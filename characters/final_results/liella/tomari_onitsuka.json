@@ -1,0 +1,95 @@
+{
+  "color": "#76dde9",
+  "name": {
+    "en": "Tomari Onitsuka",
+    "ja": "鬼塚冬毬",
+    "id": "Tomari Onitsuka"
+  },
+  "desc": {
+    "en": "Tomari is Natsumi's younger sister and a first-year member of Liella! with a natural gift for dancing that's good enough to impress even Margarete on day one. Efficiency is her entire operating system — she keeps her self-introduction deliberately short, skips practice when she doesn't see the point, and views school idol activities the same way her sister does: as a potential income stream. She comes off as aloof and calculating, but there's genuine warmth underneath, especially when it comes to the people she's decided are worth her time.",
+    "ja": "冬毬はなつみの妹で、Liella!の1年生メンバー。初日からマルガレーテを唸らせるほどのダンスの才能を持って生まれた子。「効率」が彼女の根本にあって、自己紹介はわざと短く切り上げるし、意味を見出せない練習には顔を出さないし、スクールアイドル活動も姉と同じく家族の収入源として捉えてる。傍目には冷たくて計算高く映るけど、大切だと認めた人には本物の優しさを持っている。",
+    "id": "Tomari adalah adik dari Natsumi, anggota first-year Liella! yang punya bakat menari alami — cukup bagus untuk langsung bikin Margarete terkesan dari hari pertama. Efisiensi itu semacam sistem operasinya: perkenalan diri sengaja dipotong singkat, nggak dateng latihan kalau nggak ada gunanya, dan lihat kegiatan school idol sama kayak kakaknya — potensi pemasukan buat keluarga. Dia keliatan dingin dan kalkulatif, tapi di balik itu ada kehangatan yang asli, terutama buat orang-orang yang udah dia putuskan layak dapat perhatiannya."
+  },
+  "mbti": {
+    "type": "ISTJ",
+    "reason": {
+      "en": "ISTJ with a clear fan vote majority (22 vs 9 ESTJ, ~71%) — and the only real debate was E vs I since both sides agree on the Te-Si stack. The introvert case wins easily. Her baseline is aloof and minimal: self-introduction cut short on purpose ('I'm not good at doing useless things, so I'll keep it brief'), skips group practice without a clear utility, jellyfish pets as a solitary hobby, cold-calculating-distant as a default. The Si shows up in how she reasons about Natsumi — she observes her sister's specific shift from money-chaser to someone who genuinely loves being an idol, and uses that concrete data point to update her own approach. That's Si-past-experience-evaluation driving the decision. Te filters everything through utility ('I'm bad at baseless things'), Ti-tertiary shows up as the analytical efficiency underneath, and Fi-tertiary gives her the quiet warmth she rarely advertises. She's the closest parallel to Shioriko from Nijigasaki — same cold-pragmatic-ISTJ energy, same 'do things with clear utility' filter, same initial resistance to idol activities based on perceived uselessness, same eventual integration through firsthand experience. The difference is origin: Shioriko's utility framework came from within; Tomari's was inherited straight from Natsumi's money-path as received family wisdom.",
+      "ja": "タイプはISTJ。ファン投票でも明確な多数派（ISTJ 22票 vs ESTJ 9票、約71%）で、実質的な議論はE/Iだけ——Te-Siスタック自体は両陣営とも同意してる。内向き（I）の根拠の方がずっと強い。彼女のベースラインは「最小限・距離あり」——自己紹介を意図的に切り上げる（「余計なことが苦手なので手短に」）、メリットのない練習には来ない、ひとりの趣味としてクラゲを飼っている、デフォルトが冷静・計算高・距離感あり。Siの動き方は、なつみの観察の仕方によく表れてる——姉が「お金儲け優先」から「アイドルを心から楽しんでいる」に変わる具体的な変化を観察して、それを根拠に自分のアプローチを更新している。過去の具体的な経験をデータとして使うSi的な意思決定。Teはすべてを実用フィルターで通す（「根拠のないことは苦手」）、第三機能Tiが分析的効率の下支えになっていて、第三機能Fiが彼女の普段は見せない静かな優しさを作ってる。にじがさきのしおりこと最も近い比較対象——同じ冷静・実用型ISTJのエネルギー、同じ「意味のあることしかやらない」フィルター、同じ「スクールアイドルって意味あるの？」という初期抵抗、同じ「実際にやってみて理解した」という最終的な統合。違いは出所だけ——しおりこの実用主義は自分の哲学として自分の中から来てる。冬毬のそれはなつみの「お金の道」から受け継いだ、いわば家族からの知恵として届いたもの。",
+      "id": "ISTJ dengan mayoritas voting yang jelas (22 vs 9 ESTJ, ~71%) — dan satu-satunya perdebatan nyata cuma soal E vs I, karena kedua pihak setuju pada stack Te-Si. Argumen introvert menang dengan mudah. Baseline-nya memang aloof dan minimalis: perkenalan sengaja dipotong singkat ('Aku nggak pandai hal yang nggak jelas gunanya, jadi singkat aja'), nggak dateng latihan kalau nggak ada manfaatnya, hobi soliter merawat ubur-ubur, default-nya dingin dan kalkulatif. Si-nya keliatan dari cara dia memproses perubahan Natsumi — dia amatin pergeseran konkret kakaknya, dari yang murni ngejar duit ke seseorang yang beneran menikmati jadi idol, lalu jadiin itu data untuk memperbarui pendekatannya sendiri. Itu Si-evaluation-berbasis-pengalaman-konkret yang mendorong keputusan. Te menyaring segalanya lewat utilitas ('aku buruk di hal yang nggak berdasar'), Ti tersier jadi fondasi di bawah analitika efisiensinya, dan Fi tersier yang bikin kehangatan diam-diam yang jarang dia pamerkan. Bandingan paling dekatnya itu Shioriko dari Nijigasaki — energi ISTJ dingin-pragmatis yang sama, filter 'kerjain yang jelas gunanya' yang sama, resistensi awal yang sama ke kegiatan idol karena dianggap nggak berguna, integrasi akhir yang sama lewat pengalaman langsung. Bedanya cuma soal asal-usul: framework utilitas Shioriko lahir dari dalam dirinya sendiri; punya Tomari diwarisi langsung dari 'jalur uang' Natsumi sebagai kebijaksanaan keluarga."
+    },
+    "traits": {
+      "E": {
+        "score": -4,
+        "reason": {
+          "en": "Strong introvert. Her self-introduction is built to end fast — 'I'm not good at doing useless things, so I'll keep it brief' is not small talk, it's an exit strategy. She skips practice when there's nothing to gain, keeps jellyfish as pets, and runs on a cold-calculating-distant default. She'll engage Margarete confrontationally when the situation requires it, but that's a functional response, not extroverted social energy.",
+          "ja": "しっかりI。自己紹介はさっさと終わらせるために設計されている——「余計なことが苦手なので手短に」はアイスブレイクじゃなく撤退戦略。得るものがなければ練習に来ないし、趣味はクラゲ飼育（一人でできる）、デフォルトは冷静・計算高・距離感あり。必要な場面ではマルガレーテと真正面から対峙するけど、それは状況への機能的な反応であって、外向きのエネルギーじゃない。",
+          "id": "Introvert yang kuat. Perkenalan dirinya memang didesain supaya bisa cepet selesai — 'Aku nggak pandai hal yang nggak berguna, jadi singkat aja' itu bukan basa-basi, itu strategi kabur. Nggak dateng latihan kalau nggak ada yang didapat, hobi merawat ubur-ubur di rumah, dan default-nya memang dingin dan menjaga jarak. Dia bisa berhadapan langsung sama Margarete kalau situasinya memang menuntut, tapi itu respons fungsional, bukan energi sosial ekstrovert."
+        }
+      },
+      "J": {
+        "score": 6,
+        "reason": {
+          "en": "Strong J. Efficiency is her stated core talent, she takes a methodical structured approach to everything she does engage with, and her 'maximize synergy with the members' framing in her very first introduction is J-speak through and through. Not maximum because her J-discipline is selective — she opts out of practice when she doesn't see the value, which distinguishes her from the strict-executor ISTJs who grind regardless.",
+          "ja": "しっかりJ。「効率」を自分の強みとして明言しているし、関わると決めたことに対しては徹底した方法論的アプローチを取る。初回の自己紹介でいきなり「メンバーとのシナジーを最大化する」って言えるのは完全にJ的な発想。最高値じゃないのは、Jの規律が選択的だから——意味を見出せない練習は切る。それが、結果に関わらずコツコツやり続けるタイプの厳格J実行型と彼女を区別する部分。",
+          "id": "J yang kuat. Efisiensi disebutnya sendiri sebagai kekuatan utamanya, dia punya pendekatan metodis yang terstruktur untuk semua hal yang memang dia pilih untuk terlibat, dan framing 'memaksimalkan sinergi dengan member' di perkenalan pertamanya itu bahasa J banget. Nggak nyampe maximum karena J-nya selektif — dia cut latihan yang nggak dia lihat nilainya, dan itu yang bedain dia dari ISTJ tipe eksekutor ketat yang tetap grinding apapun hasilnya."
+        }
+      },
+      "T": {
+        "score": 5,
+        "reason": {
+          "en": "Strong T. She's called 'the most logical out of the members,' described as organized and analytical, and her core self-descriptor is efficiency. Everything runs through a utility filter: if there's no clear return, she's not interested. Fi-tertiary softens the edges — she's described as 'kind' underneath, and the warmth she shows to Natsumi and Margarete is real — but the default delivery is stiff, calculating, and easy to misread.",
+          "ja": "しっかりT。「メンバーで一番論理的」と評され、性格描写は「整理されていて分析的」、自己定義の軸は「効率」。すべてが実用フィルターを通る——明確なリターンがなければ興味を示さない。第三機能Fiが角を取っていて（「根っこは優しい」という描写、なつみやマルガレーテへの本物の温かさ）、でも表面の出力はぶっきらぼうで計算高くて誤解されやすい。",
+          "id": "T yang kuat. Dia disebut sebagai 'yang paling logis di antara member', dideskripsikan sebagai terorganisir dan analitis, dan deskriptor utama yang dia pakai buat dirinya sendiri adalah efisiensi. Semuanya difilter lewat utilitas: kalau nggak ada keuntungan jelas, dia nggak tertarik. Fi tersier yang ngejaga supaya nggak terlalu tajam — dia dideskripsikan 'baik' di dalamnya, dan kehangatan yang dia tunjukkan ke Natsumi dan Margarete itu asli — tapi cara penyampaian defaultnya tetap kaku, kalkulatif, dan gampang disalahpahami."
+        }
+      },
+      "C": {
+        "score": 3,
+        "reason": {
+          "en": "Net positive through competence-based confidence. She doesn't need to show up to every practice because she's already good enough to keep up with Margarete, and she knows it — that's a self-assured call, not laziness. She's unflinching in direct confrontations too. But her entire framework was inherited from Natsumi's money-path rather than built from within, which means her identity has a dependency on her sister's example baked into it. Confident where she can measure herself; less so at the foundation.",
+          "ja": "能力ベースの自信を通じてネット・ポジティブ。毎回練習に来なくていいと判断できるのは、自分がすでにマルガレーテについていける実力があることを分かってるから——それは自信の表れであって怠慢じゃない。直接の対立でも動じない。ただ、彼女の人生観の枠組みはなつみの「お金の道」を受け継いだもので、自分の中から構築したものじゃない。それは、アイデンティティが姉の生き方への依存を内包していることを意味する。測定できる能力の域では自信がある。土台のところではそうじゃない。",
+          "id": "Net positif lewat kepercayaan diri berbasis kompetensi. Dia nggak perlu hadir di setiap latihan karena dia tahu dirinya udah cukup bagus untuk ngikutin Margarete — itu keputusan yang percaya diri, bukan kemalasan. Pas konfrontasi langsung pun dia nggak goyah. Tapi keseluruhan framework hidupnya diwarisi dari 'jalur uang' Natsumi, bukan dibangun dari dalam dirinya sendiri, yang artinya identitasnya punya ketergantungan bawaan ke contoh hidup kakaknya. Pede di area yang bisa dia ukur; kurang kokoh di pondasinya."
+        }
+      },
+      "M": {
+        "score": 4,
+        "reason": {
+          "en": "Moderate, and earned. She joined Margarete's unit with strategic intent, eventually commits to Liella with real dedication, and proves herself against a famously harsh standard. But her initial motivation was borrowed — it came from Natsumi's money-path rather than her own self-originated drive — and she'll skip practice when she doesn't see the point. The ambition is pragmatic self-interest rather than competitive dominance, which gives it a ceiling.",
+          "ja": "中程度、ただし本物。マルガレーテのユニットには戦略的な意図を持って加入し、最終的にはLiella!に本気でコミットして、厳しいことで有名なマルガレーテの基準で自分を証明した。でも最初の動機は借り物だった——自分の中から生まれたものじゃなく、なつみの「お金の道」から来たもの。意味を見出せない練習はカットする。野心は実用的な自己利益であって競争的な支配欲ではなく、それが天井を作る。",
+          "id": "Sedang, dan itu hasil usaha. Dia gabung unit Margarete dengan niat yang jelas, akhirnya berkomitmen ke Liella dengan sungguh-sungguh, dan membuktikan dirinya dengan standar yang notorius ketat. Tapi motivasi awalnya adalah pinjaman — datang dari jalur uang Natsumi, bukan dorongan yang lahir dari dirinya sendiri — dan dia tetap akan skip latihan kalau nggak ada poinnya. Ambisinya lebih ke kepentingan diri yang pragmatis daripada dominasi kompetitif, dan itu yang bikin ada batasnya."
+        }
+      },
+      "O": {
+        "score": 1,
+        "reason": {
+          "en": "Slight positive. She adapts when shown clear utility, gradually finds genuine enjoyment in activities she initially dismissed, and her arc across Season 3 is one of earned warmth. But the baseline leans anxious in a Te-Si way — she needs clear utility before acting, reflexively rejects 'baseless' things, and started out skeptical that Natsumi would succeed at all. The resilience is functional, not breezy.",
+          "ja": "わずかにポジティブ。明確な実用性を示されれば適応するし、最初は切り捨てた活動に本物の楽しさを見出していき、3期を通じたアークは勝ち取った温かさの物語。ただベースラインはTe-Si的な不安寄り——行動前に明確な実用性が必要で、「根拠のないこと」は反射的に拒否し、なつみがアイドルとして成功するかどうか最初は疑っていた。立ち直り方は機能的で、軽やかではない。",
+          "id": "Sedikit positif. Dia mau beradaptasi kalau diperlihatkan kegunaan yang jelas, pelan-pelan nemu kesenangan asli dari aktivitas yang awalnya dia anggap remeh, dan arc-nya di Season 3 adalah tentang kehangatan yang diraih perlahan. Tapi baseline-nya agak cenderung anxious ala Te-Si — perlu kegunaan yang jelas sebelum bertindak, refleks menolak hal-hal yang 'nggak berdasar', dan awalnya skeptis bahwa Natsumi bakal berhasil sama sekali. Ketahanannya fungsional, bukan yang santai-santai aja."
+        }
+      },
+      "A": {
+        "score": 2,
+        "reason": {
+          "en": "Slight positive. The 'kind' underneath is real — she holds deep respect for Natsumi, asked for Kanon's ribbon at graduation in a quietly sentimental gesture, and warms up genuinely to Margarete through shared pragmatism and training. But the default presentation is aloof, transactional, and easy to misread as cold. The warmth is bounded: it shows up for a small circle of people she's decided are worth it, and it takes time.",
+          "ja": "わずかにポジティブ。「根っこの優しさ」は本物——なつみへの深い敬意があるし、卒業式でかのんのリボンをもらうという静かに感情的なジェスチャーを見せたし、共通した実用主義と訓練を通じてマルガレーテに本物の温かさを向けるようになった。でもデフォルトの見え方は距離感があって、取引的で、冷たいと誤解されやすい。温かさには範囲がある——価値があると判断した少人数の相手に対して、時間をかけて顔を出す。",
+          "id": "Sedikit positif. 'Baik di dalamnya' itu nyata — dia punya rasa hormat yang dalam ke Natsumi, minta pita Kanon di hari kelulusan dengan cara yang diam-diam sentimental, dan beneran hangat ke Margarete lewat pragmatisme yang sama dan latihan bersama. Tapi tampilan defaultnya aloof, transaksional, dan gampang dikira dingin. Kehangatan itu ada batasannya: muncul untuk lingkaran kecil orang yang sudah dia putuskan layak dapat perhatiannya, dan butuh waktu untuk sampai ke sana."
+        }
+      },
+      "U": {
+        "score": 1,
+        "reason": {
+          "en": "Mild positive. The specifics are genuinely distinctive: jellyfish as pets, natural first-year dancer-prodigy, random use of English, and a cold-pragmatic-younger-sister dynamic with a very specific family money-obsession twist. But the underlying archetype — stoic, logical, efficient first-year — is well-worn territory in the franchise. Limited screen time (one season only) means there wasn't much runway to develop further particularity.",
+          "ja": "わずかにポジティブ。固有の詳細は本物の個性を持ってる——ペットとしてのクラゲ、天才型の1年生ダンサー、唐突な英語使用、そして家族の「お金執着」に独特のひねりが加わった冷静・実用的な妹気質。ただ根底にあるアーキタイプ——寡黙・論理的・効率重視の1年生——はフランチャイズではすでに使い込まれた枠。出番が1シーズンだけというのは、さらなる固有性を育てる余裕がなかったことを意味する。",
+          "id": "Sedikit positif. Detailnya memang punya ciri khas yang asli: ubur-ubur sebagai peliharaan, first-year yang bakat menarinya natural dari lahir, tiba-tiba pakai bahasa Inggris, dan dinamika adik yang dingin-pragmatis dengan twist obsesi uang keluarga yang spesifik banget. Tapi arketip dasarnya — first-year yang pendiam, logis, efisien — itu sudah cukup familiar di franchise ini. Screen time yang terbatas (satu season aja) bikin nggak banyak ruang untuk mengembangkan kekhasan lebih jauh."
+        }
+      },
+      "N": {
+        "score": -4,
+        "reason": {
+          "en": "Strongly S. She reasons from Natsumi's specific observed behavior change, not from abstract principles — that's Si-concrete-past-experience doing the work. Efficiency means concrete outcomes for her, not abstract optimization. She has natural physical dancing ability (Se-tertiary competence), and her resistance to idol activities was specifically about not seeing the concrete utility, not any failure of imagination. No future-vision content, no abstract-possibility generation. Classic Si-dominant.",
+          "ja": "しっかりS。なつみの具体的に観察された行動変化から推論する——抽象的な原則からではなく。それがSi-具体的-過去経験の動き方。彼女にとって効率とは具体的な結果を意味し、抽象的な最適化ではない。生まれつきの身体的なダンス能力（Se第三機能的な資質）を持ち、アイドル活動への抵抗はまさに具体的な実用性が見えなかったから——発想力の欠如ではない。未来ビジョンのコンテンツなし、抽象的な可能性の生成なし。典型的なSi優位型。",
+          "id": "S yang kuat. Dia bernalar dari perubahan perilaku konkret yang dia amatin dari Natsumi, bukan dari prinsip-prinsip abstrak — itu Si-konkret-pengalaman-masa-lalu yang bekerja. Efisiensi buat dia berarti hasil yang konkret, bukan optimisasi yang abstrak. Dia punya kemampuan menari fisik yang alami (kompetensi Se tersier), dan resistensinya ke kegiatan idol memang spesifik karena nggak lihat utilitas konkretnya — bukan karena kekurangan imajinasi. Nggak ada konten visi masa depan, nggak ada generasi kemungkinan abstrak. Classic Si-dominant."
+        }
+      }
+    }
+  }
+}

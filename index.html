@@ -29,6 +29,9 @@
     <script src="data/locales.js"></script>
     <script src="data/nijigasaki.js"></script>
     <script src="data/hasunosora.js"></script>
+    <script src="data/aqours.js"></script>
+    <script src="data/muse.js"></script>
+    <script src="data/liella.js"></script>
     <script src="data/characters.js"></script>
     <script src="data/questions.js"></script>
     <script type="text/babel">
@@ -234,7 +237,7 @@ function App() {
   const [lang, setLang] = useState('en');
   const [isDark, setIsDark] = useState(false);
   const [isExporting, setIsExporting] = useState(false);
-  const [selectedGroups, setSelectedGroups] = useState({ nijigasaki: true, hasunosora: true });
+  const [selectedGroups, setSelectedGroups] = useState({ nijigasaki: true, hasunosora: true, aqours: true, muse: true, liella: true });
   const [showGroups, setShowGroups] = useState(false);
   const [detailsChar, setDetailsChar] = useState(null);
   const [showSkipConfirm, setShowSkipConfirm] = useState(false);
@@ -414,6 +417,9 @@ function App() {
     const groups = [
       { key: 'nijigasaki', label: T[lang].groupNijigasaki },
       { key: 'hasunosora', label: T[lang].groupHasunosora },
+      { key: 'aqours', label: T[lang].groupAqours },
+      { key: 'muse', label: T[lang].groupMuse },
+      { key: 'liella', label: T[lang].groupLiella },
     ];
     return (
       <div className="fixed inset-0 z-50 flex items-center justify-center p-4 bg-slate-900/40 dark:bg-black/60 backdrop-blur-sm">
@@ -551,7 +557,7 @@ function App() {
         <Icon name="info" size={16} /> <span className="hidden md:inline">Readme</span>
       </button>
       <button onClick={() => setShowGroups(true)} className="bg-white/80 dark:bg-slate-800/80 backdrop-blur-md border border-slate-200 dark:border-slate-700 text-slate-600 dark:text-slate-300 w-10 h-10 md:w-auto md:h-auto md:px-4 md:py-2 rounded-full text-sm font-bold shadow-sm hover:shadow hover:bg-white dark:hover:bg-slate-700 hover:text-yellow-500 transition-all flex items-center justify-center gap-2">
-        <Icon name="star-filled" size={16} /> <span className="hidden md:inline">{Object.entries(selectedGroups).filter(([,v])=>v).length < 2 ? (selectedGroups.nijigasaki ? T[lang].groupNijigasaki : T[lang].groupHasunosora) : 'Groups'}</span>
+        <Icon name="star-filled" size={16} /> <span className="hidden md:inline">{(() => { const on = Object.entries(selectedGroups).filter(([,v])=>v); return on.length === 1 ? T[lang]['group'+on[0][0].charAt(0).toUpperCase()+on[0][0].slice(1)] : 'Groups'; })()}</span>
       </button>
       <button onClick={toggleLang} className="bg-white/80 dark:bg-slate-800/80 backdrop-blur-md border border-slate-200 dark:border-slate-700 text-slate-600 dark:text-slate-300 w-10 h-10 md:w-auto md:h-auto md:px-4 md:py-2 rounded-full text-sm font-bold shadow-sm hover:shadow hover:bg-white dark:hover:bg-slate-700 hover:text-orange-500 transition-all flex items-center justify-center gap-2 uppercase">
         <span className="text-lg leading-none">{lang === 'en' ? '🇬🇧' : lang === 'id' ? '🇮🇩' : '🇯🇵'}</span> <span className="hidden md:inline">{lang}</span>
